@@ -8,7 +8,7 @@ Minneapolis Public School District,Barton Open Elementary,Hennepin,624,0.0144231
 Minneapolis Public School District,Bethune Elementary,Hennepin,298,0.0134228,0.0268456,0.0402685,0.0536913,0.0838926,0.0973154,0.110738
 Minneapolis Public School District,Burroughs Elementary,Hennepin,670,0.00597015,0.0119403,0.0253731,0.0313433,0.0373134,0.0432836,0.0492537
 Minneapolis Public School District,Field Community,Hennepin,467,0.00856531,0.0171306,0.0256959,0.0342612,0.0535332,0.0620985,0.0706638
-Minneapolis Public School District,Lake Harriet Upper School,Hennepin,566,0.00706714,0.0141343,0.0212014,0.0282686,0.0441696,0.0512367,0.0583039
+Minneapolis Public School District,Lake Harriet Upper School,Hennepin,566,0.00706714,0.0141343,0.0212014,0.0282686,0.0441696,0.0600707,0.0671378
 Minneapolis Public School District,Hale Elementary,Hennepin,584,0.00684932,0.0136986,0.0205479,0.0273973,0.0342466,0.0410959,0.0479452
 Minneapolis Public School District,Hiawatha Elementary,Hennepin,220,0.0181818,0.0363636,0.0545455,0.0727273,0.0909091,0.109091,0.127273
 Minneapolis Public School District,Howe Elementary,Hennepin,211,0.0189573,0.0379147,0.056872,0.0758294,0.0947867,0.113744,0.132701
@@ -20,13 +20,13 @@ Minneapolis Public School District,Lyndale Elementary,Hennepin,471,0.00849257,0.
 Minneapolis Public School District,Jenny Lind Elementary,Hennepin,326,0.0122699,0.0245399,0.0368098,0.0490798,0.0613497,0.0736196,0.0858896
 Minneapolis Public School District,Northrop Elementary,Hennepin,447,0.00894855,0.0178971,0.0268456,0.0357942,0.0447427,0.0536913,0.0626398
 Minneapolis Public School District,Pillsbury Elementary,Hennepin,252,0.015873,0.031746,0.047619,0.0634921,0.0793651,0.154762,0.170635
-Minneapolis Public School District,Pratt Elementary,Hennepin,270,0.0148148,0.0296296,0.062963,0.0777778,0.148148,0.218519,0.233333
+Minneapolis Public School District,Pratt Elementary,Hennepin,270,0.0148148,0.0296296,0.062963,0.0777778,0.148148,0.162963,0.177778
 Minneapolis Public School District,Seward Elementary,Hennepin,793,0.00504414,0.0100883,0.0214376,0.0264817,0.0315259,0.03657,0.0416141
 Minneapolis Public School District,Sheridan Elementary,Hennepin,263,0.0152091,0.0304183,0.0646388,0.0798479,0.095057,0.110266,0.125475
-Minneapolis Public School District,Waite Park Elementary,Hennepin,355,0.0112676,0.0225352,0.0338028,0.0450704,0.056338,0.0676056,0.0788732
+Minneapolis Public School District,Waite Park Elementary,Hennepin,355,0.0112676,0.0225352,0.0338028,0.0450704,0.056338,0.0816901,0.0929577
 Minneapolis Public School District,Lake Nokomis Comm-Wenonah Campus,Hennepin,248,0.016129,0.0322581,0.0483871,0.0645161,0.0806452,0.0967742,0.112903
 Minneapolis Public School District,Windom School,Hennepin,509,0.00785855,0.0255403,0.0333988,0.0412574,0.0491159,0.0569745,0.064833
-Minneapolis Public School District,Folwell Arts Magnet,Hennepin,731,0.00547196,0.0109439,0.0164159,0.0218878,0.0273598,0.0328317,0.0383037
+Minneapolis Public School District,Folwell Arts Magnet,Hennepin,731,0.00547196,0.0109439,0.0164159,0.0218878,0.0273598,0.0328317,0.0451436
 Minneapolis Public School District,Jefferson Elementary,Hennepin,403,0.0223325,0.0322581,0.0421836,0.0521092,0.0620347,0.0719603,0.0818859
 Minneapolis Public School District,Dowling Elementary,Hennepin,462,0.00865801,0.0281385,0.0367965,0.0454545,0.0541126,0.0627706,0.0714286
 Minneapolis Public School District,ECSE,Hennepin,419,0.00954654,0.0190931,0.0286396,0.0381862,0.0477327,0.0572792,0.0668258
@@ -48,7 +48,7 @@ Minneapolis Public School District,Anthony Middle School,Hennepin,693,0.00577201
 Minneapolis Public School District,Anwatin Middle Com & Spanish D I,Hennepin,548,0.00729927,0.0145985,0.0218978,0.0291971,0.0364964,0.0437956,0.0510949
 Minneapolis Public School District,Northeast Middle,Hennepin,455,0.00879121,0.0175824,0.0263736,0.0351648,0.043956,0.0527473,0.0615385
 Minneapolis Public School District,Olson Middle,Hennepin,390,0.0102564,0.0205128,0.0307692,0.0410256,0.0512821,0.0615385,0.0717949
-Minneapolis Public School District,Justice Page Middle School,Hennepin,799,0.00500626,0.0100125,0.0212766,0.0262829,0.0312891,0.0362954,0.0413016
+Minneapolis Public School District,Justice Page Middle School,Hennepin,799,0.00500626,0.0100125,0.0212766,0.0262829,0.0312891,0.0362954,0.0475594
 Minneapolis Public School District,Sanford Middle,Hennepin,933,0.0096463,0.0139335,0.0235798,0.0278671,0.0321543,0.0364416,0.0407288
 Minneapolis Public School District,Franklin Middle School,Hennepin,326,0.0122699,0.0245399,0.0368098,0.0490798,0.0613497,0.0736196,0.0858896
 Minneapolis Public School District,FAIR Senior High,Hennepin,284,0.0140845,0.028169,0.0422535,0.056338,0.0704225,0.084507,0.0985915
@@ -59,10 +59,10 @@ Minneapolis Public School District,Longfellow Alternative,Hennepin,74,0.0540541,
 Minneapolis Public School District,Henry Senior High,Hennepin,949,0.00421496,0.00842993,0.0126449,0.0168599,0.0210748,0.0252898,0.0295047
 Minneapolis Public School District,Plymouth Youth Center,Hennepin,123,0.0325203,0.0650407,0.097561,0.130081,0.162602,0.195122,0.227642
 Minneapolis Public School District,Roosevelt Senior High,Hennepin,957,0.00417973,0.00835946,0.0125392,0.0167189,0.0208986,0.0250784,0.0292581
-Minneapolis Public School District,South Senior High,Hennepin,1644,0.00243309,0.00486618,0.0103406,0.0127737,0.0152068,0.0176399,0.020073
+Minneapolis Public School District,South Senior High,Hennepin,1644,0.00243309,0.00486618,0.0103406,0.0127737,0.0152068,0.0206813,0.0231144
 Minneapolis Public School District,Wellstone International High,Hennepin,132,0.030303,0.0606061,0.0909091,0.121212,0.151515,0.181818,0.212121
 Minneapolis Public School District,Southwest Senior High,Hennepin,1918,0.00208551,0.00417101,0.00625652,0.00834202,0.0104275,0.012513,0.0145985
-Minneapolis Public School District,Washburn Senior High,Hennepin,1690,0.00236686,0.00769231,0.0100592,0.012426,0.0147929,0.0201183,0.0224852
+Minneapolis Public School District,Washburn Senior High,Hennepin,1690,0.00236686,0.00769231,0.0100592,0.012426,0.0147929,0.0201183,0.0313609
 Minneapolis Public School District,Menlo Park Academy,Hennepin,54,0.0740741,0.148148,0.222222,0.296296,0.37037,0.444444,0.518519
 Minneapolis Public School District,North Community Senior High,Hennepin,402,0.00995025,0.0323383,0.0422886,0.0522388,0.0621891,0.0721393,0.0820896
 Minneapolis Public School District,Transition Plus Services,Hennepin,234,0.017094,0.034188,0.0512821,0.0683761,0.0854701,0.102564,0.119658
@@ -76,46 +76,46 @@ Hill City Public School District,Hill City Senior High,Aitkin,83,0.0481928,0.096
 McGregor Public School District,McGregor Elementary,Aitkin,213,0.0187793,0.0375587,0.056338,0.0751174,0.0938967,0.112676,0.131455
 McGregor Public School District,McGregor Secondary,Aitkin,198,0.020202,0.040404,0.0606061,0.0808081,0.10101,0.121212,0.217172
 South St. Paul Public School District,South St. Paul Middle School,Dakota,732,0.00546448,0.010929,0.0163934,0.0286885,0.034153,0.0464481,0.0519126
-South St. Paul Public School District,South St. Paul High School,Dakota,896,0.00446429,0.00892857,0.0133929,0.0178571,0.0279018,0.0323661,0.0368304
+South St. Paul Public School District,South St. Paul High School,Dakota,896,0.00446429,0.00892857,0.0133929,0.0178571,0.0279018,0.0379464,0.0479911
 South St. Paul Public School District,S St. Paul Community Lrng. Cntr.,Dakota,96,0.0416667,0.0833333,0.125,0.166667,0.208333,0.25,0.291667
-South St. Paul Public School District,Lincoln Center Elementary,Dakota,738,0.00542005,0.0311653,0.0433604,0.0487805,0.0609756,0.0663957,0.0718157
-South St. Paul Public School District,Kaposia Education Center Elementary,Dakota,676,0.00591716,0.0118343,0.0177515,0.0236686,0.0295858,0.035503,0.0414201
-Anoka-Hennepin Public School District,Anoka High School,Anoka,2272,0.00396127,0.0123239,0.0206866,0.0246479,0.0330106,0.0413732,0.0431338
-Anoka-Hennepin Public School District,Coon Rapids High School,Anoka,2332,0.00385935,0.0077187,0.00943396,0.0132933,0.0171527,0.0188679,0.0205832
-Anoka-Hennepin Public School District,Anoka Middle School For The Arts,Anoka,1750,0.00228571,0.0131429,0.024,0.0262857,0.0285714,0.0308571,0.0331429
-Anoka-Hennepin Public School District,Coon Rapids Middle School,Anoka,1521,0.00262985,0.00854701,0.0144642,0.017094,0.0230112,0.025641,0.0282709
+South St. Paul Public School District,Lincoln Center Elementary,Dakota,738,0.00542005,0.0311653,0.0433604,0.0487805,0.0609756,0.0731707,0.0853659
+South St. Paul Public School District,Kaposia Education Center Elementary,Dakota,676,0.00591716,0.0118343,0.0177515,0.0236686,0.0295858,0.035503,0.0488166
+Anoka-Hennepin Public School District,Anoka High School,Anoka,2272,0.00396127,0.0123239,0.0206866,0.0246479,0.0330106,0.0413732,0.0453345
+Anoka-Hennepin Public School District,Coon Rapids High School,Anoka,2332,0.00385935,0.0077187,0.00943396,0.0132933,0.0214408,0.0253002,0.0291595
+Anoka-Hennepin Public School District,Anoka Middle School For The Arts,Anoka,1750,0.00228571,0.0131429,0.024,0.0291429,0.04,0.0451429,0.0474286
+Anoka-Hennepin Public School District,Coon Rapids Middle School,Anoka,1521,0.00262985,0.00854701,0.0144642,0.017094,0.0295858,0.035503,0.0414201
 Anoka-Hennepin Public School District,Jackson Middle,Hennepin,1947,0.0097586,0.0195172,0.0215716,0.0261941,0.0359527,0.0405752,0.0426297
 Anoka-Hennepin Public School District,Northdale Middle,Anoka,1335,0.00674157,0.0209738,0.0277154,0.0307116,0.0374532,0.0441948,0.047191
-Anoka-Hennepin Public School District,Blaine High School,Anoka,2940,0.00306122,0.00952381,0.0193878,0.022449,0.0255102,0.0268707,0.0282313
-Anoka-Hennepin Public School District,Andover High School,Anoka,1679,0.00238237,0.0136986,0.0250149,0.0303752,0.0416915,0.0470518,0.0494342
+Anoka-Hennepin Public School District,Blaine High School,Anoka,2940,0.00306122,0.00952381,0.0193878,0.022449,0.0255102,0.0268707,0.029932
+Anoka-Hennepin Public School District,Andover High School,Anoka,1679,0.00238237,0.0136986,0.0250149,0.0303752,0.0416915,0.0530077,0.0553901
 Anoka-Hennepin Public School District,Anoka-Hennepin Regional High School,Anoka,148,0.027027,0.0540541,0.0810811,0.108108,0.135135,0.162162,0.189189
-Anoka-Hennepin Public School District,Champlin Park High School,Hennepin,2931,0.00648243,0.0129649,0.0160355,0.0225179,0.0290003,0.032071,0.0334357
+Anoka-Hennepin Public School District,Champlin Park High School,Hennepin,2931,0.00648243,0.0129649,0.0160355,0.0225179,0.0290003,0.0354828,0.0368475
 Anoka-Hennepin Public School District,Oak View Middle,Anoka,1233,0.00324412,0.00648824,0.0137875,0.0170316,0.0243309,0.0316302,0.0348743
-Anoka-Hennepin Public School District,Roosevelt Middle,Anoka,825,0.00484848,0.0157576,0.0206061,0.0254545,0.0363636,0.0412121,0.0460606
+Anoka-Hennepin Public School District,Roosevelt Middle,Anoka,825,0.00484848,0.0157576,0.0206061,0.0254545,0.030303,0.0412121,0.0460606
 Anoka-Hennepin Public School District,Secondary Technical Education Program S.T.E.P.,Anoka,59,0.0677966,0.135593,0.20339,0.271186,0.338983,0.40678,0.474576
 Anoka-Hennepin Public School District,Adams Elementary,Anoka,491,0.00814664,0.0264766,0.0346232,0.0427699,0.0610998,0.0692464,0.0773931
 Anoka-Hennepin Public School District,Crooked Lake Elementary,Anoka,401,0.00997506,0.0199501,0.0299252,0.0399002,0.0498753,0.0598504,0.0698254
 Anoka-Hennepin Public School District,Franklin Elementary,Anoka,312,0.0128205,0.025641,0.0384615,0.0512821,0.0801282,0.0929487,0.105769
-Anoka-Hennepin Public School District,Hamilton Elementary,Anoka,383,0.0104439,0.0208877,0.0313316,0.0417755,0.0522193,0.0626632,0.073107
+Anoka-Hennepin Public School District,Hamilton Elementary,Anoka,383,0.0104439,0.0208877,0.0313316,0.0417755,0.0652742,0.075718,0.0861619
 Anoka-Hennepin Public School District,Jefferson Elementary,Anoka,537,0.00744879,0.0148976,0.0502793,0.0577281,0.0651769,0.0726257,0.0800745
-Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,0.00687285,0.0223368,0.0292096,0.0360825,0.0429553,0.0498282,0.056701
+Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,0.00687285,0.0223368,0.0292096,0.0360825,0.0515464,0.0584192,0.0652921
 Anoka-Hennepin Public School District,Lincoln Elementary,Anoka,367,0.0108992,0.0217984,0.0326975,0.0435967,0.0544959,0.0653951,0.0762943
 Anoka-Hennepin Public School District,Madison Elementary,Anoka,393,0.0101781,0.0203562,0.0305344,0.0407125,0.0636132,0.0737913,0.0839695
 Anoka-Hennepin Public School District,McKinley Elementary,Anoka,569,0.00702988,0.0140598,0.0210896,0.0369069,0.0527241,0.0685413,0.0755712
 Anoka-Hennepin Public School District,Mississippi Elementary,Anoka,368,0.0108696,0.0217391,0.0326087,0.0434783,0.0543478,0.0652174,0.076087
 Anoka-Hennepin Public School District,Monroe Elementary,Hennepin,551,0.00725953,0.0145191,0.0217786,0.0381125,0.0453721,0.0526316,0.0598911
-Anoka-Hennepin Public School District,Morris Bye Elementary,Anoka,481,0.00831601,0.016632,0.024948,0.033264,0.0519751,0.0602911,0.0686071
+Anoka-Hennepin Public School District,Morris Bye Elementary,Anoka,481,0.00831601,0.016632,0.024948,0.033264,0.0519751,0.0706861,0.0790021
 Anoka-Hennepin Public School District,Sand Creek Elementary,Anoka,586,0.00682594,0.0136519,0.0204778,0.0273038,0.059727,0.0665529,0.0733788
 Anoka-Hennepin Public School District,University Elementary,Anoka,642,0.0140187,0.0436137,0.0498442,0.0560748,0.0623053,0.0685358,0.0747664
 Anoka-Hennepin Public School District,Wilson Elementary,Anoka,490,0.00816327,0.0163265,0.0244898,0.0326531,0.0408163,0.0489796,0.0571429
 Anoka-Hennepin Public School District,Evergreen Park Elementary,Hennepin,461,0.00867679,0.0173536,0.0260304,0.0347072,0.0433839,0.0520607,0.0607375
 Anoka-Hennepin Public School District,Eisenhower Elementary,Anoka,469,0.00852878,0.0277186,0.0362473,0.0447761,0.0533049,0.0618337,0.0703625
-Anoka-Hennepin Public School District,Ramsey Elementary,Anoka,641,0.00624025,0.0124805,0.0187207,0.024961,0.0312012,0.0374415,0.0436817
+Anoka-Hennepin Public School District,Ramsey Elementary,Anoka,641,0.00624025,0.0124805,0.0187207,0.024961,0.0312012,0.0452418,0.0514821
 Anoka-Hennepin Public School District,Dayton Elementary,Hennepin,511,0.0176125,0.0547945,0.0626223,0.0704501,0.0782779,0.0861057,0.0939335
-Anoka-Hennepin Public School District,Oxbow Creek Elementary,Hennepin,1062,0.00847458,0.0122411,0.0207156,0.0244821,0.0423729,0.0508475,0.0546139
-Anoka-Hennepin Public School District,Andover Elementary,Anoka,1138,0.00790861,0.0246046,0.0325132,0.0404218,0.0571178,0.0650264,0.0685413
+Anoka-Hennepin Public School District,Oxbow Creek Elementary,Hennepin,1062,0.00847458,0.0122411,0.0207156,0.0244821,0.0423729,0.0602637,0.0640301
+Anoka-Hennepin Public School District,Andover Elementary,Anoka,1138,0.00790861,0.0246046,0.0325132,0.0404218,0.0571178,0.0738137,0.0773286
 Anoka-Hennepin Public School District,Rum River Elementary,Anoka,736,0.00543478,0.0108696,0.0163043,0.0285326,0.0339674,0.0394022,0.044837
-Anoka-Hennepin Public School District,Champlin/Brooklyn Park Academy for Math and Environmental Science,Hennepin,738,0.00542005,0.0108401,0.0162602,0.0216802,0.0338753,0.0392954,0.0447154
+Anoka-Hennepin Public School District,Champlin/Brooklyn Park Academy for Math and Environmental Science,Hennepin,738,0.00542005,0.0108401,0.0162602,0.0216802,0.0338753,0.0596206,0.0650407
 Anoka-Hennepin Public School District,Sunrise Elementary,Anoka,996,0.00903614,0.0180723,0.0220884,0.0261044,0.0351406,0.0441767,0.0481928
 Anoka-Hennepin Public School District,Brookside Elementary,Anoka,742,0.00539084,0.0175202,0.0229111,0.0283019,0.0336927,0.0458221,0.0512129
 Anoka-Hennepin Public School District,Anoka-Hennepin Technical High School,Anoka,170,0.0235294,0.0470588,0.0705882,0.0941176,0.117647,0.141176,0.164706
@@ -124,22 +124,22 @@ Anoka-Hennepin Public School District,Early Childhood/Special Education,Anoka,86
 Anoka-Hennepin Public School District,River Trail Learning Center at LO Jacob,Anoka,227,0.0176211,0.0352423,0.0528634,0.0704846,0.0881057,0.105727,0.123348
 Anoka-Hennepin Public School District,Pathways,Anoka,131,0.0305344,0.0610687,0.0916031,0.122137,0.152672,0.183206,0.21374
 Anoka-Hennepin Public School District,STEP Ahead High School,Anoka,141,0.0283688,0.0567376,0.0851064,0.113475,0.141844,0.170213,0.198582
-Centennial Public School District,Centennial High School,Anoka,2006,0.00947159,0.0189432,0.0284148,0.0378863,0.0473579,0.0568295,0.0588235
-Centennial Public School District,Centennial Middle,Anoka,1569,0.00573614,0.0242192,0.0363289,0.0484385,0.0669216,0.0726577,0.0752071
+Centennial Public School District,Centennial High School,Anoka,2006,0.00947159,0.0189432,0.0284148,0.0378863,0.0473579,0.0568295,0.0663011
+Centennial Public School District,Centennial Middle,Anoka,1569,0.00573614,0.0242192,0.0363289,0.0484385,0.0669216,0.0790312,0.0815806
 Centennial Public School District,Centennial Elementary,Anoka,526,0.00760456,0.0247148,0.0418251,0.0494297,0.0665399,0.0741445,0.081749
-Centennial Public School District,Centerville Elementary,Anoka,517,0.00773694,0.0251451,0.0425532,0.0502901,0.0676983,0.104449,0.112186
-Centennial Public School District,Golden Lake Elementary,Anoka,396,0.010101,0.020202,0.0429293,0.0656566,0.0883838,0.0984848,0.108586
+Centennial Public School District,Centerville Elementary,Anoka,517,0.00773694,0.0251451,0.0425532,0.0502901,0.0676983,0.104449,0.121857
+Centennial Public School District,Golden Lake Elementary,Anoka,396,0.010101,0.020202,0.0429293,0.0656566,0.0883838,0.0984848,0.121212
 Centennial Public School District,Rice Lake Elementary,Anoka,624,0.0144231,0.0448718,0.0512821,0.0817308,0.112179,0.142628,0.149038
 Centennial Public School District,Early Childhood Center,Anoka,110,0.0363636,0.0727273,0.109091,0.145455,0.181818,0.218182,0.254545
-Centennial Public School District,Blue Heron Elementary,Anoka,775,0.0245161,0.0490323,0.0606452,0.0658065,0.0774194,0.0890323,0.0941935
+Centennial Public School District,Blue Heron Elementary,Anoka,775,0.0245161,0.0490323,0.0606452,0.0658065,0.0903226,0.101935,0.113548
 Columbia Heights Public School District,Columbia Heights Senior High,Anoka,1003,0.00398804,0.00797607,0.0119641,0.0159521,0.0199402,0.0239282,0.0279163
 Columbia Heights Public School District,Columbia Academy,Anoka,696,0.00574713,0.0114943,0.0172414,0.0229885,0.0359195,0.0416667,0.0474138
 Columbia Heights Public School District,Highland Elementary,Anoka,523,0.00764818,0.0152964,0.0229446,0.0305927,0.0382409,0.0458891,0.0535373
 Columbia Heights Public School District,North Park Elementary,Anoka,391,0.0102302,0.0204604,0.0306905,0.0409207,0.0511509,0.0613811,0.0716113
-Columbia Heights Public School District,Valley View Elementary,Anoka,460,0.00869565,0.0173913,0.026087,0.0347826,0.0543478,0.073913,0.0826087
+Columbia Heights Public School District,Valley View Elementary,Anoka,460,0.00869565,0.0173913,0.026087,0.0347826,0.0543478,0.073913,0.0934783
 Columbia Heights Public School District,Early Childhood,Anoka,50,0.08,0.16,0.24,0.32,0.4,0.48,0.56
 Fridley Public School District,Voluntary Prekindergarten School,Anoka,109,0.0366972,0.0733945,0.110092,0.146789,0.183486,0.220183,0.256881
-Fridley Public School District,Fridley Senior High,Anoka,916,0.00436681,0.0251092,0.0349345,0.0393013,0.0491266,0.0534934,0.0578603
+Fridley Public School District,Fridley Senior High,Anoka,916,0.00436681,0.0251092,0.0349345,0.0393013,0.0491266,0.058952,0.0633188
 Fridley Public School District,Fridley Middle,Anoka,826,0.00484262,0.027845,0.0508475,0.0617433,0.0726392,0.0774818,0.0823245
 Fridley Public School District,Hayes Elementary,Anoka,479,0.00835073,0.0167015,0.0250522,0.0334029,0.0417537,0.0501044,0.0584551
 Fridley Public School District,Stevenson Elementary,Anoka,472,0.00847458,0.0169492,0.0360169,0.0444915,0.0529661,0.0614407,0.0699153
@@ -152,13 +152,13 @@ St. Francis Area Schools,ECSE@ ISD 15 Lifelong Learning,Anoka,111,0.036036,0.072
 St. Francis Area Schools,St. Francis Elementary,Anoka,599,0.0066778,0.0133556,0.0283806,0.0434057,0.0500835,0.0567613,0.0634391
 St. Francis Area Schools,Cedar Creek Elementary School,Anoka,658,0.0136778,0.0273556,0.056231,0.06231,0.0683891,0.0820669,0.0881459
 St. Francis Area Schools,East Bethel Elementary School,Anoka,495,0.00808081,0.0161616,0.0545455,0.0727273,0.0808081,0.0888889,0.0969697
-Spring Lake Park Public Schools,Spring Lake Park Senior High,Anoka,1850,0.00216216,0.00702703,0.0172973,0.0221622,0.0324324,0.0345946,0.0367568
+Spring Lake Park Public Schools,Spring Lake Park Senior High,Anoka,1850,0.00216216,0.00702703,0.0172973,0.0221622,0.0324324,0.0427027,0.0475676
 Spring Lake Park Public Schools,Early Education,Anoka,83,0.0481928,0.0963855,0.144578,0.192771,0.240964,0.289157,0.337349
-Spring Lake Park Public Schools,Westwood Intermediate and Middle School,Anoka,1866,0.00214362,0.0123258,0.0144695,0.0166131,0.0267953,0.0289389,0.0310825
-Spring Lake Park Public Schools,Northpoint Elementary,Anoka,552,0.00724638,0.0235507,0.0398551,0.0471014,0.0634058,0.0706522,0.0778986
+Spring Lake Park Public Schools,Westwood Intermediate and Middle School,Anoka,1866,0.00214362,0.0123258,0.0144695,0.0166131,0.0267953,0.0316184,0.0337621
+Spring Lake Park Public Schools,Northpoint Elementary,Anoka,552,0.00724638,0.0235507,0.0398551,0.0471014,0.0634058,0.0797101,0.0869565
 Spring Lake Park Public Schools,Woodcrest Elementary Spanish Immersion,Anoka,534,0.00749064,0.0149813,0.0224719,0.0299625,0.0374532,0.0449438,0.0524345
 Spring Lake Park Public Schools,Park Terrace Elementary,Anoka,568,0.0158451,0.0316901,0.0387324,0.0457746,0.0616197,0.068662,0.0757042
-Spring Lake Park Public Schools,Centerview Elementary,Anoka,639,0.00625978,0.0125196,0.0187793,0.0250391,0.0312989,0.0453834,0.0516432
+Spring Lake Park Public Schools,Centerview Elementary,Anoka,639,0.00625978,0.0125196,0.0187793,0.0250391,0.0312989,0.0453834,0.0594679
 Detroit Lakes Public School District,Detroit Lakes Senior High,Becker,898,0.00445434,0.00890869,0.013363,0.0178174,0.0278396,0.032294,0.0367483
 Detroit Lakes Public School District,Detroit Lakes Middle,Becker,622,0.00643087,0.0128617,0.0192926,0.0257235,0.0401929,0.0466238,0.0530547
 Detroit Lakes Public School District,Rossman Elementary,Becker,570,0.00701754,0.0140351,0.0210526,0.0368421,0.0438596,0.0508772,0.0578947
@@ -190,10 +190,10 @@ Red Lake Public School District,Ponemah Elementary,Beltrami,144,0.0277778,0.0555
 Red Lake Public School District,Red Lake Secondary,Beltrami,320,0.0125,0.025,0.0375,0.05,0.0625,0.075,0.0875
 Red Lake Public School District,RED LAKE ALTERNATIVE LEARNING,Beltrami,75,0.0533333,0.106667,0.16,0.213333,0.266667,0.32,0.373333
 Red Lake Public School District,Red Lake Middle School,Beltrami,269,0.0148699,0.0297398,0.0446097,0.0594796,0.0743494,0.0892193,0.104089
-Sauk Rapids-Rice Public Schools,Sauk Rapids-Rice Senior High,Benton,1423,0.0274069,0.040759,0.054111,0.0604357,0.0737878,0.0871398,0.0899508
-Sauk Rapids-Rice Public Schools,Mississippi Heights Elementary,Benton,908,0.00991189,0.0198238,0.0407489,0.061674,0.0825991,0.103524,0.10793
-Sauk Rapids-Rice Public Schools,Rice Elementary,Benton,383,0.0234987,0.0339426,0.0443864,0.0548303,0.104439,0.127937,0.138381
-Sauk Rapids-Rice Public Schools,Pleasant View Elementary,Benton,702,0.0128205,0.0541311,0.0811966,0.0868946,0.11396,0.119658,0.125356
+Sauk Rapids-Rice Public Schools,Sauk Rapids-Rice Senior High,Benton,1423,0.0274069,0.040759,0.054111,0.0604357,0.0737878,0.0871398,0.100492
+Sauk Rapids-Rice Public Schools,Mississippi Heights Elementary,Benton,908,0.00991189,0.0198238,0.0407489,0.061674,0.0825991,0.103524,0.113436
+Sauk Rapids-Rice Public Schools,Rice Elementary,Benton,383,0.0234987,0.0339426,0.0443864,0.0548303,0.104439,0.154047,0.177546
+Sauk Rapids-Rice Public Schools,Pleasant View Elementary,Benton,702,0.0128205,0.0541311,0.0811966,0.0868946,0.11396,0.126781,0.132479
 Sauk Rapids-Rice Public Schools,Sauk Rapids-Rice Middle School,Benton,1013,0.0286278,0.0967423,0.12537,0.134255,0.143139,0.161895,0.165844
 Foley Public School District,Foley Elementary,Benton,606,0.00660066,0.0132013,0.019802,0.0264026,0.0412541,0.0561056,0.0627063
 Foley Public School District,Foley Senior High,Benton,621,0.00644122,0.0128824,0.0193237,0.0257649,0.0402576,0.0547504,0.0611916
@@ -201,20 +201,20 @@ Foley Public School District,Foley Intermediate Elementary,Benton,718,0.00557103
 St. Clair Public School District,St. Clair Elementary,Blue Earth,346,0.0115607,0.0231214,0.0491329,0.0606936,0.0867052,0.112717,0.124277
 St. Clair Public School District,St. Clair Secondary,Blue Earth,363,0.0110193,0.0220386,0.0330579,0.0440771,0.0550964,0.0661157,0.077135
 Mankato Public School District,Kennedy Elementary,Blue Earth,390,0.0102564,0.0205128,0.0307692,0.0410256,0.0512821,0.074359,0.0846154
-Mankato Public School District,Hoover Elementary,Nicollet,506,0.00790514,0.0158103,0.0237154,0.041502,0.0790514,0.0968379,0.104743
+Mankato Public School District,Hoover Elementary,Nicollet,506,0.00790514,0.0158103,0.0237154,0.041502,0.0790514,0.0968379,0.114625
 Mankato Public School District,Jefferson Elementary,Blue Earth,228,0.0175439,0.0350877,0.0526316,0.0701754,0.109649,0.149123,0.166667
 Mankato Public School District,Monroe Elementary,Nicollet,460,0.00869565,0.0173913,0.0586957,0.0782609,0.0869565,0.0956522,0.104348
 Mankato Public School District,Roosevelt Elementary,Blue Earth,353,0.0113314,0.0226629,0.0339943,0.0453258,0.0708215,0.082153,0.0934844
-Mankato Public School District,Bridges Community Elementary,Nicollet,221,0.0180995,0.0361991,0.0542986,0.0723982,0.0904977,0.108597,0.126697
-Mankato Public School District,Rosa Parks Elementary,Blue Earth,462,0.00865801,0.017316,0.025974,0.034632,0.0541126,0.0627706,0.0714286
+Mankato Public School District,Bridges Community Elementary,Nicollet,221,0.0180995,0.0361991,0.0542986,0.0723982,0.0904977,0.131222,0.149321
+Mankato Public School District,Rosa Parks Elementary,Blue Earth,462,0.00865801,0.017316,0.025974,0.034632,0.0541126,0.0735931,0.0822511
 Mankato Public School District,Washington Elementary,Blue Earth,422,0.00947867,0.0189573,0.0402844,0.049763,0.07109,0.0805687,0.0900474
 Mankato Public School District,Franklin Elementary,Blue Earth,411,0.00973236,0.0194647,0.0291971,0.0389294,0.0608273,0.0705596,0.080292
-Mankato Public School District,Mankato West Senior High,Blue Earth,1243,0.00724055,0.0104586,0.0136766,0.0209171,0.0362027,0.0394208,0.0426388
+Mankato Public School District,Mankato West Senior High,Blue Earth,1243,0.00724055,0.0104586,0.0136766,0.0209171,0.0362027,0.0434433,0.0587289
 Mankato Public School District,Eagle Lake Elementary,Blue Earth,381,0.0104987,0.0209974,0.0314961,0.0419948,0.0656168,0.0761155,0.0866142
-Mankato Public School District,Mankato East Senior High,Blue Earth,1205,0.00746888,0.0149378,0.0224066,0.0257261,0.033195,0.0489627,0.0522822
+Mankato Public School District,Mankato East Senior High,Blue Earth,1205,0.00746888,0.0149378,0.0224066,0.0257261,0.033195,0.0489627,0.0647303
 Mankato Public School District,Special Education,Blue Earth,244,0.0163934,0.0327869,0.0491803,0.0655738,0.0819672,0.0983607,0.114754
-Mankato Public School District,Dakota Meadows Middle School,Nicollet,933,0.00428725,0.00857449,0.0128617,0.022508,0.0321543,0.0418006,0.0460879
-Mankato Public School District,Prairie Winds Middle School,Blue Earth,1090,0.00366972,0.00733945,0.0110092,0.0284404,0.0366972,0.040367,0.0440367
+Mankato Public School District,Dakota Meadows Middle School,Nicollet,933,0.00428725,0.00857449,0.0128617,0.022508,0.0321543,0.0418006,0.0514469
+Mankato Public School District,Prairie Winds Middle School,Blue Earth,1090,0.00366972,0.00733945,0.0110092,0.0284404,0.0366972,0.040367,0.0577982
 Mankato Public School District,Central High Area Learning Center,Blue Earth,84,0.047619,0.0952381,0.142857,0.190476,0.238095,0.285714,0.333333
 Comfrey Public School District,Comfrey Elementary,Brown,57,0.0701754,0.140351,0.210526,0.280702,0.350877,0.421053,0.491228
 Comfrey Public School District,Comfrey Secondary,Brown,79,0.0506329,0.101266,0.151899,0.202532,0.253165,0.303797,0.35443
@@ -230,16 +230,16 @@ Barnum Public School District,Barnum Elementary,Carlton,351,0.011396,0.037037,0.
 Barnum Public School District,Barnum Secondary,Carlton,361,0.0110803,0.0360111,0.0470914,0.0720222,0.0969529,0.108033,0.119114
 Carlton Public School District,Carlton Secondary,Carlton,200,0.02,0.04,0.06,0.08,0.1,0.12,0.14
 Carlton Public School District,South Terrace Elementary,Carlton,195,0.0205128,0.0410256,0.0615385,0.0820513,0.102564,0.123077,0.14359
-Cloquet Public School District,Churchill Elementary,Carlton,387,0.0103359,0.0206718,0.0310078,0.0413437,0.0645995,0.0749354,0.0852713
+Cloquet Public School District,Churchill Elementary,Carlton,387,0.0103359,0.0206718,0.0310078,0.0413437,0.0645995,0.0878553,0.0981912
 Cloquet Public School District,CLOQUET AREA ALT. ED. PROGRAMS,Carlton,78,0.0512821,0.102564,0.153846,0.205128,0.25641,0.307692,0.358974
 Cloquet Public School District,Washington Elementary,Carlton,495,0.00808081,0.0161616,0.0242424,0.0323232,0.040404,0.0484848,0.0565657
 Cloquet Public School District,Cloquet Early Childhood Education,Carlton,66,0.0606061,0.121212,0.181818,0.242424,0.30303,0.363636,0.424242
 Cloquet Public School District,Cloquet Middle,Carlton,840,0.0047619,0.00952381,0.0202381,0.025,0.0297619,0.0345238,0.0392857
-Cloquet Public School District,Cloquet Senior,Carlton,765,0.00522876,0.0104575,0.0156863,0.020915,0.0261438,0.0313725,0.0366013
+Cloquet Public School District,Cloquet Senior,Carlton,765,0.00522876,0.0104575,0.0156863,0.020915,0.0261438,0.0379085,0.0431373
 Cromwell-Wright Public Schools,Cromwell-Wright Elementary,Carlton,136,0.0294118,0.0588235,0.0882353,0.117647,0.147059,0.176471,0.205882
 Cromwell-Wright Public Schools,Cromwell-Wright Secondary,Carlton,165,0.0242424,0.0484848,0.0727273,0.127273,0.151515,0.175758,0.2
 Moose Lake Public School District,Moose Lake Secondary,Carlton,270,0.0148148,0.0296296,0.0444444,0.0592593,0.0740741,0.0888889,0.103704
-Moose Lake Public School District,Moose Lake Elementary,Carlton,307,0.0130293,0.0260586,0.0390879,0.0521173,0.0651466,0.0944625,0.107492
+Moose Lake Public School District,Moose Lake Elementary,Carlton,307,0.0130293,0.0260586,0.0390879,0.0521173,0.0651466,0.127036,0.140065
 Esko Public School District,Lincoln Secondary,Carlton,602,0.00664452,0.013289,0.0199336,0.0265781,0.0332226,0.0481728,0.0548173
 Esko Public School District,Winterquist Elementary,Carlton,666,0.00600601,0.0195195,0.033033,0.039039,0.0525526,0.0810811,0.0870871
 Wrenshall Public School District,Wrenshall Elementary,Carlton,186,0.0215054,0.0430108,0.0645161,0.0860215,0.107527,0.129032,0.150538
@@ -249,7 +249,7 @@ Central Public School District,Central Middle,Carver,214,0.0186916,0.0373832,0.0
 Central Public School District,Central Elementary,Carver,380,0.0105263,0.0342105,0.0447368,0.0552632,0.0789474,0.0894737,0.1
 Waconia Public School District,Southview Elementary,Carver,657,0.0136986,0.0197869,0.0258752,0.0319635,0.0456621,0.0517504,0.0578387
 Waconia Public School District,Early Childhood Special Education,Carver,62,0.0645161,0.129032,0.193548,0.258065,0.322581,0.387097,0.451613
-Waconia Public School District,Bayview Elementary,Carver,537,0.0353818,0.0428305,0.0595903,0.0670391,0.0837989,0.0912477,0.0986965
+Waconia Public School District,Bayview Elementary,Carver,537,0.0353818,0.0428305,0.0595903,0.0670391,0.0837989,0.0912477,0.108007
 Waconia Public School District,Laketown Elementary,Carver,506,0.00790514,0.0158103,0.0237154,0.041502,0.0494071,0.0573123,0.0652174
 Waconia Public School District,Waconia Middle School,Carver,933,0.0096463,0.0300107,0.0503751,0.0600214,0.0696677,0.079314,0.0836013
 Waconia Public School District,Waconia High School,Carver,1310,0.00305344,0.00992366,0.0167939,0.0236641,0.0305344,0.0450382,0.0480916
@@ -257,20 +257,20 @@ Watertown-Mayer Public School District,Watertown-Mayer Elementary School,Carver,
 Watertown-Mayer Public School District,Watertown-Mayer Middle,Carver,477,0.00838574,0.0272537,0.0461216,0.0545073,0.0733753,0.0922432,0.100629
 Watertown-Mayer Public School District,Watertown Mayer High,Carver,472,0.00847458,0.0487288,0.0677966,0.0762712,0.0847458,0.0932203,0.101695
 Eastern Carver County Public Schools,Chaska High School,Carver,1560,0.0025641,0.00512821,0.0108974,0.0134615,0.025641,0.0314103,0.0339744
-Eastern Carver County Public Schools,Chaska Middle School East,Carver,564,0.0070922,0.0141844,0.0212766,0.0283688,0.0443262,0.0602837,0.0673759
+Eastern Carver County Public Schools,Chaska Middle School East,Carver,564,0.0070922,0.0141844,0.0212766,0.0283688,0.0443262,0.0602837,0.0762411
 Eastern Carver County Public Schools,Chaska Middle School West,Carver,779,0.0115533,0.0166881,0.0410783,0.0526316,0.0770218,0.0885751,0.0937099
-Eastern Carver County Public Schools,Pioneer Ridge Middle School,Carver,491,0.00814664,0.0162933,0.0549898,0.0733198,0.112016,0.150713,0.158859
+Eastern Carver County Public Schools,Pioneer Ridge Middle School,Carver,491,0.00814664,0.0162933,0.0549898,0.0733198,0.112016,0.150713,0.169043
 Eastern Carver County Public Schools,Chanhassen High School,Carver,1476,0.00609756,0.00880759,0.0115176,0.0176152,0.0237127,0.0298103,0.0325203
 Eastern Carver County Public Schools,INTEGRATED ARTS ACADEMY,Carver,65,0.0615385,0.123077,0.184615,0.246154,0.307692,0.369231,0.430769
 Eastern Carver County Public Schools,112 ALC Middle School,Carver,227,0.0176211,0.0352423,0.0528634,0.0704846,0.0881057,0.105727,0.123348
 Eastern Carver County Public Schools,La Academia,Carver,450,0.00888889,0.0177778,0.0266667,0.0355556,0.0444444,0.0644444,0.0733333
-Eastern Carver County Public Schools,Carver Elementary School,Carver,706,0.00566572,0.0113314,0.0240793,0.0368272,0.0637394,0.0694051,0.0750708
+Eastern Carver County Public Schools,Carver Elementary School,Carver,706,0.00566572,0.0113314,0.0240793,0.0368272,0.0637394,0.0694051,0.082153
 Eastern Carver County Public Schools,Chanhassen Elementary,Carver,446,0.00896861,0.029148,0.0381166,0.0470852,0.0672646,0.109865,0.118834
 Eastern Carver County Public Schools,East Union Elementary,Carver,112,0.0357143,0.0714286,0.107143,0.142857,0.223214,0.303571,0.339286
 Eastern Carver County Public Schools,Early Childhood Special Education,Carver,131,0.0305344,0.0610687,0.0916031,0.122137,0.152672,0.183206,0.21374
-Eastern Carver County Public Schools,Bluff Creek Elementary,Carver,537,0.00744879,0.0148976,0.0223464,0.0297952,0.0651769,0.0819367,0.0893855
+Eastern Carver County Public Schools,Bluff Creek Elementary,Carver,537,0.00744879,0.0148976,0.0223464,0.0297952,0.0651769,0.0819367,0.0986965
 Eastern Carver County Public Schools,Clover Ridge Elementary,Carver,584,0.00684932,0.0136986,0.0205479,0.0273973,0.0428082,0.0582192,0.0650685
-Eastern Carver County Public Schools,Victoria Elementary,Carver,659,0.0060698,0.0121396,0.0182094,0.0242792,0.0531108,0.0819423,0.0880121
+Eastern Carver County Public Schools,Victoria Elementary,Carver,659,0.0060698,0.0121396,0.0182094,0.0242792,0.0531108,0.0819423,0.0955994
 Eastern Carver County Public Schools,Jonathan Elementary,Carver,587,0.00681431,0.0136286,0.0204429,0.0272572,0.0425894,0.0579216,0.0647359
 Walker-Hackensack-Akeley School District,W.H.A. Elementary,Cass,412,0.00970874,0.0315534,0.0412621,0.0509709,0.0970874,0.118932,0.128641
 Walker-Hackensack-Akeley School District,Walker-Hackensack-Akeley Sec.,Cass,325,0.0123077,0.04,0.0523077,0.0646154,0.0923077,0.12,0.132308
@@ -292,19 +292,19 @@ North Branch Public Schools,North Branch Senior High,Chisago,671,0.0134128,0.041
 North Branch Public Schools,NORTH BRANCH AREA EDUCATION CENTER,Chisago,132,0.030303,0.0606061,0.0909091,0.121212,0.151515,0.181818,0.212121
 North Branch Public Schools,Sunrise River Elementary,Chisago,730,0.00547945,0.0315068,0.0438356,0.0561644,0.0684932,0.0739726,0.0794521
 North Branch Public Schools,Distance Learning Program,Chisago,498,0.00803213,0.0160643,0.0240964,0.0321285,0.0401606,0.0481928,0.0562249
-Rush City Public School District,C.E. Jacobson Elementary,Chisago,479,0.00835073,0.0167015,0.0563674,0.0647182,0.0835073,0.091858,0.100209
+Rush City Public School District,C.E. Jacobson Elementary,Chisago,479,0.00835073,0.0167015,0.0563674,0.0647182,0.0835073,0.102296,0.110647
 Rush City Public School District,Rush City Secondary,Chisago,399,0.0100251,0.0325815,0.0426065,0.0526316,0.0626566,0.0726817,0.0827068
-Barnesville Public School District,Barnesville Elementary,Clay,493,0.00811359,0.0263692,0.0446247,0.0628803,0.0709939,0.0791075,0.0872211
+Barnesville Public School District,Barnesville Elementary,Clay,493,0.00811359,0.0263692,0.0446247,0.0628803,0.0709939,0.0892495,0.107505
 Barnesville Public School District,Barnesville Secondary,Clay,405,0.00987654,0.0197531,0.0296296,0.0395062,0.0493827,0.0592593,0.0691358
-Hawley Public School District,Hawley Elementary,Clay,553,0.00723327,0.0144665,0.0216998,0.0289331,0.045208,0.0614828,0.0687161
-Hawley Public School District,Hawley Secondary,Clay,431,0.00928074,0.0185615,0.0278422,0.037123,0.0580046,0.0788863,0.0881671
+Hawley Public School District,Hawley Elementary,Clay,553,0.00723327,0.0144665,0.0216998,0.0289331,0.045208,0.079566,0.0867993
+Hawley Public School District,Hawley Secondary,Clay,431,0.00928074,0.0185615,0.0278422,0.037123,0.0580046,0.102088,0.111369
 Moorhead Public School District,Probstfield Center For Education,Clay,224,0.0178571,0.0357143,0.0535714,0.0714286,0.0892857,0.107143,0.125
 Moorhead Public School District,Dorothy Dodds Elementary School,Clay,716,0.00558659,0.0111732,0.0167598,0.0223464,0.0349162,0.0405028,0.0460894
 Moorhead Public School District,Robert Asp Elementary,Clay,638,0.0141066,0.0282132,0.0344828,0.0407524,0.0705329,0.0768025,0.0830721
 Moorhead Public School District,Ellen Hopkins Elementary,Clay,610,0.00655738,0.0131148,0.0196721,0.0262295,0.0409836,0.047541,0.0540984
 Moorhead Public School District,S.G.Reinertsen Elementary,Clay,725,0.00551724,0.0110345,0.0165517,0.022069,0.0344828,0.04,0.0455172
 Moorhead Public School District,Horizon Middle School,Clay,2189,0.00867976,0.0173595,0.0306076,0.0392873,0.0479671,0.0566469,0.0584742
-Moorhead Public School District,Moorhead High School,Clay,1890,0.0021164,0.00687831,0.0169312,0.0190476,0.021164,0.0232804,0.0253968
+Moorhead Public School District,Moorhead High School,Clay,1890,0.0021164,0.00687831,0.0169312,0.0190476,0.0238095,0.0259259,0.0280423
 Moorhead Public School District,Red River Area Learning Center,Clay,99,0.040404,0.0808081,0.121212,0.161616,0.20202,0.242424,0.282828
 Minnesota State Academies,MN Academy For The Deaf,Rice,97,0.0412371,0.0824742,0.123711,0.164948,0.206186,0.247423,0.28866
 Bagley Public School District,Bagley Elementary,Clearwater,514,0.036965,0.0933852,0.110895,0.118677,0.126459,0.134241,0.142023
@@ -341,23 +341,23 @@ Burnsville Public School District,Early Education Program & Services,Dakota,142,
 Burnsville Public School District,Gideon Pond Elementary,Dakota,444,0.00900901,0.018018,0.027027,0.036036,0.045045,0.0540541,0.0630631
 Burnsville Public School District,Edward Neill Elementary,Dakota,378,0.010582,0.021164,0.031746,0.042328,0.0529101,0.0634921,0.0740741
 Burnsville Public School District,Vista View Elementary,Dakota,328,0.0121951,0.0243902,0.0365854,0.0487805,0.0609756,0.0731707,0.0853659
-Burnsville Public School District,William Byrne Elementary,Dakota,567,0.00705467,0.0141093,0.021164,0.0282187,0.0440917,0.0511464,0.0582011
-Burnsville Public School District,Rahn Elementary,Dakota,359,0.0111421,0.0222841,0.0334262,0.0445682,0.0557103,0.0668524,0.0779944
+Burnsville Public School District,William Byrne Elementary,Dakota,567,0.00705467,0.0141093,0.021164,0.0282187,0.0440917,0.0599647,0.0670194
+Burnsville Public School District,Rahn Elementary,Dakota,359,0.0111421,0.0222841,0.0334262,0.0445682,0.0557103,0.0807799,0.091922
 Burnsville Public School District,Sky Oaks Elementary,Dakota,458,0.00873362,0.0174672,0.0262009,0.0349345,0.0436681,0.0524017,0.0611354
 Burnsville Public School District,Hidden Valley Elementary,Scott,491,0.00814664,0.0162933,0.0244399,0.0325866,0.0407332,0.0488798,0.0570265
 Burnsville Public School District,Harriet Bishop Elementary,Scott,613,0.00652529,0.0130506,0.0195759,0.0261011,0.0326264,0.0391517,0.045677
 Burnsville Public School District,Burnsville Alternative High School,Dakota,194,0.0206186,0.0412371,0.0618557,0.0824742,0.103093,0.123711,0.14433
-Farmington Public School District,Farmington Elementary,Dakota,600,0.00666667,0.0133333,0.02,0.0266667,0.0583333,0.0733333,0.08
+Farmington Public School District,Farmington Elementary,Dakota,600,0.00666667,0.0133333,0.02,0.0266667,0.0583333,0.09,0.0966667
 Farmington Public School District,Farmington High School,Dakota,2203,0.00408534,0.0127099,0.0145256,0.0163414,0.0204267,0.0222424,0.0240581
 Farmington Public School District,Levi P. Dodge Middle School,Dakota,802,0.00498753,0.0162095,0.0274314,0.0386534,0.0623441,0.0735661,0.0785536
-Farmington Public School District,North Trail Elementary,Dakota,608,0.00657895,0.0131579,0.0197368,0.0263158,0.0328947,0.0641447,0.0707237
+Farmington Public School District,North Trail Elementary,Dakota,608,0.00657895,0.0131579,0.0197368,0.0263158,0.0411184,0.0723684,0.0789474
 Farmington Public School District,Robert Boeckman Middle School,Dakota,891,0.00448934,0.00897868,0.013468,0.0179574,0.0280584,0.0493827,0.0538721
 Farmington Public School District,Meadowview Elementary,Dakota,684,0.0131579,0.0190058,0.0248538,0.0307018,0.0584795,0.0716374,0.0774854
-Farmington Public School District,Riverview Elementary,Dakota,755,0.00529801,0.010596,0.0225166,0.0278146,0.0397351,0.0649007,0.0701987
+Farmington Public School District,Riverview Elementary,Dakota,755,0.00529801,0.010596,0.0225166,0.0278146,0.0397351,0.0649007,0.0768212
 Farmington Public School District,Akin Road Elementary,Dakota,572,0.00699301,0.013986,0.020979,0.027972,0.0437063,0.0506993,0.0576923
-Lakeville Public School District,Lakeville North High,Dakota,1830,0.00218579,0.0125683,0.0174863,0.0224044,0.0245902,0.0295082,0.031694
-Lakeville Public School District,Lakeville South High,Dakota,1888,0.00211864,0.0174788,0.0381356,0.0481992,0.0529661,0.0550847,0.0572034
-Lakeville Public School District,McGuire Middle,Dakota,817,0.00489596,0.00979192,0.0146879,0.0195838,0.0428397,0.0477356,0.0526316
+Lakeville Public School District,Lakeville North High,Dakota,1830,0.00218579,0.0125683,0.0174863,0.0224044,0.0245902,0.0295082,0.0344262
+Lakeville Public School District,Lakeville South High,Dakota,1888,0.00211864,0.0174788,0.0381356,0.0481992,0.0529661,0.0577331,0.0598517
+Lakeville Public School District,McGuire Middle,Dakota,817,0.00489596,0.00979192,0.0146879,0.0195838,0.0428397,0.0538556,0.0587515
 Lakeville Public School District,Link12 Lakeville,Dakota,1217,0.00328677,0.00657354,0.00986031,0.0131471,0.0164339,0.0197206,0.0230074
 Lakeville Public School District,Kenwood Trail Middle School,Dakota,639,0.00625978,0.0203443,0.0344288,0.0406886,0.0547731,0.0610329,0.0672926
 Lakeville Public School District,Century Middle School,Dakota,791,0.00505689,0.0164349,0.0278129,0.0518331,0.0632111,0.0872314,0.0922882
@@ -369,43 +369,43 @@ Lakeville Public School District,Orchard Lake Elementary,Dakota,284,0.0140845,0.
 Lakeville Public School District,Lake Marion Elementary,Dakota,614,0.00651466,0.0130293,0.0602606,0.0667752,0.0977199,0.128664,0.135179
 Lakeville Public School District,Cherry View Elementary,Dakota,624,0.00641026,0.0208333,0.0352564,0.0416667,0.0721154,0.0865385,0.0929487
 Lakeville Public School District,Lakeview Elementary,Dakota,458,0.00873362,0.0174672,0.0262009,0.0349345,0.0436681,0.0851528,0.0938865
-Lakeville Public School District,Eastview Elementary,Dakota,539,0.00742115,0.0148423,0.0315399,0.038961,0.0463822,0.0538033,0.0612245
+Lakeville Public School District,Eastview Elementary,Dakota,539,0.00742115,0.0148423,0.0315399,0.0482375,0.0649351,0.0723562,0.0797774
 Lakeville Public School District,Oak Hills Elementary,Dakota,459,0.0087146,0.0174292,0.037037,0.0457516,0.0544662,0.0740741,0.0827887
 Randolph Public School District,Randolph Elementary,Dakota,384,0.0104167,0.0208333,0.03125,0.0416667,0.0520833,0.0625,0.0729167
 Randolph Public School District,Randolph Secondary,Dakota,322,0.0124224,0.0248447,0.0372671,0.0496894,0.0621118,0.0745342,0.0869565
 Rosemount-Apple Valley-Eagan,Transition Plus,Dakota,142,0.028169,0.056338,0.084507,0.112676,0.140845,0.169014,0.197183
 Rosemount-Apple Valley-Eagan,Dakota Hills Middle,Dakota,1241,0.00322321,0.00644641,0.00966962,0.0128928,0.020145,0.0273973,0.0306205
 Rosemount-Apple Valley-Eagan,Black Hawk Middle,Dakota,853,0.00468933,0.00937866,0.014068,0.0187573,0.0234467,0.028136,0.0328253
-Rosemount-Apple Valley-Eagan,Rosemount Senior High,Dakota,2530,0.00158103,0.00316206,0.00474308,0.00632411,0.00790514,0.00948617,0.0110672
-Rosemount-Apple Valley-Eagan,Rosemount Middle,Dakota,1263,0.00316706,0.0182106,0.0213777,0.0245447,0.0316706,0.0467142,0.0498812
-Rosemount-Apple Valley-Eagan,Eagan Senior High,Dakota,2132,0.00187617,0.00375235,0.00562852,0.00750469,0.00938086,0.0182927,0.0201689
+Rosemount-Apple Valley-Eagan,Rosemount Senior High,Dakota,2530,0.00158103,0.00316206,0.00474308,0.00632411,0.00790514,0.00948617,0.0130435
+Rosemount-Apple Valley-Eagan,Rosemount Middle,Dakota,1263,0.00316706,0.0182106,0.0213777,0.0245447,0.0316706,0.0467142,0.0538401
+Rosemount-Apple Valley-Eagan,Eagan Senior High,Dakota,2132,0.00187617,0.00375235,0.00562852,0.00750469,0.0117261,0.0206379,0.0225141
 Rosemount-Apple Valley-Eagan,Rosemount Area Learning Center,Dakota,131,0.0305344,0.0610687,0.0916031,0.122137,0.152672,0.183206,0.21374
 Rosemount-Apple Valley-Eagan,School of Environmental Studies,Dakota,339,0.0117994,0.0235988,0.0353982,0.0471976,0.0737463,0.0855457,0.0973451
 Rosemount-Apple Valley-Eagan,Falcon Ridge Middle,Dakota,1048,0.00381679,0.00763359,0.0114504,0.0152672,0.023855,0.0276718,0.0314885
-Rosemount-Apple Valley-Eagan,Eastview Senior High,Dakota,2302,0.00173762,0.00347524,0.00521286,0.00695048,0.0086881,0.0104257,0.0121633
-Rosemount-Apple Valley-Eagan,Scott Highlands Middle,Dakota,1236,0.00323625,0.0105178,0.013754,0.0169903,0.0202265,0.0275081,0.0307443
-Rosemount-Apple Valley-Eagan,Apple Valley Senior High,Dakota,1791,0.00223339,0.00725851,0.0094919,0.014517,0.0195422,0.0245673,0.0268007
-Rosemount-Apple Valley-Eagan,Valley Middle,Dakota,1079,0.00834106,0.0166821,0.034291,0.0518999,0.0695088,0.0732159,0.0769231
+Rosemount-Apple Valley-Eagan,Eastview Senior High,Dakota,2302,0.00173762,0.00347524,0.00521286,0.00695048,0.0108601,0.0147698,0.0186794
+Rosemount-Apple Valley-Eagan,Scott Highlands Middle,Dakota,1236,0.00323625,0.0105178,0.013754,0.0169903,0.0242718,0.0315534,0.0347896
+Rosemount-Apple Valley-Eagan,Apple Valley Senior High,Dakota,1791,0.00223339,0.00725851,0.0094919,0.014517,0.0195422,0.0301508,0.0323841
+Rosemount-Apple Valley-Eagan,Valley Middle,Dakota,1079,0.00834106,0.0166821,0.034291,0.0379981,0.0417053,0.0454124,0.0537535
 Rosemount-Apple Valley-Eagan,Dakota Ridge School,Dakota,113,0.0353982,0.0707965,0.150442,0.185841,0.221239,0.256637,0.292035
 Rosemount-Apple Valley-Eagan,Dakota Valley Learning Center,Dakota,454,0.00881057,0.0176211,0.0264317,0.0352423,0.0440529,0.0528634,0.061674
 Rosemount-Apple Valley-Eagan,Rosemount Elementary,Dakota,747,0.00535475,0.0107095,0.0160643,0.021419,0.0267738,0.038822,0.0441767
 Rosemount-Apple Valley-Eagan,Northview Elementary,Dakota,452,0.00884956,0.0176991,0.0265487,0.0353982,0.0442478,0.0530973,0.0619469
 Rosemount-Apple Valley-Eagan,Westview Elementary,Dakota,447,0.00894855,0.0178971,0.0268456,0.0357942,0.0447427,0.0536913,0.0626398
-Rosemount-Apple Valley-Eagan,Southview Elementary,Dakota,639,0.00625978,0.0125196,0.0422535,0.0485133,0.0547731,0.0610329,0.0672926
-Rosemount-Apple Valley-Eagan,Parkview Elementary,Dakota,785,0.00509554,0.0165605,0.0216561,0.0458599,0.0573248,0.0624204,0.0675159
-Rosemount-Apple Valley-Eagan,Diamond Path Elementary School of International Studies,Dakota,715,0.00559441,0.0111888,0.0167832,0.0293706,0.0559441,0.0615385,0.0671329
+Rosemount-Apple Valley-Eagan,Southview Elementary,Dakota,639,0.00625978,0.0125196,0.0422535,0.0485133,0.0625978,0.0923318,0.0985915
+Rosemount-Apple Valley-Eagan,Parkview Elementary,Dakota,785,0.00509554,0.0165605,0.0216561,0.0458599,0.0573248,0.0624204,0.0738854
+Rosemount-Apple Valley-Eagan,Diamond Path Elementary School of International Studies,Dakota,715,0.00559441,0.0111888,0.0167832,0.0293706,0.0559441,0.0615385,0.0741259
 Rosemount-Apple Valley-Eagan,Greenleaf Elementary,Dakota,785,0.00509554,0.0101911,0.0152866,0.0203822,0.0318471,0.0369427,0.0420382
 Rosemount-Apple Valley-Eagan,Thomas Lake Elementary,Dakota,545,0.00733945,0.0146789,0.0220183,0.0293578,0.0642202,0.0715596,0.0788991
-Rosemount-Apple Valley-Eagan,Highland Elementary,Dakota,716,0.00558659,0.0181564,0.023743,0.0293296,0.0418994,0.0544693,0.0600559
+Rosemount-Apple Valley-Eagan,Highland Elementary,Dakota,716,0.00558659,0.0181564,0.023743,0.0293296,0.0418994,0.0544693,0.0670391
 Rosemount-Apple Valley-Eagan,Deerwood Elementary,Dakota,612,0.00653595,0.0130719,0.0196078,0.0261438,0.0326797,0.0473856,0.0539216
 Rosemount-Apple Valley-Eagan,Woodland Elementary,Dakota,699,0.0271817,0.0543634,0.0672389,0.0729614,0.0786838,0.0844063,0.0901288
 Rosemount-Apple Valley-Eagan,Pinewood El.,Dakota,569,0.0333919,0.0404218,0.056239,0.0632689,0.0702988,0.086116,0.0931459
-Rosemount-Apple Valley-Eagan,Shannon Park Elementary,Dakota,585,0.00683761,0.0136752,0.0205128,0.0273504,0.042735,0.0495726,0.0564103
+Rosemount-Apple Valley-Eagan,Shannon Park Elementary,Dakota,585,0.00683761,0.0136752,0.0205128,0.0273504,0.042735,0.0495726,0.0649573
 Rosemount-Apple Valley-Eagan,East Lake Elementary School,Dakota,747,0.00535475,0.0174029,0.0227577,0.0281124,0.0334672,0.0589023,0.064257
 Rosemount-Apple Valley-Eagan,Glacier Hills Elementary School of Arts and Science,Dakota,689,0.00580552,0.011611,0.0174165,0.0232221,0.0362845,0.04209,0.0478955
-Rosemount-Apple Valley-Eagan,Red Pine Elementary,Dakota,693,0.00577201,0.011544,0.024531,0.037518,0.0649351,0.0707071,0.0764791
-West St. Paul-Mendota Heights-Eagan,Friendly Hills Middle,Dakota,775,0.00516129,0.0103226,0.0154839,0.0206452,0.0258065,0.0309677,0.036129
-West St. Paul-Mendota Heights-Eagan,Henry Sibley High School,Dakota,1444,0.00277008,0.00554017,0.00831025,0.0110803,0.017313,0.0235457,0.0263158
+Rosemount-Apple Valley-Eagan,Red Pine Elementary,Dakota,693,0.00577201,0.011544,0.024531,0.037518,0.0649351,0.0779221,0.0836941
+West St. Paul-Mendota Heights-Eagan,Friendly Hills Middle,Dakota,775,0.00516129,0.0103226,0.0154839,0.0206452,0.0322581,0.0374194,0.0425806
+West St. Paul-Mendota Heights-Eagan,Henry Sibley High School,Dakota,1444,0.00277008,0.00554017,0.00831025,0.0110803,0.017313,0.0304709,0.0367036
 West St. Paul-Mendota Heights-Eagan,Heritage E-STEM Magnet School,Dakota,798,0.00501253,0.0100251,0.0213033,0.0263158,0.0313283,0.0363409,0.0413534
 West St. Paul-Mendota Heights-Eagan,Moreland Art/Health Science Magnet,Dakota,367,0.0108992,0.0217984,0.0463215,0.0572207,0.0681199,0.0790191,0.0899183
 West St. Paul-Mendota Heights-Eagan,Mendota Elementary,Dakota,397,0.0100756,0.0201511,0.0302267,0.0403023,0.0503778,0.0604534,0.070529
@@ -413,18 +413,18 @@ West St. Paul-Mendota Heights-Eagan,Garlough Environmental Magnet,Dakota,397,0.0
 West St. Paul-Mendota Heights-Eagan,Somerset Elementary,Dakota,365,0.0109589,0.0356164,0.060274,0.0712329,0.0821918,0.0931507,0.10411
 West St. Paul-Mendota Heights-Eagan,Pilot Knob STEM Magnet School,Dakota,399,0.0100251,0.0200501,0.0300752,0.0401003,0.0501253,0.0601504,0.0701754
 West St. Paul-Mendota Heights-Eagan,Early Learning Resource Center,Dakota,166,0.0240964,0.0481928,0.0722892,0.0963855,0.120482,0.144578,0.168675
-Inver Grove Heights Schools,Simley Senior High,Dakota,1112,0.00809353,0.0116906,0.0152878,0.0188849,0.0269784,0.0350719,0.0386691
-Inver Grove Heights Schools,Inver Grove Heights Middle,Dakota,767,0.00521512,0.0104302,0.0156454,0.0208605,0.0260756,0.0378096,0.0430248
+Inver Grove Heights Schools,Simley Senior High,Dakota,1112,0.00809353,0.0116906,0.0152878,0.0188849,0.0269784,0.0350719,0.0431655
+Inver Grove Heights Schools,Inver Grove Heights Middle,Dakota,767,0.00521512,0.0104302,0.0156454,0.0208605,0.0325945,0.0573664,0.0625815
 Inver Grove Heights Schools,Atheneum Elementary,Dakota,101,0.039604,0.0792079,0.118812,0.158416,0.19802,0.237624,0.277228
-Inver Grove Heights Schools,Hilltop Elementary,Dakota,518,0.00772201,0.015444,0.023166,0.030888,0.03861,0.046332,0.0540541
+Inver Grove Heights Schools,Hilltop Elementary,Dakota,518,0.00772201,0.015444,0.023166,0.030888,0.0482625,0.0656371,0.0733591
 Inver Grove Heights Schools,Pine Bend Elementary,Dakota,554,0.00722022,0.0144404,0.0216606,0.0288809,0.0361011,0.0433213,0.0505415
-Inver Grove Heights Schools,Salem Hills Elementary,Dakota,287,0.0139373,0.0278746,0.0418118,0.0557491,0.087108,0.101045,0.114983
+Inver Grove Heights Schools,Salem Hills Elementary,Dakota,287,0.0139373,0.0278746,0.0418118,0.0557491,0.087108,0.118467,0.132404
 Inver Grove Heights Schools,IGH Early Childhood Program,Dakota,69,0.057971,0.115942,0.173913,0.231884,0.289855,0.347826,0.405797
-Hastings Public School District,Hastings High School,Dakota,1404,0.002849,0.00569801,0.0192308,0.025641,0.0391738,0.045584,0.048433
-Hastings Public School District,Hastings Middle School,Dakota,1280,0.00703125,0.021875,0.0289062,0.0359375,0.0585938,0.0734375,0.0765625
+Hastings Public School District,Hastings High School,Dakota,1404,0.002849,0.00569801,0.0192308,0.025641,0.0391738,0.0527066,0.0591168
+Hastings Public School District,Hastings Middle School,Dakota,1280,0.00703125,0.021875,0.0289062,0.0359375,0.0585938,0.0734375,0.0804688
 Hastings Public School District,Hastings Early Child Special Ed.,Dakota,82,0.0487805,0.097561,0.146341,0.195122,0.243902,0.292683,0.341463
 Hastings Public School District,Kennedy Elementary,Dakota,452,0.00884956,0.0176991,0.0265487,0.0353982,0.0553097,0.0752212,0.0840708
-Hastings Public School District,Pinecrest Elementary,Dakota,456,0.00877193,0.0175439,0.0592105,0.0679825,0.0767544,0.0964912,0.105263
+Hastings Public School District,Pinecrest Elementary,Dakota,456,0.00877193,0.0175439,0.0592105,0.0679825,0.0767544,0.118421,0.127193
 Hastings Public School District,Christa McAuliffe Elementary,Dakota,507,0.00788955,0.0157791,0.0236686,0.0315582,0.0493097,0.126233,0.134122
 Hayfield Public School District,HAYFIELD SECONDARY,Dodge,376,0.0106383,0.0212766,0.0319149,0.0425532,0.0664894,0.117021,0.12766
 Hayfield Public School District,Hayfield Elementary,Dodge,291,0.0137457,0.0274914,0.0412371,0.0549828,0.154639,0.185567,0.199313
@@ -433,17 +433,17 @@ Kasson-Mantorville School District,Kasson-Mantorville Senior High,Dodge,672,0.00
 Kasson-Mantorville School District,Kasson-Mantorville Middle School,Dodge,700,0.0128571,0.0185714,0.0242857,0.03,0.0571429,0.0985714,0.104286
 Alexandria Public School District,Carlos Elementary,Douglas,116,0.0344828,0.0689655,0.103448,0.137931,0.172414,0.206897,0.241379
 Alexandria Public School District,Garfield Elementary,Douglas,156,0.025641,0.0512821,0.0769231,0.102564,0.128205,0.153846,0.179487
-Alexandria Public School District,Lincoln Elementary,Douglas,441,0.0204082,0.0294785,0.0498866,0.0589569,0.0793651,0.0884354,0.0975057
+Alexandria Public School District,Lincoln Elementary,Douglas,441,0.0204082,0.0294785,0.0498866,0.0589569,0.102041,0.111111,0.120181
 Alexandria Public School District,Miltona Elementary,Douglas,138,0.0289855,0.057971,0.0869565,0.115942,0.144928,0.173913,0.202899
-Alexandria Public School District,Woodland Elementary School,Douglas,402,0.00995025,0.0199005,0.0298507,0.0522388,0.0746269,0.0970149,0.106965
-Alexandria Public School District,Voyager Elementary,Douglas,427,0.0210773,0.030445,0.0398126,0.0491803,0.0702576,0.0796253,0.088993
+Alexandria Public School District,Woodland Elementary School,Douglas,402,0.00995025,0.0199005,0.0298507,0.0522388,0.0995025,0.121891,0.131841
+Alexandria Public School District,Voyager Elementary,Douglas,427,0.0210773,0.030445,0.0398126,0.0491803,0.0702576,0.0913349,0.100703
 Alexandria Public School District,Early Education Center,Douglas,91,0.043956,0.0879121,0.131868,0.175824,0.21978,0.263736,0.307692
-Alexandria Public School District,Discovery Middle School,Douglas,986,0.0040568,0.0233266,0.0324544,0.0415822,0.0608519,0.0699797,0.0740365
+Alexandria Public School District,Discovery Middle School,Douglas,986,0.0040568,0.0233266,0.0324544,0.0415822,0.0608519,0.0801217,0.0841785
 Alexandria Public School District,Alexandria Area High School,Douglas,1307,0.006886,0.0214231,0.0283091,0.0428462,0.0573833,0.0642693,0.0673298
 Osakis Public School District,Osakis Elementary,Douglas,410,0.0219512,0.0317073,0.0414634,0.0512195,0.0731707,0.0829268,0.0926829
 Osakis Public School District,Osakis Secondary,Douglas,427,0.0210773,0.0421546,0.0515222,0.0608899,0.0819672,0.0913349,0.100703
 Chatfield Public Schools,Chatfield Secondary,Olmsted,420,0.00952381,0.0190476,0.0285714,0.0380952,0.047619,0.0571429,0.0666667
-Chatfield Public Schools,Chatfield Elementary School,Fillmore,437,0.00915332,0.0183066,0.02746,0.0366133,0.0457666,0.0549199,0.0640732
+Chatfield Public Schools,Chatfield Elementary School,Fillmore,437,0.00915332,0.0183066,0.02746,0.0366133,0.0457666,0.0663616,0.0755149
 Lanesboro Public School District,Lanesboro Elementary,Fillmore,206,0.0194175,0.038835,0.0582524,0.101942,0.121359,0.140777,0.160194
 Lanesboro Public School District,Lanesboro Secondary,Fillmore,184,0.0217391,0.0434783,0.0652174,0.0869565,0.108696,0.130435,0.152174
 Mabel-Canton Public School Dist.,Mabel-Canton Elementary,Fillmore,159,0.0251572,0.0503145,0.0754717,0.100629,0.125786,0.150943,0.176101
@@ -461,15 +461,15 @@ Albert Lea Public School District,Southwest Middle,Freeborn,531,0.00753296,0.015
 Albert Lea Public School District,Albert Lea Area Learning Center,Freeborn,106,0.0377358,0.0754717,0.113208,0.150943,0.188679,0.226415,0.264151
 Alden-Conger Public School District,Alden-Conger Secondary,Freeborn,220,0.0181818,0.104545,0.122727,0.140909,0.159091,0.177273,0.195455
 Alden-Conger Public School District,Alden-Conger Elementary,Freeborn,249,0.0160643,0.0321285,0.0481928,0.064257,0.0803213,0.0963855,0.11245
-Cannon Falls Public School District,Cannon Falls Elementary,Goodhue,464,0.00862069,0.0172414,0.0258621,0.0452586,0.150862,0.170259,0.178879
+Cannon Falls Public School District,Cannon Falls Elementary,Goodhue,464,0.00862069,0.0172414,0.0258621,0.0452586,0.150862,0.19181,0.200431
 Cannon Falls Public School District,Cannon Falls Secondary,Goodhue,665,0.00601504,0.0120301,0.0406015,0.0541353,0.0827068,0.0887218,0.0947368
 Goodhue Public School District,Goodhue Elementary,Goodhue,385,0.0103896,0.0207792,0.0311688,0.0415584,0.0909091,0.101299,0.111688
 Goodhue Public School District,Goodhue Secondary,Goodhue,338,0.0118343,0.0236686,0.035503,0.0473373,0.0591716,0.0710059,0.0828402
 Pine Island Public School District,Pine Island Elementary,Olmsted,563,0.0071048,0.0142096,0.0301954,0.0461812,0.062167,0.0692718,0.0763766
-Pine Island Public School District,Pine Island Middle,Goodhue,475,0.00842105,0.0168421,0.0568421,0.0968421,0.136842,0.145263,0.153684
+Pine Island Public School District,Pine Island Middle,Goodhue,475,0.00842105,0.0168421,0.0568421,0.0968421,0.136842,0.155789,0.164211
 Pine Island Public School District,Pine Island Secondary,Goodhue,401,0.00997506,0.0199501,0.0299252,0.0399002,0.0498753,0.0598504,0.0698254
 Red Wing Public School District,Red Wing Senior High,Goodhue,1157,0.00345722,0.00691443,0.0103717,0.0181504,0.0345722,0.0509939,0.0544512
-Red Wing Public School District,Twin Bluff School,Goodhue,481,0.00831601,0.016632,0.024948,0.0644491,0.10395,0.143451,0.151767
+Red Wing Public School District,Twin Bluff School,Goodhue,481,0.00831601,0.016632,0.024948,0.0644491,0.10395,0.143451,0.162162
 Red Wing Public School District,Burnside Elementary,Goodhue,369,0.0108401,0.0216802,0.0325203,0.0433604,0.0542005,0.0785908,0.0894309
 Red Wing Public School District,Jefferson Elementary,Goodhue,172,0.0232558,0.0465116,0.0697674,0.0930233,0.116279,0.139535,0.162791
 Red Wing Public School District,Sunnyside Elementary,Goodhue,282,0.0141844,0.0283688,0.0425532,0.0744681,0.141844,0.173759,0.187943
@@ -486,18 +486,18 @@ Hopkins Public School District,Harley Hopkins Family Center,Hennepin,93,0.043010
 Hopkins Public School District,Eisenhower Elementary,Hennepin,401,0.00997506,0.0199501,0.0299252,0.0399002,0.0498753,0.0598504,0.0698254
 Hopkins Public School District,L.H. Tanglen Elementary,Hennepin,549,0.00728597,0.0145719,0.0218579,0.0291439,0.0455373,0.0528233,0.0601093
 Hopkins Public School District,Xinxing Academy,Hennepin,336,0.0119048,0.0238095,0.0357143,0.047619,0.0595238,0.0714286,0.0833333
-Hopkins Public School District,Gatewood Elementary,Hennepin,478,0.0083682,0.0167364,0.0251046,0.0334728,0.0523013,0.0606695,0.0690377
-Hopkins Public School District,Meadowbrook Elementary,Hennepin,837,0.00477897,0.00955795,0.0143369,0.0191159,0.0238949,0.0346476,0.0394265
+Hopkins Public School District,Gatewood Elementary,Hennepin,478,0.0083682,0.0167364,0.0251046,0.0334728,0.0523013,0.0606695,0.0794979
+Hopkins Public School District,Meadowbrook Elementary,Hennepin,837,0.00477897,0.00955795,0.0143369,0.0191159,0.0238949,0.0346476,0.0454002
 Bloomington Public School District,Kennedy Senior High,Hennepin,1597,0.0025047,0.00500939,0.010645,0.0131497,0.0156544,0.018159,0.0206637
-Bloomington Public School District,Jefferson Senior High,Hennepin,1655,0.00241692,0.00483384,0.00725076,0.00966767,0.021148,0.0265861,0.029003
-Bloomington Public School District,Oak Grove Middle,Hennepin,670,0.00597015,0.0119403,0.0179104,0.0238806,0.0298507,0.0358209,0.041791
-Bloomington Public School District,Valley View Middle,Hennepin,903,0.00442968,0.00885936,0.013289,0.0177187,0.0221484,0.0265781,0.0310078
-Bloomington Public School District,Olson Middle,Hennepin,705,0.00567376,0.0113475,0.0170213,0.022695,0.0283688,0.0340426,0.0397163
+Bloomington Public School District,Jefferson Senior High,Hennepin,1655,0.00241692,0.00483384,0.00725076,0.00966767,0.021148,0.0265861,0.0320242
+Bloomington Public School District,Oak Grove Middle,Hennepin,670,0.00597015,0.0119403,0.0179104,0.0238806,0.0298507,0.0432836,0.0492537
+Bloomington Public School District,Valley View Middle,Hennepin,903,0.00442968,0.00885936,0.013289,0.0177187,0.0221484,0.0321152,0.0365449
+Bloomington Public School District,Olson Middle,Hennepin,705,0.00567376,0.0113475,0.0170213,0.022695,0.0283688,0.0340426,0.0468085
 Bloomington Public School District,Washburn Elementary,Hennepin,706,0.00566572,0.0113314,0.0169972,0.0226629,0.0283286,0.0339943,0.0396601
-Bloomington Public School District,Hillcrest Elementary,Hennepin,343,0.0116618,0.0233236,0.0349854,0.0466472,0.0728863,0.0845481,0.0962099
+Bloomington Public School District,Hillcrest Elementary,Hennepin,343,0.0116618,0.0233236,0.0349854,0.0466472,0.0728863,0.0991254,0.110787
 Bloomington Public School District,Indian Mounds Elementary,Hennepin,292,0.0136986,0.0273973,0.0410959,0.0547945,0.0684932,0.0821918,0.0958904
 Bloomington Public School District,Olson Elementary,Hennepin,391,0.0102302,0.0588235,0.0690537,0.0792839,0.102302,0.112532,0.122762
-Bloomington Public School District,Oak Grove Elementary,Hennepin,409,0.00977995,0.0195599,0.0293399,0.0391198,0.0611247,0.0709046,0.0806846
+Bloomington Public School District,Oak Grove Elementary,Hennepin,409,0.00977995,0.0195599,0.0293399,0.0391198,0.0611247,0.0709046,0.0929095
 Bloomington Public School District,Normandale Hills Elementary,Hennepin,391,0.0102302,0.0204604,0.0434783,0.0537084,0.0767263,0.0869565,0.0971867
 Bloomington Public School District,Poplar Bridge Elementary,Hennepin,416,0.00961538,0.03125,0.0408654,0.0504808,0.0600962,0.0697115,0.0793269
 Bloomington Public School District,Ridgeview Elementary,Hennepin,369,0.0108401,0.0216802,0.0325203,0.0433604,0.0542005,0.0650407,0.0758808
@@ -507,39 +507,39 @@ Bloomington Public School District,Bloomington ECSE,Hennepin,178,0.0224719,0.044
 Bloomington Public School District,Choice Alternative High School,Hennepin,135,0.0296296,0.0592593,0.0888889,0.118519,0.148148,0.177778,0.207407
 Bloomington Public School District,Beacon ALP,Hennepin,122,0.0327869,0.0655738,0.0983607,0.131148,0.163934,0.196721,0.229508
 Eden Prairie Public School District,EP Distance Learning Academy,Hennepin,1110,0.0036036,0.00720721,0.0108108,0.0144144,0.018018,0.0216216,0.0252252
-Eden Prairie Public School District,Eden Prairie Senior High,Hennepin,2828,0.00141443,0.00282885,0.00601132,0.00919378,0.0159123,0.0173267,0.0187412
-Eden Prairie Public School District,Central Middle School,Hennepin,1315,0.00304183,0.0174905,0.0243346,0.0387833,0.0456274,0.0486692,0.051711
+Eden Prairie Public School District,Eden Prairie Senior High,Hennepin,2828,0.00141443,0.00282885,0.00601132,0.00919378,0.0159123,0.0190948,0.0222772
+Eden Prairie Public School District,Central Middle School,Hennepin,1315,0.00304183,0.0174905,0.0243346,0.0387833,0.0532319,0.0562738,0.0593156
 Eden Prairie Public School District,Oak Point Elementary,Hennepin,478,0.0188285,0.0376569,0.0774059,0.0857741,0.104603,0.123431,0.131799
-Eden Prairie Public School District,Prairie View Elementary,Hennepin,540,0.00740741,0.0240741,0.0407407,0.0481481,0.0648148,0.0722222,0.0796296
+Eden Prairie Public School District,Prairie View Elementary,Hennepin,540,0.00740741,0.0240741,0.0407407,0.0481481,0.0833333,0.118519,0.125926
 Eden Prairie Public School District,Forest Hills Elementary,Hennepin,382,0.0104712,0.0209424,0.0445026,0.0680628,0.078534,0.0890052,0.0994764
 Eden Prairie Public School District,Eden Lake Elementary,Hennepin,542,0.00738007,0.0239852,0.0313653,0.0387454,0.0461255,0.0535055,0.0608856
 Eden Prairie Public School District,Early Childhood Special Ed.,Hennepin,123,0.0325203,0.0650407,0.097561,0.130081,0.162602,0.195122,0.227642
-Eden Prairie Public School District,Eagle Heights Spanish Immersion,Hennepin,801,0.011236,0.0224719,0.0461923,0.051186,0.0561798,0.0611735,0.0661673
+Eden Prairie Public School District,Eagle Heights Spanish Immersion,Hennepin,801,0.011236,0.0224719,0.0461923,0.051186,0.062422,0.0674157,0.0724095
 Eden Prairie Public School District,Cedar Ridge Elementary,Hennepin,439,0.00911162,0.0182232,0.0273349,0.0364465,0.0455581,0.0546697,0.0637813
 Edina Public School District,South View Middle,Hennepin,968,0.00413223,0.00826446,0.017562,0.0216942,0.0309917,0.035124,0.0392562
 Edina Public School District,Valley View Middle,Hennepin,1010,0.0039604,0.00792079,0.0118812,0.0158416,0.019802,0.0237624,0.0277228
-Edina Public School District,Edina Senior High,Hennepin,2683,0.00149087,0.00298174,0.00633619,0.00782706,0.0111815,0.014536,0.0160268
+Edina Public School District,Edina Senior High,Hennepin,2683,0.00149087,0.00298174,0.00633619,0.00782706,0.0111815,0.014536,0.0216176
 Edina Public School District,Concord Elementary,Hennepin,698,0.00573066,0.0329513,0.0386819,0.0444126,0.0573066,0.0702006,0.0759312
 Edina Public School District,Cornelia Elementary,Hennepin,550,0.00727273,0.0145455,0.0218182,0.0381818,0.0545455,0.0618182,0.0690909
 Edina Public School District,Countryside Elementary,Hennepin,573,0.0069808,0.0139616,0.0209424,0.0279232,0.034904,0.0418848,0.0488656
-Edina Public School District,Highlands Elementary,Hennepin,530,0.00754717,0.0150943,0.0226415,0.0301887,0.0377358,0.054717,0.0622642
+Edina Public School District,Highlands Elementary,Hennepin,530,0.00754717,0.0150943,0.0226415,0.0301887,0.0471698,0.0641509,0.0811321
 Edina Public School District,Creek Valley Elementary,Hennepin,576,0.015625,0.0225694,0.0555556,0.0625,0.0694444,0.0763889,0.0833333
 Edina Public School District,Normandale Elementary,Hennepin,651,0.00614439,0.0122888,0.0184332,0.0245776,0.0384025,0.0445469,0.0506912
 Edina Public School District,Early Childhood Special Ed,Hennepin,95,0.0421053,0.0842105,0.126316,0.168421,0.210526,0.252632,0.294737
 Minnetonka Public School District,Minnetonka Senior High,Hennepin,3444,0.00551684,0.00813008,0.0107433,0.0119048,0.014518,0.0156794,0.0168409
 Minnetonka Public School District,Minnetonka East Middle,Hennepin,1315,0.00304183,0.00608365,0.0129278,0.0159696,0.0228137,0.0296578,0.0326996
-Minnetonka Public School District,Minnetonka West Middle,Carver,1245,0.00321285,0.0064257,0.0136546,0.0168675,0.0401606,0.0554217,0.0586345
-Minnetonka Public School District,Clear Springs Elementary,Hennepin,863,0.00463499,0.0150637,0.0196987,0.0243337,0.0347625,0.0451912,0.0498262
+Minnetonka Public School District,Minnetonka West Middle,Carver,1245,0.00321285,0.0064257,0.0136546,0.0168675,0.0401606,0.0554217,0.0626506
+Minnetonka Public School District,Clear Springs Elementary,Hennepin,863,0.00463499,0.0150637,0.0196987,0.0243337,0.0347625,0.0451912,0.0556199
 Minnetonka Public School District,Deephaven Elementary,Hennepin,652,0.00613497,0.0122699,0.0184049,0.0245399,0.053681,0.0828221,0.0889571
-Minnetonka Public School District,Excelsior Elementary,Hennepin,800,0.005,0.01,0.015,0.02,0.04375,0.04875,0.05375
+Minnetonka Public School District,Excelsior Elementary,Hennepin,800,0.005,0.01,0.015,0.02,0.04375,0.04875,0.06
 Minnetonka Public School District,Groveland Elementary,Hennepin,917,0.00436205,0.0087241,0.0130862,0.0229008,0.0763359,0.0970556,0.101418
-Minnetonka Public School District,Minnewashta Elementary,Hennepin,898,0.00445434,0.00890869,0.018931,0.0289532,0.0612472,0.0824053,0.0868597
+Minnetonka Public School District,Minnewashta Elementary,Hennepin,898,0.00445434,0.00890869,0.018931,0.0289532,0.0723831,0.0935412,0.103563
 Minnetonka Public School District,Scenic Heights Elementary,Hennepin,901,0.00443951,0.00887902,0.0133185,0.0233074,0.0443951,0.054384,0.0588235
 Minnetonka Public School District,Deephaven Education Center,Hennepin,71,0.056338,0.112676,0.169014,0.225352,0.28169,0.338028,0.394366
 Westonka Public School District,MOUND WESTONKA HIGH SCHOOL,Hennepin,1018,0.00392927,0.0127701,0.0166994,0.0206287,0.0294695,0.0333988,0.0373281
-Westonka Public School District,Grandview Middle School,Hennepin,539,0.00742115,0.0426716,0.0593692,0.0667904,0.0742115,0.0816327,0.0890538
+Westonka Public School District,Grandview Middle School,Hennepin,539,0.00742115,0.0426716,0.0593692,0.0667904,0.0742115,0.0909091,0.0983302
 Westonka Public School District,Shirley Hills Primary School,Hennepin,417,0.00959233,0.0191847,0.028777,0.0383693,0.059952,0.0695444,0.0791367
-Westonka Public School District,Hilltop Primary School,Hennepin,460,0.00869565,0.0282609,0.0369565,0.0456522,0.0543478,0.0630435,0.0717391
+Westonka Public School District,Hilltop Primary School,Hennepin,460,0.00869565,0.0282609,0.0369565,0.0565217,0.0652174,0.073913,0.0826087
 Orono Public School District,Orono Senior High,Hennepin,970,0.00412371,0.00824742,0.0123711,0.0164948,0.0257732,0.0298969,0.0340206
 Orono Public School District,Orono Middle,Hennepin,698,0.00573066,0.0186246,0.0243553,0.0372493,0.0429799,0.0487106,0.0544413
 Orono Public School District,Schumann Elementary,Hennepin,567,0.00705467,0.0141093,0.021164,0.0282187,0.0440917,0.0776014,0.0846561
@@ -549,11 +549,11 @@ Osseo Public School District,Osseo Middle School,Hennepin,882,0.00453515,0.00907
 Osseo Public School District,Osseo Education Center,Hennepin,68,0.0588235,0.117647,0.176471,0.235294,0.367647,0.426471,0.485294
 Osseo Public School District,North View Middle School,Hennepin,406,0.00985222,0.0197044,0.0295567,0.0394089,0.0492611,0.0591133,0.0689655
 Osseo Public School District,Park Center IB World School,Hennepin,1374,0.00291121,0.00582242,0.00873362,0.0152838,0.0181951,0.0211063,0.0240175
-Osseo Public School District,Maple Grove Senior High,Hennepin,2077,0.0139624,0.0182956,0.0202215,0.0221473,0.0264805,0.0284064,0.0303322
+Osseo Public School District,Maple Grove Senior High,Hennepin,2077,0.0139624,0.0182956,0.0202215,0.0221473,0.0264805,0.0308137,0.0327395
 Osseo Public School District,Maple Grove Middle School,Hennepin,1331,0.00300526,0.00976709,0.0165289,0.0232908,0.0375657,0.0443276,0.0473328
-Osseo Public School District,Woodland Elementary,Hennepin,456,0.00877193,0.0175439,0.0263158,0.0350877,0.0438596,0.0526316,0.0614035
-Osseo Public School District,Edinbrook Elementary,Hennepin,488,0.00819672,0.0163934,0.0245902,0.0430328,0.0512295,0.0696721,0.0778689
-Osseo Public School District,Rush Creek Elementary,Hennepin,630,0.00634921,0.0206349,0.0507937,0.0571429,0.0714286,0.0777778,0.084127
+Osseo Public School District,Woodland Elementary,Hennepin,456,0.00877193,0.0175439,0.0263158,0.0350877,0.0438596,0.0635965,0.0723684
+Osseo Public School District,Edinbrook Elementary,Hennepin,488,0.00819672,0.0163934,0.0245902,0.0430328,0.0614754,0.079918,0.0881148
+Osseo Public School District,Rush Creek Elementary,Hennepin,630,0.00634921,0.0206349,0.0507937,0.0571429,0.0873016,0.0936508,0.1
 Osseo Public School District,Basswood Elementary,Hennepin,746,0.00536193,0.0107239,0.0160858,0.0281501,0.0670241,0.0924933,0.0978552
 Osseo Public School District,Birch Grove School For The Arts,Hennepin,252,0.015873,0.031746,0.047619,0.0833333,0.119048,0.134921,0.150794
 Osseo Public School District,Crest View Elementary,Hennepin,240,0.0166667,0.0333333,0.05,0.0666667,0.0833333,0.1,0.116667
@@ -561,9 +561,9 @@ Osseo Public School District,Fair Oaks Elementary,Hennepin,256,0.015625,0.03125,
 Osseo Public School District,Garden City Elementary,Hennepin,223,0.0179372,0.0358744,0.0538117,0.0717489,0.0896861,0.107623,0.125561
 Osseo Public School District,Palmer Lake Elementary,Hennepin,286,0.013986,0.027972,0.041958,0.0559441,0.0699301,0.0839161,0.0979021
 Osseo Public School District,Park Brook Elementary,Hennepin,199,0.0201005,0.040201,0.0603015,0.080402,0.100503,0.120603,0.140704
-Osseo Public School District,Cedar Island Elementary,Hennepin,338,0.0118343,0.0236686,0.035503,0.0473373,0.0739645,0.0857988,0.0976331
+Osseo Public School District,Cedar Island Elementary,Hennepin,338,0.0118343,0.0236686,0.035503,0.0473373,0.10355,0.115385,0.127219
 Osseo Public School District,Elm Creek Elementary,Hennepin,366,0.010929,0.0218579,0.0327869,0.0437158,0.0546448,0.0655738,0.0765027
-Osseo Public School District,Rice Lake Elementary,Hennepin,465,0.00860215,0.027957,0.0365591,0.055914,0.0967742,0.105376,0.113978
+Osseo Public School District,Rice Lake Elementary,Hennepin,465,0.00860215,0.027957,0.0365591,0.055914,0.0967742,0.116129,0.124731
 Osseo Public School District,Fernbrook Elementary,Hennepin,651,0.0138249,0.0276498,0.0337942,0.047619,0.0768049,0.0829493,0.0890937
 Osseo Public School District,Oak View Elementary,Hennepin,338,0.0118343,0.0236686,0.035503,0.0473373,0.0739645,0.100592,0.112426
 Osseo Public School District,Early Childhood Special Education,Hennepin,325,0.0123077,0.0246154,0.0369231,0.0492308,0.0615385,0.0738462,0.0861538
@@ -594,12 +594,12 @@ Robbinsdale Public School District,Plymouth Middle,Hennepin,1006,0.00397614,0.00
 Robbinsdale Public School District,Robbinsdale Middle,Hennepin,791,0.00505689,0.0101138,0.0151707,0.0202276,0.0252845,0.0303413,0.0353982
 Robbinsdale Public School District,Sandburg Middle School,Hennepin,583,0.00686106,0.0137221,0.0205832,0.0274443,0.0343053,0.0411664,0.0480274
 Robbinsdale Public School District,Robbinsdale Cooper Senior High,Hennepin,1694,0.00531287,0.0165289,0.0218418,0.0271547,0.0324675,0.0348288,0.0371901
-Robbinsdale Public School District,Robbinsdale Armstrong Senior High,Hennepin,1926,0.0046729,0.00674974,0.0114226,0.0134995,0.0155763,0.0176532,0.01973
+Robbinsdale Public School District,Robbinsdale Armstrong Senior High,Hennepin,1926,0.0046729,0.00674974,0.0114226,0.0134995,0.0155763,0.0202492,0.0249221
 Robbinsdale Public School District,Early Childhood Special Education,Hennepin,175,0.0228571,0.0457143,0.0685714,0.0914286,0.114286,0.137143,0.16
 Robbinsdale Public School District,Robbinsdale Transition Center,Hennepin,67,0.0597015,0.119403,0.179104,0.238806,0.298507,0.358209,0.41791
 Robbinsdale Public School District,Highview ALC,Hennepin,223,0.0179372,0.0358744,0.0538117,0.0717489,0.0896861,0.107623,0.125561
 Robbinsdale Public School District,The FAIR School - Crystal,Hennepin,222,0.018018,0.036036,0.0540541,0.0720721,0.0900901,0.108108,0.126126
-St. Anthony-New Brighton Schools,St. Anthony Village Senior High,Hennepin,673,0.00594354,0.0118871,0.0178306,0.0237741,0.0371471,0.0430906,0.0490342
+St. Anthony-New Brighton Schools,St. Anthony Village Senior High,Hennepin,673,0.00594354,0.0118871,0.0178306,0.0237741,0.0297177,0.0356612,0.0490342
 St. Anthony-New Brighton Schools,Wilshire Park Elementary,Hennepin,656,0.00609756,0.0121951,0.0182927,0.0320122,0.0457317,0.0594512,0.0655488
 St. Anthony-New Brighton Schools,St. Anthony Middle,Hennepin,422,0.00947867,0.0189573,0.028436,0.0379147,0.0473934,0.056872,0.0663507
 St. Louis Park Public School District,St. Louis Park Senior High,Hennepin,1467,0.00272665,0.00545331,0.0115883,0.0143149,0.0170416,0.0299932,0.0327198
@@ -610,18 +610,18 @@ St. Louis Park Public School District,Susan Lindgren Elementary,Hennepin,444,0.0
 St. Louis Park Public School District,St. Louis Park Special Ed. Program,Hennepin,103,0.038835,0.0776699,0.116505,0.15534,0.194175,0.23301,0.271845
 St. Louis Park Public School District,Park Spanish Immersion Elementary,Hennepin,518,0.00772201,0.015444,0.023166,0.030888,0.03861,0.046332,0.0540541
 Wayzata Public School District,The Alternative Program (TAP),Hennepin,176,0.0227273,0.0454545,0.0681818,0.0909091,0.113636,0.136364,0.159091
-Wayzata Public School District,Wayzata High,Hennepin,3502,0.00542547,0.00799543,0.00913764,0.0102798,0.0128498,0.0154198,0.016562
+Wayzata Public School District,Wayzata High,Hennepin,3502,0.00542547,0.00799543,0.00913764,0.0102798,0.0128498,0.0154198,0.0179897
 Wayzata Public School District,Wayzata West Middle,Hennepin,720,0.00555556,0.0111111,0.0166667,0.0222222,0.0277778,0.0333333,0.0388889
-Wayzata Public School District,Wayzata East Middle,Hennepin,651,0.00614439,0.0122888,0.0184332,0.0245776,0.030722,0.0368664,0.0430108
-Wayzata Public School District,Wayzata Central Middle,Hennepin,1363,0.0029347,0.00586941,0.00880411,0.0117388,0.0256787,0.0286134,0.0315481
-Wayzata Public School District,North Woods Elementary School,Hennepin,600,0.00666667,0.0133333,0.0283333,0.0433333,0.0583333,0.065,0.0716667
+Wayzata Public School District,Wayzata East Middle,Hennepin,651,0.00614439,0.0122888,0.0184332,0.0245776,0.030722,0.0368664,0.0506912
+Wayzata Public School District,Wayzata Central Middle,Hennepin,1363,0.0029347,0.00586941,0.00880411,0.0117388,0.0256787,0.0322817,0.0352164
+Wayzata Public School District,North Woods Elementary School,Hennepin,600,0.00666667,0.0133333,0.0283333,0.0433333,0.0583333,0.0733333,0.0883333
 Wayzata Public School District,Meadow Ridge Elementary School,Hennepin,765,0.0117647,0.0496732,0.054902,0.0601307,0.0718954,0.0771242,0.0823529
 Wayzata Public School District,Birchview Elementary,Hennepin,413,0.00968523,0.0193705,0.0290557,0.0387409,0.0484262,0.0581114,0.0677966
-Wayzata Public School District,Greenwood Elementary,Hennepin,721,0.00554785,0.0110957,0.037448,0.0499307,0.0624133,0.0679612,0.073509
+Wayzata Public School District,Greenwood Elementary,Hennepin,721,0.00554785,0.0110957,0.037448,0.0499307,0.0624133,0.0679612,0.0804438
 Wayzata Public School District,Oakwood Elementary,Hennepin,458,0.00873362,0.0174672,0.0262009,0.0349345,0.0436681,0.0524017,0.0611354
 Wayzata Public School District,Sunset Hill Elementary,Hennepin,618,0.00647249,0.012945,0.0194175,0.02589,0.0728155,0.079288,0.0857605
 Wayzata Public School District,Early Childhood Special Education,Hennepin,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
-Wayzata Public School District,Plymouth Creek Elementary,Hennepin,624,0.00641026,0.0128205,0.0192308,0.025641,0.0320513,0.0464744,0.0528846
+Wayzata Public School District,Plymouth Creek Elementary,Hennepin,624,0.00641026,0.0128205,0.0192308,0.025641,0.0400641,0.0544872,0.0608974
 Wayzata Public School District,Gleason Lake Elementary,Hennepin,600,0.00666667,0.0133333,0.02,0.0266667,0.0333333,0.04,0.0466667
 Wayzata Public School District,Kimberly Lane Elementary,Hennepin,571,0.00700525,0.0140105,0.0210158,0.028021,0.0350263,0.0420315,0.0490368
 Brooklyn Center School District,Brooklyn Center Middle School,Hennepin,368,0.0108696,0.0217391,0.0326087,0.0434783,0.0679348,0.0923913,0.103261
@@ -652,7 +652,7 @@ Laporte Public School District,Laporte Elementary,Hubbard,175,0.0228571,0.045714
 Laporte Public School District,Laporte Secondary,Hubbard,89,0.0449438,0.0898876,0.134831,0.179775,0.224719,0.269663,0.314607
 Laporte Public School District,Laporte Middle School,Hubbard,88,0.0454545,0.0909091,0.136364,0.181818,0.227273,0.272727,0.318182
 Nevis Public School District,Nevis Elementary,Hubbard,325,0.0276923,0.0553846,0.0676923,0.0953846,0.107692,0.12,0.132308
-Nevis Public School District,Nevis Secondary,Hubbard,274,0.0145985,0.0291971,0.0620438,0.0766423,0.0912409,0.105839,0.120438
+Nevis Public School District,Nevis Secondary,Hubbard,274,0.0145985,0.0291971,0.0620438,0.0948905,0.109489,0.124088,0.138686
 Park Rapids Public School District,Frank White Education Center,Hubbard,74,0.0540541,0.108108,0.162162,0.216216,0.27027,0.324324,0.378378
 Park Rapids Public School District,Park Rapids Area Century Elementary,Hubbard,620,0.0145161,0.0290323,0.0435484,0.05,0.0564516,0.0709677,0.0774194
 Park Rapids Public School District,Park Rapids Senior High,Hubbard,458,0.00873362,0.0502183,0.069869,0.0786026,0.0873362,0.0960699,0.104803
@@ -665,32 +665,32 @@ Greenway Public School District,Greenway Senior High,Itasca,292,0.0136986,0.0273
 Deer River Public School District,Deer River Secondary,Itasca,448,0.00892857,0.0178571,0.0379464,0.046875,0.0558036,0.0647321,0.0736607
 Deer River Public School District,King Elementary,Itasca,456,0.00877193,0.0175439,0.0263158,0.0350877,0.0438596,0.0526316,0.0614035
 Grand Rapids Public School District,Grand Rapids Early Childhood Center,Itasca,95,0.0421053,0.0842105,0.126316,0.168421,0.210526,0.252632,0.294737
-Grand Rapids Public School District,Cohasset Elementary,Itasca,261,0.0153257,0.0306513,0.0651341,0.0804598,0.0957854,0.111111,0.126437
+Grand Rapids Public School District,Cohasset Elementary,Itasca,261,0.0153257,0.0306513,0.0651341,0.0804598,0.114943,0.130268,0.145594
 Grand Rapids Public School District,Bigfork Elementary,Itasca,151,0.0596026,0.0860927,0.112583,0.139073,0.165563,0.192053,0.218543
 Grand Rapids Public School District,East Rapids Elementary,Itasca,591,0.00676819,0.0135364,0.0287648,0.0439932,0.0761421,0.0829103,0.0896785
 Grand Rapids Public School District,West Rapids Elementary,Itasca,562,0.00711744,0.0142349,0.0302491,0.0462633,0.0533808,0.0604982,0.0676157
 Grand Rapids Public School District,Bigfork Secondary,Itasca,128,0.148438,0.21875,0.25,0.28125,0.3125,0.34375,0.375
-Grand Rapids Public School District,Grand Rapids Senior High,Itasca,1142,0.00350263,0.0201401,0.028021,0.0359019,0.0525394,0.056042,0.0595447
+Grand Rapids Public School District,Grand Rapids Senior High,Itasca,1142,0.00350263,0.0201401,0.028021,0.0359019,0.061296,0.0691769,0.0726795
 Grand Rapids Public School District,GRAND RAPIDS AREA LEARNING CENTER,Itasca,106,0.0377358,0.0754717,0.113208,0.150943,0.188679,0.226415,0.264151
 Grand Rapids Public School District,Robert J. Elkington Middle School,Itasca,788,0.00507614,0.0291878,0.0532995,0.0647208,0.0761421,0.0812183,0.0862944
 Grand Rapids Public School District,Middle Area Learning Center,Itasca,101,0.039604,0.0792079,0.118812,0.158416,0.19802,0.237624,0.277228
-Nashwauk-Keewatin School District,Keewatin-Nashwauk Elementary School,Itasca,316,0.0126582,0.0411392,0.0537975,0.0664557,0.0949367,0.107595,0.120253
+Nashwauk-Keewatin School District,Keewatin-Nashwauk Elementary School,Itasca,316,0.0126582,0.0411392,0.0537975,0.0664557,0.126582,0.139241,0.151899
 Nashwauk-Keewatin School District,Nashwauk Secondary,Itasca,277,0.0144404,0.0469314,0.0794224,0.0938628,0.126354,0.140794,0.155235
 Heron Lake-Okabena School District,Heron Lake-Okabena Elementary,Jackson,136,0.0294118,0.0588235,0.0882353,0.117647,0.147059,0.176471,0.205882
 Heron Lake-Okabena School District,Heron Lake-Okabena Secondary,Jackson,184,0.0217391,0.0706522,0.0923913,0.11413,0.13587,0.157609,0.179348
-Mora Public School District,Mora Elementary School,Kanabec,799,0.00500626,0.0100125,0.0150188,0.020025,0.0438048,0.0801001,0.0851064
-Mora Public School District,Mora Secondary,Kanabec,712,0.00561798,0.0323034,0.0589888,0.0646067,0.0772472,0.0898876,0.0955056
+Mora Public School District,Mora Elementary School,Kanabec,799,0.00500626,0.0100125,0.0150188,0.020025,0.0438048,0.0801001,0.0913642
+Mora Public School District,Mora Secondary,Kanabec,712,0.00561798,0.0323034,0.0589888,0.0646067,0.0772472,0.0898876,0.102528
 Mora Public School District,MORA ALTERNATIVE LEARNING CENTER,Kanabec,53,0.0754717,0.150943,0.226415,0.301887,0.377358,0.45283,0.528302
 Ogilvie Public School District,Ogilvie Elementary,Kanabec,216,0.0185185,0.037037,0.0555556,0.0740741,0.115741,0.157407,0.175926
-Ogilvie Public School District,Ogilvie Secondary,Kanabec,268,0.0149254,0.0298507,0.0634328,0.0783582,0.0932836,0.108209,0.123134
+Ogilvie Public School District,Ogilvie Secondary,Kanabec,268,0.0149254,0.0298507,0.0634328,0.0783582,0.11194,0.126866,0.141791
 New London-Spicer School District,Prairie Woods Elementary,Kandiyohi,553,0.00723327,0.0415913,0.0578662,0.074141,0.0813743,0.0886076,0.0958409
 New London-Spicer School District,New London-Spicer Middle,Kandiyohi,485,0.00824742,0.0164948,0.0247423,0.0329897,0.0412371,0.0494845,0.057732
 New London-Spicer School District,New London-Spicer Sr.,Kandiyohi,448,0.00892857,0.0178571,0.0267857,0.0357143,0.0446429,0.0535714,0.0625
 Willmar Public School District,Roosevelt Elementary,Kandiyohi,599,0.0066778,0.0217028,0.0367279,0.0684474,0.100167,0.106845,0.113523
-Willmar Public School District,Kennedy Elementary,Kandiyohi,737,0.00542741,0.0447761,0.0841248,0.0895522,0.101764,0.107191,0.112619
+Willmar Public School District,Kennedy Elementary,Kandiyohi,737,0.00542741,0.0447761,0.0841248,0.0963365,0.108548,0.113976,0.119403
 Willmar Public School District,Lakeland Elementary School,Kandiyohi,559,0.00715564,0.0143113,0.0483005,0.0644007,0.0805009,0.0966011,0.103757
-Willmar Public School District,Willmar Senior High,Kandiyohi,1296,0.00694444,0.029321,0.0516975,0.066358,0.0810185,0.0841049,0.0871914
-Willmar Public School District,Willmar Middle School,Kandiyohi,904,0.00442478,0.0143805,0.0353982,0.0564159,0.0774336,0.0818584,0.0862832
+Willmar Public School District,Willmar Senior High,Kandiyohi,1296,0.00694444,0.029321,0.0516975,0.066358,0.0810185,0.0841049,0.0910494
+Willmar Public School District,Willmar Middle School,Kandiyohi,904,0.00442478,0.0143805,0.0353982,0.0564159,0.0774336,0.0873894,0.0918142
 Willmar Public School District,Willmar Area Learning Center,Kandiyohi,96,0.0416667,0.0833333,0.125,0.21875,0.260417,0.302083,0.34375
 Lancaster Public School District,Lancaster Elementary,Kittson,115,0.0347826,0.0695652,0.104348,0.13913,0.173913,0.208696,0.243478
 Lancaster Public School District,Lancaster Secondary,Kittson,77,0.0519481,0.103896,0.155844,0.207792,0.25974,0.311688,0.363636
@@ -724,7 +724,7 @@ Marshall Public School District,Marshall Early Childhood Voluntary PreK,Lyon,95,
 Minneota Public School District,Minneota Elementary,Lyon,238,0.0798319,0.159664,0.176471,0.193277,0.210084,0.226891,0.243697
 Minneota Public School District,Minneota Secondary,Lyon,285,0.0666667,0.0807018,0.0947368,0.108772,0.122807,0.136842,0.150877
 Lynd Public School District,Lynd Elementary,Lyon,119,0.0336134,0.0672269,0.10084,0.134454,0.168067,0.201681,0.235294
-Hutchinson Public School District,Hutchinson Park Elementary,Mcleod,762,0.011811,0.0170604,0.0288714,0.0406824,0.0656168,0.0774278,0.0826772
+Hutchinson Public School District,Hutchinson Park Elementary,Mcleod,762,0.011811,0.0170604,0.0288714,0.0406824,0.0656168,0.0905512,0.102362
 Hutchinson Public School District,Hutchinson Middle,Mcleod,596,0.0318792,0.0385906,0.045302,0.0604027,0.0922819,0.107383,0.114094
 Hutchinson Public School District,Hutchinson Senior High,Mcleod,927,0.00970874,0.0194175,0.0291262,0.038835,0.0593312,0.0798274,0.0841424
 Hutchinson Public School District,Hutchinson West Elementary,Mcleod,402,0.0472637,0.0696517,0.079602,0.0895522,0.0995025,0.121891,0.131841
@@ -749,16 +749,16 @@ Litchfield Public School District,Lake Ripley Elementary,Meeker,515,0.00776699,0
 Litchfield Public School District,Litchfield Middle School,Meeker,466,0.00858369,0.027897,0.0472103,0.0665236,0.0858369,0.0944206,0.103004
 Litchfield Public School District,Litchfield Senior High,Meeker,462,0.00865801,0.017316,0.0367965,0.0454545,0.0541126,0.0627706,0.0714286
 Dassel-Cokato Public School Dist.,Cokato Elementary,Wright,380,0.0105263,0.0342105,0.0447368,0.0552632,0.0657895,0.0763158,0.0868421
-Dassel-Cokato Public School Dist.,Dassel-Cokato Senior High,Wright,574,0.00696864,0.0139373,0.0209059,0.0278746,0.0348432,0.0418118,0.0487805
+Dassel-Cokato Public School Dist.,Dassel-Cokato Senior High,Wright,574,0.00696864,0.0139373,0.0209059,0.0278746,0.0348432,0.0505226,0.0574913
 Dassel-Cokato Public School Dist.,Dassel Elementary,Meeker,313,0.0127796,0.0415335,0.0543131,0.0670927,0.0798722,0.108626,0.121406
-Dassel-Cokato Public School Dist.,Dassel-Cokato Middle,Wright,646,0.00619195,0.0123839,0.0185759,0.0247678,0.0386997,0.0448916,0.0510836
+Dassel-Cokato Public School Dist.,Dassel-Cokato Middle,Wright,646,0.00619195,0.0123839,0.0185759,0.0247678,0.0386997,0.0526316,0.0588235
 Dassel-Cokato Public School Dist.,Dassel-Cokato Alternative Ctr.,Wright,92,0.0434783,0.0869565,0.130435,0.173913,0.217391,0.26087,0.304348
 Isle Public School District,Isle Elementary,Mille Lacs,206,0.0194175,0.038835,0.0582524,0.0776699,0.0970874,0.116505,0.135922
 Isle Public School District,Isle Secondary,Mille Lacs,189,0.021164,0.042328,0.0634921,0.0846561,0.10582,0.126984,0.148148
-Princeton Public School District,Princeton Primary School,Mille Lacs,656,0.00609756,0.0198171,0.0335366,0.0472561,0.0533537,0.0670732,0.0731707
-Princeton Public School District,Princeton Intermediate School,Mille Lacs,693,0.00577201,0.018759,0.031746,0.044733,0.0721501,0.0851371,0.0909091
-Princeton Public School District,Princeton Middle School,Mille Lacs,745,0.0255034,0.0375839,0.042953,0.0483221,0.0738255,0.0791946,0.0845638
-Princeton Public School District,Princeton High School,Mille Lacs,911,0.00439078,0.00878156,0.0186608,0.039517,0.0603732,0.0702525,0.0746432
+Princeton Public School District,Princeton Primary School,Mille Lacs,656,0.00609756,0.0198171,0.0335366,0.0472561,0.0609756,0.089939,0.0960366
+Princeton Public School District,Princeton Intermediate School,Mille Lacs,693,0.00577201,0.018759,0.031746,0.044733,0.0865801,0.0995671,0.105339
+Princeton Public School District,Princeton Middle School,Mille Lacs,745,0.0255034,0.0375839,0.042953,0.0483221,0.0872483,0.0993289,0.104698
+Princeton Public School District,Princeton High School,Mille Lacs,911,0.00439078,0.00878156,0.0186608,0.039517,0.0713502,0.0812294,0.0856202
 Princeton Public School District,Princeton Online MN,Mille Lacs,97,0.0412371,0.0824742,0.123711,0.164948,0.206186,0.247423,0.28866
 Princeton Public School District,Early Childhood Special Education,Mille Lacs,53,0.0754717,0.150943,0.226415,0.301887,0.377358,0.45283,0.528302
 Onamia Public School District,Onamia Primary School,Mille Lacs,116,0.0344828,0.0689655,0.103448,0.137931,0.172414,0.206897,0.241379
@@ -788,7 +788,7 @@ Austin Public School District,Woodson Kindergarten Center,Mower,354,0.0112994,0.
 Austin Public School District,Austin Community Learning Center,Mower,65,0.0615385,0.123077,0.184615,0.246154,0.307692,0.369231,0.430769
 Austin Public School District,Austin Area Learning Center,Mower,172,0.0232558,0.0465116,0.0697674,0.0930233,0.116279,0.139535,0.162791
 Austin Public School District,Austin Senior High,Mower,1308,0.014526,0.0214067,0.0282875,0.0351682,0.0496942,0.0527523,0.0558104
-Austin Public School District,I.J. Holton Intermediate School,Mower,769,0.0117035,0.023407,0.0351105,0.0403121,0.0520156,0.0572172,0.0624187
+Austin Public School District,I.J. Holton Intermediate School,Mower,769,0.0117035,0.023407,0.0351105,0.0403121,0.0520156,0.0572172,0.0689207
 Austin Public School District,Ellis Middle,Mower,770,0.00519481,0.0103896,0.0220779,0.0272727,0.0324675,0.0376623,0.0428571
 Grand Meadow Public School District,Grand Meadow Elementary,Mower,176,0.0227273,0.0738636,0.0965909,0.119318,0.142045,0.164773,0.1875
 Grand Meadow Public School District,Grand Meadow Middle,Mower,143,0.027972,0.0909091,0.153846,0.181818,0.20979,0.237762,0.265734
@@ -821,7 +821,7 @@ Worthington Public School District,Learning Center,Nobles,77,0.0519481,0.103896,
 Worthington Public School District,Worthington Senior High,Nobles,1014,0.00394477,0.00788955,0.0167653,0.025641,0.0295858,0.0335306,0.0374753
 Worthington Public School District,Worthington 518 (Virtual Instruction By Excellence),Nobles,95,0.0421053,0.0842105,0.126316,0.168421,0.210526,0.252632,0.294737
 Byron Public School District,Byron Intermediate School,Olmsted,497,0.00804829,0.0160966,0.0241449,0.0321932,0.0503018,0.0684105,0.0764588
-Byron Public School District,Byron Senior High School,Olmsted,681,0.00587372,0.0117474,0.0176211,0.0234949,0.0367107,0.0425844,0.0484581
+Byron Public School District,Byron Senior High School,Olmsted,681,0.00587372,0.0117474,0.0176211,0.0234949,0.0367107,0.0425844,0.0558003
 Byron Public School District,Byron Middle School,Olmsted,513,0.00779727,0.0155945,0.0233918,0.0311891,0.0389864,0.0565302,0.0643275
 Byron Public School District,Byron Primary School,Olmsted,573,0.0069808,0.0139616,0.0209424,0.0279232,0.034904,0.0506108,0.0575916
 Dover-Eyota Public School District,Dover-Eyota Elementary,Olmsted,487,0.00821355,0.0164271,0.0349076,0.0431211,0.0513347,0.0595483,0.0677618
@@ -832,20 +832,20 @@ Stewartville Public School District,Bonner Elementary,Olmsted,461,0.00867679,0.0
 Stewartville Public School District,Stewartville Middle,Olmsted,481,0.00831601,0.027027,0.0873181,0.106029,0.114345,0.122661,0.130977
 Stewartville Public School District,Stewartville Senior High,Olmsted,628,0.00636943,0.0366242,0.0509554,0.0573248,0.0636943,0.0700637,0.0764331
 Rochester Public School District,Bamber Valley Elementary,Olmsted,764,0.0248691,0.0497382,0.0549738,0.0667539,0.0719895,0.0772251,0.0824607
-Rochester Public School District,Bishop Elementary,Olmsted,431,0.0208817,0.0301624,0.0394432,0.0487239,0.0696056,0.0788863,0.0881671
+Rochester Public School District,Bishop Elementary,Olmsted,431,0.0208817,0.0301624,0.0394432,0.0487239,0.0696056,0.0904872,0.099768
 Rochester Public School District,Churchill Elementary,Olmsted,292,0.0136986,0.0273973,0.0410959,0.0547945,0.0684932,0.0821918,0.0958904
 Rochester Public School District,Elton Hills Elementary,Olmsted,423,0.00945626,0.0189125,0.0401891,0.0614657,0.070922,0.0803783,0.0898345
 Rochester Public School District,Folwell Elementary,Olmsted,290,0.0137931,0.0275862,0.0413793,0.0551724,0.0689655,0.0827586,0.0965517
 Rochester Public School District,Franklin Elementary,Olmsted,547,0.00731261,0.023766,0.0310786,0.0383912,0.0457038,0.0621572,0.0694698
 Rochester Public School District,Montessori At Franklin,Olmsted,181,0.0220994,0.0441989,0.0662983,0.0883978,0.138122,0.187845,0.209945
 Rochester Public School District,Gage Elementary,Olmsted,684,0.0131579,0.0263158,0.0321637,0.0380117,0.0438596,0.0570175,0.0628655
-Rochester Public School District,George W. Gibbs Elementary,Olmsted,782,0.011509,0.016624,0.0409207,0.0460358,0.0703325,0.0818414,0.0869565
+Rochester Public School District,George W. Gibbs Elementary,Olmsted,782,0.011509,0.016624,0.0409207,0.0460358,0.0511509,0.0626598,0.0677749
 Rochester Public School District,Hoover Elementary,Olmsted,252,0.015873,0.0515873,0.0674603,0.0833333,0.119048,0.134921,0.150794
 Rochester Public School District,Jefferson Elementary,Olmsted,579,0.00690846,0.0224525,0.029361,0.0362694,0.0518135,0.0673575,0.074266
-Rochester Public School District,Lincoln K-8 Choice Elementary,Olmsted,466,0.00858369,0.0171674,0.0257511,0.0343348,0.0429185,0.0622318,0.0708155
+Rochester Public School District,Lincoln K-8 Choice Elementary,Olmsted,466,0.00858369,0.0171674,0.0257511,0.0343348,0.0536481,0.0729614,0.0815451
 Rochester Public School District,Longfellow Choice Elementary,Olmsted,303,0.0132013,0.0429043,0.0561056,0.0693069,0.0825083,0.112211,0.125413
-Rochester Public School District,Pinewood Elementary,Olmsted,361,0.0110803,0.0221607,0.033241,0.0443213,0.0692521,0.0803324,0.0914127
-Rochester Public School District,Riverside Central Elementary,Olmsted,409,0.00977995,0.0195599,0.0415648,0.0635697,0.0733496,0.0831296,0.0929095
+Rochester Public School District,Pinewood Elementary,Olmsted,361,0.0110803,0.0221607,0.033241,0.0443213,0.0969529,0.108033,0.119114
+Rochester Public School District,Riverside Central Elementary,Olmsted,409,0.00977995,0.0195599,0.0415648,0.0513447,0.0611247,0.0831296,0.0929095
 Rochester Public School District,Sunset Terrace Elementary,Olmsted,650,0.0138462,0.02,0.0261538,0.0323077,0.0384615,0.0446154,0.0507692
 Rochester Public School District,Washington Elementary,Olmsted,326,0.0122699,0.0245399,0.0368098,0.0490798,0.0613497,0.0736196,0.0858896
 Rochester Public School District,Early Childhood Intervention,Olmsted,121,0.0330579,0.0661157,0.0991736,0.132231,0.165289,0.198347,0.231405
@@ -853,10 +853,10 @@ Rochester Public School District,Mighty Oaks Early Learning School,Olmsted,60,0.
 Rochester Public School District,Hoover Early Learning School,Olmsted,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
 Rochester Public School District,Century Senior High,Olmsted,1604,0.0118454,0.0174564,0.0230673,0.0286783,0.0405237,0.0523691,0.0548628
 Rochester Public School District,Rochester Alternative Learning Center,Olmsted,346,0.0115607,0.0231214,0.0346821,0.0462428,0.0578035,0.0693642,0.0809249
-Rochester Public School District,John Marshall Senior High,Olmsted,1629,0.00552486,0.0171885,0.0227133,0.0282382,0.033763,0.0392879,0.0417434
-Rochester Public School District,Mayo Senior High,Olmsted,1941,0.00206079,0.00669758,0.0164863,0.0262751,0.0283359,0.0329727,0.0350335
+Rochester Public School District,John Marshall Senior High,Olmsted,1629,0.00552486,0.0171885,0.0227133,0.0282382,0.0399018,0.0454266,0.0478821
+Rochester Public School District,Mayo Senior High,Olmsted,1941,0.00206079,0.00669758,0.0164863,0.0262751,0.0283359,0.0381247,0.0427615
 Rochester Public School District,Rochester Academy for Independent Living (RAIL),Olmsted,66,0.0606061,0.121212,0.181818,0.242424,0.30303,0.363636,0.424242
-Rochester Public School District,John Adams Middle,Olmsted,1061,0.00377003,0.0216777,0.0301602,0.0339303,0.0424128,0.0461828,0.0499529
+Rochester Public School District,John Adams Middle,Olmsted,1061,0.00377003,0.0216777,0.0301602,0.0339303,0.0424128,0.0461828,0.0546654
 Rochester Public School District,Willow Creek Middle,Olmsted,1003,0.00897308,0.0179462,0.0269192,0.0458624,0.0548355,0.0638086,0.0677966
 Rochester Public School District,Kellogg Middle,Olmsted,1128,0.016844,0.0248227,0.0328014,0.0363475,0.0443262,0.052305,0.0558511
 Rochester Public School District,Friedell Middle,Olmsted,462,0.00865801,0.017316,0.025974,0.034632,0.04329,0.0519481,0.0606061
@@ -881,17 +881,17 @@ Perham-Dent Public School District,Prairie Wind Middle,Otter Tail,480,0.00833333
 Perham-Dent Public School District,Perham Senior High,Otter Tail,431,0.00928074,0.0533643,0.0742459,0.0835267,0.0928074,0.102088,0.111369
 Perham-Dent Public School District,Perham Area Learning Center,Otter Tail,58,0.0689655,0.137931,0.206897,0.275862,0.344828,0.413793,0.482759
 Underwood Public School District,Underwood Elementary,Otter Tail,290,0.0137931,0.0448276,0.0586207,0.0896552,0.103448,0.117241,0.131034
-Underwood Public School District,Underwood Secondary,Otter Tail,273,0.014652,0.029304,0.043956,0.0586081,0.0732601,0.0879121,0.102564
+Underwood Public School District,Underwood Secondary,Otter Tail,273,0.014652,0.029304,0.043956,0.0586081,0.0732601,0.106227,0.120879
 New York Mills Public School Dist.,New York Mills Elementary,Otter Tail,399,0.0100251,0.0325815,0.0426065,0.0526316,0.075188,0.085213,0.0952381
 New York Mills Public School Dist.,New York Mills Secondary,Otter Tail,340,0.0117647,0.0382353,0.05,0.0617647,0.0735294,0.0852941,0.0970588
 Goodridge Public School District,Goodridge Elementary,Pennington,160,0.025,0.05,0.075,0.1,0.125,0.15,0.175
 Goodridge Public School District,Goodridge Secondary,Pennington,95,0.0421053,0.0842105,0.126316,0.168421,0.210526,0.252632,0.294737
 Thief River Falls School District,Challenger Elementary,Pennington,831,0.00481348,0.00962696,0.0144404,0.0192539,0.0300842,0.0409146,0.045728
-Thief River Falls School District,Franklin Middle,Pennington,469,0.0191898,0.0277186,0.0362473,0.0447761,0.0533049,0.0618337,0.0703625
+Thief River Falls School District,Franklin Middle,Pennington,469,0.0191898,0.0277186,0.0362473,0.0447761,0.0533049,0.0724947,0.0810235
 Thief River Falls School District,Lincoln Senior High,Pennington,588,0.00680272,0.0136054,0.0204082,0.0272109,0.0340136,0.0493197,0.0561224
 Willow River Public School District,Willow River Elementary,Pine,227,0.0176211,0.0352423,0.0528634,0.0704846,0.0881057,0.105727,0.123348
 Willow River Public School District,Willow River Secondary,Pine,195,0.0461538,0.14359,0.164103,0.184615,0.205128,0.225641,0.246154
-Pine City Public School District,Pine City Elementary,Pine,764,0.0052356,0.0104712,0.0157068,0.0209424,0.0850785,0.0903141,0.0955497
+Pine City Public School District,Pine City Elementary,Pine,764,0.0052356,0.0104712,0.0157068,0.0209424,0.0850785,0.0968586,0.102094
 Pine City Public School District,Pine City Secondary,Pine,719,0.00556328,0.0111266,0.0166898,0.0222531,0.0278164,0.0333797,0.038943
 Edgerton Public School District,Edgerton Secondary,Pipestone,215,0.0186047,0.0372093,0.055814,0.0744186,0.0930233,0.111628,0.130233
 Edgerton Public School District,Edgerton Elementary,Pipestone,220,0.0181818,0.0363636,0.0545455,0.0727273,0.113636,0.131818,0.15
@@ -912,11 +912,11 @@ Fosston Public School District,Magelssen Elementary,Polk,287,0.0139373,0.0801394
 Fosston Public School District,Fosston Secondary,Polk,301,0.013289,0.076412,0.089701,0.10299,0.116279,0.129568,0.142857
 Mounds View Public School District,Pike Lake Kindergarten Center,Ramsey,557,0.00718133,0.0143627,0.021544,0.0287253,0.0359066,0.043088,0.0502693
 Mounds View Public School District,Snail Lake Kindergarten Center,Ramsey,321,0.0124611,0.0249221,0.0373832,0.0498442,0.0623053,0.0747664,0.0872274
-Mounds View Public School District,Bel Air Elementary,Ramsey,732,0.00546448,0.010929,0.023224,0.0355191,0.0478142,0.0532787,0.0587432
-Mounds View Public School District,Island Lake Elementary,Ramsey,722,0.00554017,0.0110803,0.0235457,0.0290859,0.0415512,0.0540166,0.0595568
+Mounds View Public School District,Bel Air Elementary,Ramsey,732,0.00546448,0.010929,0.023224,0.0355191,0.0478142,0.0532787,0.0655738
+Mounds View Public School District,Island Lake Elementary,Ramsey,722,0.00554017,0.0110803,0.0235457,0.0290859,0.0415512,0.0540166,0.066482
 Mounds View Public School District,Pinewood Elementary,Ramsey,522,0.00766284,0.0153257,0.0229885,0.059387,0.0766284,0.0842912,0.091954
 Mounds View Public School District,Sunnyside Elementary,Ramsey,522,0.00766284,0.0153257,0.0229885,0.0306513,0.0383142,0.045977,0.0536398
-Mounds View Public School District,Turtle Lake Elementary,Ramsey,1009,0.00396432,0.012884,0.0218038,0.0257681,0.0297324,0.0386521,0.0426165
+Mounds View Public School District,Turtle Lake Elementary,Ramsey,1009,0.00396432,0.012884,0.0218038,0.0257681,0.0297324,0.0485629,0.0525273
 Mounds View Public School District,Valentine Hills Elementary,Ramsey,690,0.0057971,0.0188406,0.0246377,0.0304348,0.0362319,0.042029,0.0478261
 Mounds View Public School District,ECSE Program,Ramsey,119,0.0336134,0.0672269,0.10084,0.134454,0.168067,0.201681,0.235294
 Mounds View Public School District,Mounds View ALC,Ramsey,79,0.0506329,0.101266,0.151899,0.202532,0.253165,0.303797,0.35443
@@ -939,14 +939,14 @@ North St. Paul-Maplewood Oakdale Public School District,Skyview Community Elemen
 North St. Paul-Maplewood Oakdale Public School District,Beaver Lake Voluntary Pre-K,Ramsey,84,0.047619,0.0952381,0.142857,0.190476,0.238095,0.285714,0.333333
 North St. Paul-Maplewood Oakdale Public School District,The Next Step,Ramsey,102,0.0392157,0.0784314,0.117647,0.156863,0.196078,0.235294,0.27451
 North St. Paul-Maplewood Oakdale Public School District,Skyview Community Middle,Washington,778,0.00514139,0.0102828,0.0154242,0.0205656,0.0321337,0.0372751,0.0424165
-North St. Paul-Maplewood Oakdale Public School District,John Glenn Middle,Ramsey,760,0.00526316,0.0105263,0.0157895,0.0210526,0.0263158,0.0315789,0.0368421
+North St. Paul-Maplewood Oakdale Public School District,John Glenn Middle,Ramsey,760,0.00526316,0.0105263,0.0157895,0.0210526,0.0460526,0.0513158,0.0565789
 North St. Paul-Maplewood Oakdale Public School District,Maplewood Middle School,Ramsey,683,0.00585652,0.011713,0.0175695,0.0234261,0.0292826,0.0351391,0.0409956
 North St. Paul-Maplewood Oakdale Public School District,North Senior High,Ramsey,1653,0.00544465,0.0108893,0.0163339,0.0187538,0.0241984,0.0266183,0.0290381
-North St. Paul-Maplewood Oakdale Public School District,Tartan Senior High,Washington,1679,0.00238237,0.0077427,0.0101251,0.0125074,0.0178678,0.0232281,0.0256105
-Roseville Public School District,Roseville Area Senior High,Ramsey,2343,0.00810926,0.00981647,0.0115237,0.0153649,0.0234742,0.0273154,0.0290226
+North St. Paul-Maplewood Oakdale Public School District,Tartan Senior High,Washington,1679,0.00238237,0.0077427,0.0101251,0.0125074,0.0178678,0.0232281,0.0285884
+Roseville Public School District,Roseville Area Senior High,Ramsey,2343,0.00810926,0.00981647,0.0115237,0.0132309,0.0170721,0.0187793,0.0204866
 Roseville Public School District,Roseville Area Middle,Ramsey,887,0.00450958,0.00901917,0.0135287,0.0180383,0.0225479,0.0270575,0.0315671
 Roseville Public School District,Parkview Center School,Ramsey,762,0.00524934,0.0104987,0.015748,0.0275591,0.0524934,0.0774278,0.0826772
-Roseville Public School District,Harambee Elementary School,Ramsey,348,0.0114943,0.0229885,0.0344828,0.045977,0.0574713,0.0689655,0.0804598
+Roseville Public School District,Harambee Elementary School,Ramsey,348,0.0114943,0.0229885,0.0344828,0.045977,0.0574713,0.0689655,0.0948276
 Roseville Public School District,Fairview Alternative High School,Ramsey,80,0.05,0.1,0.15,0.2,0.25,0.3,0.35
 Roseville Public School District,Brimhall Elementary,Ramsey,584,0.00684932,0.0136986,0.0205479,0.0359589,0.0428082,0.0496575,0.0565068
 Roseville Public School District,Central Park Elementary,Ramsey,402,0.00995025,0.0199005,0.0298507,0.039801,0.0497512,0.0597015,0.0696517
@@ -956,12 +956,12 @@ Roseville Public School District,Little Canada Elementary,Ramsey,573,0.0069808,0
 Roseville Public School District,Williams Elementary,Ramsey,409,0.00977995,0.0195599,0.0660147,0.0757946,0.0855746,0.0953545,0.105134
 Roseville Public School District,Fairview Program,Ramsey,109,0.0366972,0.0733945,0.110092,0.146789,0.183486,0.220183,0.256881
 White Bear Lake School District,White Bear Lake District Center,Ramsey,91,0.043956,0.0879121,0.131868,0.175824,0.21978,0.263736,0.307692
-White Bear Lake School District,White Bear North Campus Senior,Ramsey,1205,0.00746888,0.0232365,0.026556,0.0298755,0.0373444,0.0448133,0.0481328
+White Bear Lake School District,White Bear North Campus Senior,Ramsey,1205,0.00746888,0.0232365,0.026556,0.0298755,0.0373444,0.0448133,0.0522822
 White Bear Lake School District,Normandy Park Education Center,Ramsey,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
 White Bear Lake School District,Central Middle,Ramsey,1167,0.00342759,0.00685518,0.0145673,0.0179949,0.0257069,0.0291345,0.0325621
 White Bear Lake School District,Sunrise Park Middle,Ramsey,899,0.00444939,0.00889878,0.0133482,0.0177976,0.0222469,0.0266963,0.0311457
 White Bear Lake School District,White Bear South Campus Senior,Ramsey,1136,0.00792254,0.0246479,0.028169,0.0316901,0.0396127,0.0431338,0.0466549
-White Bear Lake School District,Oneka Elementary School,Washington,654,0.0137615,0.0275229,0.0336391,0.0397554,0.0840979,0.0978593,0.103976
+White Bear Lake School District,Oneka Elementary School,Washington,654,0.0137615,0.0275229,0.0336391,0.0397554,0.0840979,0.11315,0.126911
 White Bear Lake School District,Birch Lake Elementary,Ramsey,253,0.0158103,0.0316206,0.0474308,0.0632411,0.0988142,0.114625,0.130435
 White Bear Lake School District,Otter Lake Elementary,Ramsey,530,0.00754717,0.0245283,0.0320755,0.0396226,0.0471698,0.054717,0.0622642
 White Bear Lake School District,Hugo Elementary,Washington,298,0.0134228,0.0268456,0.0402685,0.0536913,0.0671141,0.0805369,0.0939597
@@ -972,21 +972,21 @@ White Bear Lake School District,Vadnais Heights Elementary,Ramsey,391,0.0102302,
 White Bear Lake School District,Willow Lane Elementary,Ramsey,375,0.0106667,0.0213333,0.032,0.0426667,0.0533333,0.064,0.0746667
 White Bear Lake School District,White Bear Area Learning Center,Ramsey,112,0.0357143,0.0714286,0.107143,0.142857,0.178571,0.214286,0.25
 St. Paul Public School District,Central Senior High,Ramsey,1851,0.00216099,0.00432199,0.00918422,0.0113452,0.0135062,0.0183684,0.0205294
-St. Paul Public School District,Creative Arts Secondary School,Ramsey,446,0.00896861,0.0179372,0.0269058,0.0358744,0.044843,0.0538117,0.0627803
-St. Paul Public School District,Como Park Senior High,Ramsey,1163,0.00343938,0.00687876,0.0103181,0.0137575,0.0300946,0.033534,0.0369733
+St. Paul Public School District,Creative Arts Secondary School,Ramsey,446,0.00896861,0.0179372,0.0269058,0.0358744,0.0784753,0.0874439,0.130045
+St. Paul Public School District,Como Park Senior High,Ramsey,1163,0.00343938,0.00687876,0.0103181,0.0137575,0.0214961,0.0249355,0.0326741
 St. Paul Public School District,Harding Senior High,Ramsey,1900,0.00210526,0.00421053,0.00631579,0.00842105,0.0184211,0.0205263,0.0226316
-St. Paul Public School District,Highland Park Senior High,Ramsey,1381,0.00289645,0.0057929,0.00868936,0.0115858,0.0181028,0.0246198,0.0275163
-St. Paul Public School District,HUMBOLDT HIGH SCHOOL,Ramsey,1103,0.00362647,0.00725295,0.0154125,0.019039,0.0226655,0.0262919,0.0299184
-St. Paul Public School District,Johnson Senior High,Ramsey,1243,0.00321802,0.00643604,0.00965406,0.0128721,0.0160901,0.0193081,0.0225261
-St. Paul Public School District,Open World Learning Secondary,Ramsey,476,0.00840336,0.0168067,0.0252101,0.0336134,0.0420168,0.0504202,0.0588235
-St. Paul Public School District,Washington Tech Secondary Magnet,Ramsey,2077,0.00192585,0.00385171,0.00577756,0.00770342,0.0120366,0.0139624,0.0158883
+St. Paul Public School District,Highland Park Senior High,Ramsey,1381,0.00289645,0.0057929,0.00868936,0.0115858,0.0181028,0.0246198,0.0311369
+St. Paul Public School District,HUMBOLDT HIGH SCHOOL,Ramsey,1103,0.00362647,0.00725295,0.0154125,0.019039,0.0226655,0.030825,0.0344515
+St. Paul Public School District,Johnson Senior High,Ramsey,1243,0.00321802,0.00643604,0.00965406,0.0128721,0.0160901,0.0193081,0.0265487
+St. Paul Public School District,Open World Learning Secondary,Ramsey,476,0.00840336,0.0168067,0.0252101,0.0336134,0.0420168,0.0504202,0.0693277
+St. Paul Public School District,Washington Tech Secondary Magnet,Ramsey,2077,0.00192585,0.00385171,0.00577756,0.00770342,0.0120366,0.0163698,0.0207029
 St. Paul Public School District,Battle Creek Middle,Ramsey,727,0.00550206,0.0110041,0.0165062,0.0220083,0.0275103,0.0330124,0.0385144
 St. Paul Public School District,Farnsworth Aerospace Upper,Ramsey,599,0.0066778,0.0133556,0.0200334,0.0267112,0.033389,0.0400668,0.0467446
 St. Paul Public School District,Highland Park Middle School,Ramsey,830,0.00481928,0.00963855,0.0144578,0.0192771,0.0240964,0.0349398,0.039759
 St. Paul Public School District,Murray Middle School,Ramsey,692,0.00578035,0.0115607,0.017341,0.0231214,0.0289017,0.0346821,0.0404624
 St. Paul Public School District,Parkway Montessori/Community Middle,Ramsey,290,0.0137931,0.0275862,0.0413793,0.0551724,0.0689655,0.0827586,0.0965517
 St. Paul Public School District,Ramsey Middle School,Ramsey,586,0.00682594,0.0136519,0.0204778,0.0273038,0.0341297,0.0409556,0.0477816
-St. Paul Public School District,E-STEM Middle School,Washington,366,0.010929,0.0218579,0.0327869,0.0437158,0.0546448,0.0655738,0.0765027
+St. Paul Public School District,E-STEM Middle School,Washington,366,0.010929,0.0218579,0.0327869,0.0437158,0.0546448,0.079235,0.0901639
 St. Paul Public School District,Adams Magnet Elementary,Ramsey,493,0.00811359,0.0162272,0.0243408,0.0324544,0.040568,0.0588235,0.0669371
 St. Paul Public School District,John A. Johnson Achievement Plus El,Ramsey,302,0.013245,0.0264901,0.0397351,0.0529801,0.0662252,0.0794702,0.0927152
 St. Paul Public School District,Battle Creek Elementary School,Ramsey,475,0.00842105,0.0168421,0.0252632,0.0442105,0.0526316,0.0610526,0.0694737
@@ -1004,7 +1004,7 @@ St. Paul Public School District,Four Seasons Elementary,Ramsey,350,0.0114286,0.0
 St. Paul Public School District,L'Etoile du Nord French Immersion U,Ramsey,240,0.0166667,0.0333333,0.05,0.0666667,0.0833333,0.1,0.116667
 St. Paul Public School District,L'etoile Du Nord French Immersion L,Ramsey,127,0.0314961,0.0629921,0.0944882,0.125984,0.15748,0.188976,0.220472
 St. Paul Public School District,Frost Lake Elementary School,Ramsey,500,0.008,0.016,0.024,0.042,0.05,0.058,0.066
-St. Paul Public School District,Crossroads Montessori,Ramsey,243,0.0164609,0.0329218,0.0493827,0.0658436,0.0823045,0.0987654,0.115226
+St. Paul Public School District,Crossroads Montessori,Ramsey,243,0.0164609,0.0329218,0.0493827,0.0658436,0.102881,0.119342,0.135802
 St. Paul Public School District,Crossroads Science Program,Ramsey,247,0.0161943,0.0323887,0.048583,0.0647773,0.0809717,0.097166,0.11336
 St. Paul Public School District,Galtier Elementary School,Ramsey,157,0.0254777,0.0509554,0.0764331,0.101911,0.127389,0.152866,0.178344
 St. Paul Public School District,Groveland Park Elementary,Ramsey,358,0.0111732,0.0223464,0.047486,0.0586592,0.0698324,0.0810056,0.0921788
@@ -1013,8 +1013,8 @@ St. Paul Public School District,JIE MING MANDARIN IMMERSION ACADEMY,Ramsey,371,0
 St. Paul Public School District,The Heights Community School,Ramsey,369,0.0108401,0.0216802,0.0325203,0.0433604,0.0542005,0.0650407,0.0758808
 St. Paul Public School District,Hazel Park Preparatory Academy,Ramsey,464,0.00862069,0.0172414,0.0258621,0.0344828,0.0431034,0.0517241,0.0603448
 St. Paul Public School District,Highland Park Elementary,Ramsey,368,0.0108696,0.0217391,0.0326087,0.0434783,0.0543478,0.0652174,0.076087
-St. Paul Public School District,JJ Hill Montessori,Ramsey,384,0.0104167,0.0208333,0.03125,0.0416667,0.0520833,0.0625,0.0729167
-St. Paul Public School District,Capitol Hill Magnet/Rondo,Ramsey,1193,0.00335289,0.00670578,0.0100587,0.0134116,0.0293378,0.045264,0.0486169
+St. Paul Public School District,JJ Hill Montessori,Ramsey,384,0.0104167,0.0208333,0.03125,0.0416667,0.0651042,0.0755208,0.0859375
+St. Paul Public School District,Capitol Hill Magnet/Rondo,Ramsey,1193,0.00335289,0.00670578,0.0100587,0.0134116,0.0293378,0.045264,0.052808
 St. Paul Public School District,Highwood Hills Elementary,Ramsey,196,0.0204082,0.0408163,0.0612245,0.0816327,0.102041,0.122449,0.142857
 St. Paul Public School District,Jackson Preparatory Elementary,Ramsey,272,0.0147059,0.0294118,0.0441176,0.0588235,0.0735294,0.0882353,0.102941
 St. Paul Public School District,Global Arts Plus Lower,Ramsey,413,0.00968523,0.0193705,0.0290557,0.0387409,0.0484262,0.0581114,0.0677966
@@ -1029,7 +1029,7 @@ St. Paul Public School District,Randolph Heights Elementary,Ramsey,443,0.0090293
 St. Paul Public School District,Riverview West School of Excellence,Ramsey,394,0.0101523,0.0203046,0.0304569,0.0406091,0.0507614,0.0609137,0.071066
 St. Paul Public School District,Paul & Sheila Wellstone Elementary,Ramsey,515,0.00776699,0.015534,0.023301,0.031068,0.038835,0.0466019,0.0543689
 St. Paul Public School District,St. Anthony Park Elementary,Ramsey,536,0.00746269,0.0242537,0.0317164,0.0391791,0.0559701,0.0634328,0.0708955
-St. Paul Public School District,Saint Paul Music Academy,Ramsey,565,0.00707965,0.0141593,0.0212389,0.0548673,0.0619469,0.0690265,0.0761062
+St. Paul Public School District,Saint Paul Music Academy,Ramsey,565,0.00707965,0.0141593,0.0212389,0.0283186,0.0353982,0.0424779,0.0495575
 St. Paul Public School District,Obama Service Learning Elementary,Ramsey,319,0.0125392,0.0250784,0.0376176,0.0501567,0.0783699,0.0909091,0.103448
 St. Paul Public School District,American Indian Magnet School,Ramsey,624,0.00641026,0.0128205,0.0272436,0.0336538,0.0400641,0.0464744,0.0528846
 St. Paul Public School District,Focus Beyond,Ramsey,258,0.0155039,0.0310078,0.0465116,0.0620155,0.0775194,0.0930233,0.108527
@@ -1052,11 +1052,11 @@ Faribault Public School District,Faribault Senior High,Rice,1105,0.00361991,0.00
 Faribault Public School District,Faribault Area Learning Center,Rice,63,0.0634921,0.126984,0.190476,0.253968,0.31746,0.380952,0.444444
 Faribault Public School District,Early Childhood Special Education,Rice,57,0.0701754,0.140351,0.210526,0.280702,0.350877,0.421053,0.491228
 Faribault Public School District,McKinley PreK,Rice,55,0.0727273,0.145455,0.218182,0.290909,0.363636,0.436364,0.509091
-Northfield Public School District,Northfield Senior High,Rice,1370,0.00656934,0.00948905,0.0160584,0.0226277,0.0291971,0.0321168,0.0350365
+Northfield Public School District,Northfield Senior High,Rice,1370,0.00656934,0.00948905,0.0160584,0.0226277,0.0364964,0.0394161,0.0423358
 Northfield Public School District,Northfield Middle,Rice,963,0.00415369,0.00830737,0.0124611,0.0166147,0.0259605,0.0301142,0.0342679
 Northfield Public School District,Greenvale Park Elementary,Rice,435,0.0091954,0.0183908,0.0275862,0.0367816,0.045977,0.0551724,0.0643678
 Northfield Public School District,Northfield Community Education Center,Rice,86,0.0465116,0.0930233,0.139535,0.186047,0.232558,0.27907,0.325581
-Northfield Public School District,Bridgewater Elementary,Rice,559,0.00715564,0.0143113,0.0304114,0.0375671,0.0536673,0.0697674,0.0769231
+Northfield Public School District,Bridgewater Elementary,Rice,559,0.00715564,0.0143113,0.0304114,0.0375671,0.0536673,0.0876565,0.0948122
 Northfield Public School District,Sibley Elementary,Rice,492,0.00813008,0.0162602,0.0243902,0.0325203,0.0406504,0.0487805,0.0569106
 Northfield Public School District,Northfield Area Learning Center,Rice,83,0.0481928,0.0963855,0.144578,0.192771,0.240964,0.289157,0.337349
 Hills-Beaver Creek School District,Hills-Beaver Creek Elementary,Rock,156,0.025641,0.0512821,0.0769231,0.102564,0.128205,0.153846,0.179487
@@ -1081,25 +1081,25 @@ Hermantown Public School District,Hermantown Senior High,Saint Louis,679,0.00589
 Hibbing Public School District,Greenhaven Elementary,Saint Louis,288,0.0138889,0.0277778,0.0416667,0.0555556,0.0868056,0.100694,0.114583
 Hibbing Public School District,Washington Elementary,Saint Louis,244,0.0163934,0.0327869,0.0491803,0.0860656,0.102459,0.118852,0.135246
 Hibbing Public School District,Lincoln Elementary,Saint Louis,643,0.00622084,0.0202177,0.0497667,0.0559876,0.0699844,0.0839813,0.0902022
-Hibbing Public School District,Hibbing High,Saint Louis,1043,0.0182167,0.0364334,0.0450623,0.0536913,0.071908,0.0805369,0.084372
+Hibbing Public School District,Hibbing High,Saint Louis,1043,0.0182167,0.0364334,0.0450623,0.0536913,0.071908,0.0805369,0.0891659
 Proctor Public School District,Proctor Senior High,Saint Louis,568,0.00704225,0.0140845,0.0211268,0.028169,0.0616197,0.0950704,0.102113
 Proctor Public School District,A.I. Jedlicka Middle School,Saint Louis,459,0.0087146,0.0174292,0.0261438,0.0348584,0.043573,0.0849673,0.0936819
-Proctor Public School District,Bay View Elementary,Saint Louis,580,0.00689655,0.0137931,0.0206897,0.0275862,0.0431034,0.0758621,0.0827586
+Proctor Public School District,Bay View Elementary,Saint Louis,580,0.00689655,0.0137931,0.0206897,0.0275862,0.0431034,0.0931034,0.1
 Proctor Public School District,Pike Lake Elementary,Saint Louis,205,0.0195122,0.0634146,0.0829268,0.102439,0.121951,0.165854,0.185366
 Duluth Public School District,Merritt Creek Academy,Saint Louis,81,0.0493827,0.0987654,0.148148,0.197531,0.246914,0.296296,0.345679
 Duluth Public School District,Denfeld High School,Saint Louis,932,0.00429185,0.0139485,0.0236052,0.0332618,0.0375536,0.0418455,0.0461373
-Duluth Public School District,East High School,Saint Louis,1517,0.00593276,0.00856955,0.0112063,0.0138431,0.0197759,0.0323006,0.0349374
-Duluth Public School District,Lincoln Park Middle School,Saint Louis,604,0.00662252,0.0215232,0.0281457,0.0347682,0.0496689,0.0562914,0.0629139
-Duluth Public School District,Ordean East Middle School,Saint Louis,936,0.0042735,0.0138889,0.0181624,0.0224359,0.0320513,0.0363248,0.0405983
+Duluth Public School District,East High School,Saint Louis,1517,0.00593276,0.00856955,0.0112063,0.0138431,0.0263678,0.0388926,0.0448253
+Duluth Public School District,Lincoln Park Middle School,Saint Louis,604,0.00662252,0.0215232,0.0281457,0.0347682,0.0496689,0.0562914,0.0711921
+Duluth Public School District,Ordean East Middle School,Saint Louis,936,0.0042735,0.0138889,0.0181624,0.0224359,0.0320513,0.0416667,0.0512821
 Duluth Public School District,Congdon Elementary,Saint Louis,506,0.00790514,0.0158103,0.0237154,0.0316206,0.0395257,0.0474308,0.055336
-Duluth Public School District,Homecroft Elementary,Saint Louis,351,0.011396,0.037037,0.048433,0.0598291,0.0854701,0.111111,0.122507
+Duluth Public School District,Homecroft Elementary,Saint Louis,351,0.011396,0.037037,0.048433,0.0598291,0.0854701,0.139601,0.165242
 Duluth Public School District,Lakewood Elementary,Saint Louis,216,0.0185185,0.037037,0.0555556,0.0740741,0.0925926,0.111111,0.12963
 Duluth Public School District,Lester Park Elementary,Saint Louis,546,0.00732601,0.014652,0.021978,0.029304,0.03663,0.043956,0.0512821
 Duluth Public School District,Lowell Elementary,Saint Louis,258,0.0155039,0.0310078,0.0658915,0.0813953,0.0968992,0.112403,0.127907
-Duluth Public School District,Lowell Elementary Spanish Immersion,Saint Louis,261,0.0153257,0.0306513,0.045977,0.0613027,0.0766284,0.091954,0.10728
+Duluth Public School District,Lowell Elementary Spanish Immersion,Saint Louis,261,0.0153257,0.0306513,0.045977,0.0613027,0.0766284,0.091954,0.126437
 Duluth Public School District,Laura MacArthur Elementary,Saint Louis,311,0.0128617,0.0418006,0.0707395,0.0996785,0.128617,0.157556,0.170418
 Duluth Public School District,Myers-Wilkins Elementary,Saint Louis,326,0.0122699,0.0245399,0.0368098,0.0490798,0.0613497,0.0736196,0.0858896
-Duluth Public School District,Piedmont Elementary,Saint Louis,457,0.00875274,0.0175055,0.0262582,0.0350109,0.0437637,0.0525164,0.0612691
+Duluth Public School District,Piedmont Elementary,Saint Louis,457,0.00875274,0.0175055,0.0262582,0.0350109,0.0547046,0.0743982,0.083151
 Duluth Public School District,Stowe Elementary,Saint Louis,258,0.0155039,0.0310078,0.0465116,0.0620155,0.0968992,0.112403,0.127907
 Duluth Public School District,Rockridge Academy,Saint Louis,55,0.0727273,0.145455,0.218182,0.290909,0.363636,0.436364,0.509091
 Duluth Public School District,Duluth Area Learning Center,Saint Louis,416,0.00961538,0.0192308,0.0288462,0.0384615,0.0480769,0.0576923,0.0673077
@@ -1107,12 +1107,12 @@ Duluth Public School District,Academic Excellence Online,Saint Louis,55,0.072727
 Duluth Public School District,Early Childhood Special Education,Saint Louis,181,0.0220994,0.0441989,0.0662983,0.0883978,0.110497,0.132597,0.154696
 Mountain Iron-Buhl School District,Merritt Elementary,Saint Louis,330,0.0121212,0.0242424,0.0363636,0.0939394,0.106061,0.118182,0.130303
 Mountain Iron-Buhl School District,Mountain Iron-Buhl Secondary,Saint Louis,237,0.0168776,0.0337553,0.07173,0.0886076,0.105485,0.122363,0.139241
-Belle Plaine Public School District,Chatfield Elementary,Scott,345,0.0115942,0.0231884,0.0347826,0.0463768,0.057971,0.084058,0.0956522
-Belle Plaine Public School District,Oak Crest Elementary,Scott,488,0.00819672,0.0163934,0.0348361,0.0430328,0.0512295,0.0901639,0.0983607
-Belle Plaine Public School District,Belle Plaine Senior High,Scott,494,0.00809717,0.0161943,0.0242915,0.0425101,0.0607287,0.0991903,0.107287
+Belle Plaine Public School District,Chatfield Elementary,Scott,345,0.0115942,0.0231884,0.0347826,0.0463768,0.057971,0.084058,0.110145
+Belle Plaine Public School District,Oak Crest Elementary,Scott,488,0.00819672,0.0163934,0.0348361,0.0430328,0.0512295,0.0901639,0.108607
+Belle Plaine Public School District,Belle Plaine Senior High,Scott,494,0.00809717,0.0161943,0.0242915,0.0425101,0.0607287,0.0991903,0.117409
 Belle Plaine Public School District,Belle Plaine Junior High,Scott,241,0.0165975,0.033195,0.0497925,0.06639,0.0829876,0.0995851,0.116183
 Jordan Public School District,Jordan High School,Scott,638,0.0297806,0.0438871,0.0501567,0.0564263,0.0626959,0.0689655,0.0752351
-Jordan Public School District,Jordan Middle,Scott,592,0.0320946,0.0388514,0.0456081,0.0523649,0.0591216,0.0658784,0.0726351
+Jordan Public School District,Jordan Middle,Scott,592,0.0320946,0.0388514,0.0456081,0.0523649,0.0591216,0.0658784,0.0810811
 Jordan Public School District,Jordan Early Childhood,Scott,51,0.0784314,0.156863,0.235294,0.313725,0.392157,0.470588,0.54902
 Jordan Public School District,Jordan Elementary,Scott,588,0.00680272,0.0391156,0.0544218,0.0697279,0.0765306,0.0918367,0.0986395
 Prior Lake-Savage Area Schools,La Ola Del Lago at Grainwood,Scott,388,0.0103093,0.0206186,0.0309278,0.0412371,0.064433,0.0747423,0.0850515
@@ -1120,65 +1120,65 @@ Prior Lake-Savage Area Schools,Westwood El.,Scott,587,0.00681431,0.0221465,0.028
 Prior Lake-Savage Area Schools,Five Hawks El.,Scott,485,0.00824742,0.0164948,0.0247423,0.0329897,0.0515464,0.0597938,0.0680412
 Prior Lake-Savage Area Schools,Glendale El.,Scott,565,0.00707965,0.0141593,0.0212389,0.0283186,0.0442478,0.0513274,0.0584071
 Prior Lake-Savage Area Schools,Jeffers Pond Elementary,Scott,560,0.00714286,0.0142857,0.0214286,0.0285714,0.0625,0.0696429,0.0767857
-Prior Lake-Savage Area Schools,Redtail Ridge Elementary School,Scott,557,0.00718133,0.0143627,0.021544,0.0287253,0.0448833,0.0520646,0.059246
+Prior Lake-Savage Area Schools,Redtail Ridge Elementary School,Scott,557,0.00718133,0.0143627,0.021544,0.0287253,0.0359066,0.0520646,0.0682226
 Prior Lake-Savage Area Schools,Hamilton Ridge Elementary School,Scott,510,0.00784314,0.0156863,0.0235294,0.0313725,0.0882353,0.0960784,0.103922
 Prior Lake-Savage Area Schools,Hidden Oaks Middle School,Scott,1104,0.00362319,0.00724638,0.0108696,0.0190217,0.0271739,0.0353261,0.0389493
 Prior Lake-Savage Area Schools,Twin Oaks Middle School,Scott,1066,0.00375235,0.0121951,0.0159475,0.0196998,0.0375235,0.0412758,0.0450281
 Prior Lake-Savage Area Schools,Prior Lake High School,Scott,2832,0.00141243,0.00282486,0.00600282,0.00918079,0.0194209,0.0225989,0.0240113
 Prior Lake-Savage Area Schools,Prior Lake-Savage Area ALC,Scott,109,0.0366972,0.0733945,0.110092,0.146789,0.183486,0.220183,0.256881
 Prior Lake-Savage Area Schools,Edgewood ECSE,Scott,129,0.0310078,0.0620155,0.0930233,0.124031,0.155039,0.186047,0.217054
-Shakopee Public School District,Shakopee High School,Scott,2805,0.00677362,0.0135472,0.0167558,0.0181818,0.0249554,0.028164,0.02959
-Shakopee Public School District,Shakopee West Middle School,Scott,962,0.00935551,0.018711,0.022869,0.027027,0.0467775,0.0509356,0.0550936
+Shakopee Public School District,Shakopee High School,Scott,2805,0.00677362,0.0135472,0.0167558,0.0181818,0.0249554,0.028164,0.0313725
+Shakopee Public School District,Shakopee West Middle School,Scott,962,0.00935551,0.018711,0.022869,0.027027,0.0363825,0.0405405,0.0446985
 Shakopee Public School District,Shakopee East Middle School,Scott,868,0.00460829,0.014977,0.0195853,0.0241935,0.0460829,0.0564516,0.0610599
 Shakopee Public School District,Tokata Learning Center,Scott,94,0.0425532,0.0851064,0.12766,0.170213,0.212766,0.255319,0.297872
 Shakopee Public School District,Sweeney Elementary,Scott,636,0.00628931,0.0125786,0.0188679,0.0251572,0.0550314,0.0613208,0.0676101
 Shakopee Public School District,Sun Path Elementary,Scott,591,0.00676819,0.0135364,0.0203046,0.0270728,0.0338409,0.0406091,0.0473773
 Shakopee Public School District,Red Oak Elementary,Scott,537,0.00744879,0.0148976,0.0223464,0.0297952,0.0465549,0.0540037,0.0614525
 Shakopee Public School District,Eagle Creek Elementary School,Scott,718,0.00557103,0.0111421,0.0167131,0.0222841,0.0626741,0.0752089,0.0807799
-Shakopee Public School District,Jackson Elementary,Scott,750,0.00533333,0.0106667,0.016,0.0213333,0.0466667,0.072,0.0773333
+Shakopee Public School District,Jackson Elementary,Scott,750,0.00533333,0.0106667,0.016,0.0213333,0.0466667,0.072,0.084
 Shakopee Public School District,Special Services,Scott,106,0.0377358,0.0754717,0.113208,0.150943,0.188679,0.226415,0.264151
 New Prague Area Schools,New Prague Senior High,Scott,1294,0.0224111,0.0448223,0.0517774,0.0664606,0.0734158,0.076507,0.0795981
 New Prague Area Schools,New Prague Middle School,Scott,962,0.0301455,0.0810811,0.100832,0.110187,0.114345,0.118503,0.122661
 New Prague Area Schools,Compass Learning Center,Scott,57,0.0701754,0.140351,0.210526,0.280702,0.350877,0.421053,0.491228
 New Prague Area Schools,Raven Stream Elementary,Scott,619,0.0145396,0.0290792,0.0355412,0.0500808,0.0565428,0.0630048,0.0694669
 New Prague Area Schools,Central Education Campus,Scott,73,0.0547945,0.109589,0.164384,0.219178,0.273973,0.328767,0.383562
-New Prague Area Schools,Eagle View,Scott,550,0.00727273,0.0418182,0.0581818,0.0745455,0.0909091,0.0981818,0.105455
+New Prague Area Schools,Eagle View,Scott,550,0.00727273,0.0418182,0.0581818,0.0745455,0.0909091,0.107273,0.114545
 New Prague Area Schools,Falcon Ridge,Scott,583,0.0325901,0.0651801,0.0806175,0.0874786,0.102916,0.135506,0.142367
 Becker Public School District,Becker Intermediate Elementary,Sherburne,619,0.0145396,0.0452342,0.0759289,0.0904685,0.105008,0.11147,0.117932
-Becker Public School District,Becker Senior High,Sherburne,874,0.00457666,0.0377574,0.0480549,0.0526316,0.0629291,0.0675057,0.0720824
+Becker Public School District,Becker Senior High,Sherburne,874,0.00457666,0.0377574,0.0480549,0.0526316,0.0629291,0.0675057,0.0778032
 Becker Public School District,Becker Middle,Sherburne,657,0.0136986,0.042618,0.0487062,0.0547945,0.0684932,0.0745814,0.0806697
 Becker Public School District,Becker Primary,Sherburne,678,0.0132743,0.0412979,0.0693215,0.0752212,0.0884956,0.0943953,0.100295
 Big Lake Public School District,Independence Elementary,Sherburne,635,0.00629921,0.0204724,0.0267717,0.0330709,0.0629921,0.0771654,0.0834646
-Big Lake Public School District,Big Lake Senior High,Sherburne,924,0.004329,0.0140693,0.034632,0.038961,0.0487013,0.0530303,0.0573593
+Big Lake Public School District,Big Lake Senior High,Sherburne,924,0.004329,0.0140693,0.034632,0.038961,0.0487013,0.0584416,0.0627706
 Big Lake Public School District,Big Lake Middle School,Sherburne,733,0.00545703,0.0109141,0.0368349,0.042292,0.0545703,0.0600273,0.0654843
 Big Lake Public School District,Liberty Elementary,Sherburne,689,0.00580552,0.011611,0.0246734,0.030479,0.0435414,0.0566038,0.0624093
-Elk River School District,Rogers Elementary,Hennepin,692,0.00578035,0.0115607,0.017341,0.0231214,0.050578,0.0780347,0.083815
+Elk River School District,Rogers Elementary,Hennepin,692,0.00578035,0.0115607,0.017341,0.0231214,0.050578,0.0780347,0.0910405
 Elk River School District,Parker Elementary,Sherburne,523,0.00764818,0.0248566,0.042065,0.0497132,0.0860421,0.10325,0.110899
-Elk River School District,Hassan Elementary,Hennepin,704,0.00568182,0.0113636,0.0241477,0.0298295,0.0710227,0.0838068,0.0894886
-Elk River School District,Twin Lakes Elementary,Sherburne,635,0.00629921,0.0204724,0.0267717,0.0330709,0.0472441,0.0614173,0.0677165
+Elk River School District,Hassan Elementary,Hennepin,704,0.00568182,0.0113636,0.0241477,0.0298295,0.0710227,0.0838068,0.0965909
+Elk River School District,Twin Lakes Elementary,Sherburne,635,0.00629921,0.0204724,0.0267717,0.0330709,0.0472441,0.0614173,0.0755906
 Elk River School District,Prairie View Elementary School,Wright,645,0.00620155,0.0666667,0.096124,0.102326,0.116279,0.130233,0.136434
-Elk River School District,Zimmerman Elementary,Sherburne,513,0.00779727,0.0448343,0.0623782,0.0701754,0.0779727,0.0955166,0.103314
-Elk River School District,Westwood Elementary,Sherburne,522,0.0172414,0.0536398,0.0708812,0.0785441,0.114943,0.122605,0.130268
-Elk River School District,Lincoln Elementary,Sherburne,514,0.0077821,0.0252918,0.0330739,0.040856,0.0583658,0.0758755,0.0836576
+Elk River School District,Zimmerman Elementary,Sherburne,513,0.00779727,0.0448343,0.0623782,0.0701754,0.0779727,0.11501,0.122807
+Elk River School District,Westwood Elementary,Sherburne,522,0.0172414,0.0536398,0.0708812,0.0785441,0.114943,0.132184,0.139847
+Elk River School District,Lincoln Elementary,Sherburne,514,0.0077821,0.0252918,0.0330739,0.040856,0.077821,0.0953307,0.103113
 Elk River School District,Handke Center - Early Childhood Special Education,Sherburne,267,0.0149813,0.0299625,0.0449438,0.0599251,0.0749064,0.108614,0.123596
-Elk River School District,Rogers Middle School,Hennepin,715,0.00559441,0.0111888,0.0237762,0.0293706,0.041958,0.0545455,0.0601399
+Elk River School District,Rogers Middle School,Hennepin,715,0.00559441,0.0111888,0.0237762,0.0293706,0.041958,0.0545455,0.0671329
 Elk River School District,Zimmerman Middle,Sherburne,565,0.0336283,0.0672566,0.0831858,0.0902655,0.0973451,0.104425,0.111504
 Elk River School District,Prairie View Middle School,Wright,526,0.00760456,0.0437262,0.0608365,0.0684411,0.0760456,0.0836502,0.0912548
 Elk River School District,VandenBerge Middle School,Sherburne,536,0.00746269,0.0149254,0.0317164,0.0391791,0.0466418,0.0541045,0.0615672
-Elk River School District,Salk Middle School,Sherburne,718,0.00557103,0.0320334,0.0376045,0.0431755,0.0557103,0.0682451,0.0738162
-Elk River School District,Elk River Senior High,Sherburne,1685,0.00534125,0.0106825,0.0160237,0.0183976,0.0296736,0.0350148,0.0373887
-Elk River School District,Rogers Senior High,Hennepin,1637,0.00244349,0.0140501,0.0256567,0.0281002,0.033598,0.0452046,0.0476481
-Elk River School District,Zimmerman High School,Sherburne,713,0.0126227,0.0673212,0.0799439,0.085554,0.0911641,0.0967742,0.102384
+Elk River School District,Salk Middle School,Sherburne,718,0.00557103,0.0320334,0.0376045,0.0431755,0.0557103,0.0682451,0.0947075
+Elk River School District,Elk River Senior High,Sherburne,1685,0.00534125,0.0106825,0.0160237,0.0183976,0.0296736,0.0350148,0.0403561
+Elk River School District,Rogers Senior High,Hennepin,1637,0.00244349,0.0140501,0.0256567,0.0281002,0.033598,0.0452046,0.0507025
+Elk River School District,Zimmerman High School,Sherburne,713,0.0126227,0.0673212,0.0799439,0.085554,0.0911641,0.103787,0.109397
 Elk River School District,Ivan Sand Community High School,Sherburne,108,0.037037,0.0740741,0.111111,0.148148,0.185185,0.222222,0.259259
 Elk River School District,Meadowvale Elementary,Sherburne,538,0.00743494,0.0148699,0.0223048,0.0390335,0.0743494,0.0910781,0.098513
-Elk River School District,Otsego Elementary,Wright,645,0.00620155,0.0124031,0.0263566,0.0325581,0.0387597,0.0449612,0.0511628
-Holdingford Public School District,Holdingford Elementary,Stearns,554,0.00722022,0.0144404,0.0216606,0.0379061,0.0541516,0.0613718,0.0685921
-Holdingford Public School District,Holdingford Secondary,Stearns,511,0.00782779,0.0156556,0.0234834,0.0313112,0.0391389,0.0469667,0.0547945
+Elk River School District,Otsego Elementary,Wright,645,0.00620155,0.0124031,0.0263566,0.0325581,0.0387597,0.0449612,0.0589147
+Holdingford Public School District,Holdingford Elementary,Stearns,554,0.00722022,0.0144404,0.0216606,0.0379061,0.0541516,0.0703971,0.0776173
+Holdingford Public School District,Holdingford Secondary,Stearns,511,0.00782779,0.0156556,0.0234834,0.0410959,0.0587084,0.0958904,0.103718
 Kimball Public School District,Kimball Elementary,Stearns,288,0.0138889,0.0277778,0.0416667,0.0555556,0.0694444,0.0833333,0.0972222
 Kimball Public School District,Kimball Secondary,Stearns,432,0.00925926,0.0532407,0.0740741,0.0833333,0.0925926,0.101852,0.111111
 Melrose Public School District,Melrose Elementary,Stearns,457,0.00875274,0.0284464,0.04814,0.0568928,0.0656455,0.0853392,0.0940919
 Melrose Public School District,Melrose Middle,Stearns,350,0.0114286,0.0228571,0.0485714,0.06,0.0714286,0.0828571,0.0942857
-Melrose Public School District,Melrose Secondary,Stearns,462,0.0194805,0.038961,0.0584416,0.0670996,0.0757576,0.0844156,0.0930736
+Melrose Public School District,Melrose Secondary,Stearns,462,0.0194805,0.038961,0.0584416,0.0670996,0.0865801,0.0952381,0.103896
 Paynesville Public School District,Paynesville Elementary,Stearns,395,0.0101266,0.0202532,0.0303797,0.0531646,0.0632911,0.0734177,0.0835443
 Paynesville Public School District,Paynesville Middle,Stearns,205,0.0195122,0.0390244,0.0585366,0.0780488,0.097561,0.117073,0.136585
 Paynesville Public School District,Paynesville Area High School,Stearns,298,0.0134228,0.0268456,0.0402685,0.0704698,0.0838926,0.0973154,0.110738
@@ -1187,15 +1187,15 @@ St. Cloud Public School District,Clearview Elementary,Sherburne,379,0.0105541,0.
 St. Cloud Public School District,Kennedy Community School,Stearns,688,0.0130814,0.0261628,0.0392442,0.0523256,0.065407,0.0930233,0.0988372
 St. Cloud Public School District,Lincoln Elementary,Benton,369,0.0108401,0.0216802,0.0325203,0.0433604,0.0542005,0.0650407,0.0758808
 St. Cloud Public School District,Early Childhood Special Education at Quarryview Education Center,Stearns,190,0.0210526,0.0421053,0.0631579,0.110526,0.131579,0.152632,0.173684
-St. Cloud Public School District,Madison Elementary,Stearns,673,0.00594354,0.0341753,0.0475483,0.0609212,0.0742942,0.102526,0.10847
+St. Cloud Public School District,Madison Elementary,Stearns,673,0.00594354,0.0341753,0.0475483,0.0609212,0.089153,0.117385,0.130758
 St. Cloud Public School District,Discovery Community Elementary,Stearns,551,0.00725953,0.0235935,0.030853,0.0381125,0.0453721,0.0526316,0.0598911
 St. Cloud Public School District,Talahi Community Elementary,Sherburne,554,0.00722022,0.0144404,0.0216606,0.0288809,0.0361011,0.0433213,0.0505415
-St. Cloud Public School District,Westwood Elementary,Stearns,387,0.0103359,0.0206718,0.0310078,0.0413437,0.0645995,0.0878553,0.0981912
-St. Cloud Public School District,Oak Hill Community Elementary,Stearns,823,0.00486027,0.0157959,0.0206561,0.0315917,0.054678,0.0595383,0.0643985
-St. Cloud Public School District,North Junior High,Stearns,829,0.00482509,0.0156815,0.026538,0.0313631,0.0422195,0.0470446,0.0518697
-St. Cloud Public School District,South Junior High,Stearns,910,0.0043956,0.00879121,0.0131868,0.0175824,0.021978,0.0263736,0.0307692
-St. Cloud Public School District,Apollo Senior High,Stearns,1327,0.00301432,0.0173323,0.0316503,0.0384326,0.0452148,0.051997,0.0550113
-St. Cloud Public School District,Technical Senior High,Stearns,1541,0.0123297,0.0246593,0.036989,0.0395847,0.0421804,0.0480208,0.0506165
+St. Cloud Public School District,Westwood Elementary,Stearns,387,0.0103359,0.0206718,0.0310078,0.0413437,0.0645995,0.0878553,0.111111
+St. Cloud Public School District,Oak Hill Community Elementary,Stearns,823,0.00486027,0.0157959,0.0206561,0.0315917,0.054678,0.0656136,0.0704739
+St. Cloud Public School District,North Junior High,Stearns,829,0.00482509,0.0156815,0.026538,0.0313631,0.0422195,0.053076,0.0579011
+St. Cloud Public School District,South Junior High,Stearns,910,0.0043956,0.00879121,0.0131868,0.0230769,0.043956,0.0648352,0.0692308
+St. Cloud Public School District,Apollo Senior High,Stearns,1327,0.00301432,0.0173323,0.0316503,0.0384326,0.0452148,0.051997,0.0587792
+St. Cloud Public School District,Technical Senior High,Stearns,1541,0.0123297,0.0246593,0.036989,0.0395847,0.045425,0.0512654,0.0538611
 St. Cloud Public School District,St. Cloud Area Learning Center,Stearns,233,0.0171674,0.0343348,0.0515021,0.0686695,0.0858369,0.103004,0.120172
 Sauk Centre Public School District,Sauk Centre Elementary,Stearns,347,0.0115274,0.0662824,0.092219,0.118156,0.129683,0.14121,0.152738
 Sauk Centre Public School District,Sauk Centre Secondary,Stearns,531,0.0169492,0.0715631,0.079096,0.086629,0.103578,0.111111,0.118644
@@ -1211,7 +1211,7 @@ Sartell-St. Stephen School District,Oak Ridge Early Learning Center,Stearns,295,
 Sartell-St. Stephen School District,Riverview Intermediate School,Stearns,896,0.0100446,0.0200893,0.0412946,0.0457589,0.0502232,0.0714286,0.0758929
 Rocori Public School District,Richmond Elementary,Stearns,127,0.0314961,0.0629921,0.0944882,0.125984,0.15748,0.188976,0.220472
 Rocori Public School District,Rockville Elementary,Stearns,132,0.030303,0.0606061,0.0909091,0.121212,0.151515,0.181818,0.212121
-Rocori Public School District,Cold Spring Elementary,Stearns,578,0.00692042,0.0138408,0.0294118,0.0449827,0.0605536,0.067474,0.0743945
+Rocori Public School District,Cold Spring Elementary,Stearns,578,0.00692042,0.0138408,0.0294118,0.0449827,0.0605536,0.0761246,0.083045
 Rocori Public School District,Rocori Senior High,Stearns,850,0.0105882,0.0152941,0.02,0.0247059,0.0294118,0.0341176,0.0388235
 Rocori Public School District,Rocori Middle,Stearns,589,0.00679117,0.0135823,0.0203735,0.0271647,0.0339559,0.040747,0.0475382
 Blooming Prairie Public School Dist,Blooming Prairie Elementary,Steele,421,0.0213777,0.0665083,0.0760095,0.0855107,0.130641,0.140143,0.149644
@@ -1243,7 +1243,7 @@ Browns Valley Public School District,Browns Valley Elementary,Traverse,119,0.033
 Browns Valley Public School District,Browns Valley Middle,Traverse,64,0.0625,0.125,0.1875,0.25,0.3125,0.375,0.4375
 Wheaton Area Public School District,Pearson Elementary,Traverse,165,0.0242424,0.0787879,0.10303,0.127273,0.151515,0.175758,0.2
 Wheaton Area Public School District,Wheaton Secondary,Traverse,206,0.0194175,0.038835,0.0582524,0.0776699,0.0970874,0.116505,0.135922
-Wabasha-Kellogg Public School Dist.,Wabasha-Kellogg Elementary,Wabasha,204,0.0196078,0.0392157,0.0588235,0.0784314,0.0980392,0.117647,0.137255
+Wabasha-Kellogg Public School Dist.,Wabasha-Kellogg Elementary,Wabasha,204,0.0196078,0.0392157,0.0588235,0.0784314,0.0980392,0.142157,0.161765
 Wabasha-Kellogg Public School Dist.,Wabasha-Kellogg Secondary,Wabasha,258,0.0155039,0.0310078,0.0465116,0.0620155,0.0775194,0.0930233,0.108527
 Wabasha-Kellogg Public School Dist.,Falcon View Connections Academy,Wabasha,459,0.0087146,0.0174292,0.0261438,0.0348584,0.043573,0.0522876,0.0610022
 Lake City Public School District,Bluff View Elementary,Wabasha,579,0.00690846,0.0138169,0.0207254,0.0535406,0.0690846,0.0846287,0.0915371
@@ -1265,60 +1265,60 @@ Forest Lake Public School District,Forest Lake Area High School,Washington,1933,
 Forest Lake Public School District,Forest Lake Area Middle School,Washington,826,0.00484262,0.0157385,0.0266344,0.0375303,0.0423729,0.0472155,0.0520581
 Forest Lake Public School District,Columbus Elementary,Anoka,384,0.0104167,0.0338542,0.0442708,0.0546875,0.0651042,0.0755208,0.0859375
 Forest Lake Public School District,Forest Lake Elementary,Washington,333,0.012012,0.024024,0.036036,0.048048,0.0600601,0.0720721,0.0840841
-Forest Lake Public School District,Forest View Elementary,Washington,413,0.00968523,0.0193705,0.0290557,0.0387409,0.0484262,0.0581114,0.0677966
+Forest Lake Public School District,Forest View Elementary,Washington,413,0.00968523,0.0193705,0.0290557,0.0387409,0.0484262,0.0702179,0.0799031
 Forest Lake Public School District,Lino Lakes Elementary,Anoka,464,0.00862069,0.0172414,0.0258621,0.0344828,0.0538793,0.0625,0.0711207
-Forest Lake Public School District,Linwood Elementary,Anoka,364,0.010989,0.021978,0.032967,0.043956,0.0549451,0.0659341,0.0769231
+Forest Lake Public School District,Linwood Elementary,Anoka,364,0.010989,0.021978,0.032967,0.043956,0.0686813,0.0796703,0.0906593
 Forest Lake Public School District,Scandia Elementary,Washington,349,0.025788,0.0372493,0.0487106,0.0744986,0.100287,0.111748,0.123209
 Forest Lake Public School District,Wyoming Elementary,Chisago,515,0.0174757,0.0349515,0.0524272,0.0601942,0.0776699,0.0854369,0.0932039
 Forest Lake Public School District,Early Childhood Special Education,Washington,85,0.0470588,0.0941176,0.141176,0.188235,0.235294,0.282353,0.329412
 Mahtomedi Public School District,O.H. Anderson Elementary,Washington,625,0.0064,0.0208,0.0352,0.0496,0.056,0.0704,0.0768
 Mahtomedi Public School District,Wildwood Elementary,Washington,573,0.0069808,0.0139616,0.0209424,0.0279232,0.034904,0.0418848,0.0488656
-Mahtomedi Public School District,Mahtomedi Middle,Washington,835,0.00479042,0.00958084,0.0203593,0.0251497,0.0299401,0.0407186,0.045509
-Mahtomedi Public School District,Mahtomedi Senior High,Washington,1160,0.00775862,0.0155172,0.0189655,0.0224138,0.0258621,0.0293103,0.0327586
-South Washington County School Dist,Cottage Grove Middle School,Washington,954,0.00419287,0.0136268,0.0178197,0.0220126,0.0419287,0.0461216,0.0503145
-South Washington County School Dist,Lake Middle School,Washington,1142,0.00350263,0.00700525,0.0105079,0.0183888,0.0262697,0.0297723,0.033275
+Mahtomedi Public School District,Mahtomedi Middle,Washington,835,0.00479042,0.00958084,0.0203593,0.0251497,0.0299401,0.0526946,0.057485
+Mahtomedi Public School District,Mahtomedi Senior High,Washington,1160,0.00775862,0.0155172,0.0189655,0.0224138,0.0258621,0.0336207,0.037069
+South Washington County School Dist,Cottage Grove Middle School,Washington,954,0.00419287,0.0136268,0.0178197,0.0220126,0.0419287,0.0618449,0.0660377
+South Washington County School Dist,Lake Middle School,Washington,1142,0.00350263,0.00700525,0.0105079,0.0183888,0.0262697,0.0341506,0.0376532
 South Washington County School Dist,Oltman Middle School,Washington,952,0.00420168,0.00840336,0.012605,0.0220588,0.0315126,0.0357143,0.039916
 South Washington County School Dist,South Washington Alternative High School,Washington,101,0.039604,0.0792079,0.118812,0.158416,0.19802,0.237624,0.277228
-South Washington County School Dist,Park High School,Washington,1975,0.00455696,0.00911392,0.0136709,0.0156962,0.0253165,0.0273418,0.0293671
-South Washington County School Dist,East Ridge High School,Washington,1954,0.00204708,0.00409417,0.0087001,0.0107472,0.0153531,0.0174002,0.0194473
+South Washington County School Dist,Park High School,Washington,1975,0.00455696,0.00911392,0.0136709,0.0156962,0.0253165,0.0349367,0.036962
+South Washington County School Dist,East Ridge High School,Washington,1954,0.00204708,0.00409417,0.0087001,0.0107472,0.0153531,0.0199591,0.0220061
 South Washington County School Dist,Woodbury Middle School,Washington,1158,0.00345423,0.00690846,0.0103627,0.0138169,0.0215889,0.0379965,0.0414508
-South Washington County School Dist,Woodbury High School,Washington,1972,0.0020284,0.0040568,0.00608519,0.0106491,0.020284,0.0223124,0.0243408
-South Washington County School Dist,Armstrong Elementary,Washington,331,0.0120846,0.0241692,0.0362538,0.0483384,0.060423,0.0725076,0.0845921
-South Washington County School Dist,Nuevas Fronteras Spanish Immersion Elementary,Washington,466,0.00858369,0.0171674,0.0257511,0.0450644,0.0643777,0.083691,0.0922747
-South Washington County School Dist,Crestview Elementary,Washington,411,0.0218978,0.0316302,0.053528,0.0632603,0.0851582,0.0948905,0.104623
+South Washington County School Dist,Woodbury High School,Washington,1972,0.0020284,0.0040568,0.00608519,0.0106491,0.020284,0.0248479,0.0268763
+South Washington County School Dist,Armstrong Elementary,Washington,331,0.0120846,0.0241692,0.0362538,0.0483384,0.060423,0.0876133,0.0996979
+South Washington County School Dist,Nuevas Fronteras Spanish Immersion Elementary,Washington,466,0.00858369,0.0171674,0.0257511,0.0450644,0.0643777,0.10515,0.113734
+South Washington County School Dist,Crestview Elementary,Washington,411,0.0218978,0.0316302,0.053528,0.0632603,0.109489,0.131387,0.141119
 South Washington County School Dist,Ages 3-5 Early Childhood Special Education,Washington,516,0.00775194,0.0155039,0.0232558,0.0310078,0.0387597,0.0465116,0.0542636
-South Washington County School Dist,Grey Cloud Elementary,Washington,711,0.00562588,0.0112518,0.0168776,0.0225035,0.0351617,0.0407876,0.0464135
-South Washington County School Dist,Hillside Elementary,Washington,431,0.00928074,0.0185615,0.0278422,0.037123,0.0812065,0.0904872,0.099768
-South Washington County School Dist,Cottage Grove Elementary,Washington,428,0.00934579,0.0186916,0.0280374,0.0373832,0.0817757,0.0911215,0.100467
+South Washington County School Dist,Grey Cloud Elementary,Washington,711,0.00562588,0.0112518,0.0168776,0.0225035,0.0492264,0.0759494,0.0815752
+South Washington County School Dist,Hillside Elementary,Washington,431,0.00928074,0.0185615,0.0278422,0.037123,0.0812065,0.102088,0.111369
+South Washington County School Dist,Cottage Grove Elementary,Washington,428,0.00934579,0.0186916,0.0280374,0.0373832,0.0817757,0.102804,0.11215
 South Washington County School Dist,Newport Elementary,Washington,266,0.0150376,0.0300752,0.0451128,0.0601504,0.075188,0.0902256,0.105263
 South Washington County School Dist,Pine Hill Elementary,Washington,477,0.00838574,0.0272537,0.0461216,0.0545073,0.0733753,0.081761,0.0901468
-South Washington County School Dist,Liberty Ridge Elementary,Washington,768,0.00520833,0.0104167,0.015625,0.0208333,0.0455729,0.0507812,0.0559896
-South Washington County School Dist,Pullman Elementary,Washington,423,0.00945626,0.0307329,0.0520095,0.0614657,0.070922,0.0803783,0.0898345
+South Washington County School Dist,Liberty Ridge Elementary,Washington,768,0.00520833,0.0104167,0.015625,0.0208333,0.0455729,0.0572917,0.0625
+South Washington County School Dist,Pullman Elementary,Washington,423,0.00945626,0.0307329,0.0520095,0.0614657,0.070922,0.0921986,0.101655
 South Washington County School Dist,Red Rock Elementary,Washington,634,0.00630915,0.0126183,0.0189274,0.033123,0.0630915,0.0694006,0.0757098
-South Washington County School Dist,Royal Oaks Elementary,Washington,516,0.00775194,0.0155039,0.0523256,0.0697674,0.106589,0.114341,0.122093
+South Washington County School Dist,Royal Oaks Elementary,Washington,516,0.00775194,0.0155039,0.0523256,0.0697674,0.106589,0.124031,0.131783
 South Washington County School Dist,Gordon Bailey Elementary,Washington,610,0.00655738,0.0131148,0.0196721,0.0262295,0.0327869,0.0393443,0.0459016
 South Washington County School Dist,Woodbury Elementary,Washington,435,0.0091954,0.0183908,0.0275862,0.0367816,0.045977,0.0666667,0.0758621
 South Washington County School Dist,Middleton Elementary,Washington,667,0.005997,0.011994,0.0254873,0.053973,0.0974513,0.110945,0.116942
 South Washington County School Dist,Next Step Transition Program,Washington,77,0.0519481,0.103896,0.155844,0.207792,0.25974,0.311688,0.363636
 South Washington County School Dist,Valley Crossing Elementary,Washington,614,0.00651466,0.0130293,0.019544,0.0260586,0.0570033,0.0635179,0.0700326
 Stillwater Area Public School Dist.,Stillwater Area High School,Washington,2730,0.0032967,0.00659341,0.00989011,0.0113553,0.014652,0.0252747,0.0267399
-Stillwater Area Public School Dist.,Oak-Land Middle School,Washington,981,0.00407747,0.00815494,0.0173293,0.0214067,0.030581,0.0397554,0.0438328
-Stillwater Area Public School Dist.,Stillwater Middle School,Washington,926,0.00431965,0.00863931,0.012959,0.0172786,0.0215983,0.0259179,0.0302376
+Stillwater Area Public School Dist.,Oak-Land Middle School,Washington,981,0.00407747,0.00815494,0.0173293,0.0214067,0.030581,0.0397554,0.0489297
+Stillwater Area Public School Dist.,Stillwater Middle School,Washington,926,0.00431965,0.00863931,0.012959,0.0172786,0.0215983,0.0313175,0.0356371
 Stillwater Area Public School Dist.,St Croix Valley Area Learning Cntr.,Washington,74,0.0540541,0.108108,0.162162,0.216216,0.27027,0.324324,0.378378
 Stillwater Area Public School Dist.,Afton-Lakeland Elementary,Washington,440,0.00909091,0.0181818,0.0272727,0.0704545,0.0795455,0.0886364,0.0977273
-Stillwater Area Public School Dist.,Andersen Elementary,Washington,312,0.0128205,0.025641,0.0384615,0.0512821,0.0801282,0.0929487,0.105769
-Stillwater Area Public School Dist.,Lake Elmo Elementary,Washington,676,0.00591716,0.0192308,0.0251479,0.0310651,0.0369822,0.0502959,0.056213
+Stillwater Area Public School Dist.,Andersen Elementary,Washington,312,0.0128205,0.025641,0.0384615,0.0512821,0.0801282,0.108974,0.121795
+Stillwater Area Public School Dist.,Lake Elmo Elementary,Washington,676,0.00591716,0.0192308,0.0251479,0.0310651,0.0369822,0.0502959,0.0636095
 Stillwater Area Public School Dist.,Lily Lake Elementary,Washington,437,0.00915332,0.0183066,0.02746,0.0366133,0.0457666,0.0549199,0.0640732
 Stillwater Area Public School Dist.,Stonebridge Elementary,Washington,396,0.010101,0.020202,0.030303,0.040404,0.0505051,0.0732323,0.0833333
 Stillwater Area Public School Dist.,Brookview Elementary,Washington,477,0.00838574,0.0167715,0.0251572,0.033543,0.0524109,0.0607966,0.0691824
 Stillwater Area Public School Dist.,GATE 4/5,Washington,59,0.0677966,0.135593,0.20339,0.271186,0.338983,0.40678,0.474576
 Stillwater Area Public School Dist.,Stillwater Special Services-ECSE,Washington,205,0.0195122,0.0390244,0.0585366,0.0780488,0.097561,0.117073,0.136585
-Stillwater Area Public School Dist.,Rutherford Elementary,Washington,548,0.00729927,0.0145985,0.0218978,0.0291971,0.0456204,0.0529197,0.060219
+Stillwater Area Public School Dist.,Rutherford Elementary,Washington,548,0.00729927,0.0145985,0.0218978,0.0291971,0.0456204,0.0529197,0.0693431
 Butterfield Public School District,Butterfield Elementary,Watonwan,119,0.0336134,0.0672269,0.10084,0.134454,0.168067,0.201681,0.235294
 Butterfield Public School District,Butterfield Secondary,Watonwan,99,0.040404,0.0808081,0.121212,0.161616,0.20202,0.242424,0.282828
 Madelia Public School District,Madelia Elementary,Watonwan,343,0.0116618,0.0233236,0.0349854,0.0466472,0.058309,0.0699708,0.0816327
 Madelia Public School District,Madelia Secondary,Watonwan,269,0.0148699,0.0297398,0.0446097,0.0594796,0.0743494,0.0892193,0.104089
-St. James Public School District,St. James Northside Elementary,Watonwan,452,0.00884956,0.0176991,0.0265487,0.0353982,0.0774336,0.0973451,0.117257
+St. James Public School District,St. James Northside Elementary,Watonwan,452,0.00884956,0.0176991,0.0265487,0.0353982,0.0553097,0.0641593,0.0730088
 St. James Public School District,Armstrong School,Watonwan,69,0.057971,0.115942,0.173913,0.231884,0.289855,0.347826,0.405797
 St. James Public School District,St. James Middle/High School,Watonwan,506,0.00790514,0.0158103,0.0237154,0.0316206,0.0395257,0.0474308,0.055336
 Breckenridge Public School District,Breckenridge Elementary,Wilkin,309,0.012945,0.02589,0.038835,0.0517799,0.0647249,0.0776699,0.0906149
@@ -1336,7 +1336,7 @@ St. Charles Public School District,St. Charles Secondary,Winona,478,0.0083682,0.
 Winona Area Public School District,Jefferson Elementary,Winona,314,0.0127389,0.0254777,0.0382166,0.0509554,0.0636943,0.0764331,0.089172
 Winona Area Public School District,Winona Early Childhood Special Ed.,Winona,79,0.0506329,0.101266,0.151899,0.202532,0.253165,0.303797,0.35443
 Winona Area Public School District,Winona Middle,Winona,774,0.0116279,0.0232558,0.0284238,0.0335917,0.0387597,0.0503876,0.0555556
-Winona Area Public School District,Winona Senior High,Winona,890,0.00449438,0.00898876,0.0134831,0.0179775,0.0280899,0.0325843,0.0370787
+Winona Area Public School District,Winona Senior High,Winona,890,0.00449438,0.00898876,0.0134831,0.0179775,0.0280899,0.0382022,0.0426966
 Winona Area Public School District,Washington-Kosciusko Elementary,Winona,312,0.0128205,0.025641,0.0384615,0.0512821,0.0641026,0.0769231,0.0897436
 Winona Area Public School District,Goodview Elementary,Winona,196,0.0459184,0.0663265,0.0867347,0.107143,0.153061,0.173469,0.193878
 Winona Area Public School District,Winona Area Learning Center,Winona,69,0.057971,0.115942,0.173913,0.231884,0.289855,0.347826,0.405797
@@ -1346,33 +1346,33 @@ Annandale Public School District,Annandale Senior High,Wright,583,0.00686106,0.0
 Buffalo-Hanover-Montrose Public Sch,Parkside Elementary,Wright,353,0.0113314,0.0226629,0.0339943,0.0453258,0.0708215,0.0963173,0.107649
 Buffalo-Hanover-Montrose Public Sch,Buffalo Early Child. Sp. Ed Program,Wright,121,0.0330579,0.0661157,0.0991736,0.132231,0.165289,0.198347,0.231405
 Buffalo-Hanover-Montrose Public Sch,Hanover Elementary,Wright,378,0.010582,0.021164,0.0714286,0.0820106,0.10582,0.116402,0.126984
-Buffalo-Hanover-Montrose Public Sch,Buffalo Community Middle,Wright,1304,0.00306748,0.00996933,0.0168712,0.023773,0.0306748,0.0375767,0.0406442
-Buffalo-Hanover-Montrose Public Sch,Buffalo Senior High,Wright,1832,0.00491266,0.0152838,0.0420306,0.0524017,0.0573144,0.0622271,0.0644105
+Buffalo-Hanover-Montrose Public Sch,Buffalo Community Middle,Wright,1304,0.00306748,0.00996933,0.0168712,0.023773,0.0306748,0.0452454,0.0521472
+Buffalo-Hanover-Montrose Public Sch,Buffalo Senior High,Wright,1832,0.00491266,0.0152838,0.0420306,0.0524017,0.0573144,0.0622271,0.0671397
 Buffalo-Hanover-Montrose Public Sch,Montrose Elementary School of Innovation,Wright,343,0.0116618,0.0233236,0.0495627,0.0612245,0.0728863,0.0845481,0.0962099
 Buffalo-Hanover-Montrose Public Sch,Tatanka Elementary STEM School,Wright,456,0.0416667,0.0504386,0.0592105,0.0789474,0.0986842,0.118421,0.127193
 Buffalo-Hanover-Montrose Public Sch,Northwinds Elementary,Wright,438,0.00913242,0.0182648,0.0273973,0.0365297,0.0570776,0.06621,0.0753425
 Buffalo-Hanover-Montrose Public Sch,Discovery Elementary,Wright,227,0.0176211,0.0572687,0.0748899,0.092511,0.110132,0.127753,0.145374
 Delano Public School District,Delano Elementary,Wright,637,0.00627943,0.0361068,0.0502355,0.0565149,0.0627943,0.0690738,0.0753532
 Delano Public School District,Delano Intermediate School,Wright,534,0.00749064,0.0430712,0.0786517,0.0861423,0.093633,0.101124,0.108614
-Delano Public School District,Delano High School,Wright,1213,0.00741962,0.0313273,0.055235,0.0585326,0.0659522,0.0692498,0.0725474
+Delano Public School District,Delano High School,Wright,1213,0.00741962,0.0313273,0.055235,0.0585326,0.0659522,0.0733718,0.0766694
 Maple Lake Public School District,Maple Lake Elementary,Wright,379,0.0105541,0.0211082,0.0316623,0.055409,0.105541,0.116095,0.126649
 Maple Lake Public School District,Maple Lake Secondary,Wright,401,0.00997506,0.0199501,0.0299252,0.0399002,0.0623441,0.0723192,0.0822943
 Monticello Public School District,Pinewood Elementary,Wright,750,0.00533333,0.0106667,0.016,0.0213333,0.0266667,0.0386667,0.044
-Monticello Public School District,Monticello Senior High,Wright,1271,0.0149489,0.0298977,0.0448466,0.0479937,0.0511408,0.0660897,0.0692368
+Monticello Public School District,Monticello Senior High,Wright,1271,0.0149489,0.0298977,0.0448466,0.0479937,0.0511408,0.0660897,0.0731707
 Monticello Public School District,Monticello Middle,Wright,1011,0.00395648,0.00791296,0.016815,0.0207715,0.049456,0.0682493,0.0722057
 Monticello Public School District,Little Mountain Elementary,Wright,558,0.00716846,0.0143369,0.0215054,0.0286738,0.0358423,0.0430108,0.0501792
-Monticello Public School District,Eastview Education Center,Wright,323,0.0123839,0.0247678,0.0371517,0.0495356,0.0619195,0.0743034,0.0866873
+Monticello Public School District,Eastview Education Center,Wright,323,0.0123839,0.0247678,0.0371517,0.0495356,0.0619195,0.0897833,0.102167
 Monticello Public School District,Monticello Nature Based Education,Wright,121,0.0330579,0.0661157,0.0991736,0.132231,0.165289,0.198347,0.231405
 Rockford Public School District,Rockford Secondary,Hennepin,495,0.00808081,0.0262626,0.0343434,0.0424242,0.0505051,0.0585859,0.0666667
 Rockford Public School District,Rockford Elementary Arts Magnet Sch,Hennepin,577,0.00693241,0.0138648,0.0207972,0.0277296,0.0433276,0.05026,0.0571924
 Rockford Public School District,Rockford Middle,Wright,481,0.00831601,0.016632,0.024948,0.033264,0.04158,0.049896,0.0582121
-St. Michael-Albertville School Dist,Albertville Primary,Wright,441,0.00907029,0.0181406,0.0272109,0.0362812,0.0453515,0.0657596,0.0748299
+St. Michael-Albertville School Dist,Albertville Primary,Wright,441,0.00907029,0.0181406,0.0272109,0.0362812,0.0453515,0.0657596,0.0861678
 St. Michael-Albertville School Dist,St. Michael-Albertville Senior High,Wright,2197,0.00864816,0.0127447,0.0213928,0.0345926,0.0432408,0.0518889,0.0537096
-St. Michael-Albertville School Dist,St. Michael-Albertville Middle East,Wright,884,0.00452489,0.0373303,0.0588235,0.0690045,0.0904977,0.0950226,0.0995475
+St. Michael-Albertville School Dist,St. Michael-Albertville Middle East,Wright,884,0.00452489,0.0373303,0.0588235,0.0690045,0.0904977,0.100679,0.11086
 St. Michael-Albertville School Dist,St. Michael Elementary,Wright,487,0.00821355,0.0164271,0.0246407,0.0328542,0.0718686,0.110883,0.119097
 St. Michael-Albertville School Dist,Big Woods Elementary,Wright,653,0.00612557,0.0352221,0.0413476,0.0474732,0.0612557,0.0750383,0.0811639
 St. Michael-Albertville School Dist,Fieldstone Elementary School,Wright,579,0.00690846,0.0224525,0.029361,0.0621762,0.0690846,0.0846287,0.0915371
-St. Michael-Albertville School Dist,St. Michael-Albertville Middle West,Wright,1082,0.00369686,0.0120148,0.0295749,0.0378928,0.0554529,0.0730129,0.0767098
+St. Michael-Albertville School Dist,St. Michael-Albertville Middle West,Wright,1082,0.00369686,0.0120148,0.0295749,0.0378928,0.0554529,0.0730129,0.0813309
 Canby Public School District,Canby Secondary,Yellow Medicine,293,0.0136519,0.0273038,0.0409556,0.0546075,0.0682594,0.0819113,0.0955631
 Canby Public School District,Canby Elementary,Yellow Medicine,274,0.0145985,0.0291971,0.0620438,0.0948905,0.109489,0.124088,0.138686
 Cambridge-Isanti Public School District,Cambridge Primary School,Isanti,471,0.00849257,0.0169851,0.0360934,0.044586,0.0636943,0.0828025,0.0912951
@@ -1385,11 +1385,11 @@ Cambridge-Isanti Public School District,Isanti Middle School,Isanti,528,0.007575
 Cambridge-Isanti Public School District,Cambridge-Isanti High School,Isanti,1561,0.00576553,0.0243434,0.0429212,0.061499,0.0800769,0.0826393,0.0852018
 Cambridge-Isanti Public School District,Riverside Academy,Isanti,53,0.0754717,0.150943,0.226415,0.301887,0.377358,0.45283,0.528302
 Milaca Public School District,Milaca Elementary,Mille Lacs,852,0.00469484,0.00938967,0.0199531,0.0422535,0.0528169,0.0575117,0.0622066
-Milaca Public School District,Milaca Secondary High,Mille Lacs,786,0.00508906,0.0101781,0.0343511,0.0458015,0.0572519,0.062341,0.06743
+Milaca Public School District,Milaca Secondary High,Mille Lacs,786,0.00508906,0.0101781,0.0343511,0.0458015,0.0572519,0.0687023,0.0737913
 Ulen-Hitterdal Public School Dist,Ulen-Hitterdal Elementary,Clay,151,0.0264901,0.0529801,0.0794702,0.10596,0.13245,0.15894,0.18543
 Ulen-Hitterdal Public School Dist,Ulen-Hitterdal Secondary,Clay,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
 Northeast Metro 916,Quora Secondary School,Ramsey,174,0.0229885,0.045977,0.0689655,0.091954,0.114943,0.137931,0.16092
-Northeast Metro 916,Karner Blue Education Center,Anoka,102,0.0392157,0.0784314,0.117647,0.156863,0.196078,0.235294,0.27451
+Northeast Metro 916,Karner Blue Education Center,Anoka,102,0.0392157,0.0784314,0.117647,0.156863,0.245098,0.284314,0.323529
 Northeast Metro 916,South Campus Education Center,Ramsey,63,0.0634921,0.126984,0.190476,0.253968,0.31746,0.380952,0.444444
 Northeast Metro 916,Pankalo Education Center,Washington,93,0.0430108,0.0860215,0.129032,0.172043,0.215054,0.258065,0.301075
 Northeast Metro 916,916 MAHTOMEDI ACADEMY,Ramsey,102,0.0392157,0.0784314,0.117647,0.156863,0.196078,0.235294,0.27451
@@ -1405,17 +1405,17 @@ Fergus Falls Area Special Education Cooperative,Fergus Falls Early Childhood Sp 
 Meeker And Wright Special Education,Meeker-Wright Early Childhood Sp Ed,Wright,65,0.0615385,0.123077,0.184615,0.246154,0.307692,0.369231,0.430769
 Wright Technical Center,Wright Technical Center ALC,Wright,77,0.0519481,0.103896,0.155844,0.207792,0.25974,0.311688,0.363636
 Perpich Center For Arts Education,Perpich Center For Arts Education,Hennepin,143,0.027972,0.0909091,0.118881,0.146853,0.174825,0.202797,0.230769
-Lake Crystal-Wellcome Memorial,Lake Crystal-Wellcome Memorial Elementary,Blue Earth,422,0.00947867,0.0189573,0.028436,0.0379147,0.0592417,0.0687204,0.0781991
-Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,0.00840336,0.0168067,0.0252101,0.0441176,0.0630252,0.0714286,0.0798319
+Lake Crystal-Wellcome Memorial,Lake Crystal-Wellcome Memorial Elementary,Blue Earth,422,0.00947867,0.0189573,0.028436,0.049763,0.07109,0.0805687,0.0900474
+Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,0.00840336,0.0168067,0.0252101,0.0336134,0.052521,0.0609244,0.0693277
 Triton School District,Triton Middle School,Dodge,239,0.0167364,0.0334728,0.0502092,0.0878661,0.104603,0.121339,0.138075
 Triton School District,Triton Elementary,Dodge,440,0.00909091,0.0181818,0.0272727,0.0363636,0.0795455,0.0886364,0.0977273
 Triton School District,Triton High School,Dodge,327,0.0122324,0.0244648,0.0366972,0.0489297,0.0611621,0.0733945,0.0856269
-United South Central School Dist.,United South Central Elementary,Faribault,428,0.00934579,0.0186916,0.0280374,0.0373832,0.046729,0.0560748,0.0654206
+United South Central School Dist.,United South Central Elementary,Faribault,428,0.00934579,0.0186916,0.0280374,0.0373832,0.046729,0.0560748,0.0771028
 United South Central School Dist.,United South Central High School,Faribault,332,0.0120482,0.0240964,0.0512048,0.063253,0.0753012,0.0873494,0.0993976
 Maple River School District,Maple River Secondary,Blue Earth,533,0.00750469,0.0150094,0.0225141,0.0300188,0.0375235,0.0450281,0.0525328
 Maple River School District,Maple River East Elementary,Faribault,159,0.0251572,0.0503145,0.0754717,0.100629,0.125786,0.150943,0.176101
 Maple River School District,Maple River West Elementary,Blue Earth,158,0.0253165,0.0506329,0.0759494,0.101266,0.126582,0.151899,0.177215
-Kingsland Public School District,Kingsland Elementary School,Fillmore,268,0.0149254,0.0298507,0.0634328,0.0970149,0.11194,0.126866,0.141791
+Kingsland Public School District,Kingsland Elementary School,Fillmore,268,0.0149254,0.0298507,0.0634328,0.0970149,0.11194,0.145522,0.160448
 Kingsland Public School District,Kingsland Junior/Senior High School,Fillmore,265,0.0150943,0.0301887,0.101887,0.116981,0.132075,0.14717,0.162264
 St. Louis County School District,Babbitt Elementary,Saint Louis,92,0.0434783,0.0869565,0.130435,0.173913,0.217391,0.26087,0.304348
 St. Louis County School District,Tower-Soudan Elementary,Saint Louis,95,0.0421053,0.0842105,0.126316,0.168421,0.210526,0.252632,0.294737
@@ -1437,8 +1437,8 @@ Chisago Lakes School District,Chisago Lakes Senior High,Chisago,1075,0.00837209,
 Chisago Lakes School District,Taylors Falls Elementary,Chisago,315,0.0603175,0.0888889,0.101587,0.114286,0.126984,0.139683,0.152381
 Minnewaska School District,Minnewaska Secondary,Pope,375,0.0106667,0.0613333,0.112,0.122667,0.133333,0.144,0.154667
 Minnewaska School District,Minnewaska Area Junior High,Pope,234,0.017094,0.034188,0.0512821,0.0683761,0.0854701,0.102564,0.119658
-Minnewaska School District,Minnewaska Area Intermediate School,Pope,298,0.0134228,0.0436242,0.107383,0.120805,0.134228,0.147651,0.161074
-Minnewaska School District,Minnewaska Area Elementary,Pope,356,0.011236,0.0224719,0.0337079,0.0449438,0.0702247,0.0814607,0.0926966
+Minnewaska School District,Minnewaska Area Intermediate School,Pope,298,0.0134228,0.0436242,0.107383,0.120805,0.151007,0.16443,0.177852
+Minnewaska School District,Minnewaska Area Elementary,Pope,356,0.011236,0.0224719,0.0337079,0.0449438,0.0702247,0.0955056,0.120787
 Wadena-Deer Creek School District,Wadena-Deer Creek Senior High,Wadena,446,0.00896861,0.029148,0.0941704,0.11435,0.134529,0.143498,0.152466
 Wadena-Deer Creek School District,Wadena-Deer Creek Elementary,Wadena,434,0.00921659,0.0184332,0.062212,0.0714286,0.115207,0.124424,0.133641
 Wadena-Deer Creek School District,Wadena-Deer Creek 5th And 6th Grade,Wadena,153,0.0261438,0.0522876,0.0784314,0.104575,0.130719,0.156863,0.183007
@@ -1456,10 +1456,10 @@ Lakeview School District,Lakeview Secondary,Lyon,275,0.0145455,0.0472727,0.06181
 NRHEG School District,NRHEG Secondary,Waseca,480,0.01875,0.0583333,0.0666667,0.075,0.09375,0.102083,0.110417
 NRHEG School District,NRHEG Elementary,Steele,362,0.0110497,0.0220994,0.0331492,0.0441989,0.0552486,0.0662983,0.0773481
 Murray County Central School Dist.,Murray Co. Central Elementary,Murray,396,0.010101,0.0328283,0.0555556,0.0656566,0.0757576,0.0858586,0.0959596
-Murray County Central School Dist.,Murray County Central Secondary,Murray,328,0.027439,0.0396341,0.0670732,0.0792683,0.0914634,0.103659,0.115854
+Murray County Central School Dist.,Murray County Central Secondary,Murray,328,0.027439,0.0396341,0.0670732,0.0792683,0.0914634,0.118902,0.131098
 Staples-Motley School District,Staples-Motley Elementary,Todd,346,0.0115607,0.0231214,0.0346821,0.0462428,0.0722543,0.083815,0.0953757
-Staples-Motley School District,Staples-Motley Senior High,Todd,330,0.0121212,0.0393939,0.0515152,0.0636364,0.0909091,0.10303,0.115152
-Staples-Motley School District,Motley-Staples Middle School,Todd,301,0.013289,0.0265781,0.0398671,0.0531561,0.0664452,0.0797342,0.0930233
+Staples-Motley School District,Staples-Motley Senior High,Todd,330,0.0121212,0.0393939,0.0515152,0.0636364,0.121212,0.133333,0.145455
+Staples-Motley School District,Motley-Staples Middle School,Todd,301,0.013289,0.0265781,0.0398671,0.0531561,0.0830565,0.0963455,0.109635
 Kittson Central School District,Kittson Central Elementary,Kittson,136,0.0294118,0.0588235,0.0882353,0.117647,0.147059,0.176471,0.205882
 Kittson Central School District,Kittson Central Secondary,Kittson,94,0.0425532,0.138298,0.180851,0.223404,0.265957,0.308511,0.351064
 Kenyon-Wanamingo School District,Kenyon-Wanamingo Elementary,Goodhue,260,0.0153846,0.0307692,0.0461538,0.0615385,0.0769231,0.0923077,0.107692
@@ -1502,7 +1502,7 @@ A.C.G.C. Public School District,ACGC Elementary Grades 5 And 6,Meeker,139,0.0287
 A.C.G.C. Public School District,A.C.G.C. Secondary,Meeker,402,0.0223881,0.0447761,0.0671642,0.0895522,0.136816,0.159204,0.169154
 Le Sueur-Henderson School District,Park Elementary,Lesueur,232,0.0172414,0.0344828,0.0517241,0.0689655,0.107759,0.125,0.142241
 Le Sueur-Henderson School District,Hilltop Elementary,Sibley,126,0.031746,0.0634921,0.0952381,0.126984,0.15873,0.190476,0.222222
-Le Sueur-Henderson School District,Le Sueur-Henderson High School,Lesueur,328,0.0121951,0.0243902,0.0365854,0.0487805,0.0609756,0.0884146,0.10061
+Le Sueur-Henderson School District,Le Sueur-Henderson High School,Lesueur,328,0.0121951,0.0243902,0.0365854,0.0487805,0.0609756,0.118902,0.131098
 Le Sueur-Henderson School District,Le Sueur-Henderson Middle School,Lesueur,240,0.0166667,0.0333333,0.05,0.0666667,0.0833333,0.1,0.116667
 Martin County West School District,Sherburn Elementary,Martin,144,0.0277778,0.0555556,0.0833333,0.111111,0.138889,0.166667,0.194444
 Martin County West School District,Trimont Elementary,Martin,194,0.0206186,0.118557,0.139175,0.159794,0.180412,0.201031,0.221649
@@ -1531,14 +1531,14 @@ Pipestone Area School District,Pipestone Middle,Pipestone,306,0.0130719,0.026143
 Pipestone Area School District,Pipestone Senior High,Pipestone,345,0.0115942,0.0231884,0.0347826,0.0463768,0.057971,0.0695652,0.0811594
 Mesabi East School District,Mesabi East Elementary,Saint Louis,483,0.0186335,0.0372671,0.0559006,0.0745342,0.113872,0.122153,0.130435
 Mesabi East School District,Mesabi East Secondary,Saint Louis,441,0.00907029,0.0181406,0.0612245,0.0816327,0.0907029,0.0997732,0.108844
-Fairmont Area School District,Fairmont Elementary School,Martin,908,0.00991189,0.030837,0.0517621,0.061674,0.0825991,0.0870044,0.0914097
+Fairmont Area School District,Fairmont Elementary School,Martin,908,0.00991189,0.030837,0.0517621,0.061674,0.0825991,0.0870044,0.0969163
 Fairmont Area School District,Fairmont Jr./Sr. High School,Martin,843,0.0106762,0.0450771,0.0676157,0.0723606,0.0948992,0.105575,0.11032
 Long Prairie-Grey Eagle School District,Long Prairie-Grey Eagle Elementary,Todd,506,0.00790514,0.0158103,0.0533597,0.0909091,0.148221,0.156126,0.164032
 Long Prairie-Grey Eagle School District,Long Prairie-Grey Secondary School,Todd,424,0.0212264,0.0424528,0.0636792,0.0849057,0.0943396,0.103774,0.113208
 Cedar Mountain School District,Cedar Mountain Elementary,Renville,168,0.0238095,0.047619,0.0714286,0.0952381,0.119048,0.142857,0.166667
 Cedar Mountain School District,Cedar Mountain Secondary,Redwood,261,0.0727969,0.0881226,0.103448,0.118774,0.1341,0.149425,0.164751
-Morris Area Public Schools,Morris Area Secondary,Stevens,515,0.00776699,0.015534,0.0330097,0.0504854,0.0582524,0.0660194,0.0737864
-Morris Area Public Schools,Morris Area Elementary,Stevens,570,0.00701754,0.022807,0.0298246,0.045614,0.0964912,0.103509,0.110526
+Morris Area Public Schools,Morris Area Secondary,Stevens,515,0.00776699,0.015534,0.0330097,0.0504854,0.0582524,0.0757282,0.0834951
+Morris Area Public Schools,Morris Area Elementary,Stevens,570,0.00701754,0.022807,0.0298246,0.045614,0.114035,0.121053,0.12807
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Elementary School,Wabasha,387,0.0103359,0.0206718,0.0697674,0.0930233,0.116279,0.126615,0.136951
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Senior High,Goodhue,390,0.0102564,0.0205128,0.0307692,0.0410256,0.0897436,0.112821,0.123077
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Middle School,Goodhue,182,0.021978,0.043956,0.0659341,0.0879121,0.10989,0.131868,0.153846
@@ -1575,14 +1575,14 @@ Jackson County Central School District,Riverside Elementary,Jackson,382,0.010471
 Jackson County Central School District,Jackson County Central Senior High,Jackson,335,0.0119403,0.0238806,0.0358209,0.0477612,0.0597015,0.0716418,0.0835821
 Jackson County Central School District,Jackson County Central Middle,Jackson,266,0.0150376,0.0300752,0.0451128,0.0601504,0.075188,0.0902256,0.105263
 Redwood Area School District,Redwood Valley Senior High,Redwood,332,0.0120482,0.0240964,0.0361446,0.0481928,0.0753012,0.0873494,0.0993976
-Redwood Area School District,Reede Gray Elementary,Redwood,448,0.0200893,0.0401786,0.0491071,0.0580357,0.100446,0.109375,0.118304
-Redwood Area School District,Redwood Valley Middle,Redwood,349,0.0544413,0.108883,0.120344,0.131805,0.143266,0.154728,0.166189
-Westbrook-Walnut Grove Schools,Walnut Grove Elementary,Redwood,275,0.0327273,0.0654545,0.08,0.0945455,0.109091,0.141818,0.156364
+Redwood Area School District,Reede Gray Elementary,Redwood,448,0.0200893,0.0401786,0.0491071,0.0580357,0.100446,0.120536,0.129464
+Redwood Area School District,Redwood Valley Middle,Redwood,349,0.0544413,0.108883,0.120344,0.131805,0.143266,0.169054,0.180516
+Westbrook-Walnut Grove Schools,Walnut Grove Elementary,Redwood,275,0.0327273,0.0654545,0.08,0.0945455,0.109091,0.178182,0.192727
 Westbrook-Walnut Grove Schools,Westbrook-Walnut Grove Secondary,Cottonwood,152,0.0263158,0.0526316,0.0789474,0.138158,0.164474,0.190789,0.217105
-Plainview-Elgin-Millville,Plainview-Elgin-Millville Pk-3,Wabasha,435,0.0091954,0.0298851,0.0505747,0.0597701,0.0689655,0.0781609,0.0873563
+Plainview-Elgin-Millville,Plainview-Elgin-Millville Pk-3,Wabasha,435,0.0091954,0.0298851,0.0505747,0.0712644,0.0804598,0.101149,0.110345
 Plainview-Elgin-Millville,Plainview-Elgin-Millville 4-6,Wabasha,351,0.011396,0.0655271,0.0911681,0.116809,0.14245,0.153846,0.165242
 Plainview-Elgin-Millville,Plainview-Elgin-Millville Junior,Wabasha,246,0.0162602,0.0325203,0.0487805,0.0650407,0.0813008,0.097561,0.113821
-Plainview-Elgin-Millville,PLAINVIEW-ELGIN-MILLVILLE HIGH,Wabasha,474,0.00843882,0.0485232,0.0886076,0.128692,0.137131,0.14557,0.154008
+Plainview-Elgin-Millville,PLAINVIEW-ELGIN-MILLVILLE HIGH,Wabasha,474,0.00843882,0.0485232,0.0886076,0.128692,0.147679,0.156118,0.164557
 RTR Public Schools,RTR Elementary School,Pipestone,207,0.0193237,0.0386473,0.057971,0.0772947,0.0966184,0.115942,0.135266
 RTR Public Schools,RTR Middle School,Lyon,150,0.0266667,0.0533333,0.08,0.106667,0.133333,0.16,0.186667
 RTR Public Schools,RTR High School,Lincoln,199,0.0201005,0.040201,0.0603015,0.080402,0.100503,0.120603,0.140704
@@ -1591,8 +1591,8 @@ Ortonville Public Schools,Ortonville Secondary,Big Stone,226,0.0176991,0.0353982
 Tracy Area Public School District,Tracy Secondary,Lyon,345,0.026087,0.0521739,0.0637681,0.0753623,0.0869565,0.0985507,0.110145
 Tracy Area Public School District,Tracy Elementary,Lyon,336,0.0119048,0.0386905,0.125,0.136905,0.14881,0.160714,0.172619
 Tri-City United School District,Le Center Pre K-8,Lesueur,456,0.00877193,0.0175439,0.0263158,0.0350877,0.0548246,0.0635965,0.0723684
-Tri-City United School District,Tri-City United High School,Lesueur,544,0.00735294,0.0422794,0.0772059,0.09375,0.101103,0.117647,0.125
-Tri-City United School District,Montgomery Pre K-8,Lesueur,577,0.00693241,0.0138648,0.0207972,0.0277296,0.034662,0.0415945,0.0485269
+Tri-City United School District,Tri-City United High School,Lesueur,544,0.00735294,0.0422794,0.0772059,0.09375,0.101103,0.117647,0.134191
+Tri-City United School District,Montgomery Pre K-8,Lesueur,577,0.00693241,0.0138648,0.0207972,0.0277296,0.034662,0.05026,0.0571924
 Tri-City United School District,LONSDALE PRE K-6,Rice,306,0.0130719,0.0261438,0.0555556,0.0686275,0.0816993,0.0947712,0.107843
 Red Lake County Central Public Schools,Red Lake County Central Elementary,Red Lake,215,0.0186047,0.106977,0.125581,0.144186,0.162791,0.181395,0.2
 Red Lake County Central Public Schools,Red Lake County Central High School,Red Lake,174,0.0517241,0.0747126,0.0977011,0.12069,0.143678,0.166667,0.189655
@@ -1684,7 +1684,7 @@ Prairie Creek Community School,Prairie Creek Community School,Dakota,180,0.02222
 Arcadia Charter School,Arcadia Charter School,Rice,108,0.037037,0.0740741,0.111111,0.148148,0.185185,0.222222,0.259259
 New Century Academy,New Century Academy,Mcleod,119,0.0336134,0.0672269,0.10084,0.134454,0.168067,0.201681,0.235294
 TRIO Wolf Creek Distance Learning,TRIO Wolf Creek Distance Learning,Chisago,153,0.0261438,0.0522876,0.0784314,0.104575,0.130719,0.156863,0.183007
-Nova Classical Academy,Nova Classical Academy Lower School,Ramsey,484,0.00826446,0.0165289,0.0247934,0.0330579,0.0516529,0.0599174,0.0681818
+Nova Classical Academy,Nova Classical Academy Lower School,Ramsey,484,0.00826446,0.0165289,0.0247934,0.0330579,0.072314,0.0805785,0.088843
 Nova Classical Academy,NOVA CLASSICAL ACADEMY UPPER SCHOOL,Ramsey,526,0.00760456,0.0152091,0.0228137,0.0304183,0.0380228,0.0456274,0.0532319
 Great Expectations,Great Expectations,Cook,111,0.036036,0.0720721,0.108108,0.144144,0.18018,0.216216,0.252252
 Minnesota Internship Center,RONDO CAMPUS,Ramsey,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
@@ -1711,13 +1711,13 @@ Kaleidoscope Charter School,Kaleidoscope Charter Elementary School,Wright,344,0.
 Kaleidoscope Charter School,Kaleidoscope Charter High School,Wright,91,0.043956,0.0879121,0.131868,0.175824,0.384615,0.428571,0.472527
 Kaleidoscope Charter School,Kaleidoscope Middle School,Wright,114,0.0350877,0.0701754,0.105263,0.140351,0.175439,0.210526,0.245614
 Academic Arts High School,Academic Arts High School,Dakota,89,0.0449438,0.0898876,0.134831,0.179775,0.224719,0.269663,0.314607
-St. Croix Preparatory Academy,St. Croix Preparatory Academy Lower,Washington,450,0.00888889,0.0177778,0.0266667,0.0355556,0.0444444,0.0533333,0.0622222
-St. Croix Preparatory Academy,St. Croix Preparatory Academy Middle,Washington,371,0.0107817,0.0215633,0.032345,0.0431267,0.0673854,0.0916442,0.102426
+St. Croix Preparatory Academy,St. Croix Preparatory Academy Lower,Washington,450,0.00888889,0.0177778,0.0266667,0.0355556,0.0777778,0.0977778,0.106667
+St. Croix Preparatory Academy,St. Croix Preparatory Academy Middle,Washington,371,0.0107817,0.0215633,0.032345,0.0431267,0.0673854,0.0781671,0.0889488
 St. Croix Preparatory Academy,St. Croix Preparatory Academy Upper,Washington,383,0.0104439,0.0208877,0.0313316,0.0417755,0.0522193,0.0626632,0.073107
 Ubah Medical Academy Charter School,Ubah Medical Academy Charter School,Hennepin,313,0.0127796,0.0255591,0.0383387,0.0511182,0.0638978,0.0766773,0.0894569
 Eagle Ridge Academy Charter School,Eagle Ridge Academy Charter School,Hennepin,606,0.00660066,0.0132013,0.0445545,0.0594059,0.0660066,0.0808581,0.0874587
 Eagle Ridge Academy Charter School,Eagle Ridge Academy Lower School,Hennepin,825,0.00484848,0.00969697,0.0327273,0.0436364,0.0484848,0.0593939,0.0642424
-Beacon Academy,Beacon Academy,Hennepin,568,0.00704225,0.0140845,0.0211268,0.028169,0.0352113,0.0510563,0.0580986
+Beacon Academy,Beacon Academy,Hennepin,568,0.00704225,0.0140845,0.0211268,0.028169,0.0352113,0.068662,0.0757042
 Prairie Seeds Academy,Prairie Seeds Elementary School Academy,Hennepin,375,0.0106667,0.0213333,0.032,0.0426667,0.0533333,0.064,0.0746667
 Prairie Seeds Academy,Prairie Seeds Middle School Academy,Hennepin,204,0.0196078,0.0392157,0.0588235,0.0784314,0.0980392,0.117647,0.137255
 Prairie Seeds Academy,Prairie Seeds High School Academy,Hennepin,210,0.0190476,0.0380952,0.0571429,0.0761905,0.0952381,0.114286,0.133333
@@ -1730,17 +1730,17 @@ Swan River Montessori Charter School,Swan River Montessori Charter School,Wright
 LoveWorks Academy For Arts,LoveWorks Academy For Arts,Hennepin,143,0.027972,0.0559441,0.0839161,0.111888,0.13986,0.167832,0.195804
 Yinghua Academy,Yinghua Academy,Hennepin,852,0.00469484,0.00938967,0.0140845,0.0187793,0.0293427,0.0340376,0.0387324
 Stride Academy Charter School,Stride Academy K-8 Charter School,Stearns,461,0.00867679,0.0173536,0.0260304,0.0347072,0.0433839,0.0520607,0.0607375
-New Millennium Academy Charter Sch,New Millenium Academy Charter School,Hennepin,789,0.00506971,0.0101394,0.0152091,0.0202788,0.0253485,0.0304183,0.035488
+New Millennium Academy Charter Sch,New Millenium Academy Charter School,Hennepin,789,0.00506971,0.0101394,0.0152091,0.0202788,0.0253485,0.0304183,0.0544994
 Green Isle Community School,Green Isle Community School,Sibley,50,0.08,0.16,0.24,0.32,0.4,0.48,0.56
 Northern Lights Community School,Northern Lights Community School,Itasca,92,0.0434783,0.0869565,0.130435,0.173913,0.217391,0.26087,0.304348
 Minnesota Online High School,Minnesota Online High School,Ramsey,237,0.0168776,0.0337553,0.0506329,0.0675105,0.0843882,0.101266,0.118143
 EdVisions Off Campus School,EdVisions Off Campus School,Sibley,109,0.0366972,0.0733945,0.110092,0.146789,0.183486,0.220183,0.256881
-Twin Cities German Immersion Charter School,Twin Cities German Immersion Charter School,Ramsey,587,0.00681431,0.0221465,0.0289608,0.0357751,0.0425894,0.0579216,0.0647359
+Twin Cities German Immersion Charter School,Twin Cities German Immersion Charter School,Ramsey,587,0.00681431,0.0221465,0.0289608,0.0357751,0.0425894,0.0749574,0.0902896
 Midway Star Academy,Midway Star Academy,Ramsey,390,0.0102564,0.0205128,0.0307692,0.0410256,0.0512821,0.0615385,0.0717949
 Naytahwaush Community School,Naytahwaush Community School,Mahnomen,132,0.030303,0.0606061,0.0909091,0.121212,0.151515,0.181818,0.212121
 Seven Hills Preparatory Academy,Seven Hills Preparatory Academy,Hennepin,560,0.00714286,0.0142857,0.0303571,0.0464286,0.0625,0.0696429,0.0767857
 Seven Hills Preparatory Academy,Seven Hills Preparatory Academy Upper School,Hennepin,267,0.0149813,0.0299625,0.0449438,0.0599251,0.0749064,0.0898876,0.104869
-Spectrum High School,Spectrum High School,Sherburne,438,0.0205479,0.0639269,0.0844749,0.0936073,0.136986,0.157534,0.166667
+Spectrum High School,Spectrum High School,Sherburne,438,0.0205479,0.0639269,0.0844749,0.0936073,0.136986,0.157534,0.178082
 Spectrum High School,Spectrum Middle School,Sherburne,136,0.0294118,0.0588235,0.0882353,0.117647,0.147059,0.176471,0.205882
 Spectrum High School,Spectrum Middle School - Grades 7-8,Sherburne,238,0.0168067,0.0336134,0.0504202,0.0672269,0.0840336,0.10084,0.117647
 New Discoveries Montessori Academy,New Discoveries Montessori Academy,Mcleod,228,0.0175439,0.0350877,0.0526316,0.0701754,0.0877193,0.105263,0.122807
@@ -1758,13 +1758,13 @@ Hiawatha Academies,Hiawatha College Prep - Northrop,Hennepin,242,0.0165289,0.033
 Noble Academy,Noble Academy,Hennepin,560,0.00714286,0.0142857,0.0214286,0.0285714,0.0357143,0.0428571,0.05
 Noble Academy,Nompeng Academy,Hennepin,261,0.0153257,0.0306513,0.045977,0.0613027,0.0766284,0.091954,0.10728
 Lincoln International School,Lincoln International School,Hennepin,125,0.032,0.064,0.096,0.128,0.16,0.192,0.224
-Community School of Excellence,Community School of Excellence,Ramsey,1351,0.00296077,0.00592154,0.00888231,0.0118431,0.0148038,0.0177646,0.0207254
+Community School of Excellence,Community School of Excellence,Ramsey,1351,0.00296077,0.00592154,0.00888231,0.0118431,0.0148038,0.0177646,0.0244264
 Community School of Excellence,Community School of Excellence High School,Ramsey,87,0.045977,0.091954,0.137931,0.183908,0.229885,0.275862,0.321839
 Lionsgate Academy,Lionsgate Academy - Minnetonka,Hennepin,147,0.0272109,0.0544218,0.0816327,0.108844,0.136054,0.163265,0.190476
 Lionsgate Academy,Lionsgate Academy - Shoreview,Ramsey,136,0.0294118,0.0588235,0.0882353,0.117647,0.147059,0.176471,0.205882
-Aspen Academy,Aspen Academy,Scott,647,0.00618238,0.0123648,0.0185471,0.0247295,0.0386399,0.0680062,0.0741886
+Aspen Academy,Aspen Academy,Scott,647,0.00618238,0.0123648,0.0185471,0.0247295,0.0386399,0.0680062,0.0819165
 DaVinci Academy,DaVinci Academy,Anoka,910,0.00989011,0.0197802,0.0241758,0.0340659,0.043956,0.0483516,0.0527473
-Global Academy,Global Academy,Ramsey,454,0.00881057,0.0286344,0.0374449,0.0462555,0.0881057,0.0969163,0.105727
+Global Academy,Global Academy,Ramsey,454,0.00881057,0.0286344,0.0374449,0.0462555,0.0881057,0.10793,0.127753
 Cologne Academy,Cologne Academy,Carver,656,0.00609756,0.0121951,0.0182927,0.0320122,0.137195,0.150915,0.157012
 Legacy of Dr. Josie R. Johnson Montessori,Legacy of Dr. Josie R. Johnson Montessori,Hennepin,99,0.040404,0.0808081,0.121212,0.161616,0.20202,0.242424,0.282828
 KIPP Minnesota Charter School,KIPP North Star Academy,Hennepin,207,0.0193237,0.0386473,0.057971,0.0772947,0.0966184,0.115942,0.135266
@@ -1804,7 +1804,7 @@ Universal Academy Charter School,Universal Academy Charter School,Hennepin,427,0
 Bdote Learning Center,Bdote Learning Center,Hennepin,102,0.0392157,0.0784314,0.117647,0.156863,0.196078,0.235294,0.27451
 Art and Science Academy,Art and Science Academy,Isanti,191,0.0209424,0.120419,0.141361,0.162304,0.183246,0.204188,0.225131
 Art and Science Academy,Art & Science Academy Middle School,Isanti,156,0.025641,0.0512821,0.108974,0.134615,0.160256,0.185897,0.211538
-Woodbury Leadership Academy,Woodbury Leadership Academy,Washington,564,0.0070922,0.0230496,0.0301418,0.037234,0.0531915,0.0691489,0.0762411
+Woodbury Leadership Academy,Woodbury Leadership Academy,Washington,564,0.0070922,0.0230496,0.0301418,0.037234,0.0531915,0.0691489,0.0851064
 Jane Goodall Environmental Science Academy,Jane Goodall Environmental Science Academy,Wright,111,0.036036,0.0720721,0.108108,0.144144,0.18018,0.216216,0.252252
 Minnesota Excellence in Learning Academy,Minnesota Excellence in Learning Academy,Hennepin,203,0.0197044,0.0394089,0.0837438,0.103448,0.123153,0.142857,0.162562
 Minnesota Math and Science Academy,MMSA Elementary School,Ramsey,197,0.0203046,0.0406091,0.0609137,0.0812183,0.101523,0.121827,0.142132
