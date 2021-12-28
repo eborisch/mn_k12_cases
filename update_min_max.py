@@ -31,8 +31,8 @@ with open('popcounts.csv') as popfile:
         META.append((*row[1:-1],))
         POP.append(int(row[-1]))
 
-DMIN = np.zeros((len(IDS),len(DATES)))
-DMAX = np.ones((len(IDS),len(DATES))) * 4
+DMIN = np.zeros((len(IDS),len(DATES)), int)
+DMAX = np.ones((len(IDS),len(DATES)), int) * 4
 DMAX = DMAX / np.reshape(POP,(len(POP),1))
 for n,d in enumerate(CDATA):
     for row in d:
@@ -44,12 +44,16 @@ for n,d in enumerate(CDATA):
         offset = DATES.index(DATE_SETS[n][0])
         pop = POP[idx]
         DMIN[idx,offset:offset+pts] = \
-                [int(x.split('-')[0]) / pop for x in row[-pts:]]
+                [int(x.split('-')[0]) for x in row[-pts:]]
         DMAX[idx,offset:offset+pts] = \
-                [int(x.split('-')[1]) / pop for x in row[-pts:]]
+                [int(x.split('-')[1]) for x in row[-pts:]]
 
-DMIN = np.cumsum(DMIN, 1)
-DMIN[DMIN > 1.0] = 1.0
+DMIN = np.cumsum(DMIN, 1, int)
+DMAX = np.cumsum(DMAX, 1, int)
+for n in np.arange(0, len(POP)):
+    DMIN[n,:] = np.clip(DMIN[n,:], 0, POP[n])
+    DMAX[n,:] = np.clip(DMAX[n,:], 0, POP[n])
+
 with open('minimums.csv', 'w') as fout:
     print(','.join(['District', 'School', 'County', 'Enrollment',
                     *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
@@ -57,10 +61,8 @@ with open('minimums.csv', 'w') as fout:
         if x[2] < 50:
             continue
         print(','.join(x[0]) + ",{},".format(x[2]) + 
-              ','.join('{:g}'.format(_) for _ in x[1]), file=fout)
+              ','.join('{}'.format(_) for _ in x[1]), file=fout)
 
-DMAX = np.cumsum(DMAX, 1)
-DMAX[DMAX > 1.0] = 1.0
 with open('maximums.csv', 'w') as fout:
     print(','.join(['District', 'School', 'County', 'Enrollment', 
                     *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
@@ -68,4 +70,6 @@ with open('maximums.csv', 'w') as fout:
         if x[2] < 50:
             continue
         print(','.join(x[0]) + ",{},".format(x[2]) + 
-              ','.join('{:g}'.format(_) for _ in x[1]), file=fout)
+              ','.join('{}'.format(_) for _ in x[1]), file=fout)
+
+print(DMAX)
