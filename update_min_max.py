@@ -8,10 +8,17 @@ from datetime import datetime,date
 import numpy as np
 
 CDATA=[]
-for x in sys.argv[1:]:
+if len(sys.argv) > 1:
+    FLIST = sys.argv[1:]
+else:
+    import os
+    import re
+    flist = os.listdir()
+    FLIST = (f for f in os.listdir() if re.match('cases_.*', f))
+
+for x in sorted(FLIST):
     f = open(x)
     CDATA.append(csv.reader(f))
-
 
 DATES = set()
 DATE_SETS = []
@@ -71,5 +78,3 @@ with open('maximums.csv', 'w') as fout:
             continue
         print(','.join(x[0]) + ",{},".format(x[2]) + 
               ','.join('{}'.format(_) for _ in x[1]), file=fout)
-
-print(DMAX)
