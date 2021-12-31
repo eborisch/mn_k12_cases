@@ -97,7 +97,7 @@ Anoka-Hennepin Public School District,Adams Elementary,Anoka,491,63,0,5,5,5,10,1
 Anoka-Hennepin Public School District,Crooked Lake Elementary,Anoka,401,63,0,0,0,0,0,0,0,0
 Anoka-Hennepin Public School District,Franklin Elementary,Anoka,312,63,0,0,0,0,5,5,5,5
 Anoka-Hennepin Public School District,Hamilton Elementary,Anoka,383,63,0,0,0,0,5,5,5,5
-Anoka-Hennepin Public School District,Hoover Elementary - Biomedical, Health Sciences and Engineering,Anoka,474,63,0,0,5,5,5,5,5,5
+Anoka-Hennepin Public School District,Hoover Elementary - Biomedical Health Sciences and Engineering,Anoka,474,63,0,0,5,5,5,5,5,5
 Anoka-Hennepin Public School District,Jefferson Elementary,Anoka,537,63,0,0,10,10,10,10,15,15
 Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,63,0,5,5,5,10,10,10,10
 Anoka-Hennepin Public School District,Lincoln Elementary,Anoka,367,63,0,0,0,0,0,0,0,0
@@ -396,15 +396,15 @@ Rosemount-Apple Valley-Eagan,Southview Elementary,Dakota,639,63,0,0,10,10,10,15,
 Rosemount-Apple Valley-Eagan,Parkview Elementary,Dakota,785,63,0,5,5,15,20,20,25,25
 Rosemount-Apple Valley-Eagan,Diamond Path Elementary School of International Studies,Dakota,715,63,0,0,0,5,15,15,20,20
 Rosemount-Apple Valley-Eagan,Greenleaf Elementary,Dakota,785,63,0,0,0,0,5,5,5,5
-Rosemount-Apple Valley-Eagan,Cedar Park Elementary School of Science, Technology, Engineering and Math,Dakota,707,63,0,5,5,10,15,20,20,20
+Rosemount-Apple Valley-Eagan,Cedar Park Elementary School of Science Technology Engineering and Math,Dakota,707,63,0,5,5,10,15,20,20,20
 Rosemount-Apple Valley-Eagan,Thomas Lake Elementary,Dakota,545,63,0,0,0,0,10,10,10,10
-Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership, Engineering and Technology,Dakota,766,63,5,10,15,15,20,25,30,30
+Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership Engineering and Technology,Dakota,766,63,5,10,15,15,20,25,30,30
 Rosemount-Apple Valley-Eagan,Highland Elementary,Dakota,716,63,0,5,5,5,10,15,20,20
 Rosemount-Apple Valley-Eagan,Deerwood Elementary,Dakota,612,63,0,0,0,0,0,10,10,10
 Rosemount-Apple Valley-Eagan,Woodland Elementary,Dakota,699,63,10,20,25,25,25,35,40,40
 Rosemount-Apple Valley-Eagan,Pinewood El.,Dakota,569,63,10,10,15,15,15,20,25,25
 Rosemount-Apple Valley-Eagan,Shannon Park Elementary,Dakota,585,63,0,0,0,0,5,5,10,10
-Rosemount-Apple Valley-Eagan,Oak Ridge Elementary School of Leadership, Environmental and Health Sciences,Dakota,572,63,0,0,0,0,0,5,5,5
+Rosemount-Apple Valley-Eagan,Oak Ridge Elementary School of Leadership Environmental and Health Sciences,Dakota,572,63,0,0,0,0,0,5,5,5
 Rosemount-Apple Valley-Eagan,East Lake Elementary School,Dakota,747,63,0,5,5,5,5,15,15,15
 Rosemount-Apple Valley-Eagan,Glacier Hills Elementary School of Arts and Science,Dakota,689,63,0,0,0,0,5,10,10,10
 Rosemount-Apple Valley-Eagan,Red Pine Elementary,Dakota,693,63,0,0,5,10,20,25,25,25
@@ -549,7 +549,7 @@ Orono Public School District,Orono Middle,Hennepin,698,448,0,5,5,10,10,10,10,10
 Orono Public School District,Schumann Elementary,Hennepin,567,7,0,0,0,0,5,15,15,15
 Orono Public School District,Orono Intermediate Elementary,Hennepin,609,56,0,5,10,10,10,10,10,10
 Osseo Public School District,Osseo Senior High,Hennepin,1602,7680,0,0,10,20,25,35,35,35
-Osseo Public School District,Brooklyn Middle School, a Science, Technology, Engineering, Art and Math School,Hennepin,718,448,0,0,0,0,5,10,10,10
+Osseo Public School District,Brooklyn Middle School a Science Technology Engineering Art and Math School,Hennepin,718,448,0,0,0,0,5,10,10,10
 Osseo Public School District,Osseo Middle School,Hennepin,882,448,0,0,10,15,20,25,25,25
 Osseo Public School District,Osseo Education Center,Hennepin,68,4096,0,0,0,0,5,5,5,5
 Osseo Public School District,North View Middle School,Hennepin,406,448,0,0,0,0,0,0,0,0
@@ -562,12 +562,12 @@ Osseo Public School District,Rush Creek Elementary,Hennepin,630,63,0,0,10,10,20,
 Osseo Public School District,Basswood Elementary,Hennepin,746,63,0,0,0,5,25,35,35,35
 Osseo Public School District,Birch Grove School For The Arts,Hennepin,252,63,0,0,0,5,15,15,15,15
 Osseo Public School District,Crest View Elementary,Hennepin,240,63,0,0,0,0,0,0,0,0
-Osseo Public School District,Weaver Lake Science, Math & Technology School,Hennepin,417,63,0,5,5,5,10,15,20,20
+Osseo Public School District,Weaver Lake Science Math & Technology School,Hennepin,417,63,0,5,5,5,10,15,20,20
 Osseo Public School District,Fair Oaks Elementary,Hennepin,256,63,0,0,0,0,0,0,0,0
 Osseo Public School District,Garden City Elementary,Hennepin,223,63,0,0,0,0,0,0,0,0
 Osseo Public School District,Palmer Lake Elementary,Hennepin,286,63,0,0,0,0,0,0,5,5
 Osseo Public School District,Park Brook Elementary,Hennepin,199,63,0,0,0,0,0,0,0,0
-Osseo Public School District,Zanewood Community School, Science, Technology, Engineering, Arts and Math,Hennepin,272,63,0,0,0,0,0,5,5,5
+Osseo Public School District,Zanewood Community School Science Technology Engineering Arts and Math,Hennepin,272,63,0,0,0,0,0,5,5,5
 Osseo Public School District,Cedar Island Elementary,Hennepin,338,63,0,0,0,0,10,10,10,10
 Osseo Public School District,Elm Creek Elementary,Hennepin,366,63,0,0,0,0,0,5,5,5
 Osseo Public School District,Rice Lake Elementary,Hennepin,465,63,0,5,5,10,20,25,25,25
@@ -1412,7 +1412,7 @@ Fergus Falls Area Special Education Cooperative,Fergus Falls Early Childhood Sp 
 Meeker And Wright Special Education,Meeker-Wright Early Childhood Sp Ed,Wright,65,1,0,0,0,0,0,0,0,0
 Wright Technical Center,Wright Technical Center ALC,Wright,77,7680,0,0,0,0,0,0,0,0
 Perpich Center For Arts Education,Perpich Center For Arts Education,Hennepin,143,6144,0,5,5,5,5,5,5,5
-Minnesota Department of Corrections,MCF-Red Wing, Maginnis High School,Goodhue,55,7168,0,0,0,0,0,0,0,0
+Minnesota Department of Corrections,MCF-Red Wing Maginnis High School,Goodhue,55,7168,0,0,0,0,0,0,0,0
 Lake Crystal-Wellcome Memorial,Lake Crystal-Wellcome Memorial Elementary,Blue Earth,422,63,0,0,0,5,10,10,15,15
 Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,8128,0,0,0,0,5,5,5,5
 Triton School District,Triton Middle School,Dodge,239,448,0,0,0,5,5,5,5,5
@@ -1619,7 +1619,7 @@ Rock Ridge Public Schools,Virginia Secondary,Saint Louis,777,8064,0,5,10,10,10,1
 Rock Ridge Public Schools,Parkview Elementary,Saint Louis,462,7,0,0,0,0,0,0,0,0
 City Academy,City Academy,Ramsey,124,7680,0,0,0,0,0,0,0,0
 Bluffview Montessori,Bluffview Montessori,Winona,208,511,0,0,0,0,0,0,0,0
-New Heights School, Inc.,New Heights School, Inc.,Washington,106,8191,0,0,0,0,0,0,0,0
+New Heights School Inc.,New Heights School Inc.,Washington,106,8191,0,0,0,0,0,0,0,0
 Cedar Riverside Community School,Cedar Riverside Community School,Hennepin,99,511,0,0,0,0,0,0,0,0
 Metro Deaf School,Metro Deaf School,Ramsey,113,8191,0,0,0,0,0,0,0,0
 Minnesota New Country School,Minnesota New Country School,Sibley,135,8064,0,0,0,0,5,5,5,5
@@ -1693,7 +1693,7 @@ Prairie Creek Community School,Prairie Creek Community School,Dakota,180,63,0,0,
 Arcadia Charter School,Arcadia Charter School,Rice,108,8128,0,0,0,0,0,0,0,0
 New Century Academy,New Century Academy,Mcleod,119,8128,0,0,0,0,0,0,0,0
 TRIO Wolf Creek Distance Learning,TRIO Wolf Creek Distance Learning,Chisago,153,7680,0,0,0,0,0,0,0,0
-Partnership Academy, Inc.,Partnership Academy, Inc.,Hennepin,482,511,0,0,0,5,5,5,10,10
+Partnership Academy Inc.,Partnership Academy Inc.,Hennepin,482,511,0,0,0,5,5,5,10,10
 Nova Classical Academy,Nova Classical Academy Lower School,Ramsey,484,63,0,0,0,0,10,15,15,15
 Nova Classical Academy,NOVA CLASSICAL ACADEMY UPPER SCHOOL,Ramsey,526,8128,0,0,0,0,0,0,0,5
 Great Expectations,Great Expectations,Cook,111,511,0,0,0,0,0,0,0,0
@@ -1750,7 +1750,7 @@ Midway Star Academy,Midway Star Academy,Ramsey,390,511,0,0,0,0,0,0,0,0
 Naytahwaush Community School,Naytahwaush Community School,Mahnomen,132,127,0,0,0,0,0,0,0,0
 Seven Hills Preparatory Academy,Seven Hills Preparatory Academy,Hennepin,560,63,0,0,5,10,15,20,20,20
 Seven Hills Preparatory Academy,Seven Hills Preparatory Academy Upper School,Hennepin,267,448,0,0,0,0,0,0,0,0
-Seven Hills Preparatory Academy,Seven Hills Preparatory Academy, Richfield Lower School,Hennepin,273,63,0,0,0,0,0,0,0,0
+Seven Hills Preparatory Academy,Seven Hills Preparatory Academy Richfield Lower School,Hennepin,273,63,0,0,0,0,0,0,0,0
 Spectrum High School,Spectrum High School,Sherburne,438,7680,5,15,20,20,30,35,40,40
 Spectrum High School,Spectrum Middle School,Sherburne,136,64,0,0,0,0,0,0,0,0
 Spectrum High School,Spectrum Middle School - Grades 7-8,Sherburne,238,384,0,0,0,0,0,0,0,0

@@ -114,7 +114,7 @@
 0011-01-402,Anoka-Hennepin Public School District,Crooked Lake Elementary,Anoka,401,63
 0011-01-403,Anoka-Hennepin Public School District,Franklin Elementary,Anoka,312,63
 0011-01-404,Anoka-Hennepin Public School District,Hamilton Elementary,Anoka,383,63
-0011-01-405,Anoka-Hennepin Public School District,Hoover Elementary - Biomedical, Health Sciences and Engineering,Anoka,474,63
+0011-01-405,Anoka-Hennepin Public School District,Hoover Elementary - Biomedical Health Sciences and Engineering,Anoka,474,63
 0011-01-406,Anoka-Hennepin Public School District,Jefferson Elementary,Anoka,537,63
 0011-01-407,Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,63
 0011-01-408,Anoka-Hennepin Public School District,Lincoln Elementary,Anoka,367,63
@@ -473,15 +473,15 @@
 0196-01-709,Rosemount-Apple Valley-Eagan,Parkview Elementary,Dakota,785,63
 0196-01-710,Rosemount-Apple Valley-Eagan,Diamond Path Elementary School of International Studies,Dakota,715,63
 0196-01-711,Rosemount-Apple Valley-Eagan,Greenleaf Elementary,Dakota,785,63
-0196-01-712,Rosemount-Apple Valley-Eagan,Cedar Park Elementary School of Science, Technology, Engineering and Math,Dakota,707,63
+0196-01-712,Rosemount-Apple Valley-Eagan,Cedar Park Elementary School of Science Technology Engineering and Math,Dakota,707,63
 0196-01-713,Rosemount-Apple Valley-Eagan,Thomas Lake Elementary,Dakota,545,63
-0196-01-714,Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership, Engineering and Technology,Dakota,766,63
+0196-01-714,Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership Engineering and Technology,Dakota,766,63
 0196-01-715,Rosemount-Apple Valley-Eagan,Highland Elementary,Dakota,716,63
 0196-01-716,Rosemount-Apple Valley-Eagan,Deerwood Elementary,Dakota,612,63
 0196-01-717,Rosemount-Apple Valley-Eagan,Woodland Elementary,Dakota,699,63
 0196-01-718,Rosemount-Apple Valley-Eagan,Pinewood El.,Dakota,569,63
 0196-01-719,Rosemount-Apple Valley-Eagan,Shannon Park Elementary,Dakota,585,63
-0196-01-720,Rosemount-Apple Valley-Eagan,Oak Ridge Elementary School of Leadership, Environmental and Health Sciences,Dakota,572,63
+0196-01-720,Rosemount-Apple Valley-Eagan,Oak Ridge Elementary School of Leadership Environmental and Health Sciences,Dakota,572,63
 0196-01-721,Rosemount-Apple Valley-Eagan,East Lake Elementary School,Dakota,747,63
 0196-01-764,Rosemount-Apple Valley-Eagan,Glacier Hills Elementary School of Arts and Science,Dakota,689,63
 0196-01-765,Rosemount-Apple Valley-Eagan,Red Pine Elementary,Dakota,693,63
@@ -642,7 +642,7 @@
 0278-01-662,Orono Public School District,Orono Intermediate Elementary,Hennepin,609,56
 0278-01-663,Orono Public School District,Orono Discovery Center,Hennepin,23,33
 0279-01-032,Osseo Public School District,Osseo Senior High,Hennepin,1602,7680
-0279-01-033,Osseo Public School District,Brooklyn Middle School, a Science, Technology, Engineering, Art and Math School,Hennepin,718,448
+0279-01-033,Osseo Public School District,Brooklyn Middle School a Science Technology Engineering Art and Math School,Hennepin,718,448
 0279-01-034,Osseo Public School District,Osseo Middle School,Hennepin,882,448
 0279-01-042,Osseo Public School District,Osseo Education Center,Hennepin,68,4096
 0279-01-086,Osseo Public School District,North View Middle School,Hennepin,406,448
@@ -655,12 +655,12 @@
 0279-01-670,Osseo Public School District,Basswood Elementary,Hennepin,746,63
 0279-01-671,Osseo Public School District,Birch Grove School For The Arts,Hennepin,252,63
 0279-01-672,Osseo Public School District,Crest View Elementary,Hennepin,240,63
-0279-01-673,Osseo Public School District,Weaver Lake Science, Math & Technology School,Hennepin,417,63
+0279-01-673,Osseo Public School District,Weaver Lake Science Math & Technology School,Hennepin,417,63
 0279-01-674,Osseo Public School District,Fair Oaks Elementary,Hennepin,256,63
 0279-01-675,Osseo Public School District,Garden City Elementary,Hennepin,223,63
 0279-01-678,Osseo Public School District,Palmer Lake Elementary,Hennepin,286,63
 0279-01-679,Osseo Public School District,Park Brook Elementary,Hennepin,199,63
-0279-01-681,Osseo Public School District,Zanewood Community School, Science, Technology, Engineering, Arts and Math,Hennepin,272,63
+0279-01-681,Osseo Public School District,Zanewood Community School Science Technology Engineering Arts and Math,Hennepin,272,63
 0279-01-682,Osseo Public School District,Cedar Island Elementary,Hennepin,338,63
 0279-01-684,Osseo Public School District,Elm Creek Elementary,Hennepin,366,63
 0279-01-685,Osseo Public School District,Rice Lake Elementary,Hennepin,465,63
@@ -1738,7 +1738,7 @@
 1100-60-014,Minnesota Department of Corrections,MN Correctional Facility-Stillwater,Washington,9,7168
 1100-60-015,Minnesota Department of Corrections,MCF-Moose Lake/Willow River,Carlton,3,7168
 1100-60-016,Minnesota Department of Corrections,MN Correctional Facility-St. Cloud,Sherburne,6,3584
-1100-60-017,Minnesota Department of Corrections,MCF-Red Wing, Maginnis High School,Goodhue,55,7168
+1100-60-017,Minnesota Department of Corrections,MCF-Red Wing Maginnis High School,Goodhue,55,7168
 2071-01-010,Lake Crystal-Wellcome Memorial,Lake Crystal-Wellcome Memorial Elementary,Blue Earth,422,63
 2071-01-030,Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,8128
 2071-01-055,Lake Crystal-Wellcome Memorial,LCWM ECSE,Blue Earth,16,1
@@ -1965,7 +1965,7 @@
 2909-01-112,Rock Ridge Public Schools,Parkview Elementary,Saint Louis,462,7
 4000-07-010,City Academy,City Academy,Ramsey,124,7680
 4001-07-010,Bluffview Montessori,Bluffview Montessori,Winona,208,511
-4003-07-010,New Heights School, Inc.,New Heights School, Inc.,Washington,106,8191
+4003-07-010,New Heights School Inc.,New Heights School Inc.,Washington,106,8191
 4004-07-010,Cedar Riverside Community School,Cedar Riverside Community School,Hennepin,99,511
 4005-07-010,Metro Deaf School,Metro Deaf School,Ramsey,113,8191
 4007-07-010,Minnesota New Country School,Minnesota New Country School,Sibley,135,8064
@@ -2044,7 +2044,7 @@
 4092-07-010,Watershed High School,Watershed High School,Hennepin,35,7680
 4093-07-010,New Century Academy,New Century Academy,Mcleod,119,8128
 4095-07-010,TRIO Wolf Creek Distance Learning,TRIO Wolf Creek Distance Learning,Chisago,153,7680
-4097-07-010,Partnership Academy, Inc.,Partnership Academy, Inc.,Hennepin,482,511
+4097-07-010,Partnership Academy Inc.,Partnership Academy Inc.,Hennepin,482,511
 4098-07-010,Nova Classical Academy,Nova Classical Academy Lower School,Ramsey,484,63
 4098-07-020,Nova Classical Academy,NOVA CLASSICAL ACADEMY UPPER SCHOOL,Ramsey,526,8128
 4100-07-010,Great Expectations,Great Expectations,Cook,111,511
@@ -2103,7 +2103,7 @@
 4155-07-010,Naytahwaush Community School,Naytahwaush Community School,Mahnomen,132,127
 4159-07-010,Seven Hills Preparatory Academy,Seven Hills Preparatory Academy,Hennepin,560,63
 4159-07-020,Seven Hills Preparatory Academy,Seven Hills Preparatory Academy Upper School,Hennepin,267,448
-4159-07-030,Seven Hills Preparatory Academy,Seven Hills Preparatory Academy, Richfield Lower School,Hennepin,273,63
+4159-07-030,Seven Hills Preparatory Academy,Seven Hills Preparatory Academy Richfield Lower School,Hennepin,273,63
 4160-07-010,Spectrum High School,Spectrum High School,Sherburne,438,7680
 4160-07-020,Spectrum High School,Spectrum Middle School,Sherburne,136,64
 4160-07-030,Spectrum High School,Spectrum Middle School - Grades 7-8,Sherburne,238,384
