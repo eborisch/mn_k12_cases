@@ -1,0 +1,439 @@
+DAT_YER	dst_num	dst_tye	DISTRICTNAME	sch_num	schoolname	gr_kg	gr_01	gr_02	gr_03	gr_04	gr_05	gr_06	gr_07	gr_08	gr_09	gr_10	gr_11	gr_12	tot_01_06	tot_07_12	tot_kg_12	free_meal_elg	red_meal_elg	free_red_meals	lep_srv	county	county_name	eco_dev
+20-21	1	33	Minneapolis Public School District 	9	DELASALLE HIGH SCHOOL              	0	0	0	0	0	0	0	0	0	178	188	174	179	0	719	719	112	74	186	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	11	ANNUNCIATION                       	40	40	36	39	38	35	38	31	40	0	0	0	0	226	71	337	7	17	24	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	12	ASCENSION CATHOLIC SCHOOL          	30	17	30	35	34	34	38	42	38	0	0	0	0	188	80	298	157	42	199	43	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	13	BLAKE SCHOOL                       	0	0	0	0	0	0	0	0	0	135	137	134	135	0	541	541	0	0	0	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	15	RISEN CHRIST                       	34	38	32	43	28	27	44	36	40	0	0	0	0	212	76	322	232	47	279	239	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	17	LAKE COUNTRY SCHOOL                	25	26	32	25	24	32	31	26	26	0	0	0	0	170	52	247	0	0	0	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	18	MINNEHAHA ACADEMY - UPPER SCHOOL   	0	0	0	0	0	0	0	0	0	88	94	79	99	0	360	360	7	15	22	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	36	ST. HELENA CATHOLIC SCHOOL         	20	14	10	9	12	14	17	9	15	0	0	0	0	76	24	120	16	22	38	43	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	42	TRINITY FIRST LUTHERAN SCHOOL      	14	13	15	11	5	11	9	9	6	0	0	0	0	64	15	93	53	20	73	4	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	44	CARONDELET CATHOLIC SCHOOL         	38	31	45	33	40	41	55	38	47	0	0	0	0	245	85	368	5	0	5	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	45	St John Paul II Catholic Prep Sch  	15	15	17	15	19	13	13	17	19	0	0	0	0	92	36	143	70	45	115	113	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	47	OUR LADY OF PEACE                  	18	18	18	18	18	17	18	15	16	0	0	0	0	107	31	156	14	18	32	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	59	MINNEHAHA ACADEMY MID&LOWER SCHOOLS	52	41	39	39	35	58	65	66	72	0	0	0	0	277	138	467	18	32	50	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	69	CITY OF LAKES WALDORF SCHOOL       	40	28	18	27	28	20	20	17	21	0	0	0	0	141	38	219	5	16	21	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	894	HOPE ACADEMY                       	49	49	55	47	54	55	32	41	42	40	33	26	21	292	203	544	285	121	406	101	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	918	CRISTO REY JESUIT HIGH SCHOOL      	0	0	0	0	0	0	0	0	0	129	137	108	112	0	486	486	268	119	387	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	935	Gaia Democratic School             	1	0	0	1	3	1	1	2	1	4	2	4	3	6	16	23	13	2	15	0	27	Hennepin                                     	11 
+20-21	1	33	Minneapolis Public School District 	936	Iqra Islamic School                	3	5	3	4	0	0	0	0	0	0	0	0	0	12	0	15	9	2	11	5	27	Hennepin                                     	11 
+20-21	6	33	South St. Paul Public School Dist	2	HOLY TRINITY                       	13	15	19	17	11	21	11	14	12	0	0	0	0	94	26	133	13	19	32	12	19	Dakota                                       	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	12	CROSS OF CHRIST LUTHERAN           	11	8	7	14	7	11	9	8	11	0	0	0	0	56	19	86	0	0	0	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	13	Epiphany Catholic School           	38	36	29	28	24	28	30	26	39	0	0	0	0	175	65	278	20	19	39	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	14	LEGACY CHRISTIAN ACADEMY           	48	51	39	49	34	38	52	29	53	48	49	31	38	263	248	559	0	0	0	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	16	ST. STEPHEN                        	52	48	48	45	47	29	28	33	29	0	0	0	0	245	62	359	14	17	31	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	19	ANOKA ADVENTIST CHRISTIAN          	0	0	0	2	3	1	1	0	2	0	0	0	0	7	2	9	0	0	0	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	25	NORTHSIDE CHRISTIAN (BLAINE CAMPUS)	8	14	9	13	7	10	4	6	7	0	0	1	0	57	14	79	0	0	0	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	31	Montessori Renaissance Academy     	26	14	10	4	5	3	3	1	0	0	0	0	0	39	1	66	0	0	0	0	2	Anoka                                        	11 
+20-21	11	31	ANOKA-HENNEPIN PUBLIC SCHOOL DIST. 	713	THE WAY OF THE SHEPHERD            	11	11	4	7	8	7	4	6	3	0	0	0	0	41	9	61	4	3	7	0	2	Anoka                                        	11 
+20-21	13	31	COLUMBIA HEIGHTS PUBLIC SCHOOL DIST	1	IMMACULATE CONCEPTION              	21	22	17	17	14	24	15	20	15	0	0	0	0	109	35	165	50	32	82	59	2	Anoka                                        	11 
+20-21	13	31	COLUMBIA HEIGHTS PUBLIC SCHOOL DIST	2	LITTLE VOYAGEUR'S MONTESSORI       	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	2	Anoka                                        	11 
+20-21	14	31	FRIDLEY PUBLIC SCHOOL DISTRICT     	2	TOTINO GRACE HIGH SCHOOL           	0	0	0	0	0	0	0	0	0	143	184	163	192	0	682	682	35	29	64	0	2	Anoka                                        	11 
+20-21	14	31	FRIDLEY PUBLIC SCHOOL DISTRICT     	4	WOODCREST BAPTIST ACADEMY          	11	9	3	9	11	12	17	17	15	14	10	10	9	61	75	147	0	0	0	0	2	Anoka                                        	11 
+20-21	14	31	FRIDLEY PUBLIC SCHOOL DISTRICT     	6	Al-Amal School	34	37	36	27	24	29	20	25	27	27	23	13	18	173	133	340	51	8	59	0	2	Anoka                                        	11 
+20-21	15	31	St. Francis Area Schools           	1	ST. FRANCIS CHRISTIAN              	10	2	13	7	7	10	8	7	11	9	8	8	7	47	50	107	0	0	0	0	2	Anoka                                        	11 
+20-21	15	31	St. Francis Area Schools           	2	TRINITY LUTHERAN                   	12	8	5	9	5	9	6	3	4	0	0	0	0	42	7	61	11	0	11	0	2	Anoka                                        	11 
+20-21	15	31	St. Francis Area Schools           	3	CROWN CHRISTIAN SCHOOL             	14	18	16	13	3	5	6	5	0	0	0	0	0	61	5	80	0	0	0	0	30	Isanti                                       	11 
+20-21	15	31	St. Francis Area Schools           	4	IMMACULATE HEART OF MARY ACADEMY   	8	12	9	9	9	11	9	7	6	2	4	2	2	59	23	90	0	0	0	0	2	Anoka                                        	11 
+20-21	16	31	SPRING LAKE PARK PUBLIC SCHOOLS    	1	GRACE LUTHERAN                     	2	4	4	2	2	3	2	2	1	0	0	0	0	17	3	22	0	1	1	0	2	Anoka                                        	11 
+20-21	16	31	SPRING LAKE PARK PUBLIC SCHOOLS    	4	Avail Academy (Blaine K-8 Campus)  	19	19	14	16	13	21	22	19	26	0	0	0	0	105	45	169	0	8	8	0	2	Anoka                                        	11 
+20-21	16	31	SPRING LAKE PARK PUBLIC SCHOOLS    	6	Avail Academy (Fridley 9-12 Campus)	0	0	0	0	0	0	0	0	0	11	17	13	11	0	52	52	0	3	3	0	2	Anoka                                        	11 
+20-21	22	31	DETROIT LAKES PUBLIC SCHOOL DIST.  	702	HOLY ROSARY                        	11	12	13	20	19	11	14	10	9	0	0	0	0	89	19	119	5	1	6	0	3	Becker                                       	04 
+20-21	22	31	DETROIT LAKES PUBLIC SCHOOL DIST.  	703	ADVENTIST CHRISTIAN SCHOOL         	3	3	1	2	3	0	3	0	1	0	0	0	0	12	1	16	0	0	0	0	3	Becker                                       	04 
+20-21	22	31	DETROIT LAKES PUBLIC SCHOOL DIST.  	705	FAITH CHRISTIAN SCHOOL             	4	7	1	7	2	2	3	2	0	0	0	0	0	22	2	28	0	0	0	0	3	Becker                                       	04 
+20-21	31	31	BEMIDJI PUBLIC SCHOOL DISTRICT     	2	HEARTLAND CHRISTIAN ACADEMY        	11	9	7	9	8	7	6	8	3	3	3	4	3	46	24	81	0	0	0	0	4	Beltrami                                     	02 
+20-21	31	31	BEMIDJI PUBLIC SCHOOL DISTRICT     	3	ST. PHILIPS                        	45	35	33	26	32	35	37	32	31	0	0	0	0	198	63	306	42	0	42	1	4	Beltrami                                     	02 
+20-21	31	31	BEMIDJI PUBLIC SCHOOL DISTRICT     	703	ST. MARK'S                         	3	2	5	2	3	2	4	3	1	0	0	0	0	18	4	25	6	4	10	0	4	Beltrami                                     	02 
+20-21	38	31	RED LAKE PUBLIC SCHOOL DISTRICT    	1	ST. MARY'S MISSION                 	13	13	15	12	14	15	16	9	8	0	0	0	0	85	17	115	127	0	127	0	4	Beltrami                                     	02 
+20-21	47	31	SAUK RAPIDS-RICE PUBLIC SCHOOLS    	20	Petra Lutheran	5	2	2	1	6	1	1	3	0	0	0	0	0	13	3	21	0	0	0	0	5	Benton                                       	07W
+20-21	47	31	SAUK RAPIDS-RICE PUBLIC SCHOOLS    	24	MONTESSORI SCHOOL OF SAUK RAPIDS   	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	2	0	5	Benton                                       	07W
+20-21	51	31	FOLEY PUBLIC SCHOOL DISTRICT       	1	ST. JOHN                           	15	8	21	0	6	10	14	0	0	0	0	0	0	59	0	74	5	10	15	0	5	Benton                                       	07W
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	2	GRACE CHRISTIAN                    	4	1	1	2	2	0	5	7	1	0	5	7	3	11	23	38	0	0	0	0	7	Blue Earth                                   	09 
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	6	IMMANUEL LUTHERAN                  	13	11	11	9	12	11	10	18	10	7	12	5	12	64	64	141	25	13	38	0	7	Blue Earth                                   	09 
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	7	MOUNT OLIVE LUTHERAN               	21	19	26	25	22	17	23	19	16	0	0	0	0	132	35	188	0	22	22	0	7	Blue Earth                                   	09 
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	9	RISEN SAVIOR LUTHERAN SCHOOL       	8	10	9	7	10	11	8	9	7	0	0	0	0	55	16	79	7	4	11	0	7	Blue Earth                                   	09 
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	13	Concordia Classical Academy        	2	4	3	6	5	3	5	1	4	0	0	0	0	26	5	33	6	0	6	0	52	Nicollet                                     	09 
+20-21	77	31	MANKATO PUBLIC SCHOOL DISTRICT     	17	LOYOLA CATHOLIC SCHOOL             	32	41	42	31	31	43	24	41	32	27	30	24	24	212	178	422	31	14	45	0	7	Blue Earth                                   	09 
+20-21	84	31	SLEEPY EYE PUBLIC SCHOOL DISTRICT  	2	St. Mary's High School	0	0	0	0	0	0	0	21	22	17	21	20	24	0	125	125	3	2	5	0	8	Brown                                        	09 
+20-21	84	31	SLEEPY EYE PUBLIC SCHOOL DISTRICT  	4	ST. MARY'S ELEMENTARY              	18	17	19	18	18	13	28	0	0	0	0	0	0	113	0	131	0	11	11	0	8	Brown                                        	09 
+20-21	84	31	SLEEPY EYE PUBLIC SCHOOL DISTRICT  	60	Grace Lutheran School              	2	0	4	1	1	1	1	1	0	0	0	0	0	8	1	11	0	0	0	0	8	Brown                                        	09 
+20-21	85	31	SPRINGFIELD PUBLIC SCHOOL DISTRICT 	7	ST. RAPHAEL                        	6	8	10	13	12	10	6	0	0	0	0	0	0	59	0	65	9	17	26	0	8	Brown                                        	09 
+20-21	88	31	NEW ULM PUBLIC SCHOOL DISTRICT     	3	MINNESOTA VALLEY LUTHERAN          	0	0	0	0	0	0	0	0	0	60	49	67	54	0	230	230	17	21	38	0	52	Nicollet                                     	09 
+20-21	88	31	NEW ULM PUBLIC SCHOOL DISTRICT     	6	ST. PAUL'S LUTHERAN                	33	29	27	31	27	30	27	44	24	0	0	0	0	171	68	272	26	37	63	0	8	Brown                                        	09 
+20-21	88	31	NEW ULM PUBLIC SCHOOL DISTRICT     	7	"NEW ULM AREA CATHOLIC SCHOOLS, INC."	20	34	20	31	32	31	34	26	36	36	27	27	26	182	178	380	7	15	22	0	8	Brown                                        	09 
+20-21	94	31	CLOQUET PUBLIC SCHOOL DISTRICT     	3	QUEEN OF PEACE                     	12	7	10	12	6	5	3	3	1	0	0	0	0	43	4	59	7	6	13	0	9	Carlton                                      	03 
+20-21	108	31	CENTRAL PUBLIC SCHOOL DISTRICT     	1	EMANUEL LUTHERAN                   	6	8	8	4	7	8	5	7	11	0	0	0	0	40	18	64	3	4	7	0	10	Carver                                       	11 
+20-21	108	31	CENTRAL PUBLIC SCHOOL DISTRICT     	3	ST. JOHN'S LUTHERAN                	9	9	10	5	15	12	8	10	7	0	0	0	0	59	17	85	10	14	24	0	10	Carver                                       	11 
+20-21	108	31	CENTRAL PUBLIC SCHOOL DISTRICT     	4	ZION LUTHERAN                      	10	8	7	2	4	0	4	3	3	0	0	0	0	25	6	41	0	0	0	0	10	Carver                                       	11 
+20-21	110	31	WACONIA PUBLIC SCHOOL DISTRICT     	1	ST. JOSEPH                         	26	16	17	20	12	19	15	16	16	0	0	0	0	99	32	157	7	9	16	0	10	Carver                                       	11 
+20-21	110	31	WACONIA PUBLIC SCHOOL DISTRICT     	3	TRINITY LUTHERAN                   	20	18	20	16	17	8	12	16	8	0	0	0	0	91	24	135	1	0	1	0	10	Carver                                       	11 
+20-21	111	31	Watertown-Mayer Public School Dist	4	CHRIST COMMUNITY                   	12	14	14	12	13	13	11	8	7	0	0	0	0	77	15	104	10	4	14	0	10	Carver                                       	11 
+20-21	111	31	Watertown-Mayer Public School Dist	6	ZION LUTHERAN                      	12	15	9	22	12	14	19	5	19	0	0	0	0	91	24	127	0	10	10	0	10	Carver                                       	11 
+20-21	111	31	Watertown-Mayer Public School Dist	7	MAYER LUTHERAN HIGH SCHOOL         	0	0	0	0	0	0	0	0	0	46	39	53	33	0	171	171	9	6	15	2	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	1	Guardian Angels School             	10	8	6	6	6	8	3	7	10	0	0	0	0	37	17	64	19	7	26	29	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	2	JONATHAN MONTESSORI                	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	3	St. Hubert Catholic School         	57	49	62	55	53	52	67	69	74	0	0	0	0	338	143	538	2	0	2	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	4	ST. JOHN'S LUTHERAN SCHOOL         	25	18	11	15	17	18	12	16	16	0	0	0	0	91	32	148	8	1	9	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	20	Chapel Hill Academy	39	44	36	29	26	33	35	34	34	0	0	0	0	203	68	310	3	15	18	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	21	Holy Family Catholic High School	0	0	0	0	0	0	0	0	0	146	115	100	95	0	456	456	10	10	20	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	110	Step by Step Montessori of Chaska	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	117	Southwest Christian High School	0	0	0	0	0	0	0	0	0	115	96	108	99	0	418	418	22	7	29	0	10	Carver                                       	11 
+20-21	112	31	EASTERN CARVER COUNTY PUBLIC SCHOOL	119	Breakaway Academy                  	0	10	24	34	30	20	42	45	47	0	0	0	0	160	92	252	0	0	0	0	10	Carver                                       	11 
+20-21	113	31	WALKER-HACKENSACK-AKELEY SCHL. DIST	100	IMMANUEL LUTHERAN SCHOOL           	7	1	3	1	3	5	0	2	0	0	0	0	0	13	2	22	6	0	6	0	11	Cass                                         	05 
+20-21	118	31	NORTHLAND COMMUNITY SCHOOLS        	200	EAGLE COUNTRY CHRISTIAN ACADEMY    	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	2	0	0	0	0	11	Cass                                         	05 
+20-21	138	31	NORTH BRANCH PUBLIC SCHOOLS        	27	Veritas Academy                    	2	2	1	0	1	0	0	3	1	0	0	1	1	4	6	12	0	0	0	0	13	Chisago                                      	07E
+20-21	152	31	MOORHEAD PUBLIC SCHOOL DISTRICT    	1	PARK CHRISTIAN                     	40	39	33	23	29	25	34	38	31	29	25	24	25	183	172	395	0	0	0	0	14	Clay                                         	04 
+20-21	152	31	MOORHEAD PUBLIC SCHOOL DISTRICT    	3	ST. JOSEPH                         	24	28	22	32	15	19	20	20	15	0	0	0	0	136	35	195	18	2	20	0	14	Clay                                         	04 
+20-21	162	31	BAGLEY PUBLIC SCHOOL DISTRICT      	2	FHL Academy                        	3	7	5	3	5	2	6	7	7	3	7	0	0	28	24	55	0	0	0	0	15	Clearwater                                   	02 
+20-21	173	31	MOUNTAIN LAKE PUBLIC SCHOOLS       	1	MOUNTAIN LAKE CHRISTIAN            	7	4	7	9	9	5	12	6	7	4	6	3	2	46	28	81	22	8	30	0	17	Cottonwood                                   	08 
+20-21	173	31	MOUNTAIN LAKE PUBLIC SCHOOLS       	2	NEUHOF SCHOOL                      	0	3	0	2	2	0	3	0	0	2	0	0	3	10	5	15	0	0	0	0	17	Cottonwood                                   	08 
+20-21	181	31	BRAINERD PUBLIC SCHOOL DISTRICT    	30	LAKE REGION CHRISTIAN              	24	23	24	18	23	20	22	16	12	15	10	11	7	130	71	225	0	0	0	0	18	Crow Wing                                    	05 
+20-21	181	31	BRAINERD PUBLIC SCHOOL DISTRICT    	31	ST. FRANCIS OF ASSISI              	20	20	21	19	20	14	23	18	13	0	0	0	0	117	31	168	16	21	37	0	18	Crow Wing                                    	05 
+20-21	181	31	BRAINERD PUBLIC SCHOOL DISTRICT    	32	Oak Street Christian School	3	1	1	1	2	1	2	1	1	0	0	0	0	8	2	13	0	0	0	0	18	Crow Wing                                    	05 
+20-21	191	31	BURNSVILLE PUBLIC SCHOOL DISTRICT  	2	ST. JOHN THE BAPTIST               	35	39	29	32	40	33	27	36	35	0	0	0	0	200	71	306	13	8	21	0	70	Scott                                        	11 
+20-21	191	31	BURNSVILLE PUBLIC SCHOOL DISTRICT  	3	Unity High School	0	0	0	0	0	0	0	0	0	19	16	2	0	0	37	37	0	0	0	0	19	Dakota                                       	11
+20-21	191	31	BURNSVILLE PUBLIC SCHOOL DISTRICT  	10	CYPRUS CLASSICAL ACADEMY           	3	8	7	8	4	10	5	4	1	0	0	0	0	42	5	50	0	0	0	0	19	Dakota                                       	11 
+20-21	191	31	BURNSVILLE PUBLIC SCHOOL DISTRICT  	11	One School Global	0	0	0	2	1	1	1	3	4	3	6	2	2	5	20	25	0	0	0	0	19	Dakota                                       	11 
+20-21	194	31	LAKEVILLE PUBLIC SCHOOL DISTRICT   	1	ALL SAINTS SCHOOL                  	44	47	36	46	38	42	38	27	41	0	0	0	0	247	68	359	7	10	17	0	19	Dakota                                       	11 
+20-21	194	31	LAKEVILLE PUBLIC SCHOOL DISTRICT   	2	SOUTHVIEW CHRISTIAN                	7	6	5	5	3	2	5	6	5	0	0	0	0	26	11	44	0	0	0	5	19	Dakota                                       	11 
+20-21	194	31	LAKEVILLE PUBLIC SCHOOL DISTRICT   	3	GLORY ACADEMY                      	5	8	2	1	1	1	1	0	0	2	3	0	0	14	5	24	0	0	0	0	19	Dakota                                       	11 
+20-21	194	31	LAKEVILLE PUBLIC SCHOOL DISTRICT   	4	Christian Heritage Academy         	33	20	21	20	17	19	16	18	6	0	0	0	0	113	24	170	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	1	BEREA LUTHERAN                     	6	2	4	3	3	3	4	1	3	0	0	0	0	19	4	29	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	2	FIRST BAPTIST                      	22	20	19	13	19	16	15	15	11	12	10	12	19	102	79	203	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	3	GOOD SHEPHERD LUTHERAN             	15	15	13	12	9	6	16	11	10	0	0	0	0	71	21	107	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	4	FAITHFUL SHEPHERD CATHOLIC         	60	57	33	46	46	41	42	48	45	0	0	0	0	265	93	418	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	7	ST. JOSEPH'S CATHOLIC              	24	24	24	26	26	22	26	20	20	0	0	0	0	148	40	212	7	4	11	7	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	11	HERITAGE LUTHERAN SCHOOL           	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	19	Dakota                                       	11 
+20-21	196	31	ROSEMOUNT-APPLE VALLEY-EAGAN       	15	TRINITY SCHOOL AT RIVER RIDGE      	0	0	0	0	0	0	26	24	34	42	41	39	33	26	213	239	0	4	4	0	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	2	Visitation School                  	23	21	23	23	15	19	21	24	41	71	84	69	83	122	372	517	0	0	0	0	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	3	CROWN OF LIFE                      	14	20	18	11	15	21	19	15	16	0	0	0	0	104	31	149	0	0	0	0	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	4	ST. CROIX LUTHERAN                 	0	0	0	0	0	2	14	29	27	90	96	91	114	16	447	463	0	10	10	0	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	7	ST. THOMAS ACADEMY                 	0	0	0	0	0	0	37	37	40	117	145	100	111	37	550	587	13	21	34	2	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	9	ST. JOSEPH                         	51	40	40	40	30	38	36	28	31	0	0	0	0	224	59	334	6	17	23	0	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	11	Community of Saints Regnl Catholic 	36	21	22	24	19	20	24	30	18	0	0	0	0	130	48	214	91	34	125	68	19	Dakota                                       	11 
+20-21	197	31	West St. Paul-Mendota Heights-Eagan	19	Brightmont Academy	0	0	0	0	0	0	1	0	2	0	4	1	3	1	10	11	0	0	0	0	19	Dakota                                       	11
+20-21	200	31	HASTINGS PUBLIC SCHOOL DISTRICT    	1	ST. ELIZABETH ANN SETON            	26	18	16	28	35	17	22	19	30	0	0	0	0	136	49	211	3	1	4	0	19	Dakota                                       	11 
+20-21	200	31	HASTINGS PUBLIC SCHOOL DISTRICT    	2	ST. JOHN THE BAPTIST               	14	18	18	7	6	0	0	0	0	0	0	0	0	49	0	63	2	3	5	0	19	Dakota                                       	11 
+20-21	200	31	HASTINGS PUBLIC SCHOOL DISTRICT    	6	PINE HARBOR CHRISTIAN ACADEMY      	18	16	13	13	13	6	5	7	7	0	0	0	0	66	14	98	2	0	2	0	82	Washington                                   	11 
+20-21	203	31	HAYFIELD PUBLIC SCHOOL DISTRICT    	10	Haven School	1	0	2	2	0	0	3	0	3	0	0	2	1	7	6	14	0	0	0	0	50	Mower                                        	10 
+20-21	206	31	ALEXANDRIA PUBLIC SCHOOL DISTRICT  	82	ST. MARY'S                         	35	40	33	31	36	26	21	0	0	0	0	0	0	187	0	222	9	12	21	0	21	Douglas                                      	04 
+20-21	206	31	ALEXANDRIA PUBLIC SCHOOL DISTRICT  	84	ZION LUTHERAN                      	21	19	8	11	14	16	15	5	8	0	0	0	0	83	13	117	9	3	12	0	21	Douglas                                      	04 
+20-21	206	31	ALEXANDRIA PUBLIC SCHOOL DISTRICT  	86	NEW TESTAMENT CHRISTIAN            	3	3	2	8	3	5	6	2	2	4	4	2	3	27	17	47	6	12	18	0	21	Douglas                                      	04 
+20-21	213	31	OSAKIS PUBLIC SCHOOL DISTRICT      	1	ST. AGNES SCHOOL                   	9	6	7	4	5	4	4	0	0	0	0	0	0	30	0	39	7	9	16	0	21	Douglas                                      	04 
+20-21	241	31	ALBERT LEA PUBLIC SCHOOL DISTRICT  	2	HOLLANDALE CHRISTIAN               	8	10	8	8	6	7	8	8	2	0	0	0	0	47	10	65	7	3	10	0	24	Freeborn                                     	10 
+20-21	241	31	ALBERT LEA PUBLIC SCHOOL DISTRICT  	3	ST. THEODORE'S EL.                 	11	5	15	7	6	7	0	0	0	0	0	0	0	40	0	51	11	3	14	0	24	Freeborn                                     	10 
+20-21	252	31	CANNON FALLS PUBLIC SCHOOL DISTRICT	10	ST. PAUL'S LUTHERAN                	5	6	1	3	0	3	2	3	1	0	0	0	0	15	4	24	0	0	0	0	25	Goodhue                                      	10 
+20-21	253	31	GOODHUE PUBLIC SCHOOL DISTRICT     	10	ST. JOHN'S LUTHERAN                	4	3	5	7	6	3	6	1	1	0	0	0	0	30	2	36	2	1	3	0	25	Goodhue                                      	10 
+20-21	256	31	Red Wing Public School District	22	ST. JOHN'S LUTHERAN                	6	3	2	8	1	4	2	7	4	0	0	0	0	20	11	37	4	0	4	1	25	Goodhue                                      	10 
+20-21	256	31	Red Wing Public School District	200	Red Cottage Montessori School      	10	7	5	5	3	1	0	0	0	0	0	0	0	21	0	31	1	2	3	1	25	Goodhue                                      	10 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	1	BLAKE LOWER SCHOOL-HOPKINS CAMPUS  	31	33	42	42	41	43	0	0	0	0	0	0	0	201	0	232	0	0	0	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	2	BLAKE MIDDLE SCHOOL                	0	0	0	0	0	0	95	116	111	0	0	0	0	95	227	322	0	0	0	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	3	BRECK                              	65	60	65	59	60	78	93	70	96	104	117	132	123	415	642	1122	8	6	14	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	4	GOOD SHEPHERD SCHOOL               	48	41	35	35	35	33	41	0	0	0	0	0	0	220	0	268	0	2	2	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	8	MINNETONKA CHRISTIAN ACADEMY       	9	8	8	5	5	6	4	3	3	3	0	0	0	36	9	54	23	10	33	6	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	23	INTERNATIONAL SCHOOL OF MINNESOTA  	7	8	8	7	11	10	14	6	8	16	11	12	20	58	73	138	0	0	0	10	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	815	Notre Dame Academy                 	27	20	27	24	23	14	25	24	28	0	0	0	0	133	52	212	25	10	35	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	816	Academy of Whole Learning          	1	0	1	1	2	5	5	12	11	10	7	7	9	14	56	71	1	2	3	0	27	Hennepin                                     	11 
+20-21	270	31	HOPKINS PUBLIC SCHOOL DISTRICT     	817	Chesterton Academy Twin Cities	0	0	0	0	0	0	0	0	0	40	38	31	34	0	143	143	0	0	0	0	27	Hennepin                                     	11 
+20-21	271	31	BLOOMINGTON PUBLIC SCHOOL DISTRICT 	4	NATIVITY OF MARY                   	35	34	35	25	34	31	41	30	29	0	0	0	0	200	59	294	34	11	45	25	27	Hennepin                                     	11 
+20-21	271	31	BLOOMINGTON PUBLIC SCHOOL DISTRICT 	21	BLOOMINGTON LUTHERAN               	18	24	21	16	22	27	26	29	24	0	0	0	0	136	53	207	17	23	40	1	27	Hennepin                                     	11 
+20-21	271	31	BLOOMINGTON PUBLIC SCHOOL DISTRICT 	31	Ramalynn Montessori Academy	18	17	13	9	12	9	5	1	1	0	0	0	0	65	2	85	0	0	0	0	27	Hennepin                                     	11 
+20-21	271	31	BLOOMINGTON PUBLIC SCHOOL DISTRICT 	702	Hand in Hand Christian Montessori	7	4	5	2	3	1	0	0	0	0	0	0	0	15	0	22	0	0	0	0	27	Hennepin                                     	11
+20-21	271	31	BLOOMINGTON PUBLIC SCHOOL DISTRICT 	704	United Christian Academy	14	18	20	16	17	17	16	15	16	30	20	25	32	104	138	256	0	0	0	2	27	Hennepin                                     	11 
+20-21	272	31	EDEN PRAIRIE PUBLIC SCHOOL DISTRICT	25	Primrose School of Eden Prairie	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	27	Hennepin                                     	11
+20-21	273	31	EDINA PUBLIC SCHOOL DISTRICT       	1	Avail Academy                      	25	21	24	22	19	25	17	21	14	0	0	0	0	128	35	188	1	1	2	2	27	Hennepin                                     	11 
+20-21	273	31	EDINA PUBLIC SCHOOL DISTRICT       	3	GOLDEN YEARS MONTESSORI            	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	27	Hennepin                                     	11 
+20-21	273	31	EDINA PUBLIC SCHOOL DISTRICT       	7	OUR LADY OF GRACE                  	75	81	81	74	73	87	70	67	63	0	0	0	0	466	130	671	5	7	12	0	27	Hennepin                                     	11 
+20-21	276	31	MINNETONKA PUBLIC SCHOOL DISTRICT  	4	St. John the Baptist Catholic Mntsr	10	6	9	4	8	6	3	0	2	0	0	0	0	36	2	48	2	0	2	0	27	Hennepin                                     	11 
+20-21	276	31	MINNETONKA PUBLIC SCHOOL DISTRICT  	6	Our Savior Lutheran	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	27	Hennepin                                     	11 
+20-21	276	31	MINNETONKA PUBLIC SCHOOL DISTRICT  	8	ST. THERESE                        	35	32	19	17	20	18	16	10	9	0	0	0	0	122	19	176	2	2	4	0	27	Hennepin                                     	11 
+20-21	276	31	MINNETONKA PUBLIC SCHOOL DISTRICT  	15	Excelsior Covenant	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	27	Hennepin                                     	11
+20-21	277	31	WESTONKA PUBLIC SCHOOL DISTRICT    	3	OUR LADY OF THE LAKE               	20	20	14	12	8	9	7	8	4	0	0	0	0	70	12	102	5	7	12	0	27	Hennepin                                     	11 
+20-21	278	31	ORONO PUBLIC SCHOOL DISTRICT       	1	HOLY NAME OF JESUS                 	60	38	37	39	53	33	37	0	0	0	0	0	0	237	0	297	9	0	9	0	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	2	ST. ALPHONSUS                      	13	18	8	12	12	19	20	18	19	0	0	0	0	89	37	139	40	20	60	16	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	3	ST. JOHN'S LUTHERAN                	25	18	30	17	18	12	9	13	11	0	0	0	0	104	24	153	1	0	1	0	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	4	ST. VINCENT DE PAUL                	49	48	44	49	37	52	55	54	58	0	0	0	0	285	112	446	0	0	0	0	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	6	SB MARANATHA CHRISTIAN ACADEMY     	45	49	38	48	42	42	62	51	54	55	76	76	50	281	362	688	0	0	0	12	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	7	Ave Maria Academy	22	22	22	15	23	13	23	18	16	0	0	0	0	118	34	174	10	9	19	1	27	Hennepin                                     	11 
+20-21	279	31	OSSEO PUBLIC SCHOOL DISTRICT       	66	HERITAGE CHRISTIAN ACADEMY         	40	40	44	28	38	22	26	28	19	21	20	30	30	198	148	386	0	0	0	0	27	Hennepin                                     	11 
+20-21	280	31	RICHFIELD PUBLIC SCHOOL DISTRICT   	1	ACADEMY OF HOLY ANGELS             	0	0	0	0	0	0	0	0	0	171	155	159	146	0	631	631	28	46	74	0	27	Hennepin                                     	11 
+20-21	280	31	RICHFIELD PUBLIC SCHOOL DISTRICT   	2	BLESSED TRINITY-NICOLLET CAMPUS    	0	0	0	0	22	22	20	32	17	0	0	0	0	64	49	113	29	20	49	22	27	Hennepin                                     	11 
+20-21	280	31	RICHFIELD PUBLIC SCHOOL DISTRICT   	6	BLESSED TRINITY-PENN CAMPUS        	20	17	20	20	0	0	0	0	0	0	0	0	0	57	0	77	21	10	31	22	27	Hennepin                                     	11 
+20-21	280	31	RICHFIELD PUBLIC SCHOOL DISTRICT   	9	Step by Step Montessori	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	27	Hennepin                                     	11 
+20-21	281	31	ROBBINSDALE PUBLIC SCHOOL DISTRICT 	1	St. Raphael Catholic School        	17	14	19	11	16	7	16	6	9	0	0	0	0	83	15	115	28	12	40	27	27	Hennepin                                     	11 
+20-21	281	31	ROBBINSDALE PUBLIC SCHOOL DISTRICT 	61	King of Grace Lutheran School      	20	20	16	17	20	15	19	24	19	0	0	0	0	107	43	170	11	8	19	4	27	Hennepin                                     	11 
+20-21	281	31	ROBBINSDALE PUBLIC SCHOOL DISTRICT 	65	Sacred Heart School                	14	14	21	16	17	23	11	24	21	0	0	0	0	102	45	161	17	11	28	0	27	Hennepin                                     	11 
+20-21	281	31	ROBBINSDALE PUBLIC SCHOOL DISTRICT 	67	HOLY TRINITY LUTHERAN SCHOOL       	12	9	10	8	9	4	8	6	6	0	0	0	0	48	12	72	4	11	15	0	27	Hennepin                                     	11 
+20-21	281	31	ROBBINSDALE PUBLIC SCHOOL DISTRICT 	68	RiverTree School                   	7	11	12	7	15	14	15	12	9	10	6	9	0	74	46	127	0	0	0	0	27	Hennepin                                     	11 
+20-21	282	31	ST. ANTHONY-NEW BRIGHTON SCHOOLS   	1	ST. CHARLES BORROMEO               	35	40	27	36	22	30	19	26	32	0	0	0	0	174	58	267	10	6	16	5	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	1	BENILDE - ST. MARGARET'S           	0	0	0	0	0	0	0	122	133	236	237	238	217	0	1183	1183	20	14	34	0	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	4	METROPOLITAN OPEN SCHOOL           	0	1	0	0	1	0	1	1	1	0	0	0	0	3	2	5	0	0	0	0	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	8	TORAH ACADEMY                      	32	16	39	28	20	23	22	22	24	0	0	0	0	148	46	226	31	40	71	18	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	14	GROVES ACADEMY                     	0	0	7	18	21	27	29	39	42	14	18	24	12	102	149	251	0	0	0	0	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	15	HOLY FAMILY ACADEMY                	26	19	22	19	18	18	22	26	20	0	0	0	0	118	46	190	15	7	22	0	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	16	Heilicher Minneapolis Jewish Day Sc	25	28	19	18	25	17	22	22	17	0	0	0	0	129	39	193	0	0	0	2	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	19	BAIS YAAKOV HIGH SCHOOL            	0	0	0	0	0	0	0	0	0	3	17	12	0	0	32	32	3	6	9	32	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	23	YESHIVA OF MINNEAPOLIS             	0	0	0	0	0	0	0	0	0	18	19	21	15	0	73	73	0	0	0	0	27	Hennepin                                     	11 
+20-21	283	31	ST. LOUIS PARK PUBLIC SCHOOL DIST. 	24	Arete Academy                      	0	0	0	0	1	0	1	3	2	5	3	2	5	2	20	22	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	1	BLAKE LOWER SCHOOL-HIGHCROFT CAMPUS	27	33	37	37	36	44	0	0	0	0	0	0	0	187	0	214	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	2	Redeemer Christian Academy         	19	19	16	10	15	10	11	5	10	0	0	0	0	81	15	115	7	0	7	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	3	ST. BARTHOLOMEW                    	32	32	18	18	18	13	17	0	0	0	0	0	0	116	0	148	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	10	Providence Academy	51	53	51	49	42	55	58	64	67	83	69	76	58	308	417	776	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	11	West Lutheran High School	0	0	0	0	0	0	0	0	0	39	39	36	30	0	144	144	0	0	0	2	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	12	FOURTH BAPTIST                     	25	17	18	25	25	14	16	20	22	26	9	21	17	115	115	255	0	0	0	32	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	20	CHILDREN'S WORKSHOP MONTESSORI     	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	1	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	21	Brightmont Academy                 	0	0	0	0	0	0	2	0	1	2	3	8	4	2	18	20	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	22	Excel High School                  	0	0	0	0	0	0	0	0	0	35	29	31	42	0	137	137	0	0	0	0	27	Hennepin                                     	11 
+20-21	284	31	WAYZATA PUBLIC SCHOOL DISTRICT     	23	Northgate Academy                  	0	0	0	0	0	0	0	0	0	10	12	9	14	0	45	45	0	0	0	0	27	Hennepin                                     	11 
+20-21	299	31	CALEDONIA PUBLIC SCHOOL DISTRICT   	1	St. John's Lutheran School	8	7	2	8	7	5	3	8	7	0	0	0	0	32	15	55	6	0	6	0	28	Houston                                      	10 
+20-21	299	31	CALEDONIA PUBLIC SCHOOL DISTRICT   	15	ST. MARY'S ELEMENTARY              	15	13	12	13	11	11	9	13	5	0	0	0	0	69	18	102	6	6	12	0	28	Houston                                      	10 
+20-21	300	31	LA CRESCENT-HOKAH SCHOOL DISTRICT  	1	CRUCIFIXION                        	17	17	15	14	9	13	13	0	0	0	0	0	0	81	0	98	7	3	10	0	28	Houston                                      	10 
+20-21	300	31	LA CRESCENT-HOKAH SCHOOL DISTRICT  	2	ST. PETER                          	3	3	5	4	4	4	4	6	0	0	0	0	0	24	6	33	1	0	1	0	28	Houston                                      	10 
+20-21	318	31	GRAND RAPIDS PUBLIC SCHOOL DISTRICT	3	ST. JOSEPH'S CATHOLIC SCHOOL       	24	24	24	24	23	21	24	0	0	0	0	0	0	140	0	164	2	3	5	0	31	Itasca                                       	03 
+20-21	318	31	GRAND RAPIDS PUBLIC SCHOOL DISTRICT	4	BLACKBERRY SEVENTH DAY ADVENTIST   	1	0	2	1	1	1	1	0	0	0	0	0	0	6	0	7	0	0	0	0	31	Itasca                                       	03 
+20-21	330	31	HERON LAKE-OKABENA SCHOOL DISTRICT 	1	ST. JOHN'S LUTHERAN SCHOOL         	2	3	1	3	0	0	1	1	2	0	0	0	0	8	3	13	1	2	3	0	32	Jackson                                      	08 
+20-21	347	31	WILLMAR PUBLIC SCHOOL DISTRICT     	1	COMMUNITY CHRISTIAN                	16	18	15	21	18	17	18	16	15	7	19	4	9	107	70	193	23	12	35	9	34	Kandiyohi                                    	06E
+20-21	361	31	INTERNATIONAL FALLS SCHOOL DISTRICT	21	ST. THOMAS AQUINAS                 	7	5	7	4	5	3	2	0	0	0	0	0	0	26	0	33	9	0	9	0	36	Koochiching                                  	03 
+20-21	413	31	MARSHALL PUBLIC SCHOOL DISTRICT    	10	HOLY REDEEMER                      	28	22	30	23	28	16	29	28	23	0	0	0	0	148	51	227	17	19	36	0	42	Lyon                                         	08 
+20-21	413	31	MARSHALL PUBLIC SCHOOL DISTRICT    	11	SAMUEL LUTHERAN                    	5	6	8	7	4	7	8	4	8	0	0	0	0	40	12	57	0	7	7	0	42	Lyon                                         	08 
+20-21	413	31	MARSHALL PUBLIC SCHOOL DISTRICT    	20	TRUE LIGHT CHRISTIAN SCHOOL        	16	10	8	10	5	9	10	6	13	0	0	0	0	52	19	87	0	15	15	0	42	Lyon                                         	08 
+20-21	413	31	MARSHALL PUBLIC SCHOOL DISTRICT    	21	Hope Academy of Hope Harbor        	0	0	0	0	0	0	0	0	2	1	0	1	1	0	5	5	0	0	0	0	42	Lyon                                         	08 
+20-21	414	31	MINNEOTA PUBLIC SCHOOL DISTRICT    	10	ST. EDWARD                         	3	4	6	3	5	4	3	4	9	0	0	0	0	25	13	41	10	2	12	0	42	Lyon                                         	08 
+20-21	423	31	HUTCHINSON PUBLIC SCHOOL DISTRICT  	1	NORTHWOODS ELEMENTARY              	6	6	6	9	4	7	4	6	8	0	0	0	0	36	14	56	0	0	0	0	43	McLeod                                       	06E
+20-21	423	31	HUTCHINSON PUBLIC SCHOOL DISTRICT  	2	IMMANUEL LUTHERAN                  	6	5	6	4	3	6	3	5	1	0	0	0	0	27	6	39	4	2	6	0	43	McLeod                                       	06E
+20-21	423	31	HUTCHINSON PUBLIC SCHOOL DISTRICT  	3	MAPLEWOOD ACADEMY                  	0	0	0	0	0	0	0	0	0	17	10	21	24	0	72	72	0	0	0	4	43	McLeod                                       	06E
+20-21	423	31	HUTCHINSON PUBLIC SCHOOL DISTRICT  	7	ST. ANASTASIA                      	16	11	12	4	8	1	2	0	0	0	0	0	0	38	0	54	5	2	7	2	43	McLeod                                       	06E
+20-21	432	31	MAHNOMEN PUBLIC SCHOOL DISTRICT    	1	ST. MICHAEL                        	6	6	4	5	10	7	4	0	0	0	0	0	0	36	0	42	9	6	15	0	44	Mahnomen                                     	02 
+20-21	458	31	TRUMAN PUBLIC SCHOOL DISTRICT      	1	ST. PAUL'S LUTHERAN                	9	9	5	6	6	4	1	3	2	0	0	0	0	31	5	45	11	9	20	0	46	Martin                                       	09 
+20-21	465	31	LITCHFIELD PUBLIC SCHOOL DISTRICT  	1	ST. PHILIP                         	11	10	11	7	9	5	0	0	0	0	0	0	0	42	0	53	4	4	8	0	47	Meeker                                       	06E
+20-21	477	31	PRINCETON PUBLIC SCHOOL DISTRICT   	42	Discovery Montessori Academy       	18	5	5	10	0	4	0	0	0	0	0	0	0	24	0	42	0	0	0	0	48	Mille Lacs                                   	07E
+20-21	482	31	LITTLE FALLS PUBLIC SCHOOL DISTRICT	2	Mary of Lourdes Elem/Middle School	32	16	24	19	21	22	16	21	23	0	0	0	0	118	44	194	15	9	24	0	49	Morrison                                     	05 
+20-21	484	31	PIERZ PUBLIC SCHOOL DISTRICT       	4	Holy Trinity Catholic School       	12	20	13	14	15	26	28	0	0	0	0	0	0	116	0	128	12	6	18	0	49	Morrison                                     	05 
+20-21	492	31	AUSTIN PUBLIC SCHOOL DISTRICT      	6	Pacelli Catholic Schools           	32	19	14	23	23	22	19	17	15	18	19	16	12	120	97	249	117	39	156	5	50	Mower                                        	10 
+20-21	500	31	SOUTHLAND PUBLIC SCHOOL DISTRICT   	1	SACRED HEART                       	15	9	12	16	9	15	14	9	10	0	0	0	0	75	19	109	6	12	18	0	50	Mower                                        	10 
+20-21	507	31	NICOLLET PUBLIC SCHOOL DISTRICT    	1	IMMANUEL LUTHERAN                  	11	6	4	5	4	3	4	7	3	0	0	0	0	26	10	47	5	3	8	0	52	Nicollet                                     	09 
+20-21	507	31	NICOLLET PUBLIC SCHOOL DISTRICT    	2	TRINITY EVANGELICAL LUTHERAN       	7	3	1	4	0	3	4	1	1	0	0	0	0	15	2	24	4	0	4	0	52	Nicollet                                     	09 
+20-21	508	31	ST. PETER PUBLIC SCHOOL DISTRICT   	1	JOHN IRELAND                       	11	12	8	9	6	6	9	0	0	0	0	0	0	50	0	61	6	4	10	0	52	Nicollet                                     	09 
+20-21	508	31	ST. PETER PUBLIC SCHOOL DISTRICT   	2	St. Peter Evangelical Lutheran	15	7	10	6	8	5	6	9	5	0	0	0	0	42	14	71	1	3	4	0	52	Nicollet                                     	09 
+20-21	518	31	WORTHINGTON PUBLIC SCHOOL DISTRICT 	22	ST. MARY'S                         	17	18	14	16	14	11	4	0	0	0	0	0	0	77	0	94	42	9	51	33	53	Nobles                                       	08 
+20-21	518	31	WORTHINGTON PUBLIC SCHOOL DISTRICT 	23	WORTHINGTON CHRISTIAN              	14	9	7	12	10	7	8	9	9	0	0	0	0	53	18	85	3	7	10	0	53	Nobles                                       	08 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	160	ROCHESTER ARTS & SCIENCES ACADEMY  	23	15	14	15	9	3	0	0	0	0	0	0	0	56	0	79	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	162	ROCHESTER CENTRAL LUTHERAN         	46	36	30	37	17	22	37	36	20	0	0	0	0	179	56	281	5	1	6	1	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	164	ST. FRANCIS                        	25	31	41	25	37	34	39	44	39	0	0	0	0	207	83	315	19	5	24	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	166	ST. JOHN                           	0	0	0	0	0	0	46	67	68	0	0	0	0	46	135	181	15	5	20	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	168	ST. PIUS X                         	21	31	23	21	20	21	0	0	0	0	0	0	0	116	0	137	18	5	23	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	170	SCHAEFFER ACADEMY                  	18	26	22	19	19	22	19	19	22	16	14	19	13	127	103	248	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	172	ROCHESTER MONTESSORI               	22	11	6	11	7	11	6	12	8	0	0	0	0	52	20	94	0	0	0	3	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	174	RESURRECTION LUTHERAN              	15	15	15	11	12	19	9	12	15	0	0	0	0	81	27	123	11	14	25	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	179	Holy Spirit	22	29	24	18	24	18	0	0	0	0	0	0	0	113	0	135	7	5	12	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	205	Victory Academy	1	1	1	0	0	0	0	3	2	2	3	0	3	2	13	16	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	207	ROCHESTER PENTECOSTAL              	1	1	0	1	0	0	1	2	2	2	0	0	1	3	7	11	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	208	Rochester Adventist Elementary	3	4	2	0	0	0	0	0	0	0	0	0	0	6	0	9	0	0	0	0	55	Olmsted                                      	10
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	209	Primrose School of Rochester	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	214	Ambassador Academy                 	0	0	3	2	3	1	1	0	0	0	0	0	0	10	0	10	0	0	0	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	215	SEEDS OF WISDOM                    	2	1	1	0	2	0	1	0	1	1	0	0	0	5	2	9	9	0	9	0	55	Olmsted                                      	10 
+20-21	535	31	ROCHESTER PUBLIC SCHOOL DISTRICT   	345	Lourdes	0	0	0	0	0	0	0	0	0	81	80	83	95	0	339	339	16	0	16	0	55	Olmsted                                      	10 
+20-21	544	31	FERGUS FALLS PUBLIC SCHOOL DISTRICT	1	HILLCREST LUTHERAN ACADEMY         	0	0	0	0	0	16	13	17	13	18	16	28	39	29	131	160	4	2	6	0	56	Otter Tail                                   	04 
+20-21	544	31	FERGUS FALLS PUBLIC SCHOOL DISTRICT	2	OUR LADY OF VICTORY                	18	20	14	12	15	16	16	0	0	0	0	0	0	93	0	111	15	10	25	0	56	Otter Tail                                   	04 
+20-21	544	31	FERGUS FALLS PUBLIC SCHOOL DISTRICT	4	MORNING SON CHRISTIAN              	10	14	15	8	12	0	0	0	0	0	0	0	0	49	0	59	2	1	3	0	56	Otter Tail                                   	04 
+20-21	544	31	FERGUS FALLS PUBLIC SCHOOL DISTRICT	6	TWIN OAKS ACADEMY                  	0	0	0	0	0	0	0	0	0	0	2	1	2	0	5	5	0	0	0	0	56	Otter Tail                                   	04 
+20-21	549	31	PERHAM-DENT PUBLIC SCHOOL DISTRICT 	1	ST. HENRY                          	19	15	13	15	19	13	14	0	0	0	0	0	0	89	0	108	15	1	16	0	56	Otter Tail                                   	04 
+20-21	549	31	PERHAM-DENT PUBLIC SCHOOL DISTRICT 	2	ST. PAUL'S LUTHERAN                	14	11	14	10	13	10	9	0	0	0	0	0	0	67	0	81	6	1	7	0	56	Otter Tail                                   	04 
+20-21	564	31	THIEF RIVER FALLS SCHOOL DISTRICT  	1	ST. BERNARD                        	8	11	11	15	12	5	0	0	0	0	0	0	0	54	0	62	5	10	15	0	57	Pennington                                   	01 
+20-21	564	31	THIEF RIVER FALLS SCHOOL DISTRICT  	3	ST. JOHNS LUTHERAN SCHOOL          	1	1	1	3	2	0	5	2	1	0	0	0	0	12	3	16	0	0	0	0	57	Pennington                                   	01 
+20-21	581	31	EDGERTON PUBLIC SCHOOL DISTRICT    	1	Southwest MN Christian Elementary	38	21	27	24	29	32	31	29	32	0	0	0	0	164	61	263	22	29	51	0	59	Pipestone                                    	08 
+20-21	581	31	EDGERTON PUBLIC SCHOOL DISTRICT    	2	FREE CHRISTIAN SCHOOL              	2	2	2	2	1	1	1	6	0	0	0	0	0	9	6	17	0	0	0	0	59	Pipestone                                    	08 
+20-21	581	31	EDGERTON PUBLIC SCHOOL DISTRICT    	4	Southwest MN Christian High School	0	0	0	0	0	0	0	0	0	32	31	28	30	0	121	121	5	23	28	0	59	Pipestone                                    	08 
+20-21	593	31	CROOKSTON PUBLIC SCHOOL DISTRICT   	1	CATHEDRAL                          	12	13	9	8	8	6	0	0	0	0	0	0	0	44	0	56	2	0	2	0	60	Polk                                         	01 
+20-21	593	31	CROOKSTON PUBLIC SCHOOL DISTRICT   	2	OUR SAVIOR'S LUTHERAN              	12	6	6	4	4	5	3	0	0	0	0	0	0	28	0	40	8	3	11	0	60	Polk                                         	01 
+20-21	595	31	EAST GRAND FORKS PUBLIC SCHOOL DIST	2	Sacred Heart School                	33	35	39	32	31	24	36	29	37	34	31	28	20	197	179	409	21	24	45	0	60	Polk                                         	01 
+20-21	595	31	EAST GRAND FORKS PUBLIC SCHOOL DIST	4	RIVERSIDE CHRISTIAN                	24	18	16	11	14	12	18	7	7	6	0	0	2	89	22	135	5	9	14	0	60	Polk                                         	01 
+20-21	621	31	MOUNDS VIEW PUBLIC SCHOOL DISTRICT 	82	ST. JOHN THE BAPTIST               	39	40	37	40	33	37	21	25	25	0	0	0	0	208	50	297	12	10	22	5	62	Ramsey                                       	11 
+20-21	621	31	MOUNDS VIEW PUBLIC SCHOOL DISTRICT 	83	ST. ODILIA                         	64	67	63	66	63	54	49	50	42	0	0	0	0	362	92	518	0	0	0	0	62	Ramsey                                       	11 
+20-21	621	31	MOUNDS VIEW PUBLIC SCHOOL DISTRICT 	85	OAK HILL MONTESSORI                	10	7	9	5	10	7	6	6	7	0	0	0	0	44	13	67	0	2	2	0	62	Ramsey                                       	11 
+20-21	621	31	MOUNDS VIEW PUBLIC SCHOOL DISTRICT 	86	HARBON MONTESSORI                  	6	5	2	2	1	1	0	0	0	0	0	0	0	11	0	17	0	0	0	0	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	50	Capital City Adventist Christian   	0	4	2	1	3	1	1	2	0	0	0	0	0	12	2	14	0	0	0	8	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	51	CHRIST LUTHERAN                    	14	12	10	18	7	18	17	10	7	0	0	0	0	82	17	113	8	10	18	0	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	52	GETHSEMANE LUTHERAN                	17	20	12	22	9	11	16	10	10	0	0	0	0	90	20	127	15	10	25	0	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	63	MOUNDS PARK ACADEMY                	18	24	15	20	34	27	39	52	33	63	60	53	63	159	324	501	18	6	24	13	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	64	HILL-MURRAY                        	0	0	0	0	0	0	65	75	82	190	168	163	149	65	827	892	16	53	69	8	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	66	Presentation of Mary School        	19	15	17	13	17	14	10	10	4	0	0	0	0	86	14	119	19	6	25	0	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	67	Paidea Child Development Center	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	82	Washington                                   	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	68	TRANSFIGURATION                    	20	22	22	22	22	16	14	13	19	0	0	0	0	118	32	170	6	25	31	5	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	69	ST. PETER                          	24	24	24	14	24	19	20	16	20	0	0	0	0	125	36	185	8	20	28	6	62	Ramsey                                       	11 
+20-21	622	31	North St. Paul-Maplewood Oakdale	70	APOSTOLIC CHRISTIAN ACADEMY        	0	1	0	1	0	1	2	0	2	1	0	4	1	5	8	13	0	0	0	0	82	Washington                                   	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	1	CONCORDIA ACADEMY                  	0	0	0	0	0	0	0	0	0	60	75	64	74	0	273	273	0	0	0	0	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	4	Kings of Kings Lutheran	13	9	16	13	6	9	9	14	11	0	0	0	0	62	25	100	0	0	0	0	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	6	Saint John School of Little Canada 	31	20	15	17	20	15	15	10	12	0	0	0	0	102	22	155	15	17	32	10	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	7	ST. ROSE OF LIMA                   	18	17	16	15	15	13	18	16	6	0	0	0	0	94	22	134	4	2	6	4	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	10	NORTH HEIGHTS CHRISTIAN ACADEMY    	33	26	18	20	24	19	31	20	33	0	0	0	0	138	53	224	0	0	0	0	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	702	MINNESOTA WALDORF                  	16	9	10	7	14	9	8	10	13	4	0	0	0	57	27	100	0	0	0	0	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	705	ST. JEROME                         	17	22	17	15	20	18	15	19	14	0	0	0	0	107	33	157	94	20	114	77	62	Ramsey                                       	11 
+20-21	623	31	ROSEVILLE PUBLIC SCHOOL DISTRICT   	712	HAND IN HAND CHRISTIAN MONTESSORI  	5	6	7	7	6	11	11	6	7	1	2	1	2	48	19	72	0	0	0	0	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	2	Frassati Catholic Academy          	30	30	31	35	27	32	20	20	18	0	0	0	0	175	38	243	7	1	8	0	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	7	WHITE BEAR MONTESSORI SCHOOL       	12	6	6	5	2	2	0	0	0	0	0	0	0	21	0	33	2	2	4	0	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	13	MAGNUSON CHRISTIAN SCHOOL          	16	21	13	16	11	17	1	4	6	0	0	0	0	79	10	105	10	2	12	0	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	14	LIBERTY CLASSICAL ACADEMY          	31	28	26	29	23	29	17	21	18	3	9	10	4	152	65	248	0	11	11	1	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	16	Gentry Academy                     	0	0	0	0	0	48	53	44	26	20	30	22	21	101	163	264	0	0	0	0	62	Ramsey                                       	11 
+20-21	624	31	WHITE BEAR LAKE SCHOOL DISTRICT    	21	Garden of Hope Montessori          	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	1	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	835	Cretin-Derham Hall	0	0	0	0	0	0	0	0	0	215	225	261	237	0	938	938	39	77	116	14	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	842	HIGHLAND CATHOLIC                  	36	50	45	39	42	48	49	42	54	0	0	0	0	273	96	405	41	0	41	8	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	845	HOLY SPIRIT SCHOOL                 	18	20	20	26	21	30	39	42	44	0	0	0	0	156	86	260	18	0	18	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	848	Jean Lyle's Childrens Ctr.	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	850	MATERNITY OF MARY/ST. ANDREW       	29	13	14	20	16	17	11	12	9	0	0	0	0	91	21	141	32	10	42	26	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	851	NATIVITY                           	63	81	87	65	76	71	81	75	82	0	0	0	0	461	157	681	5	0	5	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	861	ST. AGNES                          	43	40	45	44	54	50	52	64	64	89	79	91	61	285	448	776	68	55	123	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	868	St. Paul Academy - Summit (Middle)	0	0	0	0	0	0	78	79	85	0	0	0	0	78	164	242	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	872	ST. THOMAS MORE CATHOLIC SCHOOL    	31	19	33	18	28	30	21	11	24	0	0	0	0	149	35	215	11	0	11	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	875	St. Pascal Regional Catholic School	13	12	18	11	11	11	13	6	10	0	0	0	0	76	16	105	35	18	53	46	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	877	ST. PAUL ACADEMY - SUMMIT (LOWER)  	36	34	34	49	46	60	0	0	0	0	0	0	0	223	0	259	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	878	ST. PAUL ACADEMY - SUMMIT (UPPER)  	0	0	0	0	0	0	0	0	0	98	108	108	112	0	426	426	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	879	TALMUD TORAH                       	9	1	5	1	4	0	0	0	0	0	0	0	0	11	0	20	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	880	St. Peter Claver Catholic School	14	11	14	6	4	6	9	7	13	0	0	0	0	50	20	84	45	7	52	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	883	"CHILDREN'S CENTER MONTESSORI, INC. "	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	885	SUNNY HOLLOW MONTESSORI            	11	12	13	17	10	10	8	5	5	0	0	0	0	70	10	91	4	3	7	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	921	Cathedral Hill Montessori School   	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	3	3	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	948	LUBAVITCH CHEDER DAY SCHOOL        	7	5	6	6	5	4	5	4	4	0	0	0	0	31	8	46	0	0	0	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	957	CHRIST'S HOUSEHOLD OF FAITH        	6	7	9	9	11	12	15	13	16	10	11	13	11	63	74	143	83	37	120	0	62	Ramsey                                       	11 
+20-21	625	31	ST. PAUL PUBLIC SCHOOL DISTRICT    	975	FRIENDS SCHOOL OF MINNESOTA        	17	10	16	15	12	12	15	17	15	0	0	0	0	80	32	129	7	0	7	0	62	Ramsey                                       	11 
+20-21	640	31	WABASSO PUBLIC SCHOOL DISTRICT     	2	ST. ANNE                           	15	11	10	12	14	12	14	0	0	0	0	0	0	73	0	88	5	22	27	0	64	Redwood                                      	08 
+20-21	640	31	WABASSO PUBLIC SCHOOL DISTRICT     	3	OneSchool Global	0	0	0	3	0	4	4	0	3	0	6	6	4	11	19	30	0	0	0	0	64	Redwood                                      	08 
+20-21	656	31	FARIBAULT PUBLIC SCHOOL DISTRICT   	1	BETHLEHEM ACADEMY                  	0	0	0	0	0	0	0	21	24	45	33	36	31	0	190	190	21	10	31	0	66	Rice                                         	10 
+20-21	656	31	FARIBAULT PUBLIC SCHOOL DISTRICT   	2	SHATTUCK-ST. MARY'S                	0	0	0	0	0	0	7	6	23	61	105	94	103	7	392	399	0	0	0	78	66	Rice                                         	10 
+20-21	656	31	FARIBAULT PUBLIC SCHOOL DISTRICT   	3	DIVINE MERCY CATHOLIC SCHOOL       	28	37	31	34	35	25	25	0	0	0	0	0	0	187	0	215	21	16	37	0	66	Rice                                         	10 
+20-21	656	31	FARIBAULT PUBLIC SCHOOL DISTRICT   	8	FARIBAULT LUTHERAN                 	16	12	26	15	12	9	10	14	4	0	0	0	0	84	18	118	0	0	0	0	66	Rice                                         	10 
+20-21	659	31	NORTHFIELD PUBLIC SCHOOL DISTRICT  	12	ST. DOMINIC SCHOOL                 	17	18	16	14	8	11	6	8	3	0	0	0	0	73	11	101	7	9	16	0	66	Rice                                         	10 
+20-21	671	31	HILLS-BEAVER CREEK SCHOOL DISTRICT 	1	HILLS CHRISTIAN                    	8	5	1	2	3	2	2	1	2	0	0	0	0	15	3	26	0	0	0	0	67	Rock                                         	08 
+20-21	701	31	HIBBING PUBLIC SCHOOL DISTRICT     	1	ASSUMPTION                         	20	16	14	19	18	16	19	0	0	0	0	0	0	102	0	122	12	6	18	0	69	St. Louis                                    	03 
+20-21	701	31	HIBBING PUBLIC SCHOOL DISTRICT     	3	VICTORY CHRISTIAN ACADEMY          	17	13	12	8	9	6	4	8	3	3	8	1	4	52	27	96	30	0	30	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	2	DULUTH MARSHALL SCHOOL             	0	0	0	0	19	16	30	36	46	53	42	55	59	65	291	356	26	0	26	40	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	3	Stella Maris Academy-Holy Rosary Cp	32	34	33	41	33	0	0	0	0	0	0	0	0	141	0	173	0	0	0	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	4	LAKEVIEW CHRISTIAN ACADEMY         	20	14	13	10	13	14	14	11	14	18	11	10	17	78	81	179	22	23	45	1	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	7	Stella Maris Academy-St. James Cp  	13	15	23	16	16	15	17	16	12	0	0	0	0	102	28	143	4	7	11	1	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	9	Stella Maris Academy-St. John's Cp 	0	0	0	0	0	22	30	28	21	0	0	0	0	52	49	101	0	0	0	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	11	STONE RIDGE CHRISTIAN              	0	1	1	2	0	2	0	2	0	0	0	0	0	6	2	8	0	0	0	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	13	Montessori School of Duluth	5	5	3	3	2	0	1	0	0	0	0	0	0	14	0	19	0	0	0	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	14	Many Rivers Montessori             	14	21	16	13	13	9	10	5	10	0	0	0	0	82	15	111	3	0	3	0	69	St. Louis                                    	03 
+20-21	709	31	DULUTH PUBLIC SCHOOL DISTRICT      	15	Spirit of the Lake Community School	6	5	6	5	1	0	0	7	2	0	0	0	0	17	9	32	0	0	0	0	69	St. Louis                                    	03 
+20-21	716	31	BELLE PLAINE PUBLIC SCHOOL DISTRICT	1	OUR LADY OF THE PRAIRIE            	2	10	5	6	7	5	2	0	0	0	0	0	0	35	0	37	6	1	7	0	70	Scott                                        	11 
+20-21	716	31	BELLE PLAINE PUBLIC SCHOOL DISTRICT	2	TRINITY LUTHERAN                   	5	10	4	5	5	4	4	4	0	0	0	0	0	32	4	41	0	1	1	0	70	Scott                                        	11 
+20-21	717	31	JORDAN PUBLIC SCHOOL DISTRICT      	1	ST. JOHN THE BAPTIST               	18	16	13	8	10	8	3	0	0	0	0	0	0	58	0	76	1	0	1	0	70	Scott                                        	11 
+20-21	719	31	PRIOR LAKE-SAVAGE AREA SCHOOLS     	1	ST. MICHAEL'S CATHOLIC             	40	32	36	20	33	19	23	35	32	0	0	0	0	163	67	270	1	0	1	0	70	Scott                                        	11 
+20-21	719	31	PRIOR LAKE-SAVAGE AREA SCHOOLS     	2	PRIOR LAKE CHRISTIAN               	10	7	4	8	7	10	5	7	2	2	6	4	2	41	23	74	0	0	0	0	70	Scott                                        	11 
+20-21	719	31	PRIOR LAKE-SAVAGE AREA SCHOOLS     	3	ST. PAUL'S LUTHERAN                	20	16	10	7	5	12	0	0	0	0	0	0	0	50	0	70	0	0	0	0	70	Scott                                        	11 
+20-21	720	31	SHAKOPEE PUBLIC SCHOOL DISTRICT    	1	SHAKOPEE AREA CATHOLIC SCHOOL      	52	51	53	61	53	65	63	58	53	0	0	0	0	346	111	509	31	21	52	15	70	Scott                                        	11 
+20-21	720	31	SHAKOPEE PUBLIC SCHOOL DISTRICT    	2	LIVING HOPE LUTHERAN SCHOOL        	16	25	17	12	15	0	0	0	0	0	0	0	0	69	0	85	1	1	2	0	70	Scott                                        	11 
+20-21	721	31	NEW PRAGUE AREA SCHOOLS            	1	ST. WENCESLAUS                     	31	16	15	14	29	13	20	20	17	0	0	0	0	107	37	175	11	3	14	2	70	Scott                                        	11 
+20-21	721	31	NEW PRAGUE AREA SCHOOLS            	2	HOLY CROSS CATHOLIC SCHOOL         	16	14	14	8	8	12	12	10	11	0	0	0	0	68	21	105	6	8	14	0	66	Rice                                         	11 
+20-21	726	31	BECKER PUBLIC SCHOOL DISTRICT      	1	JUBILEE CHRISTIAN SCHOOL           	6	4	5	4	3	3	4	7	6	2	4	0	2	23	21	50	0	0	0	0	71	Sherburne                                    	07W
+20-21	727	31	BIG LAKE PUBLIC SCHOOL DISTRICT    	2	Heritage Montessori School         	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	71	Sherburne                                    	07W
+20-21	728	31	Elk River School District          	2	ST. ANDREW'S CATHOLIC SCHOOL       	24	23	20	18	18	13	0	0	0	0	0	0	0	92	0	116	3	0	3	0	71	Sherburne                                    	07W
+20-21	728	31	Elk River School District          	3	ST. JOHN'S LUTHERAN                	18	15	12	13	18	12	11	5	0	0	0	0	0	81	5	104	1	0	1	0	2	Anoka                                        	07W
+20-21	728	31	Elk River School District          	4	MARY QUEEN OF PEACE CATHOLIC SCHOOL	18	17	16	9	6	8	0	0	0	0	0	0	0	56	0	74	0	1	1	0	27	Hennepin                                     	07W
+20-21	728	31	Elk River School District          	6	Solid Rock Christian Academy	1	3	3	2	4	0	1	0	2	0	0	1	0	13	3	17	0	0	0	0	71	Sherburne                                    	07W
+20-21	740	31	MELROSE PUBLIC SCHOOL DISTRICT     	1	SACRED HEART                       	16	13	10	16	12	21	18	0	0	0	0	0	0	90	0	106	9	8	17	0	73	Stearns                                      	07W
+20-21	740	31	MELROSE PUBLIC SCHOOL DISTRICT     	2	ST. JOHN - ST. ANDREW              	4	5	4	6	4	3	8	0	0	0	0	0	0	30	0	34	5	2	7	0	73	Stearns                                      	07W
+20-21	740	31	MELROSE PUBLIC SCHOOL DISTRICT     	3	St. Mary's Catholic School	13	17	13	21	10	17	19	0	0	0	0	0	0	97	0	110	3	1	4	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	1	GRANITE CITY BAPTIST ACADEMY       	1	2	1	3	4	2	0	5	0	1	3	1	2	12	12	25	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	3	Cathedral	0	0	0	0	0	0	0	89	92	102	101	102	95	0	581	581	21	15	36	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	4	ST. CLOUD CHRISTIAN SCHOOL         	16	7	7	13	12	14	16	17	15	19	11	9	6	69	77	162	22	8	30	0	5	Benton                                       	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	7	St. Katharine Drexel	29	30	30	30	32	37	30	0	0	0	0	0	0	189	0	218	28	4	32	10	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	8	ST. JOHN'S PREPARATORY SCHOOL      	0	0	0	0	0	0	23	35	36	35	41	41	37	23	225	248	5	12	17	8	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	10	ALL SAINTS ACADEMY-ST JOSEPH CAMPUS	18	15	17	16	11	18	0	0	0	0	0	0	0	77	0	95	2	2	4	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	11	ST. MARY HELP OF CHRISTIANS        	21	18	18	13	17	13	15	0	0	0	0	0	0	94	0	115	4	4	8	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	13	All Saints Academy-St. Cloud Campus	26	17	34	28	22	19	26	0	0	0	0	0	0	146	0	172	10	19	29	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	14	ST. WENDELIN                       	6	10	13	1	3	3	0	0	0	0	0	0	0	30	0	36	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	17	St. Robert Bellarmine Academy	9	6	6	4	6	4	6	5	8	7	4	5	8	32	37	78	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	18	Holy Innocents	1	0	2	0	3	1	2	1	0	0	1	2	2	8	6	15	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	19	CHILDREN'S DAY MONTESSORI          	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	20	ST. ELIZABETH ANN SETON SCHOOL     	29	11	12	12	10	15	8	0	0	0	0	0	0	68	0	97	11	9	20	4	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	21	NORTHLAND CHRISTIAN SCHOOL         	3	2	4	1	1	0	0	2	0	3	1	0	2	8	8	19	0	0	0	0	71	Sherburne                                    	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	22	PRINCE OF PEACE LUTHERAN SCHOOL    	17	18	14	18	18	12	8	8	7	0	0	0	0	88	15	120	12	0	12	7	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	700	Immaculate Conception	2	0	4	3	4	1	1	0	1	0	0	0	4	13	5	20	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	705	Whole Child Montessori School	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	706	Calvary Classical Academy          	0	9	7	5	4	7	2	2	2	6	2	0	0	34	12	46	0	0	0	0	73	Stearns                                      	07W
+20-21	742	31	ST. CLOUD PUBLIC SCHOOL DISTRICT   	707	Lillian Leonard Primary            	5	1	1	1	0	0	0	0	0	0	0	0	0	3	0	8	0	0	0	0	73	Stearns                                      	07W
+20-21	743	31	SAUK CENTRE PUBLIC SCHOOL DISTRICT 	1	HOLY FAMILY                        	39	40	31	34	38	29	33	0	0	0	0	0	0	205	0	244	17	9	26	0	73	Stearns                                      	07W
+20-21	745	31	ALBANY PUBLIC SCHOOL DISTRICT      	1	HOLY FAMILY                        	9	15	17	14	16	13	2	0	0	0	0	0	0	77	0	86	5	4	9	0	73	Stearns                                      	07W
+20-21	748	31	SARTELL-ST. STEPHEN SCHOOL DISTRICT	1	ST. FRANCIS XAVIER                 	32	34	42	36	29	29	9	0	0	0	0	0	0	179	0	211	6	5	11	0	73	Stearns                                      	07W
+20-21	750	31	ROCORI PUBLIC SCHOOL DISTRICT      	1	HOLY CROSS                         	9	6	4	5	1	0	0	0	0	0	0	0	0	16	0	25	3	0	3	0	73	Stearns                                      	07W
+20-21	750	31	ROCORI PUBLIC SCHOOL DISTRICT      	2	ST. BONIFACE                       	29	24	35	28	28	33	29	0	0	0	0	0	0	177	0	206	6	0	6	0	73	Stearns                                      	07W
+20-21	750	31	ROCORI PUBLIC SCHOOL DISTRICT      	3	SAINTS PETER & PAUL                	18	6	16	11	11	7	0	0	0	0	0	0	0	51	0	69	4	2	6	0	73	Stearns                                      	07W
+20-21	761	31	OWATONNA PUBLIC SCHOOL DISTRICT    	1	St. Mary's School                  	30	35	31	29	28	27	32	27	34	0	0	0	0	182	61	273	12	24	36	0	74	Steele                                       	10 
+20-21	761	31	OWATONNA PUBLIC SCHOOL DISTRICT    	2	OWATONNA CHRISTIAN                 	13	7	5	6	5	7	6	10	5	4	11	3	8	36	41	90	0	0	0	0	74	Steele                                       	10 
+20-21	761	31	OWATONNA PUBLIC SCHOOL DISTRICT    	6	Oak Hills Academy	2	1	2	0	0	0	0	0	0	0	0	0	0	3	0	5	0	0	0	0	74	Steele                                       	10
+20-21	787	31	BROWERVILLE PUBLIC SCHOOL DISTRICT 	1	CHRIST THE KING PAROCHIAL          	5	1	7	7	6	10	7	0	0	0	0	0	0	38	0	43	4	11	15	3	77	Todd                                         	05 
+20-21	811	31	WABASHA-KELLOGG PUBLIC SCHOOL DIST.	1	St. Felix Catholic School          	14	9	13	10	6	12	8	0	0	0	0	0	0	58	0	72	5	0	5	1	79	Wabasha                                      	10 
+20-21	813	31	LAKE CITY PUBLIC SCHOOL DISTRICT   	1	ST. JOHN'S LUTHERAN                	8	5	5	8	5	7	4	2	4	0	0	0	0	34	6	48	0	0	0	0	79	Wabasha                                      	10 
+20-21	815	32	PRINSBURG PUBLIC SCHOOL DISTRICT   	1	Central Minnesota Christian School	22	18	25	19	29	25	29	25	19	25	22	24	26	145	141	308	28	25	53	2	34	Kandiyohi                                    	06E
+20-21	829	31	WASECA PUBLIC SCHOOL DISTRICT      	10	SACRED HEART                       	23	14	20	18	21	0	0	0	0	0	0	0	0	73	0	96	16	16	32	0	81	Waseca                                       	09 
+20-21	831	31	FOREST LAKE PUBLIC SCHOOL DISTRICT 	20	ST. PETER                          	39	27	29	36	23	30	33	23	9	0	0	0	0	178	32	249	12	0	12	0	82	Washington                                   	11 
+20-21	833	31	SOUTH WASHINGTON COUNTY SCHOOL DIST	1	NEW LIFE ACADEMY                   	48	37	34	33	31	37	47	41	51	43	66	60	43	219	304	571	0	0	0	4	82	Washington                                   	11 
+20-21	833	31	SOUTH WASHINGTON COUNTY SCHOOL DIST	2	HOPE CHRISTIAN ACADEMY             	6	4	7	5	4	4	0	4	2	0	1	1	1	24	9	39	0	0	0	0	82	Washington                                   	11 
+20-21	833	31	SOUTH WASHINGTON COUNTY SCHOOL DIST	65	Saint Ambrose Woodbury Catholic	65	62	66	65	63	69	57	62	56	0	0	0	0	382	118	565	13	9	22	8	82	Washington                                   	11 
+20-21	834	31	STILLWATER AREA PUBLIC SCHOOL DIST.	2	ST. CROIX CATHOLIC                 	26	29	21	27	30	21	28	18	33	0	0	0	0	156	51	233	5	6	11	3	82	Washington                                   	11 
+20-21	834	31	STILLWATER AREA PUBLIC SCHOOL DIST.	3	SALEM LUTHERAN                     	20	20	15	10	11	11	8	6	5	0	0	0	0	75	11	106	4	2	6	0	82	Washington                                   	11 
+20-21	834	31	STILLWATER AREA PUBLIC SCHOOL DIST.	4	ST. CROIX MONTESSORI SCHOOL        	8	14	9	7	4	3	0	0	0	0	0	0	0	37	0	45	0	0	0	0	82	Washington                                   	11 
+20-21	834	31	STILLWATER AREA PUBLIC SCHOOL DIST.	9	Chesterton Academy of the St. Croix	0	0	0	0	0	0	0	0	0	9	12	12	8	0	41	41	0	0	0	0	82	Washington                                   	11
+20-21	837	31	MADELIA PUBLIC SCHOOL DISTRICT     	1	ST. MARY                           	5	9	6	7	6	10	4	0	0	0	0	0	0	42	0	47	5	9	14	0	83	Watonwan                                     	09 
+20-21	840	31	ST. JAMES PUBLIC SCHOOL DISTRICT   	2	ST. PAUL'S LUTHERAN                	3	6	1	6	5	3	1	4	1	0	0	0	0	22	5	30	7	0	7	0	83	Watonwan                                     	09 
+20-21	846	31	BRECKENRIDGE PUBLIC SCHOOL DISTRICT	1	ST. MARY                           	9	8	9	8	15	6	9	19	13	0	0	0	0	55	32	96	7	8	15	0	84	Wilkin                                       	04 
+20-21	857	31	Lewiston-Altura Public School Dist	1	IMMANUEL LUTHERAN                  	5	16	3	10	4	9	16	5	12	0	0	0	0	58	17	80	17	16	33	0	85	Winona                                       	10 
+20-21	857	31	Lewiston-Altura Public School Dist	2	St. John's Ev. Lutheran School     	6	6	3	14	14	8	16	4	13	0	0	0	0	61	17	84	4	17	21	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	26	HOPE LUTHERAN HIGH SCHOOL          	0	0	0	0	0	0	0	0	0	10	5	6	5	0	26	26	3	3	6	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	30	WINONA AREA CATHOLIC               	71	78	78	62	53	0	0	0	0	0	0	0	0	271	0	342	12	8	20	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	31	COTTER SCHOOLS (JR/SR)             	0	0	0	0	0	76	58	61	56	78	52	59	51	134	357	491	25	17	42	25	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	34	ST. JOHN'S LUTHERAN                	8	5	5	9	4	5	7	4	6	0	0	0	0	35	10	53	0	4	4	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	35	ST. MARTIN'S LUTHERAN              	14	14	9	12	5	5	12	10	8	0	0	0	0	57	18	89	14	8	22	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	37	ST. MATTHEW'S LUTHERAN             	13	7	7	6	6	7	9	9	5	0	0	0	0	42	14	69	0	8	8	0	85	Winona                                       	10 
+20-21	861	31	WINONA AREA PUBLIC SCHOOL DISTRICT 	42	Anchor Academy                     	0	0	0	0	0	0	0	0	0	1	1	2	0	0	4	4	0	0	0	0	85	Winona                                       	10 
+20-21	877	31	BUFFALO-HANOVER-MONTROSE PUBLIC SCH	1	ST. FRANCIS XAVIER                 	22	22	22	22	25	17	19	17	14	0	0	0	0	127	31	180	10	8	18	1	86	Wright                                       	07W
+20-21	877	31	BUFFALO-HANOVER-MONTROSE PUBLIC SCH	2	SALEM LUTHERAN                     	9	4	9	9	8	3	13	6	4	0	0	0	0	46	10	65	0	6	6	0	27	Hennepin                                     	07W
+20-21	879	31	DELANO PUBLIC SCHOOL DISTRICT      	2	MT. OLIVE LUTHERAN                 	2	5	4	2	2	4	6	2	4	0	0	0	0	23	6	31	1	0	1	0	86	Wright                                       	07W
+20-21	879	31	DELANO PUBLIC SCHOOL DISTRICT      	3	St Maximilian Kolbe Catholic School	13	10	19	9	11	12	7	0	0	0	0	0	0	68	0	81	3	10	13	0	86	Wright                                       	07W
+20-21	881	31	MAPLE LAKE PUBLIC SCHOOL DISTRICT  	1	ST. TIMOTHY'S SCHOOL               	19	12	12	7	8	17	10	12	8	0	0	0	0	66	20	105	10	15	25	0	86	Wright                                       	07W
+20-21	882	31	MONTICELLO PUBLIC SCHOOL DISTRICT  	2	Holy Spirit Academy                	0	0	0	0	0	0	0	0	0	13	12	12	5	0	42	42	0	0	0	0	86	Wright                                       	07W
+20-21	885	31	ST. MICHAEL-ALBERTVILLE SCHOOL DIST	1	ST. MICHAEL CATHOLIC SCHOOL        	45	35	45	45	44	46	43	35	49	0	0	0	0	258	84	387	5	10	15	0	86	Wright                                       	07W
+20-21	891	31	CANBY PUBLIC SCHOOL DISTRICT       	2	St. Peter's School                 	10	8	11	10	8	11	8	0	0	0	0	0	0	56	0	66	8	14	22	0	87	Yellow Medicine                              	06W
+20-21	911	31	CAMBRIDGE-ISANTI PUBLIC SCHOOL DIST	3	CAMBRIDGE CHRISTIAN SCHOOL         	8	12	12	6	10	6	12	10	11	9	9	5	13	58	57	123	0	0	0	0	30	Isanti                                       	07E
+20-21	911	31	CAMBRIDGE-ISANTI PUBLIC SCHOOL DIST	4	St. Scholastica HSC  Academy       	4	3	2	3	4	4	6	3	3	2	0	6	1	22	15	41	0	0	0	0	30	Isanti                                       	07E
+20-21	912	31	MILACA PUBLIC SCHOOL DISTRICT      	1	COMMUNITY CHRISTIAN                	9	9	5	5	8	8	7	8	11	0	0	0	0	42	19	70	2	2	4	0	48	Mille Lacs                                   	07E
+20-21	2125	31	TRITON SCHOOL DISTRICT             	1	GRACE LUTHERAN                     	2	4	0	0	0	0	0	0	0	0	0	0	0	4	0	6	0	0	0	0	20	Dodge                                        	10 
+20-21	2125	31	TRITON SCHOOL DISTRICT             	3	MARANATHA SDA SCHOOL               	5	2	4	3	4	1	3	2	0	0	0	0	0	17	2	24	0	0	0	0	20	Dodge                                        	10 
+20-21	2134	31	UNITED SOUTH CENTRAL SCHOOL DIST.  	8	St. Casimir's School               	3	2	9	4	2	3	3	0	0	0	0	0	0	23	0	26	5	0	5	0	22	Faribault                                    	09 
+20-21	2137	31	KINGSLAND PUBLIC SCHOOL DISTRICT   	1	St. John's Lutheran                	3	3	9	0	2	4	2	4	3	0	0	0	0	20	7	30	0	3	3	0	23	Fillmore                                     	10 
+20-21	2143	31	WATERVILLE-ELYSIAN-MORRISTOWN      	1	TRINITY LUTHERAN                   	2	2	2	0	1	0	1	0	0	0	0	0	0	6	0	8	0	0	0	0	66	Rice                                         	09 
+20-21	2144	31	CHISAGO LAKES SCHOOL DISTRICT      	10	CHISAGO LAKES BAPTIST              	9	3	4	8	7	9	4	9	4	5	3	3	0	35	24	68	9	3	12	1	13	Chisago                                      	07E
+20-21	2149	31	MINNEWASKA SCHOOL DISTRICT         	1	LAKE COUNTRY CHRISTIAN SCHOOL      	3	4	2	2	2	1	2	0	0	0	0	0	0	13	0	16	0	0	0	0	61	Pope                                         	04 
+20-21	2170	31	STAPLES-MOTLEY SCHOOL DISTRICT     	1	SACRED HEART AREA SCHOOL           	12	10	9	11	10	8	9	0	0	0	0	0	0	57	0	69	13	6	19	0	77	Todd                                         	05 
+20-21	2171	31	KITTSON CENTRAL SCHOOL DISTRICT    	45	OneSchool Team US - Pembina Campus	0	0	0	6	5	5	0	7	8	4	7	6	3	16	35	51	0	0	0	0	35	Kittson                                      	01 
+20-21	2174	31	PINE RIVER-BACKUS SCHOOL DISTRICT  	2	Foothills Christian Academy        	1	2	3	2	3	3	1	1	0	4	2	3	2	14	12	27	0	0	0	0	11	Cass                                         	05 
+20-21	2310	31	SIBLEY EAST SCHOOL DISTRICT        	11	ST. PAUL'S LUTHERAN                	7	2	3	9	6	2	6	3	1	0	0	0	0	28	4	39	5	0	5	0	72	Sibley                                       	09 
+20-21	2310	31	SIBLEY EAST SCHOOL DISTRICT        	12	IMMANUEL LUTHERAN                  	5	5	6	5	6	9	6	6	4	0	0	0	0	37	10	52	4	6	10	0	72	Sibley                                       	09 
+20-21	2358	31	TRI-COUNTY SCHOOL DISTRICT         	1	HERITAGE CHRISTIAN                 	1	2	3	2	1	2	2	2	0	2	2	3	3	12	12	25	0	0	0	0	35	Kittson                                      	01 
+20-21	2365	31	G.F.W.                             	10	PRAIRIE LUTHERAN SCHOOL            	7	8	5	6	12	8	12	5	7	0	0	0	0	51	12	70	9	8	17	0	72	Sibley                                       	09 
+20-21	2365	31	G.F.W.                             	30	Starland School	2	3	2	0	2	1	2	0	3	2	0	2	0	10	7	19	19	0	19	0	72	Sibley                                       	09
+20-21	2396	31	A.C.G.C. Public School District    	1	Riverview Christian School	0	3	3	1	3	2	4	2	2	3	0	3	3	16	13	29	0	0	0	0	47	Meeker                                       	06E
+20-21	2397	31	LE SUEUR-HENDERSON SCHOOL DISTRICT 	1	ST. ANNE'S                         	20	20	17	19	20	14	0	0	0	0	0	0	0	90	0	110	0	0	0	0	40	Le Sueur                                     	09 
+20-21	2534	31	BIRD ISLAND-OLIVIA-LAKE LILLIAN    	1	St. Mary's	17	18	20	19	18	12	21	17	5	0	0	0	0	108	22	147	10	11	21	0	65	Renville                                     	06E
+20-21	2580	31	EAST CENTRAL SCHOOL DISTRICT       	1	HARVEST CHRISTIAN SCHOOL           	2	3	3	3	6	1	6	3	0	5	1	4	6	22	19	43	0	0	0	0	58	Pine                                         	07E
+20-21	2687	31	HOWARD LAKE-WAVERLY-WINSTED        	11	St. James Lutheran	14	15	11	10	12	8	8	5	5	0	0	0	0	64	10	88	8	3	11	0	86	Wright                                       	07W
+20-21	2687	31	HOWARD LAKE-WAVERLY-WINSTED        	13	HOLY TRINITY                       	12	9	9	7	12	8	13	7	12	8	7	15	4	58	53	123	15	18	33	1	43	McLeod                                       	07W
+20-21	2752	31	FAIRMONT AREA SCHOOL DISTRICT      	2	ST. JAMES LUTHERAN                 	8	6	2	7	2	3	6	5	3	0	0	0	0	26	8	42	3	12	15	0	46	Martin                                       	09 
+20-21	2752	31	FAIRMONT AREA SCHOOL DISTRICT      	3	ST. JOHN VIANNEY                   	12	11	14	9	12	14	8	0	0	0	0	0	0	68	0	80	18	7	25	0	46	Martin                                       	09 
+20-21	2752	31	FAIRMONT AREA SCHOOL DISTRICT      	4	ST. PAUL LUTHERAN                  	14	9	10	8	3	9	4	10	4	0	0	0	0	43	14	71	13	5	18	0	46	Martin                                       	09 
+20-21	2752	31	FAIRMONT AREA SCHOOL DISTRICT      	6	MARTIN LUTHER H.S.                 	0	0	0	0	0	0	0	0	0	14	16	16	5	0	51	51	0	0	0	3	46	Martin                                       	09 
+20-21	2752	31	FAIRMONT AREA SCHOOL DISTRICT      	7	Fairmont Christian School          	8	4	9	3	0	0	0	0	0	0	0	0	0	16	0	24	0	0	0	0	46	Martin                                       	09 
+20-21	2753	31	Long Prairie-Grey Eagle School Dist	2	ST. MARY OF MT. CARMEL             	18	14	17	17	12	8	14	0	0	0	0	0	0	82	0	100	20	20	40	25	77	Todd                                         	05 
+20-21	2753	31	Long Prairie-Grey Eagle School Dist	7	St. John Vianney Academy           	5	4	7	7	5	5	5	5	5	0	0	0	0	33	10	48	0	0	0	0	77	Todd                                         	05 
+20-21	2769	31	MORRIS AREA PUBLIC SCHOOLS         	1	St. Mary Catholic School           	11	10	11	10	10	12	8	0	0	0	0	0	0	61	0	72	5	3	8	2	75	Stevens                                      	04 
+20-21	2805	31	ZUMBROTA-MAZEPPA SCHOOL DISTRICT   	50	CHRIST LUTHERAN SCHOOL             	7	5	10	5	5	5	6	3	4	0	0	0	0	36	7	50	0	2	2	0	25	Goodhue                                      	10 
+20-21	2835	31	JANESVILLE-WALDORF-PEMBERTON       	11	TRINITY LUTHERAN                   	16	11	11	12	14	10	10	7	16	0	0	0	0	68	23	107	13	10	23	0	81	Waseca                                       	09 
+20-21	2859	31	GLENCOE-SILVER LAKE SCHOOL DISTRICT	1	FIRST EV. LUTHERAN                 	14	15	13	20	9	9	12	6	4	0	0	0	0	78	10	102	15	3	18	0	43	McLeod                                       	06E
+20-21	2860	31	BLUE EARTH AREA PUBLIC SCHOOL      	1	Genesis Classical Academy          	9	8	9	8	8	8	7	3	6	5	0	0	0	48	14	71	22	5	27	0	22	Faribault                                    	09 
+20-21	2895	31	JACKSON COUNTY CENTRAL SCHOOL DIST.	1	IMMANUEL LUTHERAN                  	20	15	10	9	8	15	7	7	4	0	0	0	0	64	11	95	13	15	28	2	32	Jackson                                      	08 
+20-21	2897	31	REDWOOD AREA SCHOOL DISTRICT       	11	ST. JOHN'S LUTHERAN                	15	14	12	11	20	10	15	5	14	0	0	0	0	82	19	116	15	25	40	0	64	Redwood                                      	08 
+20-21	2899	31	PLAINVIEW-ELGIN-MILLVILLE          	1	IMMANUEL LUTHERAN                  	9	6	7	5	11	2	3	3	3	0	0	0	0	34	6	49	0	0	0	0	79	Wabasha                                      	10 
+20-21	2904	31	TRACY AREA PUBLIC SCHOOL DISTRICT  	10	ST. MARY'S SCHOOL                  	10	7	7	4	6	4	7	0	0	0	0	0	0	35	0	45	6	1	7	0	42	Lyon                                         	08 
+20-21	2905	31	TRI-CITY UNITED SCHOOL DISTRICT    	2	Most Holy Redeemer School          	6	5	7	9	6	8	10	8	8	0	0	0	0	45	16	67	19	5	24	6	40	Le Sueur                                     	09 
+20-21	2909	31	Rock Ridge Public Schools	11	Marquette	12	16	18	24	14	11	11	10	0	0	0	0	0	94	10	116	19	1	20	0	69	St. Louis                                    	03

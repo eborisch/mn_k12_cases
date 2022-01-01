@@ -49,6 +49,7 @@ for n,d in enumerate(CDATA):
         try:
             idx = IDS.index(row[0])
         except:
+            print("Can't find {}".format(row))
             pass
         offset = DATES.index(DATE_SETS[n][0])
         pop = POP[idx]

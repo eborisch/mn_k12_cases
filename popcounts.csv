@@ -555,7 +555,7 @@
 0253-01-002,Goodhue Public School District,Goodhue Secondary,Goodhue,338,8064
 0255-01-010,Pine Island Public School District,Pine Island Elementary,Olmsted,563,31
 0255-01-015,Pine Island Public School District,Pine Island Middle,Goodhue,475,480
-0255-01-020,Pine Island Public School District,Pine Island Secondary,Goodhue,401,7680
+0255-01-050,Pine Island Public School District,Pine Island High School,Goodhue,401,7680
 0256-01-108,Red Wing Public School District,Red Wing Senior High,Goodhue,1157,8064
 0256-01-109,Red Wing Public School District,Twin Bluff School,Goodhue,481,127
 0256-01-537,Red Wing Public School District,Burnside Elementary,Goodhue,369,127
@@ -2300,3 +2300,441 @@
 6979-61-040,Mid State Education District,WIN-High School,Morrison,15,7680
 6979-61-060,Mid State Education District,MSED Birth to 3,Morrison,12,1
 6979-61-070,Mid State Education District,WIN-Middle School,Morrison,10,448
+0001-33-009,Minneapolis Public School District,Delasalle High School,Hennepin,719,7680
+0001-33-011,Minneapolis Public School District,Annunciation,Hennepin,337,511
+0001-33-012,Minneapolis Public School District,Ascension Catholic School,Hennepin,298,511
+0001-33-013,Minneapolis Public School District,Blake School,Hennepin,541,7680
+0001-33-015,Minneapolis Public School District,Risen Christ,Hennepin,322,511
+0001-33-017,Minneapolis Public School District,Lake Country School,Hennepin,247,511
+0001-33-018,Minneapolis Public School District,Minnehaha Academy - Upper School,Hennepin,360,7680
+0001-33-036,Minneapolis Public School District,St. Helena Catholic School,Hennepin,120,511
+0001-33-042,Minneapolis Public School District,Trinity First Lutheran School,Hennepin,93,511
+0001-33-044,Minneapolis Public School District,Carondelet Catholic School,Hennepin,368,511
+0001-33-045,Minneapolis Public School District,St John Paul Ii Catholic Prep Sch,Hennepin,143,511
+0001-33-047,Minneapolis Public School District,Our Lady Of Peace,Hennepin,156,511
+0001-33-059,Minneapolis Public School District,Minnehaha Academy Mid&lower Schools,Hennepin,467,511
+0001-33-069,Minneapolis Public School District,City Of Lakes Waldorf School,Hennepin,219,511
+0001-33-894,Minneapolis Public School District,Hope Academy,Hennepin,544,8191
+0001-33-918,Minneapolis Public School District,Cristo Rey Jesuit High School,Hennepin,486,7680
+0001-33-935,Minneapolis Public School District,Gaia Democratic School,Hennepin,23,8185
+0001-33-936,Minneapolis Public School District,Iqra Islamic School,Hennepin,15,15
+0006-33-002,South St. Paul Public School Dist,Holy Trinity,Dakota,133,511
+0011-31-012,Anoka-hennepin Public School Dist.,Cross Of Christ Lutheran,Anoka,86,511
+0011-31-013,Anoka-hennepin Public School Dist.,Epiphany Catholic School,Anoka,278,511
+0011-31-014,Anoka-hennepin Public School Dist.,Legacy Christian Academy,Anoka,559,8191
+0011-31-016,Anoka-hennepin Public School Dist.,St. Stephen,Anoka,359,511
+0011-31-019,Anoka-hennepin Public School Dist.,Anoka Adventist Christian,Anoka,9,376
+0011-31-025,Anoka-hennepin Public School Dist.,Northside Christian (blaine Campus),Anoka,79,2559
+0011-31-031,Anoka-hennepin Public School Dist.,Montessori Renaissance Academy,Anoka,66,255
+0011-31-713,Anoka-hennepin Public School Dist.,The Way Of The Shepherd,Anoka,61,511
+0013-31-001,Columbia Heights Public School Dist,Immaculate Conception,Anoka,165,511
+0013-31-002,Columbia Heights Public School Dist,Little Voyageur's Montessori,Anoka,5,1
+0014-31-002,Fridley Public School District,Totino Grace High School,Anoka,682,7680
+0014-31-004,Fridley Public School District,Woodcrest Baptist Academy,Anoka,147,8191
+0014-31-006,Fridley Public School District,Al-amal School,Anoka,340,8191
+0015-31-001,St. Francis Area Schools,St. Francis Christian,Anoka,107,8191
+0015-31-002,St. Francis Area Schools,Trinity Lutheran,Anoka,61,511
+0015-31-003,St. Francis Area Schools,Crown Christian School,Isanti,80,255
+0015-31-004,St. Francis Area Schools,Immaculate Heart Of Mary Academy,Anoka,90,8191
+0016-31-001,Spring Lake Park Public Schools,Grace Lutheran,Anoka,22,511
+0016-31-004,Spring Lake Park Public Schools,Avail Academy (blaine K-8 Campus),Anoka,169,511
+0016-31-006,Spring Lake Park Public Schools,Avail Academy (fridley 9-12 Campus),Anoka,52,7680
+0022-31-702,Detroit Lakes Public School Dist.,Holy Rosary,Becker,119,511
+0022-31-703,Detroit Lakes Public School Dist.,Adventist Christian School,Becker,16,351
+0022-31-705,Detroit Lakes Public School Dist.,Faith Christian School,Becker,28,255
+0031-31-002,Bemidji Public School District,Heartland Christian Academy,Beltrami,81,8191
+0031-31-003,Bemidji Public School District,St. Philips,Beltrami,306,511
+0031-31-703,Bemidji Public School District,St. Mark's,Beltrami,25,511
+0038-31-001,Red Lake Public School District,St. Mary's Mission,Beltrami,115,511
+0047-31-020,Sauk Rapids-rice Public Schools,Petra Lutheran,Benton,21,255
+0047-31-024,Sauk Rapids-rice Public Schools,Montessori School Of Sauk Rapids,Benton,3,1
+0051-31-001,Foley Public School District,St. John,Benton,74,119
+0077-31-002,Mankato Public School District,Grace Christian,Blue Earth,38,7647
+0077-31-006,Mankato Public School District,Immanuel Lutheran,Blue Earth,141,8191
+0077-31-007,Mankato Public School District,Mount Olive Lutheran,Blue Earth,188,511
+0077-31-009,Mankato Public School District,Risen Savior Lutheran School,Blue Earth,79,511
+0077-31-013,Mankato Public School District,Concordia Classical Academy,Nicollet,33,511
+0077-31-017,Mankato Public School District,Loyola Catholic School,Blue Earth,422,8191
+0084-31-002,Sleepy Eye Public School District,St. Mary's High School,Brown,125,8064
+0084-31-004,Sleepy Eye Public School District,St. Mary's Elementary,Brown,131,127
+0084-31-060,Sleepy Eye Public School District,Grace Lutheran School,Brown,11,253
+0085-31-007,Springfield Public School District,St. Raphael,Brown,65,127
+0088-31-003,New Ulm Public School District,Minnesota Valley Lutheran,Nicollet,230,7680
+0088-31-006,New Ulm Public School District,St. Paul's Lutheran,Brown,272,511
+0088-31-007,New Ulm Public School District,New Ulm Area Catholic Schools Inc.,Brown,380,8191
+0094-31-003,Cloquet Public School District,Queen Of Peace,Carlton,59,511
+0108-31-001,Central Public School District,Emanuel Lutheran,Carver,64,511
+0108-31-003,Central Public School District,St. John's Lutheran,Carver,85,511
+0108-31-004,Central Public School District,Zion Lutheran,Carver,41,479
+0110-31-001,Waconia Public School District,St. Joseph,Carver,157,511
+0110-31-003,Waconia Public School District,Trinity Lutheran,Carver,135,511
+0111-31-004,Watertown-mayer Public School Dist,Christ Community,Carver,104,511
+0111-31-006,Watertown-mayer Public School Dist,Zion Lutheran,Carver,127,511
+0111-31-007,Watertown-mayer Public School Dist,Mayer Lutheran High School,Carver,171,7680
+0112-31-001,Eastern Carver County Public School,Guardian Angels School,Carver,64,511
+0112-31-002,Eastern Carver County Public School,Jonathan Montessori,Carver,11,1
+0112-31-003,Eastern Carver County Public School,St. Hubert Catholic School,Carver,538,511
+0112-31-004,Eastern Carver County Public School,St. John's Lutheran School,Carver,148,511
+0112-31-020,Eastern Carver County Public School,Chapel Hill Academy,Carver,310,511
+0112-31-021,Eastern Carver County Public School,Holy Family Catholic High School,Carver,456,7680
+0112-31-110,Eastern Carver County Public School,Step By Step Montessori Of Chaska,Carver,8,1
+0112-31-117,Eastern Carver County Public School,Southwest Christian High School,Carver,418,7680
+0112-31-119,Eastern Carver County Public School,Breakaway Academy,Carver,252,510
+0113-31-100,Walker-hackensack-akeley Schl. Dist,Immanuel Lutheran School,Cass,22,191
+0118-31-200,Northland Community Schools,Eagle Country Christian Academy,Cass,2,2048
+0138-31-027,North Branch Public Schools,Veritas Academy,Chisago,12,6551
+0152-31-001,Moorhead Public School District,Park Christian,Clay,395,8191
+0152-31-003,Moorhead Public School District,St. Joseph,Clay,195,511
+0162-31-002,Bagley Public School District,Fhl Academy,Clearwater,55,2047
+0173-31-001,Mountain Lake Public Schools,Mountain Lake Christian,Cottonwood,81,8191
+0173-31-002,Mountain Lake Public Schools,Neuhof School,Cottonwood,15,4698
+0181-31-030,Brainerd Public School District,Lake Region Christian,Crow Wing,225,8191
+0181-31-031,Brainerd Public School District,St. Francis Of Assisi,Crow Wing,168,511
+0181-31-032,Brainerd Public School District,Oak Street Christian School,Crow Wing,13,511
+0191-31-002,Burnsville Public School District,St. John The Baptist,Scott,306,511
+0191-31-003,Burnsville Public School District,Unity High School,Dakota,37,3584
+0191-31-010,Burnsville Public School District,Cyprus Classical Academy,Dakota,50,511
+0191-31-011,Burnsville Public School District,One School Global,Dakota,25,8184
+0194-31-001,Lakeville Public School District,All Saints School,Dakota,359,511
+0194-31-002,Lakeville Public School District,Southview Christian,Dakota,44,511
+0194-31-003,Lakeville Public School District,Glory Academy,Dakota,24,1663
+0194-31-004,Lakeville Public School District,Christian Heritage Academy,Dakota,170,511
+0196-31-001,Rosemount-apple Valley-eagan,Berea Lutheran,Dakota,29,511
+0196-31-002,Rosemount-apple Valley-eagan,First Baptist,Dakota,203,8191
+0196-31-003,Rosemount-apple Valley-eagan,Good Shepherd Lutheran,Dakota,107,511
+0196-31-004,Rosemount-apple Valley-eagan,Faithful Shepherd Catholic,Dakota,418,511
+0196-31-007,Rosemount-apple Valley-eagan,St. Joseph's Catholic,Dakota,212,511
+0196-31-011,Rosemount-apple Valley-eagan,Heritage Lutheran School,Dakota,10,1
+0196-31-015,Rosemount-apple Valley-eagan,Trinity School At River Ridge,Dakota,239,8128
+0197-31-002,West St. Paul-mendota Heights-eagan,Visitation School,Dakota,517,8191
+0197-31-003,West St. Paul-mendota Heights-eagan,Crown Of Life,Dakota,149,511
+0197-31-004,West St. Paul-mendota Heights-eagan,St. Croix Lutheran,Dakota,463,8160
+0197-31-007,West St. Paul-mendota Heights-eagan,St. Thomas Academy,Dakota,587,8128
+0197-31-009,West St. Paul-mendota Heights-eagan,St. Joseph,Dakota,334,511
+0197-31-011,West St. Paul-mendota Heights-eagan,Community Of Saints Regnl Catholic,Dakota,214,511
+0197-31-019,West St. Paul-mendota Heights-eagan,Brightmont Academy,Dakota,11,7488
+0200-31-001,Hastings Public School District,St. Elizabeth Ann Seton,Dakota,211,511
+0200-31-002,Hastings Public School District,St. John The Baptist,Dakota,63,31
+0200-31-006,Hastings Public School District,Pine Harbor Christian Academy,Washington,98,511
+0203-31-010,Hayfield Public School District,Haven School,Mower,14,6477
+0206-31-082,Alexandria Public School District,St. Mary's,Douglas,222,127
+0206-31-084,Alexandria Public School District,Zion Lutheran,Douglas,117,511
+0206-31-086,Alexandria Public School District,New Testament Christian,Douglas,47,8191
+0213-31-001,Osakis Public School District,St. Agnes School,Douglas,39,127
+0241-31-002,Albert Lea Public School District,Hollandale Christian,Freeborn,65,511
+0241-31-003,Albert Lea Public School District,St. Theodore's El.,Freeborn,51,63
+0252-31-010,Cannon Falls Public School District,St. Paul's Lutheran,Goodhue,24,495
+0253-31-010,Goodhue Public School District,St. John's Lutheran,Goodhue,36,511
+0256-31-022,Red Wing Public School District,St. John's Lutheran,Goodhue,37,511
+0256-31-200,Red Wing Public School District,Red Cottage Montessori School,Goodhue,31,63
+0270-31-001,Hopkins Public School District,Blake Lower School-hopkins Campus,Hennepin,232,63
+0270-31-002,Hopkins Public School District,Blake Middle School,Hennepin,322,448
+0270-31-003,Hopkins Public School District,Breck,Hennepin,1122,8191
+0270-31-004,Hopkins Public School District,Good Shepherd School,Hennepin,268,127
+0270-31-008,Hopkins Public School District,Minnetonka Christian Academy,Hennepin,54,1023
+0270-31-023,Hopkins Public School District,International School Of Minnesota,Hennepin,138,8191
+0270-31-815,Hopkins Public School District,Notre Dame Academy,Hennepin,212,511
+0270-31-816,Hopkins Public School District,Academy Of Whole Learning,Hennepin,71,8189
+0270-31-817,Hopkins Public School District,Chesterton Academy Twin Cities,Hennepin,143,7680
+0271-31-004,Bloomington Public School District,Nativity Of Mary,Hennepin,294,511
+0271-31-021,Bloomington Public School District,Bloomington Lutheran,Hennepin,207,511
+0271-31-031,Bloomington Public School District,Ramalynn Montessori Academy,Hennepin,85,511
+0271-31-702,Bloomington Public School District,Hand In Hand Christian Montessori,Hennepin,22,63
+0271-31-704,Bloomington Public School District,United Christian Academy,Hennepin,256,8191
+0272-31-025,Eden Prairie Public School District,Primrose School Of Eden Prairie,Hennepin,9,1
+0273-31-001,Edina Public School District,Avail Academy,Hennepin,188,511
+0273-31-003,Edina Public School District,Golden Years Montessori,Hennepin,38,1
+0273-31-007,Edina Public School District,Our Lady Of Grace,Hennepin,671,511
+0276-31-004,Minnetonka Public School District,St. John The Baptist Catholic Mntsr,Hennepin,48,383
+0276-31-006,Minnetonka Public School District,Our Savior Lutheran,Hennepin,12,1
+0276-31-008,Minnetonka Public School District,St. Therese,Hennepin,176,511
+0276-31-015,Minnetonka Public School District,Excelsior Covenant,Hennepin,20,1
+0277-31-003,Westonka Public School District,Our Lady Of The Lake,Hennepin,102,511
+0278-31-001,Orono Public School District,Holy Name Of Jesus,Hennepin,297,127
+0279-31-002,Osseo Public School District,St. Alphonsus,Hennepin,139,511
+0279-31-003,Osseo Public School District,St. John's Lutheran,Hennepin,153,511
+0279-31-004,Osseo Public School District,St. Vincent De Paul,Hennepin,446,511
+0279-31-006,Osseo Public School District,Sb Maranatha Christian Academy,Hennepin,688,8191
+0279-31-007,Osseo Public School District,Ave Maria Academy,Hennepin,174,511
+0279-31-066,Osseo Public School District,Heritage Christian Academy,Hennepin,386,8191
+0280-31-001,Richfield Public School District,Academy Of Holy Angels,Hennepin,631,7680
+0280-31-002,Richfield Public School District,Blessed Trinity-nicollet Campus,Hennepin,113,496
+0280-31-006,Richfield Public School District,Blessed Trinity-penn Campus,Hennepin,77,15
+0280-31-009,Richfield Public School District,Step By Step Montessori,Hennepin,9,1
+0281-31-001,Robbinsdale Public School District,St. Raphael Catholic School,Hennepin,115,511
+0281-31-061,Robbinsdale Public School District,King Of Grace Lutheran School,Hennepin,170,511
+0281-31-065,Robbinsdale Public School District,Sacred Heart School,Hennepin,161,511
+0281-31-067,Robbinsdale Public School District,Holy Trinity Lutheran School,Hennepin,72,511
+0281-31-068,Robbinsdale Public School District,Rivertree School,Hennepin,127,4095
+0282-31-001,St. Anthony-new Brighton Schools,St. Charles Borromeo,Hennepin,267,511
+0283-31-001,St. Louis Park Public School Dist.,Benilde - St. Margaret's,Hennepin,1183,8064
+0283-31-004,St. Louis Park Public School Dist.,Metropolitan Open School,Hennepin,5,466
+0283-31-008,St. Louis Park Public School Dist.,Torah Academy,Hennepin,226,511
+0283-31-014,St. Louis Park Public School Dist.,Groves Academy,Hennepin,251,8188
+0283-31-015,St. Louis Park Public School Dist.,Holy Family Academy,Hennepin,190,511
+0283-31-016,St. Louis Park Public School Dist.,Heilicher Minneapolis Jewish Day Sc,Hennepin,193,511
+0283-31-019,St. Louis Park Public School Dist.,Bais Yaakov High School,Hennepin,32,3584
+0283-31-023,St. Louis Park Public School Dist.,Yeshiva Of Minneapolis,Hennepin,73,7680
+0283-31-024,St. Louis Park Public School Dist.,Arete Academy,Hennepin,22,8144
+0284-31-001,Wayzata Public School District,Blake Lower School-highcroft Campus,Hennepin,214,63
+0284-31-002,Wayzata Public School District,Redeemer Christian Academy,Hennepin,115,511
+0284-31-003,Wayzata Public School District,St. Bartholomew,Hennepin,148,127
+0284-31-010,Wayzata Public School District,Providence Academy,Hennepin,776,8191
+0284-31-011,Wayzata Public School District,West Lutheran High School,Hennepin,144,7680
+0284-31-012,Wayzata Public School District,Fourth Baptist,Hennepin,255,8191
+0284-31-020,Wayzata Public School District,Children's Workshop Montessori,Hennepin,5,1
+0284-31-021,Wayzata Public School District,Brightmont Academy,Hennepin,20,8000
+0284-31-022,Wayzata Public School District,Excel High School,Hennepin,137,7680
+0284-31-023,Wayzata Public School District,Northgate Academy,Hennepin,45,7680
+0299-31-001,Caledonia Public School District,St. John's Lutheran School,Houston,55,511
+0299-31-015,Caledonia Public School District,St. Mary's Elementary,Houston,102,511
+0300-31-001,La Crescent-hokah School District,Crucifixion,Houston,98,127
+0300-31-002,La Crescent-hokah School District,St. Peter,Houston,33,255
+0318-31-003,Grand Rapids Public School District,St. Joseph's Catholic School,Itasca,164,127
+0318-31-004,Grand Rapids Public School District,Blackberry Seventh Day Adventist,Itasca,7,125
+0330-31-001,Heron Lake-okabena School District,St. John's Lutheran School,Jackson,13,463
+0347-31-001,Willmar Public School District,Community Christian,Kandiyohi,193,8191
+0361-31-021,International Falls School District,St. Thomas Aquinas,Koochiching,33,127
+0413-31-010,Marshall Public School District,Holy Redeemer,Lyon,227,511
+0413-31-011,Marshall Public School District,Samuel Lutheran,Lyon,57,511
+0413-31-020,Marshall Public School District,True Light Christian School,Lyon,87,511
+0413-31-021,Marshall Public School District,Hope Academy Of Hope Harbor,Lyon,5,6912
+0414-31-010,Minneota Public School District,St. Edward,Lyon,41,511
+0423-31-001,Hutchinson Public School District,Northwoods Elementary,Mcleod,56,511
+0423-31-002,Hutchinson Public School District,Immanuel Lutheran,Mcleod,39,511
+0423-31-003,Hutchinson Public School District,Maplewood Academy,Mcleod,72,7680
+0423-31-007,Hutchinson Public School District,St. Anastasia,Mcleod,54,127
+0432-31-001,Mahnomen Public School District,St. Michael,Mahnomen,42,127
+0458-31-001,Truman Public School District,St. Paul's Lutheran,Martin,45,511
+0465-31-001,Litchfield Public School District,St. Philip,Meeker,53,63
+0477-31-042,Princeton Public School District,Discovery Montessori Academy,Mille Lacs,42,47
+0482-31-002,Little Falls Public School District,Mary Of Lourdes Elem/middle School,Morrison,194,511
+0484-31-004,Pierz Public School District,Holy Trinity Catholic School,Morrison,128,127
+0492-31-006,Austin Public School District,Pacelli Catholic Schools,Mower,249,8191
+0500-31-001,Southland Public School District,Sacred Heart,Mower,109,511
+0507-31-001,Nicollet Public School District,Immanuel Lutheran,Nicollet,47,511
+0507-31-002,Nicollet Public School District,Trinity Evangelical Lutheran,Nicollet,24,495
+0508-31-001,St. Peter Public School District,John Ireland,Nicollet,61,127
+0508-31-002,St. Peter Public School District,St. Peter Evangelical Lutheran,Nicollet,71,511
+0518-31-022,Worthington Public School District,St. Mary's,Nobles,94,127
+0518-31-023,Worthington Public School District,Worthington Christian,Nobles,85,511
+0535-31-160,Rochester Public School District,Rochester Arts & Sciences Academy,Olmsted,79,63
+0535-31-162,Rochester Public School District,Rochester Central Lutheran,Olmsted,281,511
+0535-31-164,Rochester Public School District,St. Francis,Olmsted,315,511
+0535-31-166,Rochester Public School District,St. John,Olmsted,181,448
+0535-31-168,Rochester Public School District,St. Pius X,Olmsted,137,63
+0535-31-170,Rochester Public School District,Schaeffer Academy,Olmsted,248,8191
+0535-31-172,Rochester Public School District,Rochester Montessori,Olmsted,94,511
+0535-31-174,Rochester Public School District,Resurrection Lutheran,Olmsted,123,511
+0535-31-179,Rochester Public School District,Holy Spirit,Olmsted,135,63
+0535-31-205,Rochester Public School District,Victory Academy,Olmsted,16,6023
+0535-31-207,Rochester Public School District,Rochester Pentecostal,Olmsted,11,5067
+0535-31-208,Rochester Public School District,Rochester Adventist Elementary,Olmsted,9,7
+0535-31-209,Rochester Public School District,Primrose School Of Rochester,Olmsted,7,1
+0535-31-214,Rochester Public School District,Ambassador Academy,Olmsted,10,124
+0535-31-215,Rochester Public School District,Seeds Of Wisdom,Olmsted,9,855
+0535-31-345,Rochester Public School District,Lourdes,Olmsted,339,7680
+0544-31-001,Fergus Falls Public School District,Hillcrest Lutheran Academy,Otter Tail,160,8160
+0544-31-002,Fergus Falls Public School District,Our Lady Of Victory,Otter Tail,111,127
+0544-31-004,Fergus Falls Public School District,Morning Son Christian,Otter Tail,59,31
+0544-31-006,Fergus Falls Public School District,Twin Oaks Academy,Otter Tail,5,7168
+0549-31-001,Perham-dent Public School District,St. Henry,Otter Tail,108,127
+0549-31-002,Perham-dent Public School District,St. Paul's Lutheran,Otter Tail,81,127
+0564-31-001,Thief River Falls School District,St. Bernard,Pennington,62,63
+0564-31-003,Thief River Falls School District,St. Johns Lutheran School,Pennington,16,479
+0581-31-001,Edgerton Public School District,Southwest Mn Christian Elementary,Pipestone,263,511
+0581-31-002,Edgerton Public School District,Free Christian School,Pipestone,17,255
+0581-31-004,Edgerton Public School District,Southwest Mn Christian High School,Pipestone,121,7680
+0593-31-001,Crookston Public School District,Cathedral,Polk,56,63
+0593-31-002,Crookston Public School District,Our Savior's Lutheran,Polk,40,127
+0595-31-002,East Grand Forks Public School Dist,Sacred Heart School,Polk,409,8191
+0595-31-004,East Grand Forks Public School Dist,Riverside Christian,Polk,135,5119
+0621-31-082,Mounds View Public School District,St. John The Baptist,Ramsey,297,511
+0621-31-083,Mounds View Public School District,St. Odilia,Ramsey,518,511
+0621-31-085,Mounds View Public School District,Oak Hill Montessori,Ramsey,67,511
+0621-31-086,Mounds View Public School District,Harbon Montessori,Ramsey,17,63
+0622-31-050,North St. Paul-maplewood Oakdale,Capital City Adventist Christian,Ramsey,14,254
+0622-31-051,North St. Paul-maplewood Oakdale,Christ Lutheran,Ramsey,113,511
+0622-31-052,North St. Paul-maplewood Oakdale,Gethsemane Lutheran,Ramsey,127,511
+0622-31-063,North St. Paul-maplewood Oakdale,Mounds Park Academy,Ramsey,501,8191
+0622-31-064,North St. Paul-maplewood Oakdale,Hill-murray,Ramsey,892,8128
+0622-31-066,North St. Paul-maplewood Oakdale,Presentation Of Mary School,Ramsey,119,511
+0622-31-067,North St. Paul-maplewood Oakdale,Paidea Child Development Center,Washington,14,1
+0622-31-068,North St. Paul-maplewood Oakdale,Transfiguration,Ramsey,170,511
+0622-31-069,North St. Paul-maplewood Oakdale,St. Peter,Ramsey,185,511
+0622-31-070,North St. Paul-maplewood Oakdale,Apostolic Christian Academy,Washington,13,7018
+0623-31-001,Roseville Public School District,Concordia Academy,Ramsey,273,7680
+0623-31-004,Roseville Public School District,Kings Of Kings Lutheran,Ramsey,100,511
+0623-31-006,Roseville Public School District,Saint John School Of Little Canada,Ramsey,155,511
+0623-31-007,Roseville Public School District,St. Rose Of Lima,Ramsey,134,511
+0623-31-010,Roseville Public School District,North Heights Christian Academy,Ramsey,224,511
+0623-31-702,Roseville Public School District,Minnesota Waldorf,Ramsey,100,1023
+0623-31-705,Roseville Public School District,St. Jerome,Ramsey,157,511
+0623-31-712,Roseville Public School District,Hand In Hand Christian Montessori,Ramsey,72,8191
+0624-31-002,White Bear Lake School District,Frassati Catholic Academy,Ramsey,243,511
+0624-31-007,White Bear Lake School District,White Bear Montessori School,Ramsey,33,63
+0624-31-013,White Bear Lake School District,Magnuson Christian School,Ramsey,105,511
+0624-31-014,White Bear Lake School District,Liberty Classical Academy,Ramsey,248,8191
+0624-31-016,White Bear Lake School District,Gentry Academy,Ramsey,264,8160
+0624-31-021,White Bear Lake School District,Garden Of Hope Montessori,Ramsey,4,1
+0625-31-835,St. Paul Public School District,Cretin-derham Hall,Ramsey,938,7680
+0625-31-842,St. Paul Public School District,Highland Catholic,Ramsey,405,511
+0625-31-845,St. Paul Public School District,Holy Spirit School,Ramsey,260,511
+0625-31-848,St. Paul Public School District,Jean Lyle's Childrens Ctr.,Ramsey,3,1
+0625-31-850,St. Paul Public School District,Maternity Of Mary/st. Andrew,Ramsey,141,511
+0625-31-851,St. Paul Public School District,Nativity,Ramsey,681,511
+0625-31-861,St. Paul Public School District,St. Agnes,Ramsey,776,8191
+0625-31-868,St. Paul Public School District,St. Paul Academy - Summit (middle),Ramsey,242,448
+0625-31-872,St. Paul Public School District,St. Thomas More Catholic School,Ramsey,215,511
+0625-31-875,St. Paul Public School District,St. Pascal Regional Catholic School,Ramsey,105,511
+0625-31-877,St. Paul Public School District,St. Paul Academy - Summit (lower),Ramsey,259,63
+0625-31-878,St. Paul Public School District,St. Paul Academy - Summit (upper),Ramsey,426,7680
+0625-31-879,St. Paul Public School District,Talmud Torah,Ramsey,20,31
+0625-31-880,St. Paul Public School District,St. Peter Claver Catholic School,Ramsey,84,511
+0625-31-883,St. Paul Public School District,Children's Center Montessori Inc.,Ramsey,2,1
+0625-31-885,St. Paul Public School District,Sunny Hollow Montessori,Ramsey,91,511
+0625-31-921,St. Paul Public School District,Cathedral Hill Montessori School,Ramsey,8,1
+0625-31-948,St. Paul Public School District,Lubavitch Cheder Day School,Ramsey,46,511
+0625-31-957,St. Paul Public School District,Christ's Household Of Faith,Ramsey,143,8191
+0625-31-975,St. Paul Public School District,Friends School Of Minnesota,Ramsey,129,511
+0640-31-002,Wabasso Public School District,St. Anne,Redwood,88,127
+0640-31-003,Wabasso Public School District,Oneschool Global,Redwood,30,7528
+0656-31-001,Faribault Public School District,Bethlehem Academy,Rice,190,8064
+0656-31-002,Faribault Public School District,Shattuck-st. Mary's,Rice,399,8128
+0656-31-003,Faribault Public School District,Divine Mercy Catholic School,Rice,215,127
+0656-31-008,Faribault Public School District,Faribault Lutheran,Rice,118,511
+0659-31-012,Northfield Public School District,St. Dominic School,Rice,101,511
+0671-31-001,Hills-beaver Creek School District,Hills Christian,Rock,26,511
+0701-31-001,Hibbing Public School District,Assumption,St. Louis,122,127
+0701-31-003,Hibbing Public School District,Victory Christian Academy,St. Louis,96,8191
+0709-31-002,Duluth Public School District,Duluth Marshall School,St. Louis,356,8176
+0709-31-003,Duluth Public School District,Stella Maris Academy-holy Rosary Cp,St. Louis,173,31
+0709-31-004,Duluth Public School District,Lakeview Christian Academy,St. Louis,179,8191
+0709-31-007,Duluth Public School District,Stella Maris Academy-st. James Cp,St. Louis,143,511
+0709-31-009,Duluth Public School District,Stella Maris Academy-st. John's Cp,St. Louis,101,480
+0709-31-011,Duluth Public School District,Stone Ridge Christian,St. Louis,8,174
+0709-31-013,Duluth Public School District,Montessori School Of Duluth,St. Louis,19,95
+0709-31-014,Duluth Public School District,Many Rivers Montessori,St. Louis,111,511
+0709-31-015,Duluth Public School District,Spirit Of The Lake Community School,St. Louis,32,415
+0716-31-001,Belle Plaine Public School District,Our Lady Of The Prairie,Scott,37,127
+0716-31-002,Belle Plaine Public School District,Trinity Lutheran,Scott,41,255
+0717-31-001,Jordan Public School District,St. John The Baptist,Scott,76,127
+0719-31-001,Prior Lake-savage Area Schools,St. Michael's Catholic,Scott,270,511
+0719-31-002,Prior Lake-savage Area Schools,Prior Lake Christian,Scott,74,8191
+0719-31-003,Prior Lake-savage Area Schools,St. Paul's Lutheran,Scott,70,63
+0720-31-001,Shakopee Public School District,Shakopee Area Catholic School,Scott,509,511
+0720-31-002,Shakopee Public School District,Living Hope Lutheran School,Scott,85,31
+0721-31-001,New Prague Area Schools,St. Wenceslaus,Scott,175,511
+0721-31-002,New Prague Area Schools,Holy Cross Catholic School,Rice,105,511
+0726-31-001,Becker Public School District,Jubilee Christian School,Sherburne,50,6143
+0727-31-002,Big Lake Public School District,Heritage Montessori School,Sherburne,7,1
+0728-31-002,Elk River School District,St. Andrew's Catholic School,Sherburne,116,63
+0728-31-003,Elk River School District,St. John's Lutheran,Anoka,104,255
+0728-31-004,Elk River School District,Mary Queen Of Peace Catholic School,Hennepin,74,63
+0728-31-006,Elk River School District,Solid Rock Christian Academy,Sherburne,17,2399
+0740-31-001,Melrose Public School District,Sacred Heart,Stearns,106,127
+0740-31-002,Melrose Public School District,St. John - St. Andrew,Stearns,34,127
+0740-31-003,Melrose Public School District,St. Mary's Catholic School,Stearns,110,127
+0742-31-001,St. Cloud Public School District,Granite City Baptist Academy,Stearns,25,7871
+0742-31-003,St. Cloud Public School District,Cathedral,Stearns,581,8064
+0742-31-004,St. Cloud Public School District,St. Cloud Christian School,Benton,162,8191
+0742-31-007,St. Cloud Public School District,St. Katharine Drexel,Stearns,218,127
+0742-31-008,St. Cloud Public School District,St. John's Preparatory School,Stearns,248,8128
+0742-31-010,St. Cloud Public School District,All Saints Academy-st Joseph Campus,Stearns,95,63
+0742-31-011,St. Cloud Public School District,St. Mary Help Of Christians,Stearns,115,127
+0742-31-013,St. Cloud Public School District,All Saints Academy-st. Cloud Campus,Stearns,172,127
+0742-31-014,St. Cloud Public School District,St. Wendelin,Stearns,36,63
+0742-31-017,St. Cloud Public School District,St. Robert Bellarmine Academy,Stearns,78,8191
+0742-31-018,St. Cloud Public School District,Holy Innocents,Stearns,15,7413
+0742-31-019,St. Cloud Public School District,Children's Day Montessori,Stearns,3,1
+0742-31-020,St. Cloud Public School District,St. Elizabeth Ann Seton School,Stearns,97,127
+0742-31-021,St. Cloud Public School District,Northland Christian School,Sherburne,19,5791
+0742-31-022,St. Cloud Public School District,Prince Of Peace Lutheran School,Stearns,120,511
+0742-31-700,St. Cloud Public School District,Immaculate Conception,Stearns,20,4477
+0742-31-705,St. Cloud Public School District,Whole Child Montessori School,Stearns,6,1
+0742-31-706,St. Cloud Public School District,Calvary Classical Academy,Stearns,46,2046
+0742-31-707,St. Cloud Public School District,Lillian Leonard Primary,Stearns,8,15
+0743-31-001,Sauk Centre Public School District,Holy Family,Stearns,244,127
+0745-31-001,Albany Public School District,Holy Family,Stearns,86,127
+0748-31-001,Sartell-st. Stephen School District,St. Francis Xavier,Stearns,211,127
+0750-31-001,Rocori Public School District,Holy Cross,Stearns,25,31
+0750-31-002,Rocori Public School District,St. Boniface,Stearns,206,127
+0750-31-003,Rocori Public School District,Saints Peter & Paul,Stearns,69,63
+0761-31-001,Owatonna Public School District,St. Mary's School,Steele,273,511
+0761-31-002,Owatonna Public School District,Owatonna Christian,Steele,90,8191
+0761-31-006,Owatonna Public School District,Oak Hills Academy,Steele,5,7
+0787-31-001,Browerville Public School District,Christ The King Parochial,Todd,43,127
+0811-31-001,Wabasha-kellogg Public School Dist.,St. Felix Catholic School,Wabasha,72,127
+0813-31-001,Lake City Public School District,St. John's Lutheran,Wabasha,48,511
+0815-32-001,Prinsburg Public School District,Central Minnesota Christian School,Kandiyohi,308,8191
+0829-31-010,Waseca Public School District,Sacred Heart,Waseca,96,31
+0831-31-020,Forest Lake Public School District,St. Peter,Washington,249,511
+0833-31-001,South Washington County School Dist,New Life Academy,Washington,571,8191
+0833-31-002,South Washington County School Dist,Hope Christian Academy,Washington,39,7615
+0833-31-065,South Washington County School Dist,Saint Ambrose Woodbury Catholic,Washington,565,511
+0834-31-002,Stillwater Area Public School Dist.,St. Croix Catholic,Washington,233,511
+0834-31-003,Stillwater Area Public School Dist.,Salem Lutheran,Washington,106,511
+0834-31-004,Stillwater Area Public School Dist.,St. Croix Montessori School,Washington,45,63
+0834-31-009,Stillwater Area Public School Dist.,Chesterton Academy Of The St. Croix,Washington,41,7680
+0837-31-001,Madelia Public School District,St. Mary,Watonwan,47,127
+0840-31-002,St. James Public School District,St. Paul's Lutheran,Watonwan,30,511
+0846-31-001,Breckenridge Public School District,St. Mary,Wilkin,96,511
+0857-31-001,Lewiston-altura Public School Dist,Immanuel Lutheran,Winona,80,511
+0857-31-002,Lewiston-altura Public School Dist,St. John's Ev. Lutheran School,Winona,84,511
+0861-31-026,Winona Area Public School District,Hope Lutheran High School,Winona,26,7680
+0861-31-030,Winona Area Public School District,Winona Area Catholic,Winona,342,31
+0861-31-031,Winona Area Public School District,Cotter Schools (jr/sr),Winona,491,8160
+0861-31-034,Winona Area Public School District,St. John's Lutheran,Winona,53,511
+0861-31-035,Winona Area Public School District,St. Martin's Lutheran,Winona,89,511
+0861-31-037,Winona Area Public School District,St. Matthew's Lutheran,Winona,69,511
+0861-31-042,Winona Area Public School District,Anchor Academy,Winona,4,3584
+0877-31-001,Buffalo-hanover-montrose Public Sch,St. Francis Xavier,Wright,180,511
+0877-31-002,Buffalo-hanover-montrose Public Sch,Salem Lutheran,Hennepin,65,511
+0879-31-002,Delano Public School District,Mt. Olive Lutheran,Wright,31,511
+0879-31-003,Delano Public School District,St Maximilian Kolbe Catholic School,Wright,81,127
+0881-31-001,Maple Lake Public School District,St. Timothy's School,Wright,105,511
+0882-31-002,Monticello Public School District,Holy Spirit Academy,Wright,42,7680
+0885-31-001,St. Michael-albertville School Dist,St. Michael Catholic School,Wright,387,511
+0891-31-002,Canby Public School District,St. Peter's School,Yellow Medicine,66,127
+0911-31-003,Cambridge-isanti Public School Dist,Cambridge Christian School,Isanti,123,8191
+0911-31-004,Cambridge-isanti Public School Dist,St. Scholastica Hsc Academy,Isanti,41,7167
+0912-31-001,Milaca Public School District,Community Christian,Mille Lacs,70,511
+2125-31-001,Triton School District,Grace Lutheran,Dodge,6,3
+2125-31-003,Triton School District,Maranatha Sda School,Dodge,24,255
+2134-31-008,United South Central School Dist.,St. Casimir's School,Faribault,26,127
+2137-31-001,Kingsland Public School District,St. John's Lutheran,Fillmore,30,503
+2143-31-001,Waterville-elysian-morristown,Trinity Lutheran,Rice,8,87
+2144-31-010,Chisago Lakes School District,Chisago Lakes Baptist,Chisago,68,4095
+2149-31-001,Minnewaska School District,Lake Country Christian School,Pope,16,127
+2170-31-001,Staples-motley School District,Sacred Heart Area School,Todd,69,127
+2171-31-045,Kittson Central School District,Oneschool Team Us - Pembina Campus,Kittson,51,8120
+2174-31-002,Pine River-backus School District,Foothills Christian Academy,Cass,27,7935
+2310-31-011,Sibley East School District,St. Paul's Lutheran,Sibley,39,511
+2310-31-012,Sibley East School District,Immanuel Lutheran,Sibley,52,511
+2358-31-001,Tri-county School District,Heritage Christian,Kittson,25,7935
+2365-31-010,G.f.w.,Prairie Lutheran School,Sibley,70,511
+2365-31-030,G.f.w.,Starland School,Sibley,19,2935
+2396-31-001,A.c.g.c. Public School District,Riverview Christian School,Meeker,29,7166
+2397-31-001,Le Sueur-henderson School District,St. Anne's,Le Sueur,110,63
+2534-31-001,Bird Island-olivia-lake Lillian,St. Mary's,Renville,147,511
+2580-31-001,East Central School District,Harvest Christian School,Pine,43,7935
+2687-31-011,Howard Lake-waverly-winsted,St. James Lutheran,Wright,88,511
+2687-31-013,Howard Lake-waverly-winsted,Holy Trinity,Mcleod,123,8191
+2752-31-002,Fairmont Area School District,St. James Lutheran,Martin,42,511
+2752-31-003,Fairmont Area School District,St. John Vianney,Martin,80,127
+2752-31-004,Fairmont Area School District,St. Paul Lutheran,Martin,71,511
+2752-31-006,Fairmont Area School District,Martin Luther H.s.,Martin,51,7680
+2752-31-007,Fairmont Area School District,Fairmont Christian School,Martin,24,15
+2753-31-002,Long Prairie-grey Eagle School Dist,St. Mary Of Mt. Carmel,Todd,100,127
+2753-31-007,Long Prairie-grey Eagle School Dist,St. John Vianney Academy,Todd,48,511
+2769-31-001,Morris Area Public Schools,St. Mary Catholic School,Stevens,72,127
+2805-31-050,Zumbrota-mazeppa School District,Christ Lutheran School,Goodhue,50,511
+2835-31-011,Janesville-waldorf-pemberton,Trinity Lutheran,Waseca,107,511
+2859-31-001,Glencoe-silver Lake School District,First Ev. Lutheran,Mcleod,102,511
+2860-31-001,Blue Earth Area Public School,Genesis Classical Academy,Faribault,71,1023
+2895-31-001,Jackson County Central School Dist.,Immanuel Lutheran,Jackson,95,511
+2897-31-011,Redwood Area School District,St. John's Lutheran,Redwood,116,511
+2899-31-001,Plainview-elgin-millville,Immanuel Lutheran,Wabasha,49,511
+2904-31-010,Tracy Area Public School District,St. Mary's School,Lyon,45,127
+2905-31-002,Tri-city United School District,Most Holy Redeemer School,Le Sueur,67,511
+2909-31-011,Rock Ridge Public Schools,Marquette,St. Louis,116,255
