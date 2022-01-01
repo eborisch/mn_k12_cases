@@ -2,6 +2,7 @@
 
 import re
 import requests
+import sys
 
 import lxml.html as lh
 
@@ -12,7 +13,10 @@ def multisub(subitems, line):
         line = re.sub(m, r, line)
     return line
 
-url='https://www.health.state.mn.us/diseases/coronavirus/stats/#k121'
+if len(sys.argv) > 1:
+    url = sys.argv[1]
+else:
+    url='https://www.health.state.mn.us/diseases/coronavirus/stats/#k121'
 
 page = requests.get(url)
 doc = lh.fromstring(page.content)
@@ -23,7 +27,17 @@ header = ','.join(e.text_content() for e in tbl[0].iterchildren())
 header = multisub(((r",[0-9/]+-", ","), (r"\*", "")),
                   header)
 
-date = datetime.strptime(header.split(',')[-1], "%m/%d/%y")
+header = header.split(',')
+for n in range(len(header)):
+    try:
+        try:
+            date = datetime.strptime(header[n], "%m/%d/%y")
+        except:
+            date = datetime.strptime(header[n], "%m/%d/%Y")
+        header[n] = date.strftime('%m/%d/%y')
+    except:
+        pass
+header = ','.join(header)
 
 with open(date.strftime('cases_%Y%m%d.csv'), 'wt') as fout:
     print(header, file=fout)

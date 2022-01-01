@@ -14,18 +14,18 @@ Minneapolis Public School District,Hiawatha Elementary,Hennepin,220,7,0,0,0,0,0,
 Minneapolis Public School District,Howe Elementary,Hennepin,211,56,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Lake Nokomis Comm-Keewaydin Campus,Hennepin,469,504,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Kenny Elementary,Hennepin,412,63,0,5,5,5,5,5,5,5
-Minneapolis Public School District,Kenwood Elementary,Hennepin,354,63,0,5,5,5,5,5,5,5
+Minneapolis Public School District,Kenwood Elementary,Hennepin,354,63,0,0,0,0,5,5,5,5
 Minneapolis Public School District,Loring Elementary,Hennepin,389,63,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Lyndale Elementary,Hennepin,471,63,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Jenny Lind Elementary,Hennepin,326,63,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Northrop Elementary,Hennepin,447,63,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Pillsbury Elementary,Hennepin,252,63,0,0,0,0,0,10,10,10
-Minneapolis Public School District,Pratt Elementary,Hennepin,270,63,0,0,5,5,15,15,15,15
+Minneapolis Public School District,Pratt Elementary,Hennepin,270,63,0,20,25,25,25,25,25,25
 Minneapolis Public School District,Seward Elementary,Hennepin,793,511,0,0,5,5,5,5,5,5
 Minneapolis Public School District,Sheridan Elementary,Hennepin,263,63,0,0,5,5,5,5,5,5
 Minneapolis Public School District,Waite Park Elementary,Hennepin,355,63,0,0,0,0,0,5,5,5
 Minneapolis Public School District,Lake Nokomis Comm-Wenonah Campus,Hennepin,248,7,0,0,0,0,0,0,0,0
-Minneapolis Public School District,Windom School,Hennepin,509,63,0,5,5,5,5,5,5,5
+Minneapolis Public School District,Windom School,Hennepin,509,63,0,0,0,0,5,5,5,5
 Minneapolis Public School District,Folwell Arts Magnet,Hennepin,731,511,0,0,0,0,0,0,5,5
 Minneapolis Public School District,Jefferson Elementary,Hennepin,403,511,5,5,5,5,5,5,5,5
 Minneapolis Public School District,Dowling Elementary,Hennepin,462,63,0,5,5,5,5,5,5,5
@@ -54,7 +54,7 @@ Minneapolis Public School District,Franklin Middle School,Hennepin,326,448,0,0,0
 Minneapolis Public School District,FAIR Senior High,Hennepin,284,7680,0,0,0,0,0,0,0,0
 Minneapolis Public School District,MERC,Hennepin,57,7680,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Loring-Nicollet High,Hennepin,55,6144,0,0,0,0,0,0,0,0
-Minneapolis Public School District,Edison Senior High,Hennepin,938,7680,5,5,5,5,5,10,10,15
+Minneapolis Public School District,Edison Senior High,Hennepin,938,7680,5,10,10,10,10,15,15,20
 Minneapolis Public School District,Longfellow Alternative,Hennepin,74,7680,0,0,0,0,0,0,0,0
 Minneapolis Public School District,Henry Senior High,Hennepin,949,7680,0,0,0,0,0,5,5,5
 Minneapolis Public School District,Plymouth Youth Center,Hennepin,123,7168,0,0,0,0,0,0,0,0
@@ -81,11 +81,11 @@ South St. Paul Public School District,S St. Paul Community Lrng. Cntr.,Dakota,96
 South St. Paul Public School District,Lincoln Center Elementary,Dakota,738,63,0,10,15,15,20,25,30,30
 South St. Paul Public School District,Kaposia Education Center Elementary,Dakota,676,63,0,0,0,0,0,0,5,5
 Anoka-Hennepin Public School District,Anoka High School,Anoka,2272,7680,5,15,25,30,40,50,55,55
-Anoka-Hennepin Public School District,Coon Rapids High School,Anoka,2332,7680,5,10,10,15,25,35,40,40
-Anoka-Hennepin Public School District,Anoka Middle School For The Arts,Anoka,1750,448,0,10,20,25,35,40,40,40
+Anoka-Hennepin Public School District,Coon Rapids High School,Anoka,2332,7680,5,15,15,20,30,40,45,45
+Anoka-Hennepin Public School District,Anoka Middle School For The Arts,Anoka,1750,448,0,10,10,15,25,30,30,30
 Anoka-Hennepin Public School District,Coon Rapids Middle School,Anoka,1521,448,0,5,10,10,20,25,35,35
 Anoka-Hennepin Public School District,Jackson Middle,Hennepin,1947,448,10,20,20,25,35,45,45,45
-Anoka-Hennepin Public School District,Northdale Middle,Anoka,1335,448,5,15,20,20,25,30,30,30
+Anoka-Hennepin Public School District,Northdale Middle,Anoka,1335,448,5,25,30,30,35,40,40,40
 Anoka-Hennepin Public School District,Blaine High School,Anoka,2940,7680,5,15,35,40,45,45,50,50
 Anoka-Hennepin Public School District,Andover High School,Anoka,1679,7680,0,10,20,25,35,45,45,45
 Anoka-Hennepin Public School District,Anoka-Hennepin Regional High School,Anoka,148,7680,0,0,0,0,0,0,0,0
@@ -98,8 +98,8 @@ Anoka-Hennepin Public School District,Crooked Lake Elementary,Anoka,401,63,0,0,0
 Anoka-Hennepin Public School District,Franklin Elementary,Anoka,312,63,0,0,0,0,5,5,5,5
 Anoka-Hennepin Public School District,Hamilton Elementary,Anoka,383,63,0,0,0,0,5,5,5,5
 Anoka-Hennepin Public School District,Hoover Elementary - Biomedical Health Sciences and Engineering,Anoka,474,63,0,0,5,5,5,5,5,5
-Anoka-Hennepin Public School District,Jefferson Elementary,Anoka,537,63,0,0,10,10,10,10,15,15
-Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,63,0,5,5,5,10,10,10,10
+Anoka-Hennepin Public School District,Jefferson Elementary,Anoka,537,63,0,0,5,5,5,5,10,10
+Anoka-Hennepin Public School District,Johnsville Elementary,Anoka,582,63,0,10,20,20,25,25,25,25
 Anoka-Hennepin Public School District,Lincoln Elementary,Anoka,367,63,0,0,0,0,0,0,0,0
 Anoka-Hennepin Public School District,Madison Elementary,Anoka,393,63,0,0,0,0,5,5,5,5
 Anoka-Hennepin Public School District,McKinley Elementary,Anoka,569,63,0,0,0,5,10,20,20,20
@@ -113,7 +113,7 @@ Anoka-Hennepin Public School District,Evergreen Park Elementary,Hennepin,461,63,
 Anoka-Hennepin Public School District,Eisenhower Elementary,Anoka,469,63,0,5,5,5,5,5,5,5
 Anoka-Hennepin Public School District,Ramsey Elementary,Anoka,641,63,0,0,0,0,0,5,5,5
 Anoka-Hennepin Public School District,Dayton Elementary,Hennepin,511,63,5,15,15,15,15,20,20,20
-Anoka-Hennepin Public School District,Oxbow Creek Elementary,Hennepin,1062,63,5,5,10,10,20,30,30,30
+Anoka-Hennepin Public School District,Oxbow Creek Elementary,Hennepin,1062,63,5,15,20,20,30,40,40,40
 Anoka-Hennepin Public School District,Andover Elementary,Anoka,1138,63,5,15,20,25,35,45,50,50
 Anoka-Hennepin Public School District,Rum River Elementary,Anoka,736,63,0,0,0,5,5,5,5,5
 Anoka-Hennepin Public School District,Champlin/Brooklyn Park Academy for Math and Environmental Science,Hennepin,738,63,0,0,0,0,5,15,20,20
@@ -143,7 +143,7 @@ Fridley Public School District,Voluntary Prekindergarten School,Anoka,109,1,0,0,
 Fridley Public School District,Fridley Senior High,Anoka,916,7680,0,10,15,15,20,25,25,25
 Fridley Public School District,Fridley Middle,Anoka,826,480,0,10,20,25,30,35,40,40
 Fridley Public School District,Hayes Elementary,Anoka,479,31,0,0,0,0,0,0,0,0
-Fridley Public School District,Stevenson Elementary,Anoka,472,31,0,0,5,5,5,5,5,5
+Fridley Public School District,Stevenson Elementary,Anoka,472,31,0,5,10,10,10,10,10,10
 Fridley Public School District,Fridley Moore Lake Area Learning Center,Anoka,76,7680,0,0,0,0,0,0,0,0
 St. Francis Area Schools,Saints Online,Anoka,129,8128,0,0,0,0,0,0,0,0
 St. Francis Area Schools,Saints Academy,Anoka,175,8064,0,0,0,0,0,0,0,0
@@ -159,7 +159,7 @@ Spring Lake Park Public Schools,Westwood Intermediate and Middle School,Anoka,18
 Spring Lake Park Public Schools,Northpoint Elementary,Anoka,552,31,0,5,10,10,15,20,20,20
 Spring Lake Park Public Schools,Woodcrest Elementary Spanish Immersion,Anoka,534,31,0,0,0,0,0,0,0,0
 Spring Lake Park Public Schools,Park Terrace Elementary,Anoka,568,31,5,10,10,10,15,15,15,15
-Spring Lake Park Public Schools,Centerview Elementary,Anoka,639,31,0,0,0,0,0,5,10,10
+Spring Lake Park Public Schools,Centerview Elementary,Anoka,639,31,0,5,5,5,5,10,15,15
 Detroit Lakes Public School District,Detroit Lakes Senior High,Becker,898,7680,0,0,0,0,5,5,5,5
 Detroit Lakes Public School District,Detroit Lakes Middle,Becker,622,448,0,0,0,0,5,5,5,5
 Detroit Lakes Public School District,Rossman Elementary,Becker,570,63,0,0,0,5,5,5,5,5
@@ -192,13 +192,13 @@ Red Lake Public School District,Red Lake Secondary,Beltrami,320,7680,0,0,0,0,0,0
 Red Lake Public School District,RED LAKE ALTERNATIVE LEARNING,Beltrami,75,7680,0,0,0,0,0,0,0,0
 Red Lake Public School District,Red Lake Middle School,Beltrami,269,448,0,0,0,0,0,0,0,0
 Sauk Rapids-Rice Public Schools,Sauk Rapids-Rice Senior High,Benton,1423,7680,30,40,50,55,65,75,85,85
-Sauk Rapids-Rice Public Schools,Mississippi Heights Elementary,Benton,908,63,5,10,20,30,40,50,70,70
+Sauk Rapids-Rice Public Schools,Mississippi Heights Elementary,Benton,908,63,5,15,25,35,45,55,75,75
 Sauk Rapids-Rice Public Schools,Rice Elementary,Benton,383,63,5,5,5,5,15,25,30,30
 Sauk Rapids-Rice Public Schools,Pleasant View Elementary,Benton,702,63,5,25,35,35,45,50,50,50
 Sauk Rapids-Rice Public Schools,Sauk Rapids-Rice Middle School,Benton,1013,448,20,80,100,105,110,120,120,120
 Foley Public School District,Foley Elementary,Benton,606,15,0,0,0,0,5,10,10,10
 Foley Public School District,Foley Senior High,Benton,621,7680,0,0,0,0,5,10,15,15
-Foley Public School District,Foley Intermediate Elementary,Benton,718,496,0,0,0,5,10,10,10,10
+Foley Public School District,Foley Intermediate Elementary,Benton,718,496,0,5,5,10,15,15,15,15
 St. Clair Public School District,St. Clair Elementary,Blue Earth,346,127,0,0,5,5,10,15,15,15
 St. Clair Public School District,St. Clair Secondary,Blue Earth,363,8064,0,0,0,0,0,0,0,0
 Mankato Public School District,Kennedy Elementary,Blue Earth,390,63,0,0,0,0,0,5,5,5
@@ -219,11 +219,11 @@ Mankato Public School District,Prairie Winds Middle School,Blue Earth,1090,448,0
 Mankato Public School District,Central High Area Learning Center,Blue Earth,84,7168,0,0,0,0,0,0,0,0
 Comfrey Public School District,Comfrey Elementary,Brown,57,127,0,0,0,0,0,0,0,0
 Comfrey Public School District,Comfrey Secondary,Brown,79,8064,0,0,0,0,0,0,0,0
-Sleepy Eye Public School District,Sleepy Eye Elementary,Brown,323,127,0,5,10,10,10,10,10,10
+Sleepy Eye Public School District,Sleepy Eye Elementary,Brown,323,127,0,5,5,5,5,5,5,5
 Sleepy Eye Public School District,Sleepy Eye Sec.,Brown,253,8064,0,0,0,0,0,0,0,0
 Springfield Public School District,Springfield Secondary,Brown,271,8064,0,5,5,5,5,5,5,5
 Springfield Public School District,Springfield Elementary,Brown,298,127,0,0,0,0,0,0,0,0
-New Ulm Public School District,Jefferson Elementary,Brown,602,30,0,5,5,25,25,30,30,30
+New Ulm Public School District,Jefferson Elementary,Brown,602,30,0,0,0,20,20,25,25,25
 New Ulm Public School District,Washington Elementary,Brown,188,1,0,0,0,0,0,0,0,0
 New Ulm Public School District,NEW ULM MIDDLE SCHOOL,Brown,663,480,0,5,15,25,35,35,35,35
 New Ulm Public School District,New Ulm High School,Brown,646,7680,5,5,15,15,15,15,15,15
@@ -241,11 +241,11 @@ Cromwell-Wright Public Schools,Cromwell-Wright Elementary,Carlton,136,127,0,0,0,
 Cromwell-Wright Public Schools,Cromwell-Wright Secondary,Carlton,165,8064,0,0,0,5,5,5,5,5
 Moose Lake Public School District,Moose Lake Secondary,Carlton,270,8064,0,0,0,0,0,0,0,0
 Moose Lake Public School District,Moose Lake Elementary,Carlton,307,127,0,0,0,0,5,15,15,15
-Esko Public School District,Lincoln Secondary,Carlton,602,8064,0,0,0,0,0,5,10,10
+Esko Public School District,Lincoln Secondary,Carlton,602,8064,0,5,5,5,5,10,15,15
 Esko Public School District,Winterquist Elementary,Carlton,666,127,0,5,10,10,15,25,30,30
 Wrenshall Public School District,Wrenshall Elementary,Carlton,186,127,0,0,0,0,0,0,0,0
 Wrenshall Public School District,Wrenshall Secondary,Carlton,178,8064,0,0,0,0,0,0,0,0
-Central Public School District,Central Senior High,Carver,345,7680,0,0,0,0,0,0,0,0
+Central Public School District,Central Senior High,Carver,345,7680,0,5,5,5,5,5,5,5
 Central Public School District,Central Middle,Carver,214,448,0,0,0,0,0,0,0,0
 Central Public School District,Central Elementary,Carver,380,63,0,5,5,5,10,10,10,10
 Waconia Public School District,Southview Elementary,Carver,657,63,5,5,5,5,10,10,10,10
@@ -260,13 +260,13 @@ Watertown-Mayer Public School District,Watertown Mayer High,Carver,472,7680,0,10
 Eastern Carver County Public Schools,Chaska High School,Carver,1560,7680,0,0,5,5,15,25,30,30
 Eastern Carver County Public Schools,Chaska Middle School East,Carver,564,448,0,0,0,0,5,10,15,15
 Eastern Carver County Public Schools,Chaska Middle School West,Carver,779,448,5,5,15,20,30,35,40,40
-Eastern Carver County Public Schools,Pioneer Ridge Middle School,Carver,491,448,0,0,10,15,25,35,40,40
+Eastern Carver County Public Schools,Pioneer Ridge Middle School,Carver,491,448,0,5,15,20,30,40,45,45
 Eastern Carver County Public Schools,Chanhassen High School,Carver,1476,7680,5,5,5,10,15,20,20,20
 Eastern Carver County Public Schools,INTEGRATED ARTS ACADEMY,Carver,65,7680,0,0,0,0,0,0,0,0
 Eastern Carver County Public Schools,112 ALC Middle School,Carver,227,448,0,0,0,0,0,0,0,0
 Eastern Carver County Public Schools,La Academia,Carver,450,63,0,0,0,0,0,5,5,5
 Eastern Carver County Public Schools,Carver Elementary School,Carver,706,63,0,0,5,10,20,20,25,30
-Eastern Carver County Public Schools,Chanhassen Elementary,Carver,446,63,0,5,5,5,10,20,20,20
+Eastern Carver County Public Schools,Chanhassen Elementary,Carver,446,63,0,0,0,0,5,15,15,15
 Eastern Carver County Public Schools,East Union Elementary,Carver,112,63,0,0,0,0,5,10,15,15
 Eastern Carver County Public Schools,Early Childhood Special Education,Carver,131,1,0,0,0,0,0,0,0,0
 Eastern Carver County Public Schools,Bluff Creek Elementary,Carver,537,63,0,0,0,0,10,15,20,20
@@ -286,9 +286,9 @@ Northland Community Schools,Northland Elementary,Cass,194,127,0,0,0,0,0,0,0,0
 Northland Community Schools,Northland Secondary,Cass,131,8064,0,0,5,5,5,5,5,5
 Montevideo Public School District,Ramsey Elementary,Chippewa,284,14,0,0,0,0,0,0,5,5
 Montevideo Public School District,Sanford Education Center,Chippewa,150,1,0,0,0,0,0,0,0,0
-Montevideo Public School District,Montevideo Middle,Chippewa,435,240,5,5,5,5,5,5,5,5
+Montevideo Public School District,Montevideo Middle,Chippewa,435,240,5,10,10,10,10,10,10,10
 Montevideo Public School District,Montevideo Senior High,Chippewa,502,7936,0,0,10,10,10,10,10,10
-North Branch Public Schools,North Branch Middle,Chisago,452,448,0,10,15,15,15,15,15,15
+North Branch Public Schools,North Branch Middle,Chisago,452,448,0,20,25,25,25,25,25,25
 North Branch Public Schools,North Branch Senior High,Chisago,671,7680,5,15,20,20,20,20,20,20
 North Branch Public Schools,NORTH BRANCH AREA EDUCATION CENTER,Chisago,132,1,0,0,0,0,0,0,0,0
 North Branch Public Schools,Sunrise River Elementary,Chisago,730,62,0,10,15,20,25,25,30,30
@@ -305,10 +305,10 @@ Moorhead Public School District,Robert Asp Elementary,Clay,638,31,5,10,10,10,20,
 Moorhead Public School District,Ellen Hopkins Elementary,Clay,610,31,0,0,0,0,5,5,5,5
 Moorhead Public School District,S.G.Reinertsen Elementary,Clay,725,31,0,0,0,0,5,5,5,5
 Moorhead Public School District,Horizon Middle School,Clay,2189,480,10,20,40,50,60,80,90,95
-Moorhead Public School District,Moorhead High School,Clay,1890,7680,0,5,15,15,20,20,20,25
+Moorhead Public School District,Moorhead High School,Clay,1890,7680,0,5,5,5,10,10,10,15
 Moorhead Public School District,Red River Area Learning Center,Clay,99,7936,0,0,0,0,0,0,0,0
 Minnesota State Academies,MN Academy For The Deaf,Rice,97,8191,0,0,0,0,0,0,0,0
-Bagley Public School District,Bagley Elementary,Clearwater,514,127,10,30,35,35,35,35,35,35
+Bagley Public School District,Bagley Elementary,Clearwater,514,127,10,40,45,45,45,45,45,45
 Bagley Public School District,Bagley Secondary,Clearwater,420,8064,5,35,40,40,40,40,40,40
 Cook County Public Schools,Cook County Middle,Cook,98,448,0,0,0,0,0,0,0,0
 Cook County Public Schools,Cook County Senior High,Cook,166,7680,0,0,0,0,5,5,5,5
@@ -319,7 +319,7 @@ Windom Public School District,Windom Senior High,Cottonwood,319,7680,0,0,0,0,0,0
 Windom Public School District,Windom Middle,Cottonwood,242,448,0,0,0,0,0,0,0,0
 Windom Public School District,Windom Area Elementary,Cottonwood,529,63,0,0,0,0,5,10,10,10
 Brainerd Public School District,Brainerd Early Childhood Sp. Ed.,Crow Wing,186,1,0,0,0,0,0,0,0,0
-Brainerd Public School District,Baxter Elementary,Crow Wing,500,31,0,0,0,0,0,0,0,0
+Brainerd Public School District,Baxter Elementary,Crow Wing,500,31,0,5,5,5,5,5,5,5
 Brainerd Public School District,Garfield Elementary,Crow Wing,308,31,0,0,0,0,0,0,0,0
 Brainerd Public School District,Harrison Elementary,Crow Wing,232,31,0,0,0,5,5,5,5,5
 Brainerd Public School District,Lowell Elementary,Crow Wing,373,31,0,0,0,0,0,0,0,0
@@ -330,7 +330,7 @@ Brainerd Public School District,Lincoln Education Center,Crow Wing,66,8180,0,0,0
 Brainerd Public School District,ISD 181 Learning Center,Crow Wing,112,7680,0,0,0,0,0,0,0,0
 Brainerd Public School District,Forestview Middle,Crow Wing,1895,480,5,25,35,45,50,55,60,60
 Crosby-Ironton Public School District,Crosby-Ironton Secondary,Crow Wing,462,8064,0,0,0,0,0,0,0,0
-Crosby-Ironton Public School District,Cuyuna Range Elementary,Crow Wing,526,127,0,5,5,5,5,5,5,5
+Crosby-Ironton Public School District,Cuyuna Range Elementary,Crow Wing,526,127,0,10,10,10,10,10,10,10
 Pequot Lakes Public Schools,Eagle View Elementary,Crow Wing,570,31,10,20,20,20,20,20,20,20
 Pequot Lakes Public Schools,Pequot Lakes Middle,Crow Wing,551,480,5,10,10,10,10,10,10,10
 Pequot Lakes Public Schools,Pequot Lakes Senior High,Crow Wing,602,7680,20,30,30,30,30,30,30,30
@@ -349,7 +349,7 @@ Burnsville Public School District,Hidden Valley Elementary,Scott,491,63,0,0,0,0,
 Burnsville Public School District,Harriet Bishop Elementary,Scott,613,63,0,0,0,0,0,0,0,0
 Burnsville Public School District,Burnsville Alternative High School,Dakota,194,7168,0,0,0,0,0,0,0,0
 Farmington Public School District,Farmington Elementary,Dakota,600,63,0,0,0,0,10,20,20,20
-Farmington Public School District,Farmington High School,Dakota,2203,7680,5,15,15,15,20,20,20,20
+Farmington Public School District,Farmington High School,Dakota,2203,7680,5,15,20,20,25,25,25,25
 Farmington Public School District,Levi P. Dodge Middle School,Dakota,802,448,0,5,10,15,25,30,30,30
 Farmington Public School District,North Trail Elementary,Dakota,608,63,0,0,0,0,5,15,15,15
 Farmington Public School District,Robert Boeckman Middle School,Dakota,891,448,0,0,0,0,5,15,15,15
@@ -378,8 +378,8 @@ Rosemount-Apple Valley-Eagan,Transition Plus,Dakota,142,4096,0,0,0,0,0,0,0,0
 Rosemount-Apple Valley-Eagan,Dakota Hills Middle,Dakota,1241,448,0,0,0,0,5,10,10,10
 Rosemount-Apple Valley-Eagan,Black Hawk Middle,Dakota,853,448,0,0,0,0,0,5,5,5
 Rosemount-Apple Valley-Eagan,Rosemount Senior High,Dakota,2530,7680,0,0,0,0,0,0,5,10
-Rosemount-Apple Valley-Eagan,Rosemount Middle,Dakota,1263,448,0,10,10,10,15,25,30,30
-Rosemount-Apple Valley-Eagan,Eagan Senior High,Dakota,2132,7680,0,0,0,0,5,15,15,20
+Rosemount-Apple Valley-Eagan,Rosemount Middle,Dakota,1263,448,0,5,5,5,10,20,25,25
+Rosemount-Apple Valley-Eagan,Eagan Senior High,Dakota,2132,7680,0,5,5,5,10,20,20,25
 Rosemount-Apple Valley-Eagan,Rosemount Area Learning Center,Dakota,131,7168,0,0,0,0,0,0,0,0
 Rosemount-Apple Valley-Eagan,School of Environmental Studies,Dakota,339,6144,0,0,0,0,5,5,5,5
 Rosemount-Apple Valley-Eagan,Falcon Ridge Middle,Dakota,1048,448,0,0,0,0,5,5,10,10
@@ -392,13 +392,13 @@ Rosemount-Apple Valley-Eagan,Dakota Valley Learning Center,Dakota,454,1,0,0,0,0,
 Rosemount-Apple Valley-Eagan,Rosemount Elementary,Dakota,747,63,0,0,0,0,0,10,10,10
 Rosemount-Apple Valley-Eagan,Northview Elementary,Dakota,452,63,0,0,0,0,0,0,0,0
 Rosemount-Apple Valley-Eagan,Westview Elementary,Dakota,447,63,0,0,0,0,0,0,0,0
-Rosemount-Apple Valley-Eagan,Southview Elementary,Dakota,639,63,0,0,10,10,10,15,15,15
+Rosemount-Apple Valley-Eagan,Southview Elementary,Dakota,639,63,0,10,20,20,20,25,25,25
 Rosemount-Apple Valley-Eagan,Parkview Elementary,Dakota,785,63,0,5,5,15,20,20,25,25
 Rosemount-Apple Valley-Eagan,Diamond Path Elementary School of International Studies,Dakota,715,63,0,0,0,5,15,15,20,20
 Rosemount-Apple Valley-Eagan,Greenleaf Elementary,Dakota,785,63,0,0,0,0,5,5,5,5
 Rosemount-Apple Valley-Eagan,Cedar Park Elementary School of Science Technology Engineering and Math,Dakota,707,63,0,5,5,10,15,20,20,20
 Rosemount-Apple Valley-Eagan,Thomas Lake Elementary,Dakota,545,63,0,0,0,0,10,10,10,10
-Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership Engineering and Technology,Dakota,766,63,5,10,15,15,20,25,30,30
+Rosemount-Apple Valley-Eagan,Echo Park Elementary School of Leadership Engineering and Technology,Dakota,766,63,5,5,10,10,15,20,25,25
 Rosemount-Apple Valley-Eagan,Highland Elementary,Dakota,716,63,0,5,5,5,10,15,20,20
 Rosemount-Apple Valley-Eagan,Deerwood Elementary,Dakota,612,63,0,0,0,0,0,10,10,10
 Rosemount-Apple Valley-Eagan,Woodland Elementary,Dakota,699,63,10,20,25,25,25,35,40,40
@@ -444,8 +444,8 @@ Alexandria Public School District,Voyager Elementary,Douglas,427,63,5,5,5,5,10,2
 Alexandria Public School District,Early Education Center,Douglas,91,1,0,0,0,0,0,0,0,0
 Alexandria Public School District,Discovery Middle School,Douglas,986,448,0,10,15,20,30,40,45,45
 Alexandria Public School District,Alexandria Area High School,Douglas,1307,7680,5,15,20,30,40,50,50,50
-Osakis Public School District,Osakis Elementary,Douglas,410,127,5,5,5,5,10,15,15,15
-Osakis Public School District,Osakis Secondary,Douglas,427,8064,5,10,10,10,15,15,15,15
+Osakis Public School District,Osakis Elementary,Douglas,410,127,5,10,10,10,15,20,20,20
+Osakis Public School District,Osakis Secondary,Douglas,427,8064,5,10,10,10,10,10,10,10
 Chatfield Public Schools,Chatfield Secondary,Olmsted,420,8064,0,0,0,0,0,0,0,0
 Chatfield Public Schools,Chatfield Elementary School,Fillmore,437,127,0,0,0,0,0,5,5,5
 Lanesboro Public School District,Lanesboro Elementary,Fillmore,206,127,0,0,0,5,5,5,5,5
@@ -520,7 +520,7 @@ Eden Prairie Public School District,Eden Lake Elementary,Hennepin,542,127,0,5,5,
 Eden Prairie Public School District,Early Childhood Special Ed.,Hennepin,123,1,0,0,0,0,0,0,0,0
 Eden Prairie Public School District,Eagle Heights Spanish Immersion,Hennepin,801,127,5,10,20,20,25,25,30,30
 Eden Prairie Public School District,Cedar Ridge Elementary,Hennepin,439,127,0,0,0,0,0,0,0,0
-Edina Public School District,South View Middle,Hennepin,968,448,0,0,5,5,10,10,10,10
+Edina Public School District,South View Middle,Hennepin,968,448,0,0,5,5,5,5,5,5
 Edina Public School District,Valley View Middle,Hennepin,1010,448,0,0,0,0,0,5,5,5
 Edina Public School District,Edina Senior High,Hennepin,2683,7680,0,0,5,5,10,15,35,75
 Edina Public School District,Concord Elementary,Hennepin,698,63,0,10,10,10,15,20,20,20
@@ -530,7 +530,7 @@ Edina Public School District,Highlands Elementary,Hennepin,530,63,0,0,0,0,5,10,1
 Edina Public School District,Creek Valley Elementary,Hennepin,576,63,5,5,15,15,15,15,15,15
 Edina Public School District,Normandale Elementary,Hennepin,651,63,0,0,0,0,5,10,10,10
 Edina Public School District,Early Childhood Special Ed,Hennepin,95,1,0,0,0,0,0,0,0,0
-Minnetonka Public School District,Minnetonka Senior High,Hennepin,3444,7680,10,15,20,20,25,30,35,35
+Minnetonka Public School District,Minnetonka Senior High,Hennepin,3444,7680,10,20,25,25,30,35,40,40
 Minnetonka Public School District,Minnetonka East Middle,Hennepin,1315,448,0,0,5,5,15,20,20,20
 Minnetonka Public School District,Minnetonka West Middle,Carver,1245,448,0,0,5,5,25,35,40,40
 Minnetonka Public School District,Clear Springs Elementary,Hennepin,863,63,0,5,5,5,10,20,25,25
@@ -549,11 +549,11 @@ Orono Public School District,Orono Middle,Hennepin,698,448,0,5,5,10,10,10,10,10
 Orono Public School District,Schumann Elementary,Hennepin,567,7,0,0,0,0,5,15,15,15
 Orono Public School District,Orono Intermediate Elementary,Hennepin,609,56,0,5,10,10,10,10,10,10
 Osseo Public School District,Osseo Senior High,Hennepin,1602,7680,0,0,10,20,25,35,35,35
-Osseo Public School District,Brooklyn Middle School a Science Technology Engineering Art and Math School,Hennepin,718,448,0,0,0,0,5,10,10,10
-Osseo Public School District,Osseo Middle School,Hennepin,882,448,0,0,10,15,20,25,25,25
+Osseo Public School District,Brooklyn Middle School a Science Technology Engineering Art and Math School,Hennepin,718,448,0,5,5,5,10,15,15,15
+Osseo Public School District,Osseo Middle School,Hennepin,882,448,0,5,15,20,25,30,30,30
 Osseo Public School District,Osseo Education Center,Hennepin,68,4096,0,0,0,0,5,5,5,5
 Osseo Public School District,North View Middle School,Hennepin,406,448,0,0,0,0,0,0,0,0
-Osseo Public School District,Park Center IB World School,Hennepin,1374,7680,0,0,5,5,10,15,15,15
+Osseo Public School District,Park Center IB World School,Hennepin,1374,7680,0,0,0,0,5,10,10,10
 Osseo Public School District,Maple Grove Senior High,Hennepin,2077,7680,20,25,25,25,30,35,35,35
 Osseo Public School District,Maple Grove Middle School,Hennepin,1331,448,0,5,10,15,25,30,35,35
 Osseo Public School District,Woodland Elementary,Hennepin,456,63,0,0,0,0,0,5,5,5
@@ -583,7 +583,7 @@ Richfield Public School District,Richfield STEM School,Hennepin,636,63,0,0,0,5,5
 Richfield Public School District,Richfield Middle,Hennepin,920,448,0,0,5,5,5,10,10,10
 Richfield Public School District,Centennial Elementary,Hennepin,397,63,0,0,0,0,0,0,0,0
 Richfield Public School District,Central Education Center,Hennepin,83,1,0,0,0,0,0,0,0,0
-Richfield Public School District,Sheridan Hills Elementary,Hennepin,410,63,0,5,5,5,10,15,20,20
+Richfield Public School District,Sheridan Hills Elementary,Hennepin,410,63,0,10,10,10,15,20,25,25
 Richfield Public School District,Richfield Dual Language School,Hennepin,488,63,5,5,15,15,25,25,25,25
 Richfield Public School District,Richfield College Experience Program,Hennepin,62,7168,0,0,0,0,0,0,0,0
 Robbinsdale Public School District,Forest Elementary,Hennepin,535,63,0,0,0,0,0,0,0,0
@@ -611,8 +611,8 @@ St. Anthony-New Brighton Schools,Wilshire Park Elementary,Hennepin,656,63,0,0,0,
 St. Anthony-New Brighton Schools,St. Anthony Middle,Hennepin,422,448,0,0,0,0,0,0,0,0
 St. Louis Park Public School District,St. Louis Park Senior High,Hennepin,1467,7680,0,0,5,5,5,15,15,15
 St. Louis Park Public School District,St. Louis Park Middle School,Hennepin,1001,448,0,0,0,5,10,15,20,20
-St. Louis Park Public School District,Aquila Elementary,Hennepin,538,63,0,0,5,5,5,10,10,10
-St. Louis Park Public School District,Peter Hobart Elementary,Hennepin,493,63,5,5,5,10,10,15,15,15
+St. Louis Park Public School District,Aquila Elementary,Hennepin,538,63,0,5,10,10,10,15,15,15
+St. Louis Park Public School District,Peter Hobart Elementary,Hennepin,493,63,5,15,15,20,20,25,25,25
 St. Louis Park Public School District,Susan Lindgren Elementary,Hennepin,444,63,0,0,0,5,5,10,10,10
 St. Louis Park Public School District,St. Louis Park Special Ed. Program,Hennepin,103,7,0,0,0,0,0,0,0,0
 St. Louis Park Public School District,Park Spanish Immersion Elementary,Hennepin,518,63,0,0,0,0,0,0,0,0
@@ -622,7 +622,7 @@ Wayzata Public School District,Wayzata West Middle,Hennepin,720,448,0,0,0,0,0,0,
 Wayzata Public School District,Wayzata East Middle,Hennepin,651,448,0,0,0,0,0,0,5,5
 Wayzata Public School District,Wayzata Central Middle,Hennepin,1363,448,0,0,0,0,10,15,20,20
 Wayzata Public School District,North Woods Elementary School,Hennepin,600,63,0,0,5,10,15,20,25,25
-Wayzata Public School District,Meadow Ridge Elementary School,Hennepin,765,63,5,25,25,25,30,30,30,30
+Wayzata Public School District,Meadow Ridge Elementary School,Hennepin,765,63,5,10,10,10,15,15,15,15
 Wayzata Public School District,Birchview Elementary,Hennepin,413,63,0,0,0,0,0,0,0,0
 Wayzata Public School District,Greenwood Elementary,Hennepin,721,63,0,0,10,15,20,20,25,25
 Wayzata Public School District,Oakwood Elementary,Hennepin,458,63,0,0,0,0,0,0,0,0
@@ -676,8 +676,8 @@ Grand Rapids Public School District,Cohasset Elementary,Itasca,261,63,0,0,5,5,10
 Grand Rapids Public School District,Bigfork Elementary,Itasca,151,127,5,5,5,5,5,5,5,5
 Grand Rapids Public School District,East Rapids Elementary,Itasca,591,63,0,0,5,10,20,20,20,20
 Grand Rapids Public School District,West Rapids Elementary,Itasca,562,63,0,0,5,10,10,15,15,15
-Grand Rapids Public School District,Bigfork Secondary,Itasca,128,8064,10,15,15,15,15,15,15,15
-Grand Rapids Public School District,Grand Rapids Senior High,Itasca,1142,7680,0,10,15,20,40,45,50,50
+Grand Rapids Public School District,Bigfork Secondary,Itasca,128,8064,10,20,20,20,20,20,20,20
+Grand Rapids Public School District,Grand Rapids Senior High,Itasca,1142,7680,0,20,25,30,50,55,60,60
 Grand Rapids Public School District,GRAND RAPIDS AREA LEARNING CENTER,Itasca,106,7168,0,0,0,0,0,0,0,0
 Grand Rapids Public School District,Robert J. Elkington Middle School,Itasca,788,448,0,10,20,25,35,35,35,35
 Grand Rapids Public School District,Middle Area Learning Center,Itasca,101,448,0,0,0,0,0,0,0,0
@@ -689,7 +689,7 @@ Mora Public School District,Mora Elementary School,Kanabec,799,127,0,0,0,0,10,30
 Mora Public School District,Mora Secondary,Kanabec,712,8064,0,10,20,20,25,30,35,35
 Mora Public School District,MORA ALTERNATIVE LEARNING CENTER,Kanabec,53,7168,0,0,0,0,0,0,0,0
 Ogilvie Public School District,Ogilvie Elementary,Kanabec,216,63,0,0,0,0,5,10,10,10
-Ogilvie Public School District,Ogilvie Secondary,Kanabec,268,8128,0,0,5,5,10,10,10,10
+Ogilvie Public School District,Ogilvie Secondary,Kanabec,268,8128,0,0,0,0,5,5,5,5
 New London-Spicer School District,Prairie Woods Elementary,Kandiyohi,553,31,0,10,15,20,20,20,20,20
 New London-Spicer School District,New London-Spicer Middle,Kandiyohi,485,480,0,0,0,0,0,0,0,0
 New London-Spicer School District,New London-Spicer Sr.,Kandiyohi,448,7680,0,0,0,0,0,0,0,0
@@ -749,12 +749,12 @@ Grygla Public School District,Grygla Elementary,Marshall,72,127,0,0,0,0,0,0,0,0
 Grygla Public School District,Grygla Secondary,Marshall,73,8064,0,0,0,0,0,0,0,0
 Truman Public School District,Truman Elementary,Martin,149,127,0,5,5,5,5,5,5,5
 Truman Public School District,Truman Secondary,Martin,94,8064,0,0,0,0,0,0,0,0
-Eden Valley-Watkins School District,Eden Valley Elementary,Stearns,395,127,5,15,25,25,30,30,30,30
+Eden Valley-Watkins School District,Eden Valley Elementary,Stearns,395,127,5,10,10,10,15,15,15,15
 Eden Valley-Watkins School District,Eden Valley Secondary,Meeker,476,8064,5,15,20,20,20,25,25,25
 Eden Valley-Watkins School District,Watkins Elementary,Meeker,62,1,0,0,0,0,0,0,0,0
 Litchfield Public School District,Lake Ripley Elementary,Meeker,515,31,0,10,10,10,10,10,10,10
-Litchfield Public School District,Litchfield Middle School,Meeker,466,480,0,5,10,15,20,20,20,20
-Litchfield Public School District,Litchfield Senior High,Meeker,462,7680,0,0,5,5,5,5,5,5
+Litchfield Public School District,Litchfield Middle School,Meeker,466,480,0,10,15,20,25,25,25,25
+Litchfield Public School District,Litchfield Senior High,Meeker,462,7680,0,5,10,10,10,10,10,10
 Dassel-Cokato Public School Dist.,Cokato Elementary,Wright,380,31,0,5,5,5,5,5,5,5
 Dassel-Cokato Public School Dist.,Dassel-Cokato Senior High,Wright,574,7680,0,0,0,0,0,5,10,10
 Dassel-Cokato Public School Dist.,Dassel Elementary,Meeker,313,31,0,5,5,5,5,10,10,10
@@ -762,16 +762,16 @@ Dassel-Cokato Public School Dist.,Dassel-Cokato Middle,Wright,646,480,0,0,0,0,5,
 Dassel-Cokato Public School Dist.,Dassel-Cokato Alternative Ctr.,Wright,92,7168,0,0,0,0,0,0,0,0
 Isle Public School District,Isle Elementary,Mille Lacs,206,127,0,0,0,0,0,0,0,0
 Isle Public School District,Isle Secondary,Mille Lacs,189,8064,0,0,0,0,0,0,0,0
-Princeton Public School District,Princeton Primary School,Mille Lacs,656,7,0,5,10,15,20,30,30,30
-Princeton Public School District,Princeton Intermediate School,Mille Lacs,693,56,0,5,10,15,35,45,45,45
+Princeton Public School District,Princeton Primary School,Mille Lacs,656,7,0,10,15,20,25,35,35,35
+Princeton Public School District,Princeton Intermediate School,Mille Lacs,693,56,0,10,15,20,40,50,50,50
 Princeton Public School District,Princeton Middle School,Mille Lacs,745,448,10,15,15,15,35,45,45,45
-Princeton Public School District,Princeton High School,Mille Lacs,911,7680,0,0,5,15,35,40,40,40
+Princeton Public School District,Princeton High School,Mille Lacs,911,7680,0,5,10,20,40,45,45,45
 Princeton Public School District,Princeton Online MN,Mille Lacs,97,7680,0,0,0,0,0,0,0,0
 Princeton Public School District,Early Childhood Special Education,Mille Lacs,53,1,0,0,0,0,0,0,0,0
 Onamia Public School District,Onamia Primary School,Mille Lacs,116,7,0,0,0,0,0,0,0,0
 Onamia Public School District,Onamia High School,Mille Lacs,104,7168,0,0,0,0,0,0,0,0
 Onamia Public School District,Onamia Intermediate School,Mille Lacs,298,1016,0,0,0,0,0,0,0,0
-Little Falls Public School District,Lincoln Elementary,Morrison,405,63,0,0,5,10,15,15,15,15
+Little Falls Public School District,Lincoln Elementary,Morrison,405,63,0,0,0,5,10,10,10,10
 Little Falls Public School District,Lindbergh Elementary,Morrison,508,63,0,0,0,5,5,5,5,5
 Little Falls Public School District,Knight Elementary,Morrison,104,63,0,0,5,5,5,5,5,5
 Little Falls Public School District,Community Middle,Morrison,549,448,0,10,30,40,45,45,45,45
@@ -781,9 +781,9 @@ Pierz Public School District,Pioneer Elementary,Morrison,612,127,0,0,5,10,10,10,
 Pierz Public School District,Healy Secondary,Morrison,604,8064,0,5,5,5,5,5,5,5
 Royalton Public School District,Royalton Elementary,Morrison,394,63,0,10,10,10,10,10,10,10
 Royalton Public School District,Royalton High School,Morrison,300,7680,0,5,10,10,10,10,10,10
-Royalton Public School District,Royalton Middle School,Morrison,231,448,5,10,10,10,10,10,10,10
+Royalton Public School District,Royalton Middle School,Morrison,231,448,5,15,15,15,15,15,15,15
 Swanville Public School District,Swanville Elementary,Morrison,196,127,0,5,10,10,10,10,10,10
-Swanville Public School District,Swanville Secondary,Morrison,142,8064,5,5,5,5,5,5,5,5
+Swanville Public School District,Swanville Secondary,Morrison,142,8064,5,10,10,10,10,10,10,10
 Upsala Public School District,Upsala Elementary,Morrison,194,127,0,0,0,0,0,0,0,0
 Upsala Public School District,Upsala Secondary,Morrison,173,8064,0,0,5,5,5,5,5,5
 Austin Public School District,Banfield Elementary,Mower,435,30,0,10,10,10,10,10,10,10
@@ -797,7 +797,7 @@ Austin Public School District,Austin Area Learning Center,Mower,172,7552,0,0,0,0
 Austin Public School District,Austin Senior High,Mower,1308,7680,10,15,20,25,35,35,40,40
 Austin Public School District,I.J. Holton Intermediate School,Mower,769,96,5,10,15,15,20,20,25,25
 Austin Public School District,Ellis Middle,Mower,770,384,0,0,5,5,5,5,5,5
-Grand Meadow Public School District,Grand Meadow Elementary,Mower,176,31,0,5,5,5,5,5,5,5
+Grand Meadow Public School District,Grand Meadow Elementary,Mower,176,31,0,10,10,10,10,10,10,10
 Grand Meadow Public School District,Grand Meadow Middle,Mower,143,480,0,5,10,10,10,10,10,10
 Grand Meadow Public School District,Grand Meadow Senior High,Mower,126,7680,5,10,15,15,15,15,15,15
 Lyle Public School District,Lyle Elementary,Mower,145,63,0,0,0,0,0,0,0,0
@@ -830,7 +830,7 @@ Worthington Public School District,Worthington 518 (Virtual Instruction By Excel
 Byron Public School District,Byron Intermediate School,Olmsted,497,56,0,0,0,0,5,10,10,10
 Byron Public School District,Byron Senior High School,Olmsted,681,7680,0,0,0,0,5,5,10,10
 Byron Public School District,Byron Middle School,Olmsted,513,448,0,0,0,0,0,5,5,5
-Byron Public School District,Byron Primary School,Olmsted,573,7,0,0,0,0,0,5,5,5
+Byron Public School District,Byron Primary School,Olmsted,573,7,0,5,5,5,5,10,10,10
 Dover-Eyota Public School District,Dover-Eyota Elementary,Olmsted,487,63,0,0,5,5,5,5,5,5
 Dover-Eyota Public School District,Dover-Eyota Middle School,Olmsted,249,448,0,0,0,0,0,0,0,0
 Dover-Eyota Public School District,Dover-Eyota High School,Olmsted,349,7680,0,0,0,0,0,0,0,0
@@ -852,9 +852,9 @@ Rochester Public School District,Jefferson Elementary,Olmsted,579,63,0,5,5,5,10,
 Rochester Public School District,Lincoln K-8 Choice Elementary,Olmsted,466,511,0,0,0,0,5,10,10,10
 Rochester Public School District,Longfellow Choice Elementary,Olmsted,303,63,0,5,5,5,5,10,10,10
 Rochester Public School District,Pinewood Elementary,Olmsted,361,63,0,0,0,0,0,5,5,5
-Rochester Public School District,Riverside Central Elementary,Olmsted,409,63,0,0,5,5,5,10,10,10
+Rochester Public School District,Riverside Central Elementary,Olmsted,409,63,0,0,0,0,0,5,5,5
 Rochester Public School District,Sunset Terrace Elementary,Olmsted,650,63,5,5,5,5,5,5,5,5
-Rochester Public School District,Washington Elementary,Olmsted,326,63,0,0,0,0,0,0,0,0
+Rochester Public School District,Washington Elementary,Olmsted,326,63,0,5,5,5,5,5,5,5
 Rochester Public School District,Early Childhood Intervention,Olmsted,121,1,0,0,0,0,0,0,0,0
 Rochester Public School District,Mighty Oaks Early Learning School,Olmsted,60,1,0,0,0,0,0,0,0,0
 Rochester Public School District,Hoover Early Learning School,Olmsted,143,1,0,0,0,0,0,0,0,0
@@ -875,7 +875,7 @@ Fergus Falls Public School District,Cleveland Elementary,Otter Tail,359,28,0,0,5
 Fergus Falls Public School District,McKinley Elementary,Otter Tail,231,3,0,0,0,0,0,0,0,0
 Fergus Falls Public School District,iQ Academy Minnesota,Otter Tail,759,8191,0,0,0,0,0,0,0,0
 Fergus Falls Public School District,Fergus Falls Area Learning Center,Otter Tail,106,8128,0,0,0,0,10,10,10,10
-Fergus Falls Public School District,Kennedy Middle School,Otter Tail,752,480,0,0,5,5,15,15,15,15
+Fergus Falls Public School District,Kennedy Middle School,Otter Tail,752,480,0,0,10,10,20,20,20,20
 Fergus Falls Public School District,Kennedy High School,Otter Tail,638,7680,0,0,5,10,20,20,20,20
 Henning Public School District,Henning Elementary,Otter Tail,213,127,0,0,0,0,5,5,5,5
 Henning Public School District,Henning Secondary,Otter Tail,155,8064,0,0,0,0,0,0,0,0
@@ -884,13 +884,13 @@ Parkers Prairie Public School Dist.,Parkers Prairie Secondary,Otter Tail,287,806
 Pelican Rapids Public School Dist.,Viking Elementary School,Otter Tail,485,127,5,5,5,5,5,5,5,5
 Pelican Rapids Public School Dist.,Pelican Rapids Secondary,Otter Tail,415,8064,0,0,0,0,0,0,0,0
 Perham-Dent Public School District,Heart of The Lake Elementary,Otter Tail,529,31,5,10,15,15,15,15,15,15
-Perham-Dent Public School District,Prairie Wind Middle,Otter Tail,480,480,0,0,0,0,5,5,5,5
+Perham-Dent Public School District,Prairie Wind Middle,Otter Tail,480,480,0,0,5,5,10,10,10,10
 Perham-Dent Public School District,Perham Senior High,Otter Tail,431,7680,0,10,15,15,15,15,15,15
 Perham-Dent Public School District,Perham Area Learning Center,Otter Tail,58,7552,0,0,0,0,0,0,0,0
 Underwood Public School District,Underwood Elementary,Otter Tail,290,127,0,5,5,10,10,10,10,10
 Underwood Public School District,Underwood Secondary,Otter Tail,273,8064,0,0,0,0,0,5,5,5
 New York Mills Public School Dist.,New York Mills Elementary,Otter Tail,399,127,0,5,5,5,10,10,10,10
-New York Mills Public School Dist.,New York Mills Secondary,Otter Tail,340,8064,0,5,5,5,5,5,5,5
+New York Mills Public School Dist.,New York Mills Secondary,Otter Tail,340,8064,0,5,10,10,10,10,10,10
 Goodridge Public School District,Goodridge Elementary,Pennington,160,127,0,0,0,0,0,0,0,0
 Goodridge Public School District,Goodridge Secondary,Pennington,95,8064,0,0,0,0,0,0,0,0
 Thief River Falls School District,Challenger Elementary,Pennington,831,63,0,0,0,0,5,10,10,10
@@ -906,12 +906,12 @@ Climax-Shelly Public Schools,Climax Elementary,Polk,105,127,0,0,0,0,0,0,0,0
 Climax-Shelly Public Schools,Climax Secondary,Polk,94,8064,0,0,0,0,0,0,0,0
 Crookston Public School District,Washington Elementary,Polk,115,1,0,0,0,0,0,0,0,0
 Crookston Public School District,Highland Elementary,Polk,469,126,5,5,5,5,5,5,5,5
-Crookston Public School District,Crookston Secondary,Polk,558,8064,0,5,5,10,10,10,10,10
+Crookston Public School District,Crookston Secondary,Polk,558,8064,0,10,10,15,15,15,15,15
 East Grand Forks Public School Dist,South Point Elementary,Polk,450,56,0,0,0,0,10,15,15,15
 East Grand Forks Public School Dist,New Heights Elementary,Polk,499,7,0,0,0,0,5,10,10,10
 East Grand Forks Public School Dist,Central Middle,Polk,471,448,0,0,0,0,0,0,0,0
 East Grand Forks Public School Dist,East Grand Forks Senior High,Polk,562,7680,0,0,0,0,0,0,0,0
-Fertile-Beltrami School District,Fertile-Beltrami Elementary,Polk,221,127,0,0,5,5,5,5,5,5
+Fertile-Beltrami School District,Fertile-Beltrami Elementary,Polk,221,127,0,5,10,10,10,10,10,10
 Fertile-Beltrami School District,Fertile-Beltrami Secondary,Polk,233,8064,0,0,5,5,5,5,5,5
 Fisher Public School District,Fisher Elementary,Polk,115,127,0,0,0,0,0,0,0,0
 Fisher Public School District,Fisher Secondary,Polk,113,8064,0,0,0,0,0,0,0,0
@@ -920,7 +920,7 @@ Fosston Public School District,Fosston Secondary,Polk,301,8064,0,10,10,10,10,10,
 Mounds View Public School District,Pike Lake Kindergarten Center,Ramsey,557,1,0,0,0,0,0,0,0,0
 Mounds View Public School District,Snail Lake Kindergarten Center,Ramsey,321,1,0,0,0,0,0,0,0,0
 Mounds View Public School District,Bel Air Elementary,Ramsey,732,62,0,0,5,10,15,15,20,20
-Mounds View Public School District,Island Lake Elementary,Ramsey,722,62,0,0,5,5,10,15,20,20
+Mounds View Public School District,Island Lake Elementary,Ramsey,722,62,0,5,5,5,10,15,20,20
 Mounds View Public School District,Pinewood Elementary,Ramsey,522,62,0,0,0,10,15,15,15,15
 Mounds View Public School District,Sunnyside Elementary,Ramsey,522,62,0,0,0,0,0,0,0,0
 Mounds View Public School District,Turtle Lake Elementary,Ramsey,1009,62,0,5,10,10,10,20,25,25
@@ -931,7 +931,7 @@ Mounds View Public School District,Mounds View Senior High,Ramsey,1886,7680,0,5,
 Mounds View Public School District,Irondale Senior High,Ramsey,1780,7680,0,5,5,5,10,15,15,15
 Mounds View Public School District,Edgewood Middle School,Ramsey,678,448,0,0,0,0,5,5,5,5
 Mounds View Public School District,Highview Middle School,Ramsey,872,448,0,0,0,0,0,10,15,15
-Mounds View Public School District,Chippewa Middle School,Ramsey,1114,448,0,0,5,5,5,15,15,15
+Mounds View Public School District,Chippewa Middle School,Ramsey,1114,448,0,5,10,10,10,20,20,20
 Mounds View Public School District,Birth To Two ECSE,Ramsey,69,1,0,0,0,0,0,0,0,0
 North St. Paul-Maplewood Oakdale Public School District,Carver Elementary,Ramsey,526,63,0,0,0,0,5,5,5,5
 North St. Paul-Maplewood Oakdale Public School District,Castle Elementary,Washington,448,63,0,0,0,0,0,0,0,0
@@ -950,7 +950,7 @@ North St. Paul-Maplewood Oakdale Public School District,John Glenn Middle,Ramsey
 North St. Paul-Maplewood Oakdale Public School District,Maplewood Middle School,Ramsey,683,448,0,0,0,0,0,0,0,0
 North St. Paul-Maplewood Oakdale Public School District,North Senior High,Ramsey,1653,7680,5,10,15,15,20,20,20,20
 North St. Paul-Maplewood Oakdale Public School District,Tartan Senior High,Washington,1679,7680,0,5,5,5,10,20,25,25
-Roseville Public School District,Roseville Area Senior High,Ramsey,2343,7680,10,10,10,10,15,20,20,20
+Roseville Public School District,Roseville Area Senior High,Ramsey,2343,7680,10,10,15,15,20,25,25,25
 Roseville Public School District,Roseville Area Middle,Ramsey,887,384,0,0,0,0,0,0,0,0
 Roseville Public School District,Parkview Center School,Ramsey,762,511,0,0,0,5,15,25,25,25
 Roseville Public School District,Harambee Elementary School,Ramsey,348,127,0,0,0,0,0,0,5,5
@@ -958,7 +958,7 @@ Roseville Public School District,Fairview Alternative High School,Ramsey,80,6144
 Roseville Public School District,Brimhall Elementary,Ramsey,584,127,0,0,0,5,5,5,5,5
 Roseville Public School District,Central Park Elementary,Ramsey,402,127,0,0,0,0,0,5,5,5
 Roseville Public School District,Edgerton Elementary,Ramsey,455,127,0,0,0,0,0,0,0,0
-Roseville Public School District,Falcon Heights Elementary,Ramsey,496,127,0,5,5,5,5,5,5,5
+Roseville Public School District,Falcon Heights Elementary,Ramsey,496,127,0,10,10,10,10,10,10,10
 Roseville Public School District,Little Canada Elementary,Ramsey,573,127,0,0,0,0,0,5,5,5
 Roseville Public School District,Williams Elementary,Ramsey,409,127,0,0,10,10,10,15,15,15
 Roseville Public School District,Fairview Program,Ramsey,109,1,0,0,0,0,0,0,0,0
@@ -981,7 +981,7 @@ White Bear Lake School District,White Bear Area Learning Center,Ramsey,112,7168,
 St. Paul Public School District,Central Senior High,Ramsey,1851,7680,0,0,5,5,5,15,20,25
 St. Paul Public School District,Creative Arts Secondary School,Ramsey,446,8128,0,0,0,0,10,10,20,20
 St. Paul Public School District,Como Park Senior High,Ramsey,1163,7680,0,0,0,0,5,5,10,10
-St. Paul Public School District,Harding Senior High,Ramsey,1900,7680,0,0,0,0,10,10,10,10
+St. Paul Public School District,Harding Senior High,Ramsey,1900,7680,0,5,5,5,15,15,15,15
 St. Paul Public School District,Highland Park Senior High,Ramsey,1381,7680,0,0,0,0,5,15,20,20
 St. Paul Public School District,HUMBOLDT HIGH SCHOOL,Ramsey,1103,8128,0,0,5,5,5,10,10,10
 St. Paul Public School District,Johnson Senior High,Ramsey,1243,7680,0,0,0,0,0,0,5,5
@@ -992,7 +992,7 @@ St. Paul Public School District,Farnsworth Aerospace Upper,Ramsey,599,480,0,0,0,
 St. Paul Public School District,Highland Park Middle School,Ramsey,830,448,0,0,0,0,0,5,5,5
 St. Paul Public School District,Murray Middle School,Ramsey,692,448,0,0,0,0,5,10,10,10
 St. Paul Public School District,Parkway Montessori/Community Middle,Ramsey,290,448,0,0,0,0,0,0,0,0
-St. Paul Public School District,Ramsey Middle School,Ramsey,586,448,0,0,0,0,0,0,0,0
+St. Paul Public School District,Ramsey Middle School,Ramsey,586,448,0,5,5,5,5,5,5,5
 St. Paul Public School District,E-STEM Middle School,Washington,366,192,0,0,0,0,0,5,5,5
 St. Paul Public School District,Adams Magnet Elementary,Ramsey,493,63,0,0,0,0,0,5,5,5
 St. Paul Public School District,John A. Johnson Achievement Plus El,Ramsey,302,63,0,0,0,0,0,0,0,0
@@ -1001,7 +1001,7 @@ St. Paul Public School District,Benjamin E Mays Magnet,Ramsey,358,63,0,0,0,0,0,0
 St. Paul Public School District,Chelsea Heights Elementary,Ramsey,378,63,0,0,0,0,0,0,0,0
 St. Paul Public School District,Cherokee Heights Elementary School,Ramsey,169,63,0,0,0,0,0,0,0,0
 St. Paul Public School District,Bridge View Special Education,Ramsey,123,8191,0,0,0,0,0,0,0,0
-St. Paul Public School District,Como Park Elementary,Ramsey,377,63,0,0,5,5,5,5,5,5
+St. Paul Public School District,Como Park Elementary,Ramsey,377,63,0,0,0,0,5,5,5,5
 St. Paul Public School District,Daytons Bluff Elementary,Ramsey,282,63,0,0,0,5,5,5,5,5
 St. Paul Public School District,EXPO for Excellence Elementary School,Ramsey,549,63,0,0,0,0,5,15,15,15
 St. Paul Public School District,Bruce F Vento Elementary,Ramsey,444,63,0,0,0,0,0,5,5,5
@@ -1036,7 +1036,7 @@ St. Paul Public School District,Randolph Heights Elementary,Ramsey,443,63,0,0,5,
 St. Paul Public School District,Riverview West School of Excellence,Ramsey,394,63,0,0,0,0,0,0,0,0
 St. Paul Public School District,Paul & Sheila Wellstone Elementary,Ramsey,515,63,0,0,0,0,0,0,0,0
 St. Paul Public School District,St. Anthony Park Elementary,Ramsey,536,63,0,5,5,5,10,10,10,10
-St. Paul Public School District,Saint Paul Music Academy,Ramsey,565,63,0,0,0,0,0,0,0,0
+St. Paul Public School District,Saint Paul Music Academy,Ramsey,565,63,0,0,5,10,10,10,10,10
 St. Paul Public School District,Obama Service Learning Elementary,Ramsey,319,63,0,0,0,0,5,5,5,5
 St. Paul Public School District,American Indian Magnet School,Ramsey,624,511,0,0,5,5,5,5,5,5
 St. Paul Public School District,Focus Beyond,Ramsey,258,4096,0,0,0,0,0,0,0,0
@@ -1047,7 +1047,7 @@ St. Paul Public School District,Gordon Parks High School,Ramsey,113,6144,0,0,0,0
 St. Paul Public School District,ALC Gateway to College,Ramsey,170,7168,0,0,0,0,0,0,0,0
 St. Paul Public School District,LEAP High School,Ramsey,133,7680,0,0,0,0,0,0,0,0
 St. Paul Public School District,Guadalupe Alternative Programs,Ramsey,63,7680,0,0,0,0,0,0,0,0
-Red Lake Falls Public School Dist.,J.A. Hughes Elementary,Red Lake,222,127,0,0,0,0,5,5,5,5
+Red Lake Falls Public School Dist.,J.A. Hughes Elementary,Red Lake,222,127,0,5,5,5,10,10,10,10
 Red Lake Falls Public School Dist.,Lafayette Secondary,Red Lake,165,8064,0,0,0,0,0,0,0,0
 Wabasso Public School District,Wabasso Elementary,Redwood,168,127,0,0,0,0,0,0,0,0
 Wabasso Public School District,Wabasso Secondary,Redwood,241,8064,0,0,5,5,5,5,5,5
@@ -1083,7 +1083,7 @@ Ely Public School District,Memorial High School,Saint Louis,158,7680,0,0,0,0,0,0
 Floodwood Public School District,Floodwood Elementary,Saint Louis,106,127,0,0,0,0,0,0,0,0
 Floodwood Public School District,Floodwood Secondary,Saint Louis,90,8064,0,0,0,0,0,0,0,0
 Hermantown Public School District,Hermantown Elementary,Saint Louis,741,31,0,0,5,15,25,35,35,35
-Hermantown Public School District,Hermantown Middle,Saint Louis,658,480,0,0,0,0,20,25,25,25
+Hermantown Public School District,Hermantown Middle,Saint Louis,658,480,0,0,5,5,25,30,30,30
 Hermantown Public School District,Hermantown Senior High,Saint Louis,679,7680,0,0,5,5,15,20,20,20
 Hibbing Public School District,Greenhaven Elementary,Saint Louis,288,7,0,0,0,0,5,5,5,5
 Hibbing Public School District,Washington Elementary,Saint Louis,244,7,0,0,0,5,5,5,5,5
@@ -1131,7 +1131,7 @@ Prior Lake-Savage Area Schools,Redtail Ridge Elementary School,Scott,557,63,0,0,
 Prior Lake-Savage Area Schools,Hamilton Ridge Elementary School,Scott,510,63,0,0,0,0,20,20,20,20
 Prior Lake-Savage Area Schools,Hidden Oaks Middle School,Scott,1104,448,0,0,0,5,10,20,20,20
 Prior Lake-Savage Area Schools,Twin Oaks Middle School,Scott,1066,448,0,5,5,5,15,20,20,20
-Prior Lake-Savage Area Schools,Prior Lake High School,Scott,2832,7680,0,0,5,10,30,50,50,50
+Prior Lake-Savage Area Schools,Prior Lake High School,Scott,2832,7680,0,5,10,15,35,55,55,55
 Prior Lake-Savage Area Schools,Prior Lake-Savage Area ALC,Scott,109,7680,0,0,0,0,0,0,0,0
 Prior Lake-Savage Area Schools,Edgewood ECSE,Scott,129,1,0,0,0,0,0,0,0,0
 Shakopee Public School District,Shakopee High School,Scott,2805,7680,10,20,25,25,35,45,50,50
@@ -1170,7 +1170,7 @@ Elk River School District,Lincoln Elementary,Sherburne,514,63,0,5,5,5,15,20,20,2
 Elk River School District,Handke Center - Early Childhood Special Education,Sherburne,267,1,0,0,0,0,0,5,5,5
 Elk River School District,Rogers Middle School,Hennepin,715,448,0,0,5,5,10,15,20,20
 Elk River School District,Zimmerman Middle,Sherburne,565,448,10,20,25,25,25,25,25,25
-Elk River School District,Prairie View Middle School,Wright,526,448,0,10,15,15,15,15,15,15
+Elk River School District,Prairie View Middle School,Wright,526,448,0,5,10,10,10,10,10,10
 Elk River School District,VandenBerge Middle School,Sherburne,536,448,0,0,5,5,5,5,10,10
 Elk River School District,Salk Middle School,Sherburne,718,448,0,10,10,10,15,20,30,30
 Elk River School District,Elk River Senior High,Sherburne,1685,7680,5,10,15,15,25,30,40,45
@@ -1185,7 +1185,7 @@ Kimball Public School District,Kimball Elementary,Stearns,288,63,0,0,0,0,0,0,0,0
 Kimball Public School District,Kimball Secondary,Stearns,432,8128,0,10,15,15,15,15,15,15
 Melrose Public School District,Melrose Elementary,Stearns,457,63,0,5,10,10,10,15,15,15
 Melrose Public School District,Melrose Middle,Stearns,350,448,0,0,5,5,5,5,5,5
-Melrose Public School District,Melrose Secondary,Stearns,462,7680,5,10,15,15,20,20,20,20
+Melrose Public School District,Melrose Secondary,Stearns,462,7680,5,15,20,20,25,25,25,25
 Paynesville Public School District,Paynesville Elementary,Stearns,395,63,0,0,0,5,5,5,5,5
 Paynesville Public School District,Paynesville Middle,Stearns,205,448,0,0,0,0,0,0,0,0
 Paynesville Public School District,Paynesville Area High School,Stearns,298,7680,0,0,0,5,5,5,5,5
@@ -1199,8 +1199,8 @@ St. Cloud Public School District,Discovery Community Elementary,Stearns,551,63,0
 St. Cloud Public School District,Talahi Community Elementary,Sherburne,554,7,0,0,0,0,0,0,0,0
 St. Cloud Public School District,Westwood Elementary,Stearns,387,63,0,0,0,0,5,15,20,20
 St. Cloud Public School District,Oak Hill Community Elementary,Stearns,823,63,0,5,5,10,20,25,25,25
-St. Cloud Public School District,North Junior High,Stearns,829,448,0,5,10,10,15,20,25,25
-St. Cloud Public School District,South Junior High,Stearns,910,448,0,0,0,5,15,25,30,30
+St. Cloud Public School District,North Junior High,Stearns,829,448,0,10,15,15,20,25,30,30
+St. Cloud Public School District,South Junior High,Stearns,910,448,0,5,5,10,20,30,35,35
 St. Cloud Public School District,Apollo Senior High,Stearns,1327,7680,0,10,20,25,30,35,35,35
 St. Cloud Public School District,Technical Senior High,Stearns,1541,7680,10,20,30,30,35,45,55,55
 St. Cloud Public School District,St. Cloud Area Learning Center,Stearns,233,7168,0,0,0,0,0,0,0,0
@@ -1208,10 +1208,10 @@ Sauk Centre Public School District,Sauk Centre Elementary,Stearns,347,31,0,10,15
 Sauk Centre Public School District,Sauk Centre Secondary,Stearns,531,8064,5,25,25,25,30,30,30,30
 Sauk Centre Public School District,Sauk Centre Middle,Stearns,150,96,0,20,20,25,25,30,30,30
 Albany Public School District,Albany Elementary,Stearns,486,63,0,5,15,15,15,15,15,15
-Albany Public School District,Avon Elementary,Stearns,331,63,5,25,25,25,30,35,35,35
+Albany Public School District,Avon Elementary,Stearns,331,63,5,25,30,30,35,40,40,40
 Albany Public School District,Albany Area Middle School,Stearns,450,448,0,20,30,30,30,30,30,30
 Albany Public School District,Albany Area High School,Stearns,519,7680,0,10,20,20,25,30,30,30
-Sartell-St. Stephen School District,Sartell Senior High,Stearns,1372,7680,0,5,5,5,10,20,20,20
+Sartell-St. Stephen School District,Sartell Senior High,Stearns,1372,7680,0,10,10,10,15,25,25,25
 Sartell-St. Stephen School District,Pine Meadow Primary School,Stearns,614,6,5,10,10,10,15,15,15,15
 Sartell-St. Stephen School District,Sartell Middle,Stearns,982,448,5,15,20,20,25,30,30,30
 Sartell-St. Stephen School District,Oak Ridge Early Learning Center,Stearns,295,1,0,0,0,0,0,0,0,0
@@ -1255,14 +1255,14 @@ Wabasha-Kellogg Public School Dist.,Wabasha-Kellogg Secondary,Wabasha,258,8064,0
 Wabasha-Kellogg Public School Dist.,Falcon View Connections Academy,Wabasha,459,8191,0,0,0,0,0,0,0,0
 Lake City Public School District,Bluff View Elementary,Wabasha,579,127,0,0,0,10,15,20,20,20
 Lake City Public School District,Lincoln Secondary,Wabasha,587,8064,0,5,10,30,40,40,40,40
-Verndale Public School District,Verndale Elementary,Wadena,259,127,0,0,0,5,10,10,10,10
-Verndale Public School District,Verndale Secondary,Wadena,254,8064,0,0,5,10,15,15,15,15
-Sebeka Public School District,Sebeka Elementary,Wadena,221,127,0,0,0,0,0,0,0,0
-Sebeka Public School District,Sebeka Secondary,Wadena,227,8064,5,10,10,10,10,10,10,10
+Verndale Public School District,Verndale Elementary,Wadena,259,127,0,5,5,10,15,15,15,15
+Verndale Public School District,Verndale Secondary,Wadena,254,8064,0,5,10,15,20,20,20,20
+Sebeka Public School District,Sebeka Elementary,Wadena,221,127,0,5,5,5,5,5,5,5
+Sebeka Public School District,Sebeka Secondary,Wadena,227,8064,5,15,15,15,15,15,15,15
 Menahga Public School District,Menahga Elementary,Wadena,289,31,0,5,10,10,10,10,10,10
 Menahga Public School District,Menahga Middle School,Wadena,280,480,0,0,0,0,0,0,0,0
 Menahga Public School District,MENAHGA HIGH SCHOOL,Wadena,269,7680,0,10,10,10,10,10,10,10
-Waseca Public School District,Hartley Elementary,Waseca,421,15,0,0,0,0,0,0,0,0
+Waseca Public School District,Hartley Elementary,Waseca,421,15,0,5,5,5,5,5,5,5
 Waseca Public School District,Waseca Intermediate School,Waseca,354,112,0,5,5,5,5,5,5,5
 Waseca Public School District,Waseca Junior High,Waseca,325,384,5,10,10,10,10,10,10,10
 Waseca Public School District,Waseca Senior High,Waseca,583,7680,5,10,10,10,10,10,10,10
@@ -1287,7 +1287,7 @@ South Washington County School Dist,Lake Middle School,Washington,1142,448,0,0,0
 South Washington County School Dist,Oltman Middle School,Washington,952,448,0,0,0,5,10,10,15,15
 South Washington County School Dist,South Washington Alternative High School,Washington,101,7168,0,0,0,0,0,0,0,0
 South Washington County School Dist,Park High School,Washington,1975,7680,5,10,15,15,25,35,40,40
-South Washington County School Dist,East Ridge High School,Washington,1954,7680,0,0,5,5,10,15,15,15
+South Washington County School Dist,East Ridge High School,Washington,1954,7680,0,5,10,10,15,20,20,20
 South Washington County School Dist,Woodbury Middle School,Washington,1158,448,0,0,0,0,5,15,15,15
 South Washington County School Dist,Woodbury High School,Washington,1972,7680,0,0,0,5,15,20,20,20
 South Washington County School Dist,Armstrong Elementary,Washington,331,63,0,0,0,0,0,5,5,5
@@ -1330,7 +1330,7 @@ St. James Public School District,Armstrong School,Watonwan,69,1,0,0,0,0,0,0,0,0
 St. James Public School District,St. James Middle/High School,Watonwan,506,8128,0,0,0,0,0,0,5,5
 Breckenridge Public School District,Breckenridge Elementary,Wilkin,309,127,0,0,0,0,0,0,0,0
 Breckenridge Public School District,Breckenridge Middle,Wilkin,91,384,0,0,0,0,0,0,0,0
-Breckenridge Public School District,Breckenridge Senior High,Wilkin,219,7680,0,0,5,5,10,10,10,10
+Breckenridge Public School District,Breckenridge Senior High,Wilkin,219,7680,0,0,5,5,5,5,5,5
 Rothsay Public School District,Rothsay Elementary,Wilkin,172,127,0,0,0,0,0,0,0,0
 Rothsay Public School District,Rothsay Secondary,Wilkin,128,8064,0,0,0,0,0,0,0,0
 Campbell-Tintah Public School Dist.,Campbell-Tintah Elementary,Wilkin,72,127,0,0,0,0,0,0,0,0
@@ -1389,7 +1389,7 @@ Cambridge-Isanti Public School District,Cambridge Intermediate School,Isanti,525
 Cambridge-Isanti Public School District,Isanti Intermediate School,Isanti,441,56,0,0,0,0,5,15,15,15
 Cambridge-Isanti Public School District,Cambridge Middle School,Isanti,601,448,0,0,0,5,15,15,15,15
 Cambridge-Isanti Public School District,Isanti Middle School,Isanti,528,448,0,0,5,5,10,10,10,10
-Cambridge-Isanti Public School District,Cambridge-Isanti High School,Isanti,1561,7680,5,25,45,65,85,85,90,90
+Cambridge-Isanti Public School District,Cambridge-Isanti High School,Isanti,1561,7680,5,35,55,75,95,95,100,100
 Cambridge-Isanti Public School District,Riverside Academy,Isanti,53,7680,0,0,0,0,0,0,0,0
 Milaca Public School District,Milaca Elementary,Mille Lacs,852,127,0,0,5,15,20,20,20,20
 Milaca Public School District,Milaca Secondary High,Mille Lacs,786,8064,0,0,10,15,20,25,25,25
@@ -1414,7 +1414,7 @@ Wright Technical Center,Wright Technical Center ALC,Wright,77,7680,0,0,0,0,0,0,0
 Perpich Center For Arts Education,Perpich Center For Arts Education,Hennepin,143,6144,0,5,5,5,5,5,5,5
 Minnesota Department of Corrections,MCF-Red Wing Maginnis High School,Goodhue,55,7168,0,0,0,0,0,0,0,0
 Lake Crystal-Wellcome Memorial,Lake Crystal-Wellcome Memorial Elementary,Blue Earth,422,63,0,0,0,5,10,10,15,15
-Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,8128,0,0,0,0,5,5,5,5
+Lake Crystal-Wellcome Memorial,LK CRYSTAL-WELLCOME MEMORIAL SECONDARY,Blue Earth,476,8128,0,0,0,0,0,0,0,0
 Triton School District,Triton Middle School,Dodge,239,448,0,0,0,5,5,5,5,5
 Triton School District,Triton Elementary,Dodge,440,63,0,0,0,0,10,10,10,10
 Triton School District,Triton High School,Dodge,327,7680,0,0,0,0,0,0,0,0
@@ -1423,7 +1423,7 @@ United South Central School Dist.,United South Central High School,Faribault,332
 Maple River School District,Maple River Secondary,Blue Earth,533,8160,0,0,0,0,0,0,0,0
 Maple River School District,Maple River East Elementary,Faribault,159,31,0,0,0,0,0,0,0,0
 Maple River School District,Maple River West Elementary,Blue Earth,158,31,0,0,0,0,0,0,0,0
-Kingsland Public School District,Kingsland Elementary School,Fillmore,268,127,0,0,5,10,10,15,20,20
+Kingsland Public School District,Kingsland Elementary School,Fillmore,268,127,0,5,10,15,15,20,25,25
 Kingsland Public School District,Kingsland Junior/Senior High School,Fillmore,265,8064,0,0,10,10,10,10,10,10
 St. Louis County School District,Babbitt Elementary,Saint Louis,92,127,0,0,0,0,0,0,0,0
 St. Louis County School District,Tower-Soudan Elementary,Saint Louis,95,127,0,0,0,0,0,0,0,0
@@ -1433,22 +1433,22 @@ St. Louis County School District,South Ridge Secondary,Saint Louis,270,8064,0,0,
 St. Louis County School District,North Woods Elementary,Saint Louis,223,127,0,0,5,10,10,10,10,10
 St. Louis County School District,North Woods Secondary,Saint Louis,297,8064,5,15,15,15,15,15,15,15
 St. Louis County School District,Cherry Secondary,Saint Louis,252,8064,0,20,25,25,25,25,25,25
-St. Louis County School District,Cherry Elementary,Saint Louis,286,127,5,25,30,30,30,30,30,30
+St. Louis County School District,Cherry Elementary,Saint Louis,286,127,5,35,40,40,40,40,40,40
 Waterville-Elysian-Morristown Public School District,Morristown Elementary,Rice,118,96,0,0,0,0,0,0,0,0
 Waterville-Elysian-Morristown Public School District,Waterville-Elysian-Morristown Jr.,Rice,141,384,0,0,0,0,0,0,0,0
-Waterville-Elysian-Morristown Public School District,Waterville Elementary,Lesueur,266,31,0,0,0,0,0,0,0,0
-Waterville-Elysian-Morristown Public School District,Waterville-Elysian-Morristown Sr.,Lesueur,235,7680,0,0,5,5,5,5,5,5
+Waterville-Elysian-Morristown Public School District,Waterville Elementary,Lesueur,266,31,0,5,5,5,5,5,5,5
+Waterville-Elysian-Morristown Public School District,Waterville-Elysian-Morristown Sr.,Lesueur,235,7680,0,5,10,10,10,10,10,10
 Chisago Lakes School District,Chisago Lakes El.,Chisago,386,3,0,0,5,5,10,10,10,10
 Chisago Lakes School District,Lakeside El.,Chisago,712,60,0,0,5,10,20,25,30,30
 Chisago Lakes School District,Chisago Lakes Middle,Chisago,816,448,5,15,15,15,25,25,25,25
 Chisago Lakes School District,Chisago Lakes Senior High,Chisago,1075,7680,5,5,10,15,20,20,20,20
-Chisago Lakes School District,Taylors Falls Elementary,Chisago,315,63,10,15,15,15,15,15,15,15
+Chisago Lakes School District,Taylors Falls Elementary,Chisago,315,63,10,20,20,20,20,20,20,20
 Minnewaska School District,Minnewaska Secondary,Pope,375,7680,0,10,20,20,20,20,20,20
 Minnewaska School District,Minnewaska Area Junior High,Pope,234,384,0,0,0,0,0,0,0,0
 Minnewaska School District,Minnewaska Area Intermediate School,Pope,298,112,0,5,15,15,20,20,20,20
 Minnewaska School District,Minnewaska Area Elementary,Pope,356,15,0,0,0,0,5,10,15,15
 Wadena-Deer Creek School District,Wadena-Deer Creek Senior High,Wadena,446,8064,0,5,25,30,35,35,35,35
-Wadena-Deer Creek School District,Wadena-Deer Creek Elementary,Wadena,434,31,0,0,10,10,20,20,20,20
+Wadena-Deer Creek School District,Wadena-Deer Creek Elementary,Wadena,434,31,0,5,15,15,25,25,25,25
 Wadena-Deer Creek School District,Wadena-Deer Creek 5th And 6th Grade,Wadena,153,96,0,0,0,0,0,0,0,0
 Buffalo Lake-Hector-Stewart Public Schools,Buffalo Lake-Hector Elementary,Renville,202,63,0,0,0,5,5,5,5,5
 Buffalo Lake-Hector-Stewart Public Schools,Buffalo Lake-Hector Secondary,Renville,277,8128,0,0,0,0,0,0,0,0
@@ -1460,11 +1460,11 @@ Hinckley-Finlayson School District,Hinckley Elementary,Pine,462,127,0,0,0,5,5,5,
 Hinckley-Finlayson School District,Hinckley-Finlayson Secondary,Pine,409,8064,0,0,5,5,5,5,5,5
 Hinckley-Finlayson School District,Finlayson Elementary,Pine,68,127,0,0,0,0,0,0,0,0
 Lakeview School District,Lakeview Elementary,Lyon,342,127,0,0,5,10,10,10,10,10
-Lakeview School District,Lakeview Secondary,Lyon,275,8064,0,5,5,5,5,5,5,5
-NRHEG School District,NRHEG Secondary,Waseca,480,8128,5,15,15,15,20,20,20,20
+Lakeview School District,Lakeview Secondary,Lyon,275,8064,0,10,10,10,10,10,10,10
+NRHEG School District,NRHEG Secondary,Waseca,480,8128,5,15,35,35,40,40,40,40
 NRHEG School District,NRHEG Elementary,Steele,362,63,0,0,0,0,0,0,5,5
 Murray County Central School Dist.,Murray Co. Central Elementary,Murray,396,127,0,5,10,10,10,10,10,10
-Murray County Central School Dist.,Murray County Central Secondary,Murray,328,8064,5,5,10,10,10,15,15,15
+Murray County Central School Dist.,Murray County Central Secondary,Murray,328,8064,5,15,20,20,20,25,25,25
 Staples-Motley School District,Staples-Motley Elementary,Todd,346,31,0,0,0,0,5,5,5,5
 Staples-Motley School District,Staples-Motley Senior High,Todd,330,7680,0,5,5,5,15,15,15,15
 Staples-Motley School District,Motley-Staples Middle School,Todd,301,480,0,0,0,0,5,5,5,5
@@ -1480,9 +1480,9 @@ Warren-Alvarado-Oslo School District,Warren-Alvarado-Oslo Secondary,Marshall,256
 MACCRAY School District,MACCRAY WEST ELEMENTARY,Chippewa,202,127,0,5,10,10,10,10,10,10
 MACCRAY School District,MACCRAY EAST ELEMENTARY,Kandiyohi,202,127,5,5,5,5,5,5,5,5
 MACCRAY School District,MACCRAY SENIOR HIGH,Chippewa,325,8064,0,0,5,5,5,5,5,5
-Luverne Public School District,Luverne Elementary,Rock,523,63,0,0,0,0,0,5,5,5
+Luverne Public School District,Luverne Elementary,Rock,523,63,0,5,5,5,5,10,10,10
 Luverne Public School District,Luverne Middle,Rock,268,448,0,0,0,0,0,0,0,0
-Luverne Public School District,Luverne Senior High,Rock,365,7680,5,10,10,10,10,10,10,10
+Luverne Public School District,Luverne Senior High,Rock,365,7680,5,15,15,15,15,15,15,15
 Yellow Medicine East,Bert Raney Elementary School,Yellow Medicine,280,63,0,0,5,10,10,10,10,10
 Yellow Medicine East,Yellow Medicine East High School,Yellow Medicine,218,7680,0,0,5,10,10,10,10,10
 Yellow Medicine East,Yellow Medicine East Middle School,Yellow Medicine,158,448,0,0,10,10,10,10,10,10
@@ -1493,7 +1493,7 @@ Norman County East School District,Norman County East Elementary,Norman,116,127,
 Sibley East School District,Sibley East-Arlington Senior High,Sibley,374,7680,0,5,10,10,10,10,10,10
 Sibley East School District,Sibley East-Gaylord Elementary,Sibley,437,63,0,0,5,5,5,10,10,10
 Sibley East School District,Sibley East Middle School,Sibley,264,448,0,0,5,5,5,5,5,5
-Clearbrook-Gonvick School District,Clearbrook-Gonvick Elementary,Clearwater,210,127,0,0,0,0,0,0,0,0
+Clearbrook-Gonvick School District,Clearbrook-Gonvick Elementary,Clearwater,210,127,0,5,5,5,5,5,5,5
 Clearbrook-Gonvick School District,Clearbrook-Gonvick Secondary,Clearwater,223,8064,0,0,0,0,0,0,0,0
 West Central Area,West Central Area N. El.,Grant,184,31,0,0,0,0,0,0,0,0
 West Central Area,West Central Area S. El.,Douglas,120,31,0,0,0,0,0,0,0,0
@@ -1550,7 +1550,7 @@ Morris Area Public Schools,Morris Area Elementary,Stevens,570,127,0,5,5,10,40,40
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Elementary School,Wabasha,387,120,0,0,10,15,20,25,25,25
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Senior High,Goodhue,390,7680,0,0,0,0,5,10,10,10
 Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Middle School,Goodhue,182,384,0,0,0,0,0,0,0,0
-Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Primary School,Goodhue,269,7,0,5,15,15,15,15,15,15
+Zumbrota-Mazeppa School District,Zumbrota-Mazeppa Primary School,Goodhue,269,7,0,0,10,10,10,10,10,10
 Janesville-Waldorf-Pemberton,Janesville-Waldorf-Pemberton El.Em.,Waseca,332,127,0,0,5,10,10,10,10,10
 Janesville-Waldorf-Pemberton,Janesville-Waldorf-Pemberton Sec,Waseca,335,8064,0,0,0,0,0,0,0,0
 Lac qui Parle Valley School Dist.,Madison-Marietta-Nassau Elementary,Lac qui Parle,147,31,0,0,0,0,0,0,0,0
@@ -1558,13 +1558,13 @@ Lac qui Parle Valley School Dist.,Appleton Elementary,Swift,191,31,0,0,0,0,0,0,0
 Lac qui Parle Valley School Dist.,Lac qui Parle Valley Middle School,Lac qui Parle,119,96,0,0,0,0,0,0,0,0
 Lac qui Parle Valley School Dist.,Lac qui Parle Valley Secondary,Lac qui Parle,324,8064,0,10,10,15,20,30,30,30
 Ada-Borup Public School District,Ada Elementary,Norman,257,63,0,0,0,0,0,0,0,0
-Ada-Borup Public School District,Ada-Borup Secondary,Norman,362,8128,0,0,10,10,10,10,10,10
+Ada-Borup Public School District,Ada-Borup Secondary,Norman,362,8128,0,10,20,20,20,20,20,20
 Stephen-Argyle Central Schools,Argyle Elementary,Marshall,153,127,0,0,0,0,0,0,0,0
 Stephen-Argyle Central Schools,Stephen Senior High,Marshall,140,8064,0,5,5,5,5,5,5,5
 Glencoe-Silver Lake School District,Lincoln Elementary,Mcleod,323,7,0,0,5,10,15,20,20,20
 Glencoe-Silver Lake School District,Lakeside Elementary,Mcleod,433,120,0,5,10,15,15,15,15,15
 Glencoe-Silver Lake School District,GSL Junior High School,Mcleod,246,384,0,0,0,0,0,0,0,0
-Glencoe-Silver Lake School District,Glencoe-Silver Lake Senior High,Mcleod,521,7680,0,5,15,20,20,20,20,20
+Glencoe-Silver Lake School District,Glencoe-Silver Lake Senior High,Mcleod,521,7680,0,10,20,25,25,25,25,25
 Blue Earth Area Public School,Blue Earth Area Elementary,Faribault,464,63,0,5,10,10,15,15,15,15
 Blue Earth Area Public School,Blue Earth Area Secondary,Faribault,429,7936,0,30,40,40,40,40,40,40
 Blue Earth Area Public School,Blue Earth Area Middle,Faribault,155,192,0,5,5,5,5,5,5,5
@@ -1583,11 +1583,11 @@ Jackson County Central School District,Riverside Elementary,Jackson,382,15,0,0,0
 Jackson County Central School District,Jackson County Central Senior High,Jackson,335,7680,0,0,0,0,0,0,0,0
 Jackson County Central School District,Jackson County Central Middle,Jackson,266,448,0,0,0,0,0,0,0,0
 Redwood Area School District,Redwood Valley Senior High,Redwood,332,7680,0,0,0,0,5,5,5,5
-Redwood Area School District,Reede Gray Elementary,Redwood,448,31,5,10,10,10,20,25,25,25
+Redwood Area School District,Reede Gray Elementary,Redwood,448,31,5,15,15,15,25,30,30,30
 Redwood Area School District,Redwood Valley Middle,Redwood,349,480,10,20,20,20,20,25,25,25
 Westbrook-Walnut Grove Schools,Walnut Grove Elementary,Redwood,275,127,5,10,10,10,20,20,20,20
 Westbrook-Walnut Grove Schools,Westbrook-Walnut Grove Secondary,Cottonwood,152,8064,0,0,0,5,5,5,5,5
-Plainview-Elgin-Millville,Plainview-Elgin-Millville Pk-3,Wabasha,435,15,0,5,10,15,15,20,20,20
+Plainview-Elgin-Millville,Plainview-Elgin-Millville Pk-3,Wabasha,435,15,0,0,5,10,10,15,15,15
 Plainview-Elgin-Millville,Plainview-Elgin-Millville 4-6,Wabasha,351,112,0,10,15,20,25,30,30,30
 Plainview-Elgin-Millville,Plainview-Elgin-Millville Junior,Wabasha,246,384,0,0,0,0,0,0,0,0
 Plainview-Elgin-Millville,PLAINVIEW-ELGIN-MILLVILLE HIGH,Wabasha,474,7680,0,10,20,30,35,35,35,35
@@ -1658,7 +1658,7 @@ Northwest Passage High School,Northwest Passage High School,Anoka,160,7680,0,0,0
 Lafayette Public Charter School,Lafayette Public Charter School,Nicollet,61,511,0,0,0,0,0,0,0,0
 North Lakes Academy,North Lakes Academy Middle School,Washington,171,448,0,0,5,5,5,5,5,5
 North Lakes Academy,North Lakes Academy Upper School,Washington,197,7680,0,0,0,0,0,0,0,0
-North Lakes Academy,North Lakes Academy Elementary,Washington,210,63,0,0,5,5,5,5,5,5
+North Lakes Academy,North Lakes Academy Elementary,Washington,210,63,0,5,10,10,10,10,10,10
 La Crescent Montessori & STEM School,La Crescent Montessori & STEM Academy,Houston,52,127,0,0,0,0,0,0,0,0
 Nerstrand Charter School,Nerstrand Charter School,Rice,124,63,0,0,0,0,0,0,0,0
 Rosa Parks Charter High School,Rosa Parks Charter High School,Olmsted,70,7680,0,0,0,0,0,0,0,0
@@ -1714,8 +1714,8 @@ PIM Arts High School,PIM Arts High School,Hennepin,348,7680,0,0,0,0,0,0,0,0
 Augsburg Fairview Academy,Augsburg Fairview Academy,Hennepin,98,7680,0,0,0,0,0,0,0,0
 St Paul Conservatory Performing Art,St Paul Conservatory Performing Art,Ramsey,440,7680,0,0,0,0,0,0,0,0
 Spero Academy,Spero Academy,Hennepin,135,127,0,0,0,0,0,0,0,0
-Lakes International Language Academy,Lakes International Language Academy Main Campus,Washington,575,62,0,5,10,15,20,30,50,50
-Lakes International Language Academy,Lakes International Language Academy-Headwaters Campus,Washington,546,8128,0,0,5,5,10,10,10,10
+Lakes International Language Academy,Lakes International Language Academy Main Campus,Washington,575,62,0,10,15,20,25,35,55,55
+Lakes International Language Academy,Lakes International Language Academy-Headwaters Campus,Washington,546,8128,0,5,10,10,15,15,15,15
 Lakes International Language Academy,LILA Kinder Center,Washington,126,1,0,0,0,0,0,5,5,5
 Kaleidoscope Charter School,Kaleidoscope Charter Elementary School,Wright,344,63,0,0,0,0,30,30,30,30
 Kaleidoscope Charter School,Kaleidoscope Charter High School,Wright,91,7680,0,0,0,0,10,10,10,10
@@ -1727,7 +1727,7 @@ St. Croix Preparatory Academy,St. Croix Preparatory Academy Upper,Washington,383
 Ubah Medical Academy Charter School,Ubah Medical Academy Charter School,Hennepin,313,7680,0,0,0,0,0,0,0,0
 Eagle Ridge Academy Charter School,Eagle Ridge Academy Charter School,Hennepin,606,8128,0,0,10,15,15,20,20,20
 Eagle Ridge Academy Charter School,Eagle Ridge Academy Lower School,Hennepin,825,63,0,0,10,15,15,25,25,25
-Beacon Academy,Beacon Academy,Hennepin,568,511,0,0,0,0,5,5,5,5
+Beacon Academy,Beacon Academy,Hennepin,568,511,0,5,5,5,10,10,10,10
 Prairie Seeds Academy,Prairie Seeds Elementary School Academy,Hennepin,375,63,0,0,0,0,0,0,0,0
 Prairie Seeds Academy,Prairie Seeds Middle School Academy,Hennepin,204,448,0,0,0,0,0,0,0,0
 Prairie Seeds Academy,Prairie Seeds High School Academy,Hennepin,210,7680,0,0,0,0,0,0,0,0
@@ -1735,7 +1735,7 @@ TEAM Academy,TEAM Academy,Waseca,95,127,0,0,0,0,0,0,0,0
 Metro Schools Charter,Metro Schools Charter,Hennepin,322,7680,0,0,0,0,0,5,10,10
 Metro Schools Charter,Metro Schools Middle Charter,Hennepin,105,480,0,0,0,0,0,0,0,0
 Twin Cities Academy,Twin Cities Academy,Ramsey,544,8128,0,0,0,0,0,0,0,0
-Rochester Math And Science Academy,Rochester Math And Science Academy,Olmsted,420,511,0,5,5,5,5,5,5,5
+Rochester Math And Science Academy,Rochester Math And Science Academy,Olmsted,420,511,0,0,5,5,5,5,5,5
 Swan River Montessori Charter School,Swan River Montessori Charter School,Wright,140,127,0,0,0,0,0,0,0,0
 LoveWorks Academy For Arts,LoveWorks Academy For Arts,Hennepin,143,511,0,0,0,0,0,0,0,0
 Yinghua Academy,Yinghua Academy,Hennepin,852,511,0,0,0,0,0,0,5,5
@@ -1807,7 +1807,7 @@ Sejong Academy of Minnesota,Sejong Academy of Minnesota,Ramsey,212,511,0,0,0,0,0
 Technical Academies of Minnesota,DREAM Technical Academy,Kandiyohi,73,8064,0,0,0,0,0,0,0,0
 Venture Academy,Venture Academy,Hennepin,322,8128,0,0,0,0,0,0,0,0
 Northeast College Prep,Northeast College Prep Charter School,Hennepin,373,511,0,0,0,0,0,0,0,0
-Agamim Classical Academy,Agamim Classical Academy,Hennepin,314,511,0,0,5,5,5,5,5,5
+Agamim Classical Academy,Agamim Classical Academy,Hennepin,314,511,0,5,5,10,10,10,10,10
 Discovery Charter School,Discovery Charter Elementary School,Dakota,223,511,0,0,0,0,0,5,5,5
 Saint Cloud Math and Science Academy Charter School,Saint Cloud Math and Science Academy Charter School,Stearns,226,127,0,0,0,0,5,5,5,5
 Star of the North Academy Charter School,Star of the North Academy Charter School,Anoka,126,511,0,0,0,0,0,0,0,0
@@ -1826,7 +1826,7 @@ Level Up Academy,Level Up Academy,Ramsey,90,63,0,0,0,0,0,0,0,0
 Career Pathways,Career Pathways,Ramsey,107,8128,0,0,0,0,0,0,0,0
 Rochester Beacon Academy,Rochester Beacon Academy,Olmsted,112,8128,0,0,0,0,0,0,0,0
 Tesfa International School,Tesfa International School,Anoka,139,127,0,0,0,0,0,0,0,0
-New Century School,New Century School,Ramsey,377,511,0,5,5,5,5,5,5,5
+New Century School,New Century School,Ramsey,377,511,0,5,5,10,10,10,10,10
 North Metro Flex Academy,North Metro Flex Academy,Ramsey,212,127,0,0,0,0,0,0,0,0
 FIT Academy,FIT Academy,Dakota,237,511,0,0,0,0,0,0,0,0
 Athlos Academy of Saint Cloud,Athlos Academy of Saint Cloud,Stearns,644,511,0,5,10,10,10,10,10,10
