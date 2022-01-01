@@ -36,7 +36,7 @@ GRADES = []
 with open('popcounts.csv') as popfile:
     for row in csv.reader(popfile):
         IDS.append(row[0])
-        META.append((*row[1:-2],))
+        META.append((*row[:-2],))
         POP.append(int(row[-2]))
         GRADES.append(row[-1])
 
@@ -65,19 +65,21 @@ for n in np.arange(0, len(POP)):
     DMAX[n,:] = np.clip(DMAX[n,:], 0, POP[n])
 
 with open('minimums.csv', 'w') as fout:
-    print(','.join(['District', 'School', 'County', 'Enrollment', 'Grades',
+    print(','.join(['District', 'School', 'County', 'Type', 'Enrollment', 'Grades',
                     *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
     for x in zip(META, DMIN, POP, GRADES):
-        if x[2] < 50:
-            continue
-        print(','.join(x[0]) + ",{},{},".format(x[2], x[3]) + 
+        #if x[2] < 50:
+        #    continue
+        stype = 'Private' if '-31-' in x[0][0] else 'Public'
+        print(','.join(x[0][1:]) + ",{},{},{},".format(stype, x[2], x[3]) + 
               ','.join('{}'.format(_) for _ in x[1]), file=fout)
 
 with open('maximums.csv', 'w') as fout:
     print(','.join(['District', 'School', 'County', 'Enrollment', 'Grades', 
                     *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
     for x in zip(META, DMAX, POP, GRADES):
-        if x[2] < 50:
-            continue
-        print(','.join(x[0]) + ",{},{},".format(x[2], x[3]) + 
+        #if x[2] < 50:
+        #    continue
+        stype = 'Private' if '-31-' in x[0][0] else 'Public'
+        print(','.join(x[0][1:]) + ",{},{},{},".format(stype, x[2], x[3]) + 
               ','.join('{}'.format(_) for _ in x[1]), file=fout)
