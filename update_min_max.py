@@ -64,22 +64,16 @@ for n in np.arange(0, len(POP)):
     DMIN[n,:] = np.clip(DMIN[n,:], 0, POP[n])
     DMAX[n,:] = np.clip(DMAX[n,:], 0, POP[n])
 
-with open('minimums.csv', 'w') as fout:
-    print(','.join(['District', 'School', 'County', 'Type', 'Enrollment', 'Grades',
-                    *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
-    for x in zip(META, DMIN, POP, GRADES):
-        #if x[2] < 50:
-        #    continue
-        stype = 'Private' if '-31-' in x[0][0] else 'Public'
-        print(','.join(x[0][1:]) + ",{},{},{},".format(stype, x[2], x[3]) + 
-              ','.join('{}'.format(_) for _ in x[1]), file=fout)
+header = ','.join(['District', 'School', 'County', 'Type', 'Enrollment',
+                   'Grades',
+                   *[_.strftime('%Y/%m/%d') for _ in DATES]])
 
-with open('maximums.csv', 'w') as fout:
-    print(','.join(['District', 'School', 'County', 'Enrollment', 'Grades', 
-                    *[_.strftime('%Y/%m/%d') for _ in DATES]]), file=fout)
-    for x in zip(META, DMAX, POP, GRADES):
-        #if x[2] < 50:
-        #    continue
-        stype = 'Private' if '-31-' in x[0][0] else 'Public'
-        print(','.join(x[0][1:]) + ",{},{},{},".format(stype, x[2], x[3]) + 
-              ','.join('{}'.format(_) for _ in x[1]), file=fout)
+with open('minimums.csv', 'w') as minout,  open('maximums.csv', 'w') as maxout:
+    for f, d in ((minout, DMIN), (maxout, DMAX)):
+        print(header, file=f)
+        for x in zip(META, d, POP, GRADES):
+            stype = 'Private' if '-31-' in x[0][0] else 'Public'
+            print(','.join(x[0][1:]) + 
+                  ",{},{},{},".format(stype, x[2], x[3]) + 
+                  ','.join('{}'.format(_) for _ in x[1]),
+                  file=f)
