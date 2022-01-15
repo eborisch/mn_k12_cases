@@ -5,22 +5,22 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0011-01-426,Anoka,Andover Elementary,Andover,10-19,5-9,0-4,0-4
 0011-01-094,Anoka,Andover High School,Andover,10-19,0-4,0-4,0-4
 0011-01-001,Anoka,Anoka High School,Anoka,10-19,5-9,0-4,0-4
-0011-01-003,Anoka,Anoka Middle School for the Arts,Anoka,5-9,0-4,0-4,0-4
+0011-01-003,Anoka,Anoka Middle School for the Arts,Anoka,5-9,0-4,5-9,0-4
 0011-01-091,Anoka,Blaine High School,Blaine,5-9,5-9,0-4,0-4
 0012-01-515,Anoka,Blue Heron Elementary,Lino Lakes,5-9,5-9,0-4,0-4
-0011-01-432,Anoka,Brookside Elementary,Ramsey,5-9,0-4,0-4,0-4
+0011-01-432,Anoka,Brookside Elementary,Ramsey,5-9,5-9,0-4,0-4
 0015-01-784,Anoka,Cedar Creek Elementary School,Cedar,5-9,0-4,0-4,0-4
 0012-01-164,Anoka,Centennial High School,Circle Pines,10-19,10-19,5-9,0-4
-0012-01-166,Anoka,Centennial Middle,Lino Lakes,10-19,5-9,0-4,0-4
-0016-01-776,Anoka,Centerview Elementary,Blaine,5-9,5-9,0-4,0-4
+0012-01-166,Anoka,Centennial Middle,Lino Lakes,10-19,5-9,5-9,0-4
+0016-01-776,Anoka,Centerview Elementary,Blaine,10-19,5-9,0-4,0-4
 0012-01-511,Anoka,Centerville Elementary,Centerville,20-29,5-9,0-4,0-4
 0013-01-016,Anoka,Columbia Heights Senior High,Columbia Heights,5-9,5-9,0-4,0-4
 0011-01-002,Anoka,Coon Rapids High School,Coon Rapids,10-19,5-9,0-4,0-4
-0011-01-004,Anoka,Coon Rapids Middle School,Coon Rapids,5-9,10-19,0-4,0-4
-4185-07-010,Anoka,DaVinci Academy,Ham Lake,0-4,5-9,0-4,0-4
-0015-01-848,Anoka,East Bethel Elementary School,Cedar,5-9,0-4,0-4,0-4
+0011-01-004,Anoka,Coon Rapids Middle School,Coon Rapids,10-19,10-19,0-4,0-4
+4185-07-010,Anoka,DaVinci Academy,Ham Lake,5-9,5-9,0-4,0-4
+0015-01-848,Anoka,East Bethel Elementary School,Cedar,5-9,5-9,0-4,0-4
 0014-01-023,Anoka,Fridley Middle,Fridley,5-9,5-9,0-4,0-4
-0014-01-022,Anoka,Fridley Senior High,Fridley,5-9,0-4,0-4,0-4
+0014-01-022,Anoka,Fridley Senior High,Fridley,5-9,5-9,0-4,0-4
 0012-01-512,Anoka,Golden Lake Elementary,Circle Pines,0-4,5-9,0-4,0-4
 0011-01-406,Anoka,Jefferson Elementary,Blaine,0-4,5-9,0-4,0-4
 0011-01-411,Anoka,McKinley Elementary,Ham Lake,10-19,0-4,0-4,0-4
@@ -29,12 +29,14 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0016-01-772,Anoka,Northpoint Elementary,Blaine,5-9,0-4,0-4,0-4
 0011-01-193,Anoka,Oak View Middle,Andover,10-19,5-9,0-4,0-4
 4008-07-010,Anoka,PACT Charter School,Ramsey,5-9,0-4,0-4,0-4
-0011-01-423,Anoka,Ramsey Elementary,Ramsey,5-9,0-4,0-4,0-4
-0012-01-513,Anoka,Rice Lake Elementary,Lino Lakes,20-29,0-4,0-4,0-4
+0016-01-775,Anoka,Park Terrace Elementary,Spring Lake Park,5-9,0-4,0-4,0-4
+0011-01-423,Anoka,Ramsey Elementary,Ramsey,5-9,5-9,0-4,0-4
+0012-01-513,Anoka,Rice Lake Elementary,Lino Lakes,20-29,0-4,5-9,0-4
 0011-01-195,Anoka,Roosevelt Middle,Blaine,5-9,0-4,0-4,0-4
-0016-01-045,Anoka,Spring Lake Park Senior High,Spring Lake Park,10-19,10-19,0-4,0-4
-0015-01-122,Anoka,St. Francis High,Saint Francis,0-4,5-9,0-4,0-4
-0011-01-431,Anoka,Sunrise Elementary,Blaine,5-9,0-4,0-4,0-4
+0016-01-045,Anoka,Spring Lake Park Senior High,Spring Lake Park,20-29,10-19,5-9,0-4
+0015-01-122,Anoka,St. Francis High,Saint Francis,5-9,5-9,0-4,0-4
+0015-01-123,Anoka,St. Francis Middle,Saint Francis,0-4,5-9,0-4,0-4
+0011-01-431,Anoka,Sunrise Elementary,Blaine,5-9,5-9,0-4,0-4
 0014-31-002,Anoka,Totino Grace High School,Fridley,5-9,0-4,0-4,0-4
 0013-01-520,Anoka,Valley View Elementary,Columbia Heights,10-19,5-9,0-4,0-4
 0016-01-092,Anoka,Westwood Intermediate and Middle School,Blaine,10-19,5-9,5-9,0-4
@@ -42,26 +44,26 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0051-01-020,Benton,Foley Senior High,Foley,5-9,5-9,0-4,0-4
 0047-01-003,Benton,Mississippi Heights Elementary,Sauk Rapids,10-19,20-29,0-4,0-4
 0047-01-007,Benton,Pleasant View Elementary,Sauk Rapids,5-9,0-4,0-4,0-4
-0047-01-006,Benton,Rice Elementary,Rice,10-19,5-9,0-4,0-4
+0047-01-006,Benton,Rice Elementary,Rice,10-19,10-19,0-4,0-4
 0748-01-090,Benton,Riverview Intermediate School,Sartell,10-19,0-4,0-4,0-4
 0047-01-009,Benton,Sauk Rapids-Rice Middle School,Sauk Rapids,10-19,5-9,0-4,0-4
-0047-01-001,Benton,Sauk Rapids-Rice Senior High,Sauk Rapids,10-19,10-19,0-4,0-4
+0047-01-001,Benton,Sauk Rapids-Rice Senior High,Sauk Rapids,10-19,20-29,5-9,0-4
 0077-01-030,Blue Earth,Jefferson Elementary,Mankato,5-9,0-4,0-4,0-4
 0077-01-010,Blue Earth,Kennedy Elementary,Mankato,5-9,0-4,0-4,0-4
-2071-01-010,Blue Earth,Lake Crystal-Wellcome Memorial Elementary,Lake Crystal,5-9,0-4,0-4,0-4
+2071-01-010,Blue Earth,Lake Crystal-Wellcome Memorial Elementary,Lake Crystal,10-19,5-9,0-4,0-4
 0077-31-017,Blue Earth,Loyola Catholic School,Mankato,0-4,5-9,0-4,0-4
-0077-01-160,Blue Earth,Mankato East Senior High,Mankato,10-19,10-19,0-4,0-4
+0077-01-160,Blue Earth,Mankato East Senior High,Mankato,10-19,10-19,5-9,0-4
 0077-01-130,Blue Earth,Mankato West Senior High,Mankato,5-9,20-29,0-4,0-4
 0077-01-200,Blue Earth,Prairie Winds Middle School,Mankato,5-9,10-19,0-4,0-4
 0077-01-070,Blue Earth,Rosa Parks Elementary,Mankato,5-9,5-9,0-4,0-4
 0075-01-010,Blue Earth,St. Clair Elementary,Saint Clair,5-9,0-4,0-4,0-4
 0088-01-020,Brown,Jefferson Elementary,New Ulm,5-9,0-4,0-4,0-4
 0094-01-101,Carlton,Churchill Elementary,Cloquet,5-9,0-4,0-4,0-4
-0094-01-202,Carlton,Cloquet Senior,Cloquet,5-9,0-4,0-4,0-4
+0094-01-202,Carlton,Cloquet Senior,Cloquet,5-9,5-9,0-4,0-4
 0099-01-001,Carlton,Lincoln Secondary,Esko,5-9,5-9,0-4,0-4
 0097-01-020,Carlton,Moose Lake Elementary,Moose Lake,10-19,0-4,0-4,0-4
 0099-01-030,Carlton,Winterquist Elementary,Esko,10-19,5-9,0-4,0-4
-0110-01-120,Carver,Bayview Elementary,Waconia,0-4,5-9,0-4,0-4
+0110-01-120,Carver,Bayview Elementary,Waconia,0-4,5-9,5-9,0-4
 0112-01-510,Carver,Bluff Creek Elementary,Chanhassen,5-9,5-9,0-4,0-4
 0112-01-504,Carver,Carver Elementary School,Carver,0-4,5-9,5-9,0-4
 0112-01-506,Carver,Chanhassen Elementary,Chanhassen,10-19,0-4,0-4,0-4
@@ -87,18 +89,19 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0111-01-839,Carver,Watertown-Mayer Elementary School,Watertown,10-19,0-4,0-4,0-4
 0111-01-841,Carver,Watertown-Mayer Middle,Watertown,5-9,0-4,0-4,0-4
 4016-07-010,Carver,World Learner Charter School,Chaska,5-9,0-4,0-4,0-4
+0116-01-010,Cass,Pillager Elementary,Pillager,0-4,5-9,0-4,0-4
 0113-01-010,Cass,W.H.A. Elementary,Walker,5-9,5-9,0-4,0-4
 0113-01-020,Cass,Walker-Hackensack-Akeley Sec.,Walker,5-9,0-4,0-4,0-4
 0129-01-010,Chippewa,Ramsey Elementary,Montevideo,0-4,5-9,0-4,0-4
 0139-01-010,Chisago,C.E. Jacobson Elementary,Rush City,5-9,5-9,0-4,0-4
-2144-01-004,Chisago,Chisago Lakes Senior High,Lindstrom,5-9,0-4,0-4,0-4
+2144-01-004,Chisago,Chisago Lakes Senior High,Lindstrom,5-9,5-9,0-4,0-4
 2144-01-002,Chisago,Lakeside El.,Chisago City,5-9,5-9,0-4,0-4
 0138-01-045,Chisago,Sunrise River Elementary,North Branch,0-4,5-9,0-4,0-4
-0146-01-010,Clay,Barnesville Elementary,Barnesville,5-9,5-9,0-4,0-4
+0146-01-010,Clay,Barnesville Elementary,Barnesville,5-9,10-19,0-4,0-4
 2164-01-002,Clay,Glyndon-Felton Elementary,Glyndon,5-9,0-4,0-4,0-4
 0150-01-010,Clay,Hawley Elementary,Hawley,10-19,0-4,0-4,0-4
 0150-01-020,Clay,Hawley Secondary,Hawley,10-19,0-4,0-4,0-4
-0152-01-380,Clay,Horizon Middle School,Moorhead,20-29,10-19,5-9,0-4
+0152-01-380,Clay,Horizon Middle School,Moorhead,20-29,20-29,5-9,0-4
 0152-01-382,Clay,Moorhead High School,Moorhead,5-9,5-9,5-9,0-4
 0152-01-187,Clay,Robert Asp Elementary,Moorhead,5-9,0-4,5-9,0-4
 0152-01-189,Clay,S.G.Reinertsen Elementary,Moorhead,0-4,5-9,0-4,0-4
@@ -120,22 +123,23 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0196-01-041,Dakota,Eagan Senior High,Eagan,10-19,0-4,5-9,0-4
 0196-01-721,Dakota,East Lake Elementary School,Lakeville,10-19,0-4,0-4,0-4
 0196-01-088,Dakota,Eastview Senior High,Apple Valley,0-4,5-9,5-9,0-4
-0196-01-714,Dakota,Echo Park Elementary,Burnsville,5-9,5-9,0-4,0-4
+0196-01-714,Dakota,Echo Park Elementary School,Burnsville,5-9,5-9,0-4,0-4
+0196-31-004,Dakota,Faithful Shepherd Catholic,Eagan,5-9,0-4,0-4,0-4
 0196-01-086,Dakota,Falcon Ridge Middle,Apple Valley,0-4,5-9,0-4,0-4
 0192-01-010,Dakota,Farmington Elementary,Farmington,10-19,0-4,0-4,0-4
-0192-01-020,Dakota,Farmington High School,Farmington,10-19,10-19,5-9,0-4
+0192-01-020,Dakota,Farmington High School,Farmington,10-19,10-19,10-19,0-4
 0197-01-052,Dakota,Friendly Hills Middle,Mendota Heights,0-4,5-9,0-4,0-4
 0191-01-482,Dakota,Gideon Pond Elementary,Burnsville,5-9,0-4,0-4,0-4
 0196-01-764,Dakota,Glacier Hills Elementary School of Arts and Science,Eagan,5-9,0-4,0-4,0-4
-0200-01-129,Dakota,Hastings High School,Hastings,10-19,10-19,0-4,0-4
-0200-01-130,Dakota,Hastings Middle School,Hastings,10-19,10-19,0-4,0-4
-0197-01-053,Dakota,Henry Sibley High School,West Saint Paul,10-19,5-9,0-4,0-4
+0200-01-129,Dakota,Hastings High School,Hastings,10-19,10-19,5-9,0-4
+0200-01-130,Dakota,Hastings Middle School,Hastings,10-19,10-19,5-9,0-4
+0197-01-053,Dakota,Henry Sibley High School,West Saint Paul,10-19,10-19,0-4,0-4
 0196-01-715,Dakota,Highland Elementary,Apple Valley,5-9,5-9,0-4,0-4
 0199-01-575,Dakota,Hilltop Elementary,Inver Grove Heights,5-9,0-4,0-4,0-4
 0194-01-592,Dakota,Huddleston Elementary,Lakeville,5-9,0-4,0-4,0-4
-0199-01-027,Dakota,Inver Grove Heights Middle,Inver Grove Heights,10-19,0-4,0-4,0-4
+0199-01-027,Dakota,Inver Grove Heights Middle,Inver Grove Heights,10-19,5-9,0-4,0-4
 0191-01-085,Dakota,Joseph Nicollet Middle School,Burnsville,5-9,0-4,0-4,0-4
-0006-03-737,Dakota,Kaposia Education Center Elementary,South Saint Paul,0-4,5-9,0-4,0-4
+0006-03-737,Dakota,Kaposia Education Center Elementary,South Saint Paul,0-4,5-9,5-9,0-4
 0200-01-609,Dakota,Kennedy Elementary,Hastings,10-19,0-4,0-4,0-4
 0194-01-591,Dakota,Kennedy Elementary,Lakeville,0-4,5-9,0-4,0-4
 0194-01-595,Dakota,Lake Marion Elementary,Lakeville,10-19,5-9,0-4,0-4
@@ -144,19 +148,20 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0194-01-040,Dakota,Lakeville South High,Lakeville,5-9,5-9,0-4,0-4
 0192-01-030,Dakota,Levi P. Dodge Middle School,Farmington,5-9,0-4,0-4,0-4
 0006-03-735,Dakota,Lincoln Center Elementary,South Saint Paul,5-9,5-9,0-4,0-4
-0194-01-089,Dakota,McGuire Middle,Lakeville,5-9,5-9,0-4,0-4
-0192-01-080,Dakota,Meadowview Elementary,Farmington,5-9,5-9,5-9,0-4
+0194-01-089,Dakota,McGuire Middle,Lakeville,5-9,5-9,5-9,0-4
+0192-01-080,Dakota,Meadowview Elementary,Farmington,5-9,5-9,10-19,0-4
 0197-01-816,Dakota,Mendota Elementary,Mendota Heights,0-4,5-9,0-4,0-4
 0192-01-040,Dakota,North Trail Elementary,Farmington,10-19,0-4,0-4,0-4
 0194-01-599,Dakota,Oak Hills Elementary,Lakeville,5-9,0-4,0-4,0-4
-0196-01-720,Dakota,Oak Ridge Elementary,Eagan,5-9,0-4,0-4,0-4
+0196-01-720,Dakota,Oak Ridge Elementary School,Eagan,5-9,0-4,0-4,0-4
 0194-01-593,Dakota,Orchard Lake Elementary,Lakeville,5-9,0-4,0-4,0-4
 0196-01-709,Dakota,Parkview Elementary,Rosemount,0-4,5-9,0-4,0-4
+0197-01-820,Dakota,Pilot Knob STEM Magnet School,Eagan,0-4,5-9,0-4,0-4
 0200-01-610,Dakota,Pinecrest Elementary,Hastings,10-19,0-4,0-4,0-4
 0196-01-718,Dakota,Pinewood El.,Eagan,5-9,5-9,0-4,0-4
 0191-01-488,Dakota,Rahn Elementary,Eagan,5-9,0-4,0-4,0-4
 0196-01-765,Dakota,Red Pine Elementary,Eagan,5-9,5-9,0-4,0-4
-0192-01-100,Dakota,Riverview Elementary,Farmington,10-19,5-9,0-4,0-4
+0192-01-100,Dakota,Riverview Elementary,Farmington,10-19,10-19,0-4,0-4
 0192-01-060,Dakota,Robert Boeckman Middle School,Farmington,10-19,0-4,0-4,0-4
 0196-01-705,Dakota,Rosemount Elementary,Rosemount,10-19,0-4,0-4,0-4
 0196-01-039,Dakota,Rosemount Middle,Rosemount,10-19,5-9,0-4,0-4
@@ -165,23 +170,24 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0196-01-093,Dakota,Scott Highlands Middle,Apple Valley,5-9,5-9,5-9,0-4
 0196-01-719,Dakota,Shannon Park Elementary,Rosemount,0-4,5-9,0-4,0-4
 0199-01-026,Dakota,Simley Senior High,Inver Grove Heights,10-19,10-19,0-4,0-4
-0006-03-120,Dakota,South St. Paul High School,South Saint Paul,5-9,10-19,0-4,0-4
+0006-03-120,Dakota,South St. Paul High School,South Saint Paul,5-9,10-19,5-9,0-4
 0006-03-110,Dakota,South St. Paul Middle School,South Saint Paul,5-9,0-4,0-4,0-4
 0196-01-708,Dakota,Southview Elementary,Apple Valley,5-9,0-4,0-4,0-4
 0197-31-009,Dakota,St. Joseph,West Saint Paul,30-39,0-4,0-4,0-4
 0197-31-007,Dakota,St. Thomas Academy,Mendota Heights,5-9,0-4,0-4,0-4
-0196-01-098,Dakota,Valley Middle,Apple Valley,5-9,10-19,0-4,0-4
+0196-01-098,Dakota,Valley Middle,Apple Valley,5-9,10-19,5-9,0-4
 0197-31-002,Dakota,Visitation School,Mendota Heights,0-4,5-9,0-4,0-4
+0196-01-707,Dakota,Westview Elementary,Apple Valley,0-4,5-9,0-4,0-4
 0191-01-487,Dakota,William Byrne Elementary,Burnsville,5-9,0-4,0-4,0-4
 0196-01-717,Dakota,Woodland Elementary,Eagan,10-19,5-9,0-4,0-4
 0203-01-003,Dodge,Hayfield Elementary,Hayfield,5-9,0-4,0-4,0-4
 0203-01-001,Dodge,HAYFIELD SECONDARY,Hayfield,10-19,0-4,0-4,0-4
 0204-01-010,Dodge,Kasson-Mantorville Elementary,Kasson,20-29,0-4,0-4,0-4
 0204-01-040,Dodge,Kasson-Mantorville Middle School,Kasson,20-29,0-4,0-4,0-4
-0204-01-030,Dodge,Kasson-Mantorville Senior High,Kasson,10-19,0-4,0-4,0-4
-0206-01-320,Douglas,Alexandria Area High School,Alexandria,10-19,0-4,0-4,0-4
-0206-01-310,Douglas,Discovery Middle School,Alexandria,10-19,5-9,0-4,0-4
-0206-01-130,Douglas,Lincoln Elementary,Alexandria,10-19,0-4,0-4,0-4
+0204-01-030,Dodge,Kasson-Mantorville Senior High,Kasson,10-19,5-9,0-4,0-4
+0206-01-320,Douglas,Alexandria Area High School,Alexandria,10-19,5-9,5-9,0-4
+0206-01-310,Douglas,Discovery Middle School,Alexandria,10-19,10-19,0-4,0-4
+0206-01-130,Douglas,Lincoln Elementary,Alexandria,10-19,5-9,0-4,0-4
 0206-31-082,Douglas,St. Mary's,Alexandria,5-9,0-4,0-4,0-4
 0206-01-160,Douglas,Voyager Elementary,Alexandria,10-19,0-4,0-4,0-4
 0206-01-150,Douglas,Woodland Elementary School,Alexandria,10-19,0-4,0-4,0-4
@@ -192,16 +198,19 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0241-01-310,Freeborn,Albert Lea Senior High,Albert Lea,0-4,10-19,0-4,0-4
 0241-01-120,Freeborn,Hawthorne Elementary,Albert Lea,5-9,5-9,0-4,0-4
 0241-01-130,Freeborn,Lakeview Elementary,Albert Lea,5-9,5-9,0-4,0-4
+0241-01-320,Freeborn,Southwest Middle,Albert Lea,0-4,5-9,0-4,0-4
 0256-01-537,Goodhue,Burnside Elementary,Red Wing,5-9,5-9,0-4,0-4
 0252-01-001,Goodhue,Cannon Falls Elementary,Cannon Falls,10-19,0-4,0-4,0-4
+0252-01-002,Goodhue,Cannon Falls Secondary,Cannon Falls,0-4,0-4,5-9,0-4
 0253-01-002,Goodhue,Goodhue Secondary,Goodhue,10-19,10-19,0-4,0-4
-0255-01-010,Goodhue,Pine Island Elementary,Pine Island,10-19,0-4,0-4,0-4
-0255-01-050,Goodhue,Pine Island High School ALP,PINE ISLAND,5-9,0-4,0-4,0-4
+0255-01-010,Goodhue,Pine Island Elementary,Pine Island,10-19,5-9,0-4,0-4
+0255-01-050,Goodhue,Pine Island High School ALP,PINE ISLAND,5-9,5-9,0-4,0-4
 0255-01-015,Goodhue,Pine Island Middle,Pine Island,10-19,0-4,0-4,0-4
-0256-01-108,Goodhue,Red Wing Senior High,Red Wing,10-19,5-9,0-4,0-4
+0256-01-108,Goodhue,Red Wing Senior High,Red Wing,10-19,10-19,5-9,0-4
 0256-01-541,Goodhue,Sunnyside Elementary,Red Wing,5-9,5-9,0-4,0-4
 0256-01-109,Goodhue,Twin Bluff School,Red Wing,10-19,5-9,0-4,0-4
 2805-01-002,Goodhue,Zumbrota-Mazeppa Senior High,Zumbrota,5-9,0-4,0-4,0-4
+0001-03-190,Hennepin,Andersen Community,Minneapolis,0-4,5-9,0-4,0-4
 0001-33-011,Hennepin,Annunciation,Minneapolis,5-9,0-4,0-4,0-4
 0279-31-007,Hennepin,Ave Maria Academy,Maple Grove,5-9,0-4,0-4,0-4
 0001-03-105,Hennepin,Bancroft Elementary,Minneapolis,5-9,0-4,0-4,0-4
@@ -218,13 +227,13 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0273-01-532,Hennepin,Creek Valley Elementary,Edina,0-4,0-4,5-9,0-4
 0011-01-424,Hennepin,Dayton Elementary,Dayton,5-9,0-4,0-4,0-4
 0276-01-602,Hennepin,Deephaven Elementary,Wayzata,10-19,0-4,0-4,0-4
-0001-33-009,Hennepin,DeLaSalle High School,Minneapolis,0-4,5-9,5-9,0-4
+0001-33-009,Hennepin,DeLaSalle High School,Minneapolis,0-4,5-9,10-19,0-4
 0272-01-886,Hennepin,Eagle Heights Spanish Immersion,Eden Prairie,0-4,5-9,0-4,0-4
 4122-07-010,Hennepin,Eagle Ridge Academy Charter School,Minnetonka,5-9,0-4,0-4,0-4
 4122-07-020,Hennepin,Eagle Ridge Academy Lower School,Minnetonka,10-19,0-4,0-4,0-4
 0286-01-480,Hennepin,Earle Brown Elementary,Brooklyn Center,0-4,5-9,0-4,0-4
-0272-01-064,Hennepin,Eden Prairie Senior High,Eden Prairie,5-9,5-9,0-4,0-4
-0273-01-021,Hennepin,Edina Senior High,Edina,5-9,20-29,40-49,0-4
+0272-01-064,Hennepin,Eden Prairie Senior High,Eden Prairie,10-19,10-19,5-9,0-4
+0273-01-021,Hennepin,Edina Senior High,Edina,5-9,20-29,50-59,0-4
 0279-01-668,Hennepin,Edinbrook Elementary,Brooklyn Park,5-9,0-4,0-4,0-4
 0001-03-352,Hennepin,Edison Senior High,Minneapolis,5-9,0-4,5-9,0-4
 0279-01-684,Hennepin,Elm Creek Elementary,Maple Grove,5-9,0-4,0-4,0-4
@@ -238,21 +247,23 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0277-01-063,Hennepin,Grandview Middle School,Mound,5-9,0-4,0-4,0-4
 0001-03-256,Hennepin,Green Central Park Elementary,Minneapolis,5-9,0-4,0-4,0-4
 0284-01-806,Hennepin,Greenwood Elementary,Plymouth,0-4,5-9,0-4,0-4
-0276-01-604,Hennepin,Groveland Elementary,Minnetonka,10-19,0-4,0-4,0-4
-0728-01-160,Hennepin,Hassan Elementary,Rogers,5-9,10-19,0-4,0-4
+0276-01-604,Hennepin,Groveland Elementary,Minnetonka,10-19,5-9,0-4,0-4
+0728-01-160,Hennepin,Hassan Elementary,Rogers,5-9,10-19,5-9,0-4
+4205-07-010,Hennepin,Hennepin Elementary School,Minneapolis,0-4,5-9,0-4,0-4
 0001-03-354,Hennepin,Henry Senior High,Minneapolis,0-4,0-4,5-9,0-4
 0279-31-066,Hennepin,Heritage Christian Academy,Maple Grove,5-9,0-4,0-4,0-4
 0273-01-529,Hennepin,Highlands Elementary,Edina,5-9,5-9,0-4,0-4
-0271-01-443,Hennepin,Hillcrest Elementary,Bloomington,5-9,0-4,0-4,0-4
+0271-01-443,Hennepin,Hillcrest Elementary,Bloomington,5-9,0-4,5-9,0-4
 0277-01-616,Hennepin,Hilltop Primary School,Minnetrista,5-9,0-4,0-4,0-4
 0270-01-282,Hennepin,Hopkins Senior High,Minnetonka,0-4,5-9,0-4,0-4
 4167-07-010,Hennepin,International Spanish Language Academy,Minnetonka,5-9,0-4,0-4,0-4
-0011-01-006,Hennepin,Jackson Middle,Champlin,10-19,0-4,0-4,0-4
+0011-01-006,Hennepin,Jackson Middle,Champlin,10-19,5-9,0-4,0-4
 0271-01-009,Hennepin,Jefferson Senior High,Bloomington,10-19,5-9,0-4,0-4
 0001-03-323,Hennepin,Justice Page Middle School,Minneapolis,0-4,5-9,0-4,0-4
-0271-01-007,Hennepin,Kennedy Senior High,Bloomington,0-4,5-9,0-4,0-4
+0271-01-007,Hennepin,Kennedy Senior High,Bloomington,0-4,10-19,0-4,0-4
 0284-01-812,Hennepin,Kimberly Lane Elementary,Plymouth,0-4,5-9,0-4,0-4
 0270-01-567,Hennepin,L.H. Tanglen Elementary,Minnetonka,10-19,0-4,0-4,0-4
+0001-03-104,Hennepin,Lake Harriet Lower Elementary,Minneapolis,5-9,0-4,0-4,0-4
 0001-03-121,Hennepin,Lake Harriet Upper School,Minneapolis,5-9,0-4,0-4,0-4
 0279-01-094,Hennepin,Maple Grove Middle School,Maple Grove,5-9,5-9,0-4,0-4
 0279-01-090,Hennepin,Maple Grove Senior High,Maple Grove,5-9,0-4,0-4,0-4
@@ -260,19 +271,22 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 4131-07-010,Hennepin,Metro Schools Charter,Minneapolis,0-4,0-4,5-9,0-4
 0001-33-059,Hennepin,Minnehaha Academy Mid & Lower Schools,Minneapolis,5-9,5-9,0-4,0-4
 0276-01-075,Hennepin,Minnetonka East Middle,Minnetonka,5-9,0-4,0-4,0-4
-0276-01-074,Hennepin,Minnetonka Senior High,Minnetonka,5-9,10-19,0-4,0-4
+0276-01-074,Hennepin,Minnetonka Senior High,Minnetonka,5-9,10-19,10-19,0-4
 0276-01-605,Hennepin,Minnewashta Elementary,Excelsior,10-19,5-9,0-4,0-4
+0277-01-062,Hennepin,Mound Westonka High School,Minnetrista,0-4,5-9,0-4,0-4
 0271-31-004,Hennepin,Nativity of Mary,Bloomington,5-9,0-4,0-4,0-4
-4143-07-010,Hennepin,New Millenium Academy Charter School,Brooklyn Center,0-4,10-19,0-4,0-4
+4143-07-010,Hennepin,New Millenium Academy Charter School,Brooklyn Center,0-4,20-29,0-4,0-4
 0273-01-533,Hennepin,Normandale Elementary,Edina,5-9,0-4,0-4,0-4
-0284-01-802,Hennepin,North Woods Elementary School,Plymouth,5-9,5-9,0-4,0-4
+0284-01-802,Hennepin,North Woods Elementary School,Plymouth,5-9,5-9,5-9,0-4
+0281-01-019,Hennepin,Northport Elementary,Brooklyn Center,0-4,5-9,0-4,0-4
 0271-01-448,Hennepin,Oak Grove Elementary,Bloomington,0-4,5-9,0-4,0-4
 0271-01-013,Hennepin,Oak Grove Middle,Bloomington,5-9,0-4,0-4,0-4
 0272-01-880,Hennepin,Oak Point Elementary,Eden Prairie,5-9,0-4,0-4,0-4
 0279-01-696,Hennepin,Oak View Elementary,Maple Grove,5-9,0-4,0-4,0-4
 0271-01-346,Hennepin,Olson Middle,Bloomington,5-9,5-9,0-4,0-4
-0279-01-034,Hennepin,Osseo Middle School,Osseo,5-9,0-4,0-4,0-4
-0279-01-032,Hennepin,Osseo Senior High,Osseo,10-19,0-4,0-4,0-4
+0278-01-662,Hennepin,Orono Intermediate Elementary,Long Lake,5-9,5-9,0-4,0-4
+0279-01-034,Hennepin,Osseo Middle School,Osseo,5-9,5-9,0-4,0-4
+0279-01-032,Hennepin,Osseo Senior High,Osseo,10-19,5-9,0-4,0-4
 0273-31-007,Hennepin,Our Lady of Grace,Edina,10-19,0-4,0-4,0-4
 0011-01-425,Hennepin,Oxbow Creek Elementary,Champlin,10-19,0-4,0-4,0-4
 0279-01-678,Hennepin,Palmer Lake Elementary,Brooklyn Park,0-4,5-9,0-4,0-4
@@ -282,47 +296,51 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0283-01-754,Hennepin,Peter Hobart Elementary,Saint Louis Park,5-9,0-4,0-4,0-4
 0001-03-155,Hennepin,Pillsbury Elementary,Minneapolis,10-19,0-4,0-4,0-4
 0284-01-810,Hennepin,Plymouth Creek Elementary,Plymouth,5-9,0-4,0-4,0-4
+0271-01-454,Hennepin,Poplar Bridge Elementary,Bloomington,0-4,5-9,0-4,0-4
 0284-31-010,Hennepin,Providence Academy,Plymouth,10-19,0-4,0-4,0-4
 0279-01-685,Hennepin,Rice Lake Elementary,Maple Grove,5-9,0-4,0-4,0-4
-0280-01-037,Hennepin,Richfield Middle,Richfield,5-9,0-4,0-4,0-4
-0280-01-035,Hennepin,Richfield Senior High,Richfield,0-4,5-9,0-4,0-4
+0280-01-037,Hennepin,Richfield Middle,Richfield,5-9,5-9,0-4,0-4
+0280-01-035,Hennepin,Richfield Senior High,Richfield,0-4,10-19,0-4,0-4
 0281-01-053,Hennepin,Robbinsdale Armstrong Senior High,Plymouth,5-9,10-19,5-9,0-4
 0281-01-043,Hennepin,Robbinsdale Middle,Robbinsdale,5-9,0-4,0-4,0-4
 0281-01-012,Hennepin,Robbinsdale Spanish Immersion El.,New Hope,5-9,0-4,0-4,0-4
 0883-01-002,Hennepin,Rockford Elementary Arts Magnet Sch,Rockford,5-9,0-4,0-4,0-4
 0728-01-070,Hennepin,Rogers Elementary,Rogers,20-29,5-9,0-4,0-4
-0728-01-340,Hennepin,Rogers Middle School,Rogers,5-9,5-9,0-4,0-4
-0728-01-510,Hennepin,Rogers Senior High,Rogers,10-19,5-9,5-9,0-4
+0728-01-340,Hennepin,Rogers Middle School,Rogers,5-9,5-9,5-9,0-4
+0728-01-510,Hennepin,Rogers Senior High,Rogers,10-19,5-9,10-19,0-4
 0279-01-669,Hennepin,Rush Creek Elementary,Maple Grove,5-9,5-9,0-4,0-4
-0276-01-606,Hennepin,Scenic Heights Elementary,Minnetonka,5-9,0-4,0-4,0-4
-0278-01-661,Hennepin,Schumann Elementary,Long Lake,10-19,0-4,0-4,0-4
+0276-01-606,Hennepin,Scenic Heights Elementary,Minnetonka,5-9,5-9,0-4,0-4
+0278-01-661,Hennepin,Schumann Elementary,Long Lake,10-19,5-9,0-4,0-4
 4159-07-010,Hennepin,Seven Hills Preparatory Academy,Bloomington,5-9,0-4,0-4,0-4
 0280-01-701,Hennepin,Sheridan Hills Elementary,Richfield,5-9,5-9,0-4,0-4
-0001-03-362,Hennepin,South Senior High,Minneapolis,5-9,0-4,0-4,0-4
+0001-03-362,Hennepin,South Senior High,Minneapolis,5-9,5-9,0-4,0-4
+0273-01-019,Hennepin,South View Middle,Edina,0-4,0-4,5-9,0-4
 0001-03-471,Hennepin,Southwest High School - SWS,Minneapolis,0-4,5-9,5-9,0-4
 0001-03-364,Hennepin,Southwest Senior High,Minneapolis,0-4,5-9,0-4,0-4
 0284-31-003,Hennepin,St. Bartholomew,Wayzata,10-19,0-4,0-4,0-4
 0279-31-003,Hennepin,St. John's Lutheran,Corcoran,0-4,5-9,0-4,0-4
-0283-01-042,Hennepin,St. Louis Park Middle School,Saint Louis Park,5-9,5-9,0-4,0-4
+0283-01-042,Hennepin,St. Louis Park Middle School,Saint Louis Park,5-9,5-9,5-9,0-4
 0283-01-040,Hennepin,St. Louis Park Senior High,Saint Louis Park,10-19,0-4,0-4,0-4
 0279-31-004,Hennepin,St. Vincent de Paul,Brooklyn Park,10-19,0-4,0-4,0-4
 4169-07-010,Hennepin,Stonebridge World School,Minneapolis,0-4,5-9,0-4,0-4
 0284-01-808,Hennepin,Sunset Hill Elementary,Plymouth,5-9,0-4,0-4,0-4
 0283-01-755,Hennepin,Susan Lindgren Elementary,Saint Louis Park,5-9,0-4,0-4,0-4
 0271-01-459,Hennepin,Valley View Elementary,Bloomington,5-9,0-4,0-4,0-4
-0271-01-345,Hennepin,Valley View Middle,Bloomington,5-9,0-4,0-4,0-4
+0271-01-345,Hennepin,Valley View Middle,Bloomington,5-9,5-9,0-4,0-4
 0273-01-020,Hennepin,Valley View Middle,Edina,5-9,0-4,0-4,0-4
 0001-03-165,Hennepin,Waite Park Elementary,Minneapolis,5-9,0-4,0-4,0-4
 0271-01-432,Hennepin,Washburn Elementary,Bloomington,5-9,0-4,0-4,0-4
 0001-03-368,Hennepin,Washburn Senior High,Minneapolis,5-9,10-19,10-19,0-4
-0284-01-053,Hennepin,Wayzata Central Middle,Plymouth,5-9,10-19,0-4,0-4
+0284-01-053,Hennepin,Wayzata Central Middle,Plymouth,5-9,10-19,5-9,0-4
 0284-01-052,Hennepin,Wayzata East Middle,Plymouth,0-4,5-9,0-4,0-4
 0284-01-050,Hennepin,Wayzata High,Plymouth,10-19,10-19,0-4,0-4
-0279-01-673,Hennepin,Weaver Lake,Maple Grove,5-9,5-9,0-4,0-4
+0284-01-051,Hennepin,Wayzata West Middle,Wayzata,0-4,5-9,0-4,0-4
+0279-01-673,Hennepin,Weaver Lake,Maple Grove,10-19,5-9,0-4,0-4
 0271-01-461,Hennepin,Westwood Elementary,Bloomington,5-9,0-4,0-4,0-4
 0282-01-040,Hennepin,Wilshire Park Elementary,Saint Anthony,5-9,0-4,0-4,0-4
 0279-01-665,Hennepin,Woodland Elementary,Brooklyn Park,5-9,0-4,0-4,0-4
 4140-07-010,Hennepin,Yinghua Academy,Minneapolis,5-9,0-4,0-4,0-4
+0281-01-030,Hennepin,Zachary Lane Elementary,Plymouth,5-9,0-4,0-4,0-4
 0279-01-681,Hennepin,Zanewood Community School,Brooklyn Park,5-9,0-4,0-4,0-4
 0299-01-032,Houston,Caledonia Senior High,Caledonia,5-9,0-4,0-4,0-4
 0294-01-010,Houston,Houston Elementary,Houston,0-4,0-4,5-9,0-4
@@ -335,6 +353,7 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0911-01-350,Isanti,Cambridge-Isanti High School,Cambridge,0-4,5-9,0-4,0-4
 0911-01-202,Isanti,Isanti Intermediate School,Isanti,10-19,0-4,0-4,0-4
 0318-01-360,Itasca,Grand Rapids Senior High,Grand Rapids,5-9,5-9,0-4,0-4
+0319-01-020,Itasca,Keewatin-Nashwauk Elementary School,Keewatin,0-4,5-9,0-4,0-4
 0318-01-155,Itasca,West Rapids Elementary,Grand Rapids,5-9,0-4,0-4,0-4
 0332-01-030,Kanabec,Mora Elementary School,Mora,20-29,5-9,0-4,0-4
 0332-01-040,Kanabec,Mora Secondary,Mora,5-9,5-9,0-4,0-4
@@ -342,19 +361,21 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0347-01-109,Kandiyohi,Kennedy Elementary,Willmar,0-4,5-9,0-4,0-4
 0347-01-110,Kandiyohi,Lakeland Elementary School,Willmar,5-9,0-4,0-4,0-4
 0347-01-301,Kandiyohi,Willmar Middle School,Willmar,5-9,5-9,0-4,0-4
-0347-01-300,Kandiyohi,Willmar Senior High,Willmar,0-4,10-19,0-4,0-4
+0347-01-300,Kandiyohi,Willmar Senior High,Willmar,0-4,10-19,5-9,0-4
 2171-01-015,Kittson,Kittson Central Elementary,Hallock,0-4,5-9,0-4,0-4
 0361-01-007,Koochiching,Falls Elementary,International Falls,5-9,5-9,0-4,0-4
 0361-01-001,Koochiching,Falls Secondary,International Falls,5-9,0-4,0-4,0-4
 0362-01-020,Koochiching,Littlefork-Big Falls Elementary,Littlefork,0-4,0-4,5-9,0-4
 2853-01-040,Lac qui Parle,Lac qui Parle Valley Secondary,Madison,10-19,0-4,0-4,0-4
 0378-01-010,Lac qui Parle,Stevens Elementary,Dawson,5-9,0-4,0-4,0-4
+0381-01-200,Lake,Two Harbors Secondary,Two Harbors,0-4,5-9,0-4,0-4
 0391-01-010,Le Sueur,Cleveland Elementary,Cleveland,5-9,5-9,0-4,0-4
 2397-01-020,Le Sueur,Le Sueur-Henderson High School,Le Sueur,10-19,0-4,0-4,0-4
 2905-01-030,Le Sueur,Montgomery Pre K-8,Montgomery,5-9,0-4,0-4,0-4
 2397-01-010,Le Sueur,Park Elementary,Le Sueur,5-9,0-4,0-4,0-4
 2905-01-020,Le Sueur,Tri-City United High School,Montgomery,5-9,5-9,0-4,0-4
 0413-01-001,Lyon,Marshall High School,Marshall,10-19,0-4,0-4,0-4
+0413-01-006,Lyon,Marshall Middle School,Marshall,0-4,0-4,5-9,0-4
 0432-01-020,Mahnomen,Mahnomen Secondary,Mahnomen,5-9,0-4,0-4,0-4
 2752-01-050,Martin,Fairmont Elementary School,Fairmont,0-4,5-9,0-4,0-4
 2752-01-060,Martin,Fairmont Jr./Sr. High School,Fairmont,5-9,0-4,0-4,0-4
@@ -370,13 +391,13 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0477-01-030,Mille Lacs,Princeton High School,Princeton,5-9,0-4,0-4,0-4
 0477-01-010,Mille Lacs,Princeton Intermediate School,Princeton,10-19,0-4,0-4,0-4
 0477-01-020,Mille Lacs,Princeton Middle School,Princeton,10-19,0-4,0-4,0-4
-0477-01-001,Mille Lacs,Princeton Primary School,Princeton,10-19,0-4,0-4,0-4
+0477-01-001,Mille Lacs,Princeton Primary School,Princeton,10-19,5-9,0-4,0-4
 0492-01-200,Mower,Austin Senior High,Austin,0-4,5-9,5-9,0-4
 0492-01-280,Mower,I.J. Holton Intermediate School,Austin,0-4,5-9,0-4,0-4
 2169-01-020,Murray,Murray County Central Secondary,Slayton,5-9,0-4,0-4,0-4
 0077-01-060,Nicollet,Bridges Community Elementary,North Mankato,5-9,0-4,0-4,0-4
 0077-01-190,Nicollet,Dakota Meadows Middle School,North Mankato,5-9,5-9,0-4,0-4
-0077-01-020,Nicollet,Hoover Elementary,North Mankato,5-9,5-9,0-4,0-4
+0077-01-020,Nicollet,Hoover Elementary,North Mankato,5-9,5-9,5-9,0-4
 0508-01-050,Nicollet,South Elementary School,Saint Peter,5-9,0-4,0-4,0-4
 0508-01-080,Nicollet,St. Peter Middle School,Saint Peter,0-4,5-9,0-4,0-4
 0535-01-110,Olmsted,Bamber Valley Elementary,Rochester,0-4,5-9,0-4,0-4
@@ -401,7 +422,7 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0535-01-315,Olmsted,Mayo Senior High,Rochester,10-19,5-9,0-4,0-4
 0535-01-125,Olmsted,Montessori at Franklin,Rochester,5-9,0-4,0-4,0-4
 0535-01-146,Olmsted,Pinewood Elementary,Rochester,5-9,0-4,0-4,0-4
-0535-31-170,Olmsted,Schaeffer Academy,Rochester,0-4,0-4,5-9,0-4
+0535-31-170,Olmsted,Schaeffer Academy,Rochester,0-4,0-4,10-19,0-4
 0535-31-164,Olmsted,St. Francis,Rochester,5-9,0-4,0-4,0-4
 0534-01-020,Olmsted,Stewartville Middle,Stewartville,0-4,5-9,0-4,0-4
 0535-01-330,Olmsted,Willow Creek Middle,Rochester,5-9,5-9,0-4,0-4
@@ -410,18 +431,21 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0564-01-060,Pennington,Franklin Middle,Thief River Falls,5-9,0-4,0-4,0-4
 0564-01-070,Pennington,Lincoln Senior High,Thief River Falls,5-9,0-4,0-4,0-4
 0578-01-010,Pine,Pine City Elementary,Pine City,5-9,0-4,0-4,0-4
+0578-01-020,Pine,Pine City Secondary,Pine City,0-4,5-9,0-4,0-4
 2689-01-008,Pipestone,Pipestone Senior High,Pipestone,0-4,0-4,5-9,0-4
 0595-01-120,Polk,New Heights Elementary,East Grand Forks,5-9,0-4,0-4,0-4
 0595-01-110,Polk,South Point Elementary,East Grand Forks,5-9,0-4,0-4,0-4
 2149-01-070,Pope,Minnewaska Area Elementary,Glenwood,5-9,5-9,0-4,0-4
 0625-01-410,Ramsey,Adams Magnet Elementary,Saint Paul,5-9,0-4,0-4,0-4
+0625-01-579,Ramsey,American Indian Magnet School,Saint Paul,0-4,5-9,0-4,0-4
+0625-01-422,Ramsey,Battle Creek Elementary School,Saint Paul,0-4,5-9,0-4,0-4
 0625-01-310,Ramsey,Battle Creek Middle,Saint Paul,0-4,5-9,0-4,0-4
 0621-01-025,Ramsey,Bel Air Elementary,New Brighton,0-4,5-9,0-4,0-4
 0625-01-449,Ramsey,Bruce F Vento Elementary,Saint Paul,5-9,0-4,0-4,0-4
 0625-01-494,Ramsey,Capitol Hill Magnet/Rondo,Saint Paul,10-19,5-9,0-4,0-4
-0624-01-057,Ramsey,Central Middle,White Bear Lake,10-19,0-4,0-4,0-4
+0624-01-057,Ramsey,Central Middle,White Bear Lake,10-19,5-9,0-4,0-4
 0623-01-722,Ramsey,Central Park Elementary,Roseville,5-9,0-4,0-4,0-4
-0625-01-210,Ramsey,Central Senior High,Saint Paul,10-19,5-9,5-9,0-4
+0625-01-210,Ramsey,Central Senior High,Saint Paul,10-19,5-9,5-9,5-9
 0621-01-070,Ramsey,Chippewa Middle School,North Oaks,0-4,5-9,0-4,0-4
 4015-07-013,Ramsey,Community of Peace Academy,Saint Paul,10-19,0-4,0-4,0-4
 4181-07-010,Ramsey,Community School of Excellence,St. Paul,0-4,10-19,0-4,0-4
@@ -429,6 +453,7 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0625-01-211,Ramsey,Creative Arts Secondary School,Saint Paul,0-4,5-9,0-4,0-4
 0625-31-835,Ramsey,Cretin-Derham Hall,Saint Paul,0-4,10-19,0-4,0-4
 0625-01-452,Ramsey,Eastern Heights Elementary,Saint Paul,0-4,5-9,0-4,0-4
+0623-01-723,Ramsey,Edgerton Elementary,Maplewood,0-4,5-9,0-4,0-4
 0625-01-435,Ramsey,EXPO for Excellence Elementary School,Saint Paul,10-19,0-4,0-4,0-4
 4186-07-010,Ramsey,Global Academy,New Brighton,5-9,10-19,0-4,0-4
 0625-01-528,Ramsey,Global Arts Plus Upper,Saint Paul,5-9,0-4,0-4,0-4
@@ -437,11 +462,12 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0625-01-215,Ramsey,Harding Senior High,Saint Paul,5-9,5-9,0-4,0-4
 0625-01-330,Ramsey,Highland Park Middle School,Saint Paul,5-9,0-4,0-4,0-4
 0625-01-220,Ramsey,Highland Park Senior High,Saint Paul,10-19,5-9,0-4,0-4
-0621-01-067,Ramsey,Highview Middle School,New Brighton,0-4,5-9,0-4,0-4
+0621-01-067,Ramsey,Highview Middle School,New Brighton,0-4,5-9,5-9,0-4
 0622-31-064,Ramsey,Hill-Murray,Maplewood,10-19,5-9,0-4,0-4
 4103-07-030,Ramsey,Hmong College Prep Academy,Saint Paul,5-9,5-9,0-4,0-4
 0625-31-845,Ramsey,Holy Spirit School,Saint Paul,5-9,0-4,0-4,0-4
-0625-01-225,Ramsey,Humboldt High School,Saint Paul,5-9,0-4,0-4,0-4
+4070-07-010,Ramsey,HOPE Community Academy,Saint Paul,0-4,0-4,5-9,0-4
+0625-01-225,Ramsey,Humboldt High School,Saint Paul,5-9,5-9,0-4,0-4
 0621-01-065,Ramsey,Irondale Senior High,New Brighton,5-9,0-4,0-4,0-4
 0621-01-026,Ramsey,Island Lake Elementary,Shoreview,5-9,5-9,0-4,0-4
 0625-01-500,Ramsey,Jackson Preparatory Elementary,Saint Paul,5-9,0-4,0-4,0-4
@@ -449,8 +475,9 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0624-01-831,Ramsey,Lakeaires Elementary,White Bear Lake,5-9,0-4,0-4,0-4
 4183-07-050,Ramsey,Lionsgate Academy - Shoreview,Shoreview,5-9,0-4,0-4,0-4
 0623-01-728,Ramsey,Little Canada Elementary,Little Canada,5-9,5-9,0-4,0-4
+0625-01-527,Ramsey,Mississippi Creative Arts Elementary,Saint Paul,0-4,5-9,0-4,0-4
 0621-01-064,Ramsey,Mounds View Senior High,Arden Hills,5-9,5-9,0-4,0-4
-0625-01-342,Ramsey,Murray Middle School,Saint Paul,0-4,0-4,5-9,0-4
+0625-01-342,Ramsey,Murray Middle School,Saint Paul,0-4,5-9,5-9,0-4
 0625-31-851,Ramsey,Nativity,Saint Paul,5-9,0-4,0-4,0-4
 0625-01-533,Ramsey,Nokomis Montessori North Campus,Saint Paul,5-9,0-4,0-4,0-4
 0623-31-010,Ramsey,North Heights Christian Academy,Roseville,5-9,5-9,0-4,0-4
@@ -460,14 +487,16 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0625-01-250,Ramsey,Open World Learning Secondary,Saint Paul,0-4,5-9,0-4,0-4
 0623-01-073,Ramsey,Parkview Center School,Roseville,10-19,0-4,0-4,0-4
 0625-01-541,Ramsey,Phalen Lake Hmong Studies Magnet,Saint Paul,0-4,5-9,0-4,0-4
-0623-01-069,Ramsey,Roseville Area Senior High,Roseville,10-19,5-9,5-9,0-4
+0623-01-069,Ramsey,Roseville Area Senior High,Roseville,10-19,5-9,10-19,0-4
 0622-31-069,Ramsey,St. Peter,North Saint Paul,5-9,0-4,0-4,0-4
 0624-01-059,Ramsey,Sunrise Park Middle,White Bear Lake,0-4,0-4,5-9,0-4
+0625-01-488,Ramsey,The Heights Community School,Saint Paul,0-4,5-9,0-4,0-4
 0621-01-035,Ramsey,Turtle Lake Elementary,Shoreview,10-19,5-9,0-4,0-4
-4152-07-010,Ramsey,Twin Cities German Immersion Charter School,Saint Paul,10-19,5-9,5-9,0-4
+4152-07-010,Ramsey,Twin Cities German Immersion Charter School,Saint Paul,10-19,5-9,5-9,5-9
 4088-07-010,Ramsey,Urban Academy Charter School,Saint Paul,0-4,5-9,0-4,0-4
 0625-01-252,Ramsey,Washington Tech Secondary Magnet,Saint Paul,5-9,10-19,5-9,0-4
-0624-01-055,Ramsey,White Bear North Campus Senior,White Bear Lake,5-9,5-9,0-4,0-4
+0622-01-036,Ramsey,Webster Elementary,North Saint Paul,0-4,5-9,0-4,0-4
+0624-01-055,Ramsey,White Bear North Campus Senior,White Bear Lake,5-9,10-19,0-4,0-4
 0624-01-095,Ramsey,White Bear South Campus Senior,White Bear Lake,0-4,5-9,0-4,0-4
 0623-01-731,Ramsey,Williams Elementary,Shoreview,5-9,0-4,0-4,0-4
 2897-01-003,Redwood,Redwood Valley Middle,Redwood Falls,5-9,0-4,0-4,0-4
@@ -480,11 +509,12 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0659-01-001,Rice,Northfield Senior High,Northfield,0-4,5-9,5-9,0-4
 0656-31-002,Rice,Shattuck-St. Mary's,Faribault,5-9,10-19,0-4,0-4
 2184-01-002,Rock,Luverne Elementary,Luverne,5-9,0-4,0-4,0-4
+0682-01-010,Roseau,Roseau Elementary,Roseau,0-4,5-9,0-4,0-4
 0682-01-020,Roseau,Roseau Secondary,Roseau,5-9,0-4,0-4,0-4
 0690-01-010,Roseau,Warroad Elementary,Warroad,5-9,0-4,0-4,0-4
 0704-01-002,Saint Louis,A.I. Jedlicka Middle School,Proctor,10-19,0-4,0-4,0-4
 0704-01-004,Saint Louis,Bay View Elementary,Duluth,20-29,5-9,0-4,0-4
-0709-01-220,Saint Louis,East High School,Duluth,10-19,5-9,0-4,0-4
+0709-01-220,Saint Louis,East High School,Duluth,10-19,10-19,5-9,0-4
 0700-01-010,Saint Louis,Hermantown Elementary,Hermantown,10-19,0-4,0-4,0-4
 0700-01-015,Saint Louis,Hermantown Middle,Hermantown,5-9,0-4,0-4,0-4
 0700-01-020,Saint Louis,Hermantown Senior High,Hermantown,5-9,0-4,0-4,0-4
@@ -501,11 +531,12 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0704-01-006,Saint Louis,Pike Lake Elementary,Duluth,5-9,0-4,0-4,0-4
 0704-01-001,Saint Louis,Proctor Senior High,Proctor,10-19,0-4,0-4,0-4
 4020-07-040,Saint Louis,Raleigh Primary/El Academy,Duluth,5-9,0-4,0-4,0-4
+2909-01-030,Saint Louis,Roosevelt Elementary,Virginia,5-9,0-4,0-4,0-4
 2142-01-040,Saint Louis,South Ridge Elementary,Culver,5-9,0-4,0-4,0-4
 2142-01-045,Saint Louis,South Ridge Secondary,Culver,5-9,5-9,0-4,0-4
 0709-31-003,Saint Louis,Stella Maris Academy-Holy Rosary Campus,Duluth,10-19,0-4,0-4,0-4
 0709-31-009,Saint Louis,Stella Maris Academy-St. John's Campus,Duluth,5-9,0-4,0-4,0-4
-2909-01-090,Saint Louis,Virginia Secondary,Virginia,5-9,0-4,0-4,0-4
+2909-01-090,Saint Louis,Virginia Secondary,Virginia,5-9,5-9,0-4,0-4
 4184-07-010,Scott,Aspen Academy,Savage,10-19,5-9,0-4,0-4
 0716-01-020,Scott,Belle Plaine Senior High,Belle Plaine,10-19,5-9,0-4,0-4
 0716-01-010,Scott,Chatfield Elementary,Belle Plaine,5-9,5-9,0-4,0-4
@@ -513,34 +544,36 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0721-01-521,Scott,Eagle View,Elko New Market,5-9,0-4,0-4,0-4
 0721-01-651,Scott,Falcon Ridge,New Prague,10-19,0-4,0-4,0-4
 0719-01-014,Scott,Glendale El.,Savage,5-9,0-4,0-4,0-4
-0719-01-020,Scott,Hidden Oaks Middle School,Prior Lake,10-19,0-4,0-4,0-4
+0719-01-020,Scott,Hidden Oaks Middle School,Prior Lake,10-19,10-19,0-4,0-4
 0720-01-866,Scott,Jackson Elementary,Shakopee,10-19,5-9,0-4,0-4
 0717-01-637,Scott,Jordan Elementary,Jordan,5-9,0-4,0-4,0-4
 0717-01-128,Scott,Jordan Middle,Jordan,0-4,5-9,0-4,0-4
 0719-01-009,Scott,La Ola Del Lago at Grainwood,Prior Lake,5-9,0-4,0-4,0-4
 0721-01-029,Scott,New Prague Senior High,New Prague,5-9,0-4,0-4,0-4
 0716-01-011,Scott,Oak Crest Elementary,Belle Plaine,10-19,10-19,0-4,0-4
-0719-01-030,Scott,Prior Lake High School,Savage,20-29,0-4,0-4,0-4
+0719-01-030,Scott,Prior Lake High School,Savage,20-29,5-9,0-4,0-4
 0721-01-345,Scott,Raven Stream Elementary,New Prague,0-4,5-9,0-4,0-4
-0719-01-018,Scott,Redtail Ridge Elementary School,Savage,10-19,0-4,0-4,0-4
+0719-01-018,Scott,Redtail Ridge Elementary School,Savage,10-19,5-9,0-4,0-4
 0720-31-001,Scott,Shakopee Area Catholic School,Shakopee,10-19,5-9,0-4,0-4
 0720-01-085,Scott,Shakopee East Middle School,Shakopee,5-9,0-4,0-4,0-4
-0720-01-083,Scott,Shakopee High School,Shakopee,10-19,5-9,0-4,0-4
+0720-01-083,Scott,Shakopee High School,Shakopee,10-19,10-19,5-9,0-4
 0720-01-084,Scott,Shakopee West Middle School,Shakopee,5-9,0-4,0-4,0-4
 0720-01-860,Scott,Sweeney Elementary,Shakopee,0-4,5-9,0-4,0-4
 0719-01-021,Scott,Twin Oaks Middle School,Prior Lake,5-9,0-4,0-4,0-4
+0726-01-010,Sherburne,Becker Intermediate Elementary,Becker,0-4,5-9,0-4,0-4
 0726-01-040,Sherburne,Becker Primary,Becker,5-9,5-9,0-4,0-4
 0726-01-020,Sherburne,Becker Senior High,Becker,0-4,5-9,0-4,0-4
 0727-01-020,Sherburne,Big Lake Senior High,Big Lake,5-9,0-4,0-4,0-4
-0728-01-500,Sherburne,Elk River Senior High,Elk River,5-9,10-19,5-9,0-4
+0728-01-500,Sherburne,Elk River Senior High,Elk River,5-9,10-19,10-19,0-4
 0728-01-310,Sherburne,Handke Center - Early Childhood Special Education,Elk River,5-9,0-4,0-4,0-4
 0727-01-010,Sherburne,Independence Elementary,Big Lake,5-9,0-4,0-4,0-4
 0727-01-040,Sherburne,Liberty Elementary,Big Lake,5-9,5-9,0-4,0-4
 0728-01-300,Sherburne,Lincoln Elementary,Elk River,5-9,0-4,0-4,0-4
-0728-01-700,Sherburne,Meadowvale Elementary,Elk River,5-9,5-9,0-4,0-4
+0728-01-700,Sherburne,Meadowvale Elementary,Elk River,5-9,5-9,5-9,0-4
 0728-01-110,Sherburne,Parker Elementary,Elk River,5-9,0-4,0-4,0-4
 0728-01-410,Sherburne,Salk Middle School,Elk River,5-9,10-19,0-4,0-4
 4160-07-010,Sherburne,Spectrum High School,Elk River,5-9,5-9,0-4,0-4
+0742-01-036,Sherburne,Talahi Community Elementary,Saint Cloud,0-4,5-9,0-4,0-4
 0728-01-170,Sherburne,Twin Lakes Elementary,Elk River,5-9,10-19,0-4,0-4
 0728-01-400,Sherburne,VandenBerge Middle School,Elk River,0-4,5-9,0-4,0-4
 0728-01-210,Sherburne,Westwood Elementary,Zimmerman,5-9,5-9,0-4,0-4
@@ -557,13 +590,13 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0742-01-025,Stearns,Kennedy Community School,Saint Joseph,10-19,5-9,0-4,0-4
 0742-01-031,Stearns,Madison Elementary,Saint Cloud,10-19,5-9,0-4,0-4
 0740-01-010,Stearns,Melrose Elementary,Melrose,5-9,0-4,0-4,0-4
-0742-01-052,Stearns,North Junior High,Saint Cloud,5-9,5-9,0-4,0-4
+0742-01-052,Stearns,North Junior High,Saint Cloud,5-9,5-9,5-9,0-4
 0742-01-051,Stearns,Oak Hill Community Elementary,Saint Cloud,5-9,0-4,0-4,0-4
 0748-01-050,Stearns,Sartell Middle,Sartell,5-9,0-4,0-4,0-4
 0748-01-020,Stearns,Sartell Senior High,Sartell,10-19,0-4,0-4,0-4
 0743-01-070,Stearns,Sauk Centre Middle,Sauk Centre,5-9,0-4,0-4,0-4
 0742-01-054,Stearns,South Junior High,Saint Cloud,10-19,5-9,0-4,0-4
-0742-01-059,Stearns,Technical Senior High,Saint Cloud,10-19,10-19,0-4,0-4
+0742-01-059,Stearns,Technical Senior High,Saint Cloud,10-19,10-19,5-9,0-4
 0742-01-040,Stearns,Westwood Elementary,Saint Cloud,10-19,5-9,0-4,0-4
 0761-01-902,Steele,McKinley Elementary,Owatonna,5-9,0-4,0-4,0-4
 2168-01-010,Steele,NRHEG Elementary,Ellendale,0-4,5-9,0-4,0-4
@@ -571,7 +604,7 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0761-01-150,Steele,Owatonna Senior High,Owatonna,10-19,10-19,5-9,0-4
 0761-01-904,Steele,Washington Elementary,Owatonna,5-9,0-4,0-4,0-4
 2769-01-030,Stevens,Morris Area Elementary,Morris,0-4,5-9,0-4,0-4
-2769-01-010,Stevens,Morris Area Secondary,Morris,5-9,0-4,0-4,0-4
+2769-01-010,Stevens,Morris Area Secondary,Morris,5-9,0-4,5-9,0-4
 0777-01-101,Swift,Benson Secondary,Benson,5-9,0-4,0-4,0-4
 0777-01-103,Swift,Northside Elementary,Benson,10-19,0-4,0-4,0-4
 0813-01-010,Wabasha,Bluff View Elementary,Lake City,5-9,0-4,0-4,0-4
@@ -580,6 +613,8 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0811-01-030,Wabasha,Wabasha-Kellogg Elementary,Wabasha,5-9,0-4,0-4,0-4
 0811-01-040,Wabasha,Wabasha-Kellogg Secondary,Wabasha,5-9,0-4,0-4,0-4
 2168-01-003,Waseca,NRHEG Secondary,New Richland,0-4,5-9,0-4,0-4
+0829-01-050,Waseca,Waseca Senior High,Waseca,10-19,0-4,0-4,0-4
+0834-01-785,Washington,Afton-Lakeland Elementary,Lakeland,0-4,5-9,0-4,0-4
 0834-01-786,Washington,Andersen Elementary,Bayport,5-9,0-4,0-4,0-4
 0833-01-030,Washington,Armstrong Elementary,Cottage Grove,5-9,0-4,0-4,0-4
 0622-01-028,Washington,Castle Elementary,Oakdale,0-4,5-9,0-4,0-4
@@ -615,32 +650,32 @@ MDE ID,County,Name,City,11/27/21,12/11/21,12/25/21,01/08/22
 0834-01-804,Washington,Rutherford Elementary,Stillwater,10-19,5-9,0-4,0-4
 0833-31-065,Washington,Saint Ambrose Woodbury Catholic Sch,Woodbury,0-4,5-9,0-4,0-4
 4120-07-020,Washington,St. Croix Preparatory Academy,Stillwater,5-9,5-9,0-4,0-4
-0834-01-047,Washington,Stillwater Area High School,Stillwater,30-39,10-19,5-9,0-4
+0834-01-047,Washington,Stillwater Area High School,Stillwater,30-39,10-19,10-19,0-4
 0834-01-049,Washington,Stillwater Middle School,Stillwater,10-19,0-4,0-4,0-4
 0834-01-793,Washington,Stonebridge Elementary,Stillwater,5-9,0-4,0-4,0-4
-0622-01-058,Washington,Tartan Senior High,Oakdale,10-19,5-9,0-4,0-4
+0622-01-058,Washington,Tartan Senior High,Oakdale,10-19,5-9,5-9,0-4
 0833-01-046,Washington,Woodbury Elementary,Woodbury,5-9,0-4,0-4,0-4
 0833-01-029,Washington,Woodbury High School,Woodbury,5-9,0-4,0-4,0-4
 4228-07-010,Washington,Woodbury Leadership Academy,Woodbury,5-9,5-9,0-4,0-4
 0833-01-028,Washington,Woodbury Middle School,Woodbury,10-19,0-4,0-4,0-4
 0840-01-111,Watonwan,St. James Middle/High School,Saint James,0-4,5-9,0-4,0-4
 0840-01-020,Watonwan,St. James Northside Elementary,Saint James,5-9,5-9,0-4,0-4
-0861-31-031,Winona,Cotter Schools (Jr/Sr),Winona,5-9,5-9,0-4,0-4
+0861-31-031,Winona,Cotter Schools (Jr/Sr),Winona,5-9,5-9,5-9,0-4
 0857-31-001,Winona,Immanuel Lutheran,Lewiston,5-9,0-4,0-4,0-4
 0857-01-010,Winona,Lewiston-Altura Elementary,Lewiston,0-4,5-9,0-4,0-4
 0861-01-012,Winona,Washington-Kosciusko Elementary,Winona,0-4,5-9,0-4,0-4
-0861-01-006,Winona,Winona Middle,Winona,5-9,5-9,5-9,0-4
+0861-01-006,Winona,Winona Middle,Winona,10-19,5-9,5-9,0-4
 0861-01-007,Winona,Winona Senior High,Winona,10-19,0-4,10-19,0-4
 0885-01-010,Wright,Albertville Primary,Albertville,5-9,5-9,0-4,0-4
 0876-01-001,Wright,Annandale Elementary School,Annandale,10-19,0-4,0-4,0-4
 0885-01-060,Wright,Big Woods Elementary,Saint Michael,5-9,0-4,0-4,0-4
-0877-01-030,Wright,Buffalo Community Middle,Buffalo,10-19,5-9,5-9,0-4
-0877-01-040,Wright,Buffalo Senior High,Buffalo,5-9,5-9,0-4,0-4
+0877-01-030,Wright,Buffalo Community Middle,Buffalo,10-19,5-9,10-19,0-4
+0877-01-040,Wright,Buffalo Senior High,Buffalo,5-9,10-19,5-9,0-4
 0466-01-004,Wright,Dassel-Cokato Middle,Cokato,5-9,0-4,0-4,0-4
 0466-01-002,Wright,Dassel-Cokato Senior High,Cokato,5-9,5-9,0-4,0-4
 0879-01-020,Wright,Delano High School,Delano,5-9,0-4,0-4,0-4
 0882-01-061,Wright,Eastview Education Center,Monticello,5-9,0-4,0-4,0-4
-0885-01-070,Wright,Fieldstone Elementary School,Saint Michael,5-9,0-4,0-4,0-4
+0885-01-070,Wright,Fieldstone Elementary School,Saint Michael,5-9,5-9,0-4,0-4
 0882-01-030,Wright,Monticello Middle,Monticello,10-19,0-4,0-4,0-4
 0882-01-020,Wright,Monticello Senior High,Monticello,10-19,5-9,0-4,0-4
 0728-01-800,Wright,Otsego Elementary,Otsego,0-4,5-9,5-9,0-4
